@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/july-20-1944-the-failed-nazi-assassination-plot-that-shaped-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-20T12:19:56.000Z</news:publication_date>
+      <news:title>July 20, 1944: The failed Nazi assassination plot that shaped Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-dead-multiple-injured-in-police-operations-across-germany</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-07-18T16:56:12.000Z</news:publication_date>
       <news:title>Germany and Romania deepen arms cooperation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-hits-russia-with-stronger-sanctions-on-oil</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-18T12:15:36.000Z</news:publication_date>
-      <news:title>EU hits Russia with stronger sanctions on oil </news:title>
     </news:news>
   </url>
 

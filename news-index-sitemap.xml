@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://www.newsworm.de/news/one-dead-multiple-injured-in-police-operations-across-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-20T09:39:05.000Z</news:publication_date>
+      <news:title>One dead, multiple injured in Police operations across Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-defeat-france-to-reach-womens-euro-2025-semis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-20T05:27:34.000Z</news:publication_date>
+      <news:title>Germany defeat France to reach Women?s Euro 2025 semis </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bavaria-tops-germanys-startup-investments-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T19:00:12.000Z</news:publication_date>
+      <news:title>Bavaria tops Germany?s startup investments in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/gdl-demands-deutsche-bahn-ceo-lutzs-ouster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T18:47:27.000Z</news:publication_date>
+      <news:title>GDL demands Deutsche Bahn CEO Lutz?s ouster </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/fireworks-mishap-at-dusseldorf-fair-leaves-19-injured</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T11:37:39.000Z</news:publication_date>
+      <news:title>Fireworks mishap at D?sseldorf fair leaves 19 injured </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/munichs-eisbach-wave-reopens-with-stricter-safety-rules</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T06:47:14.000Z</news:publication_date>
+      <news:title>Munich?s Eisbach wave reopens with stricter safety rules </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/whats-in-europes-2-trillion-euros-budget-for-2028-2034</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T05:55:23.000Z</news:publication_date>
+      <news:title>What?s in Europe?s ?2 trillion budget for 2028-2034? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/spain-defeat-switzerland-2-0-to-reach-womens-euro-2025-semis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-19T05:33:22.000Z</news:publication_date>
+      <news:title>Spain defeat Switzerland 2-0 to reach Women?s Euro 2025 semis </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-and-romania-deepen-arms-cooperation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-18T16:56:12.000Z</news:publication_date>
+      <news:title>Germany and Romania deepen arms cooperation </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-hits-russia-with-stronger-sanctions-on-oil</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-18T12:15:36.000Z</news:publication_date>
+      <news:title>EU hits Russia with stronger sanctions on oil </news:title>
+    </news:news>
+  </url>
+
+</urlset>

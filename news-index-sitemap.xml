@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ecb-to-hold-interest-rates-as-trump-tariff-uncertainty-lingers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21T05:36:17.000Z</news:publication_date>
+      <news:title>ECB to hold Interest rates as Trump tariff uncertainty lingers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/gen-z-employees-different-or-just-misunderstood</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-20T19:28:06.000Z</news:publication_date>
+      <news:title>Gen Z Employees: Different or just Misunderstood? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/planning-to-swim-in-germany-heres-what-to-watch-out-for</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-20T14:12:39.000Z</news:publication_date>
+      <news:title>Planning to swim in Germany? Here?s what to watch out for </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/july-20-1944-the-failed-nazi-assassination-plot-that-shaped-germany</loc>
     <news:news>
       <news:publication>
@@ -83,42 +119,6 @@
       </news:publication>
       <news:publication_date>2025-07-19T06:47:14.000Z</news:publication_date>
       <news:title>Munich?s Eisbach wave reopens with stricter safety rules </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/whats-in-europes-2-trillion-euros-budget-for-2028-2034</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-19T05:55:23.000Z</news:publication_date>
-      <news:title>What?s in Europe?s ?2 trillion budget for 2028-2034? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spain-defeat-switzerland-2-0-to-reach-womens-euro-2025-semis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-19T05:33:22.000Z</news:publication_date>
-      <news:title>Spain defeat Switzerland 2-0 to reach Women?s Euro 2025 semis </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-and-romania-deepen-arms-cooperation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-18T16:56:12.000Z</news:publication_date>
-      <news:title>Germany and Romania deepen arms cooperation </news:title>
     </news:news>
   </url>
 

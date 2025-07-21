@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/top-german-firms-unite-in-made-for-germany-initiative-to-boost-economy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21T06:34:39.000Z</news:publication_date>
+      <news:title>Top German firms unite in ?Made for Germany? initiative to boost economy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ecb-to-hold-interest-rates-as-trump-tariff-uncertainty-lingers</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-07-19T11:37:39.000Z</news:publication_date>
       <news:title>Fireworks mishap at D?sseldorf fair leaves 19 injured </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munichs-eisbach-wave-reopens-with-stricter-safety-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-19T06:47:14.000Z</news:publication_date>
-      <news:title>Munich?s Eisbach wave reopens with stricter safety rules </news:title>
     </news:news>
   </url>
 

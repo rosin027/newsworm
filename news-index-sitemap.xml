@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/air-transport-tax-cut-in-2026-what-german-travelers-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21T12:31:46.000Z</news:publication_date>
+      <news:title>Air Transport Tax Cut in 2026: What German travelers need to know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eus-combustion-engine-ban-meets-fierce-opposition-from-berlin</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-07-19T18:47:27.000Z</news:publication_date>
       <news:title>GDL demands Deutsche Bahn CEO Lutz?s ouster </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fireworks-mishap-at-dusseldorf-fair-leaves-19-injured</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-19T11:37:39.000Z</news:publication_date>
-      <news:title>Fireworks mishap at D?sseldorf fair leaves 19 injured </news:title>
     </news:news>
   </url>
 

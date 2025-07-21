@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/greens-push-minister-warken-to-accelerate-electronic-patient-records</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-21T09:18:02.000Z</news:publication_date>
+      <news:title>Greens push Minister Warken to accelerate electronic patient records   </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/top-german-firms-unite-in-made-for-germany-initiative-to-boost-economy</loc>
     <news:news>
       <news:publication>

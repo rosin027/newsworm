@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/intel-pulls-plug-on-magdeburg-chip-plant-due-to-financial-setbacks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-25T09:36:51.000Z</news:publication_date>
+      <news:title>Intel pulls plug on Magdeburg chip plant due to financial setbacks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-takes-eu1-3b-hit-from-trumps-tariffs</loc>
     <news:news>
       <news:publication>
@@ -179,30 +191,6 @@
       </news:publication>
       <news:publication_date>2025-07-23T11:11:27.000Z</news:publication_date>
       <news:title>Do you know which vegetable Germans eat the most? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/driving-licenses-could-soon-cost-less-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T10:05:17.000Z</news:publication_date>
-      <news:title>Driving licenses could soon cost less in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/can-germany-hit-its-2040-and-2045-climate-goals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T07:55:55.000Z</news:publication_date>
-      <news:title>Can Germany hit its 2040 and 2045 climate goals?  </news:title>
     </news:news>
   </url>
 

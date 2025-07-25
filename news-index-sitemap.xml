@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-takes-eu1-3b-hit-from-trumps-tariffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-25T07:36:15.000Z</news:publication_date>
+      <news:title>Volkswagen takes ?1.3B hit from Trump?s tariffs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/military-screening-to-become-compulsory-for-young-men-in-germany</loc>
     <news:news>
       <news:publication>

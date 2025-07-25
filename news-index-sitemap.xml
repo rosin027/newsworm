@@ -194,16 +194,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-delivery-of-40-eurofighter-jets-to-turkey</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T06:57:46.000Z</news:publication_date>
-      <news:title>Germany approves delivery of 40 Eurofighter Jets to Turkey </news:title>
-    </news:news>
-  </url>
-
 </urlset>

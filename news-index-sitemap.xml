@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-politician-resigns-over-nazi-symbol-on-ballot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-26T07:52:41.000Z</news:publication_date>
+      <news:title>SPD politician resigns over Nazi symbol on ballot </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-leyen-meet-in-scotland-to-resolve-trade-dispute</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-24T08:32:26.000Z</news:publication_date>
       <news:title>Modi visits UK to seal trade deal with Starmer </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-drops-but-why-are-germans-still-hesitant-to-spend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T07:27:24.000Z</news:publication_date>
-      <news:title>Inflation drops, but why are Germans still hesitant to spend? </news:title>
     </news:news>
   </url>
 

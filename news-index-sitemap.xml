@@ -122,40 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/millions-lost-to-scams-in-germany-how-to-protect-yourself</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T11:40:09.000Z</news:publication_date>
-      <news:title>Millions lost to scams in Germany ? Know how to protect yourself </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bank-reports-strongest-q2-in-17-years-shares-jump-6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T09:39:25.000Z</news:publication_date>
-      <news:title>Deutsche Bank reports strongest Q2 in 17 Years, shares jump 6% </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/modi-visits-uk-to-seal-trade-deal-with-starmer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T08:32:26.000Z</news:publication_date>
-      <news:title>Modi visits UK to seal trade deal with Starmer </news:title>
-    </news:news>
-  </url>
-
 </urlset>

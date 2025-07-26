@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/trump-leyen-to-meet-in-scotland-to-resolve-transatlantic-trade-dispute</loc>
+    <loc>https://www.newsworm.de/news/trump-leyen-to-meet-in-scotland-to-resolve-trade-dispute</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-07-26T06:35:30.000Z</news:publication_date>
-      <news:title>Trump, Leyen to meet in Scotland to resolve transatlantic trade dispute </news:title>
+      <news:title>Trump and Leyen to meet in Scotland to resolve trade dispute </news:title>
     </news:news>
   </url>
 

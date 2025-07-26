@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/csd-berlin-2025-police-prepare-for-right-wing-extremist-threats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-26T05:39:28.000Z</news:publication_date>
+      <news:title>CSD Berlin 2025: Police prepare for right-wing extremist threats </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/birthday-customs-in-germany-what-newcomers-need-to-know</loc>
     <news:news>
       <news:publication>
@@ -143,66 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-24T06:34:34.000Z</news:publication_date>
       <news:title>EU-China Relations at Crossroads: Trust, Trade, and Ukraine in Focus </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spain-beat-germany-1-0-to-set-up-euro-2025-final-with-england</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T05:20:28.000Z</news:publication_date>
-      <news:title>Spain beat Germany 1-0 to set up Euro 2025 final with England </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-widespread-use-of-tasers-by-federal-police</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T14:58:58.000Z</news:publication_date>
-      <news:title>Germany approves widespread use of Tasers by Federal police </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-tighten-criminal-laws-against-terrorism-and-espionage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T13:53:18.000Z</news:publication_date>
-      <news:title> Germany to tighten criminal laws against terrorism and espionage </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/master-perfumer-marc-vom-ende-at-the-symrise-company</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T13:27:10.000Z</news:publication_date>
-      <news:title>Who makes your laundry smell good? Meet Germany?s professional Noses </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/do-you-know-which-vegetable-germans-eat-the-most</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-23T11:11:27.000Z</news:publication_date>
-      <news:title>Do you know which vegetable Germans eat the most? </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/health-minister-nina-warken-urges-action-on-soaring-nursing-home-fees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-26T14:56:36.000Z</news:publication_date>
+      <news:title>Health Minister Nina Warken urges action on soaring nursing home fees </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/august-2025-in-germany-important-changes-you-need-to-know</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-07-25T05:25:00.000Z</news:publication_date>
       <news:title>Macron says France will recognise state of Palestine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-aims-to-reform-citizens-benefit-burgergeld-by-this-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T13:50:12.000Z</news:publication_date>
-      <news:title>CDU aims to reform Citizen?s Benefit (B?rgergeld) by this year </news:title>
     </news:news>
   </url>
 

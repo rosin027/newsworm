@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-leyen-to-meet-in-scotland-to-resolve-transatlantic-trade-dispute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-26T06:35:30.000Z</news:publication_date>
+      <news:title>Trump, Leyen to meet in Scotland to resolve transatlantic trade dispute </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/csd-berlin-2025-police-prepare-for-right-wing-extremist-threats</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-24T07:27:24.000Z</news:publication_date>
       <news:title>Inflation drops, but why are Germans still hesitant to spend? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-china-relations-at-crossroads-trust-trade-and-ukraine-in-focus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-24T06:34:34.000Z</news:publication_date>
-      <news:title>EU-China Relations at Crossroads: Trust, Trade, and Ukraine in Focus </news:title>
     </news:news>
   </url>
 

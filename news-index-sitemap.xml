@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-france-great-britain-coordinate-middle-east-strategy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-27T06:27:11.000Z</news:publication_date>
+      <news:title>Germany. France, Great Britain coordinate middle east strategy  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/health-minister-nina-warken-urges-action-on-soaring-nursing-home-fees</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-07-25T06:34:27.000Z</news:publication_date>
       <news:title>Military screening to become compulsory for young men in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/walk-your-way-to-better-health-the-power-of-7-000-steps-a-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-25T06:16:54.000Z</news:publication_date>
-      <news:title>Walk your way to better Health: The power of 7,000 steps a day </news:title>
     </news:news>
   </url>
 

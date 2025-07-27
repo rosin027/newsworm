@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tiktok-faces-worker-backlash-in-berlin-over-ai-job-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-27T12:03:27.000Z</news:publication_date>
+      <news:title>TikTok faces worker backlash in Berlin over AI job cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/digital-travel-germanys-growing-trust-in-ai-for-holiday-planning</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-07-26T05:39:28.000Z</news:publication_date>
       <news:title>CSD Berlin 2025: Police prepare for right-wing extremist threats </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/birthday-customs-in-germany-what-newcomers-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-25T11:03:38.000Z</news:publication_date>
-      <news:title>Birthday Customs in Germany: What Newcomers Need to Know </news:title>
     </news:news>
   </url>
 

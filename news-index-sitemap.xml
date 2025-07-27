@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/feierabend-why-germans-take-after-work-seriously-and-you-should-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-27T07:37:01.000Z</news:publication_date>
+      <news:title>Feierabend: Why Germans take ?after work? seriously (and you should too) </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-france-great-britain-coordinate-middle-east-strategy</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2025-07-25T11:03:38.000Z</news:publication_date>
       <news:title>Birthday Customs in Germany: What Newcomers Need to Know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/intel-pulls-plug-on-magdeburg-chip-plant-due-to-financial-setbacks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-25T09:36:51.000Z</news:publication_date>
-      <news:title>Intel pulls plug on Magdeburg chip plant due to financial setbacks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-takes-eu1-3b-hit-from-trumps-tariffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-25T07:36:15.000Z</news:publication_date>
-      <news:title>Volkswagen takes ?1.3B hit from Trump?s tariffs </news:title>
     </news:news>
   </url>
 

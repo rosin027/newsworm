@@ -10,7 +10,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-07-27T06:27:11.000Z</news:publication_date>
-      <news:title>Germany. France, Great Britain coordinate middle east strategy  </news:title>
+      <news:title>Germany, France, Great Britain coordinate middle east strategy  </news:title>
     </news:news>
   </url>
 
@@ -107,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-07-25T07:36:15.000Z</news:publication_date>
       <news:title>Volkswagen takes ?1.3B hit from Trump?s tariffs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/military-screening-to-become-compulsory-for-young-men-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-25T06:34:27.000Z</news:publication_date>
-      <news:title>Military screening to become compulsory for young men in Germany </news:title>
     </news:news>
   </url>
 

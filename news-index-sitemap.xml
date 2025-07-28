@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/csd-berlin-2025-police-prepare-for-right-wing-extremist-threats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-26T05:39:28.000Z</news:publication_date>
-      <news:title>CSD Berlin 2025: Police prepare for right-wing extremist threats </news:title>
-    </news:news>
-  </url>
-
 </urlset>

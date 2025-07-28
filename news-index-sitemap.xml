@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/england-triumph-over-spain-in-penalty-shootout-to-win-womens-euro-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-28T06:47:08.000Z</news:publication_date>
+      <news:title>England triumph over Spain in penalty shootout to win Women&apos;s Euro 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-us-trade-deal-agreed-key-facts-and-insights</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-07-26T07:52:41.000Z</news:publication_date>
       <news:title>SPD politician resigns over Nazi symbol on ballot </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-leyen-meet-in-scotland-to-resolve-trade-dispute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-26T06:35:30.000Z</news:publication_date>
-      <news:title>Trump and Leyen meet in Scotland to resolve trade dispute </news:title>
     </news:news>
   </url>
 

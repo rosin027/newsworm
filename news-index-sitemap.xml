@@ -158,16 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/health-minister-nina-warken-urges-action-on-soaring-nursing-home-fees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-26T14:56:36.000Z</news:publication_date>
-      <news:title>Health Minister Nina Warken urges action on soaring nursing home fees </news:title>
-    </news:news>
-  </url>
-
 </urlset>

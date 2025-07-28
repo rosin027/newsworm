@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/greens-and-left-party-oppose-cdu-ministers-push-to-raise-retirement-age</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-28T10:29:10.000Z</news:publication_date>
+      <news:title>Greens and Left Party oppose CDU minister?s push to raise retirement age  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/england-triumph-over-spain-in-penalty-shootout-to-win-womens-euro-2025</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-07-26T12:04:21.000Z</news:publication_date>
       <news:title>August 2025 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-politician-resigns-over-nazi-symbol-on-ballot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-26T07:52:41.000Z</news:publication_date>
-      <news:title>SPD politician resigns over Nazi symbol on ballot </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/non-alcoholic-beers-explosive-growth-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-29T08:07:51.000Z</news:publication_date>
+      <news:title>Non-Alcoholic Beer?s explosive growth in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mass-shooting-in-manhattan-4-killed-including-police-officer</loc>
     <news:news>
       <news:publication>
@@ -167,30 +179,6 @@
       </news:publication>
       <news:publication_date>2025-07-27T08:11:40.000Z</news:publication_date>
       <news:title>Digital Travel: Germany?s growing trust in AI for holiday planning </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/feierabend-why-germans-take-after-work-seriously-and-you-should-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-27T07:37:01.000Z</news:publication_date>
-      <news:title>Feierabend: Why Germans take ?after work? seriously (and you should too) </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-france-great-britain-coordinate-middle-east-strategy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-27T06:27:11.000Z</news:publication_date>
-      <news:title>Germany, France, Great Britain coordinate middle east strategy  </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-military-helicopter-crashes-into-river</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-29T14:22:49.000Z</news:publication_date>
+      <news:title>German military helicopter crashes into river </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/why-now-is-the-best-time-for-a-nursing-career-in-germany</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-07-27T14:42:42.000Z</news:publication_date>
       <news:title>EV Charging Without a Contract? You could be overpaying </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tiktok-faces-worker-backlash-in-berlin-over-ai-job-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-27T12:03:27.000Z</news:publication_date>
-      <news:title>TikTok faces worker backlash in Berlin over AI job cuts </news:title>
     </news:news>
   </url>
 

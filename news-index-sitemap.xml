@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-economy-contracts-0-1-in-q2-due-to-tariffs-and-low-investment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T12:21:43.000Z</news:publication_date>
+      <news:title>German economy contracts 0.1% in Q2 due to tariffs and low Investment </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rescue-underway-for-german-biathlon-champion-injured-in-pakistan-mountain</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-28T13:38:27.000Z</news:publication_date>
       <news:title>Germany pledges ?450 million for judicial staffing and digital upgrades </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/audi-profits-drop-37-5-percent-due-to-us-tariffs-and-restructuring-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T12:01:58.000Z</news:publication_date>
-      <news:title>Audi profits drop 37.5% due to US tariffs and restructuring costs </news:title>
     </news:news>
   </url>
 

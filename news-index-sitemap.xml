@@ -10,7 +10,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-07-29T14:22:49.000Z</news:publication_date>
-      <news:title>German military helicopter crashes into river </news:title>
+      <news:title>German military helicopter crashes into river: 2 dead, 1 still missing </news:title>
     </news:news>
   </url>
 
@@ -143,42 +143,6 @@
       </news:publication>
       <news:publication_date>2025-07-28T05:31:38.000Z</news:publication_date>
       <news:title>EU-US Trade Deal Agreed: Key facts and insights </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/three-dead-several-injured-after-train-derails-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T04:48:34.000Z</news:publication_date>
-      <news:title>Three dead, several injured after train derails in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/meta-to-ban-political-ads-in-eu-citing-unworkable-transparency-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-27T18:32:01.000Z</news:publication_date>
-      <news:title>Meta to ban political ads in EU citing &apos;unworkable&apos; transparency rules </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ev-charging-without-a-contract-you-could-be-overpaying</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-27T14:42:42.000Z</news:publication_date>
-      <news:title>EV Charging Without a Contract? You could be overpaying </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/massive-8-8-quake-near-russia-triggers-pacific-tsunami</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T06:14:09.000Z</news:publication_date>
+      <news:title>Massive 8.8 quake near Russia triggers Pacific tsunami </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-military-helicopter-crashes-into-river</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-07-28T06:47:08.000Z</news:publication_date>
       <news:title>England triumph over Spain in penalty shootout to win Women&apos;s Euro 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-us-trade-deal-agreed-key-facts-and-insights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T05:31:38.000Z</news:publication_date>
-      <news:title>EU-US Trade Deal Agreed: Key facts and insights </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rescue-underway-for-german-biathlete-champion-injured-in-pakistan-mountain</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T10:51:16.000Z</news:publication_date>
+      <news:title>Rescue underway for German biathlete champion injured in Pakistan mountain </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ceo-salaries-hit-record-highs-in-germany-despite-economic-pressure</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-28T12:01:58.000Z</news:publication_date>
       <news:title>Audi profits drop 37.5% due to US tariffs and restructuring costs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greens-and-left-party-oppose-cdu-ministers-push-to-raise-retirement-age</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T10:29:10.000Z</news:publication_date>
-      <news:title>Greens and Left Party oppose CDU minister?s push to raise retirement age  </news:title>
     </news:news>
   </url>
 

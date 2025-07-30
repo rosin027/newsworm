@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-your-mobile-data-plan-really-worth-the-cost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-30T07:59:38.000Z</news:publication_date>
+      <news:title>Is your Mobile data plan really worth the cost? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/massive-8-8-quake-near-russia-triggers-pacific-tsunami</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-07-28T10:29:10.000Z</news:publication_date>
       <news:title>Greens and Left Party oppose CDU minister?s push to raise retirement age  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/england-triumph-over-spain-in-penalty-shootout-to-win-womens-euro-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T06:47:08.000Z</news:publication_date>
-      <news:title>England triumph over Spain in penalty shootout to win Women&apos;s Euro 2025 </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/federal-cabinet-approves-2026-budget-with-record-spending-and-soaring-debt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-31T05:37:55.000Z</news:publication_date>
+      <news:title>Federal Cabinet approves 2026 budget with record spending and soaring debt </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-to-launch-biometric-entry-exit-system-to-tighten-border-security</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2025-07-29T06:07:21.000Z</news:publication_date>
       <news:title>Mass Shooting in Manhattan: 4 Killed, including Police officer </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-warns-us-eu-tariffs-will-hurt-german-economy-and-trade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T18:56:35.000Z</news:publication_date>
-      <news:title>Merz warns US-EU tariffs will hurt German economy and trade </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-announces-airlift-of-aid-supplies-for-gaza-strip-with-jordan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-28T18:22:47.000Z</news:publication_date>
-      <news:title>Merz announces airlift of aid supplies for Gaza Strip with Jordan </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/chinas-jd-com-to-acquire-german-electronics-giant-mediamarkt-saturn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-31T08:18:46.000Z</news:publication_date>
+      <news:title>China&apos;s JD.com to acquire German electronics giant MediaMarkt &amp; Saturn </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/budget-2026-loans-for-health-and-long-term-care-insurance-faces-criticism</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-07-29T09:43:59.000Z</news:publication_date>
       <news:title>Why now is the best time for a Nursing career in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/non-alcoholic-beers-explosive-growth-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-29T08:07:51.000Z</news:publication_date>
-      <news:title>Non-Alcoholic Beer?s explosive growth in Germany </news:title>
     </news:news>
   </url>
 

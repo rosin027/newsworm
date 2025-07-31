@@ -63,6 +63,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/why-the-first-years-decide-your-childs-future-learning-path</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-31T07:09:22.000Z</news:publication_date>
+      <news:title>Why the first years decide your child?s future learning path </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/federal-cabinet-approves-2026-budget-with-record-spending-and-soaring-debt</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-30T06:14:09.000Z</news:publication_date>
       <news:title>Massive 8.8 quake near Russia triggers Pacific tsunami </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-military-helicopter-crashes-into-river</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-29T14:22:49.000Z</news:publication_date>
-      <news:title>German military helicopter crashes into river: 2 dead, 1 still missing </news:title>
     </news:news>
   </url>
 

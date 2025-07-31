@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/why-germanys-training-market-is-facing-a-tough-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-31T12:58:17.000Z</news:publication_date>
+      <news:title>Why Germany?s training market is facing a tough year </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/funding-shortfall-threatens-future-of-deutschland-ticket</loc>
     <news:news>
       <news:publication>

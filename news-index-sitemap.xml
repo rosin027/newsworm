@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/unemployment-climbs-to-2-98m-in-germany-job-vacancies-drop-sharply</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-01T07:08:09.000Z</news:publication_date>
+      <news:title>Unemployment climbs to 2.98M in Germany, job vacancies drop sharply </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-hamburg-train-line-closed-for-renovation</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-07-30T07:59:38.000Z</news:publication_date>
       <news:title>Is your Mobile data plan really worth the cost? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/massive-8-8-quake-near-russia-triggers-pacific-tsunami</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T06:14:09.000Z</news:publication_date>
-      <news:title>Massive 8.8 quake near Russia triggers Pacific tsunami </news:title>
     </news:news>
   </url>
 

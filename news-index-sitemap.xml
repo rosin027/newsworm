@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germanys-tougher-border-rules-result-in-over-9-500-rejections-since-may</loc>
+    <loc>https://www.newsworm.de/news/germanys-tougher-border-rules-result-in-over-9500-rejections-since-may</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>

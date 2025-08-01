@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-tougher-border-rules-result-in-over-9-500-rejections-since-may</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-01T12:07:55.000Z</news:publication_date>
+      <news:title>Germany?s tougher border rules result in over 9,500 rejections since May </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundeswehr-begins-airdropping-relief-supplies-over-gaza-strip</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-07-30T12:21:43.000Z</news:publication_date>
       <news:title>German economy contracts 0.1% in Q2 due to tariffs and low Investment </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rescue-underway-for-german-biathlon-champion-injured-in-pakistan-mountain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T10:51:16.000Z</news:publication_date>
-      <news:title>German Olympic champion Laura Dahlmeier dies in mountain accident </news:title>
     </news:news>
   </url>
 

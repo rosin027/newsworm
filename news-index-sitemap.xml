@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-begins-airdropping-relief-supplies-over-gaza-strip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-01T10:43:04.000Z</news:publication_date>
+      <news:title>Bundeswehr begins airdropping relief supplies over Gaza Strip </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/student-funding-in-germany-how-bafog-can-support-your-studies</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-07-30T10:51:16.000Z</news:publication_date>
       <news:title>German Olympic champion Laura Dahlmeier dies in mountain accident </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ceo-salaries-hit-record-highs-in-germany-despite-economic-pressure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T09:35:15.000Z</news:publication_date>
-      <news:title> CEO salaries hit record highs in Germany despite economic pressure </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/student-funding-in-germany-how-bafog-can-support-your-studies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-01T09:03:37.000Z</news:publication_date>
+      <news:title>Student Funding in Germany: How BAf?G can support your studies </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unemployment-climbs-to-2-98m-in-germany-job-vacancies-drop-sharply</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-07-30T09:35:15.000Z</news:publication_date>
       <news:title> CEO salaries hit record highs in Germany despite economic pressure </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/is-your-mobile-data-plan-really-worth-the-cost</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T07:59:38.000Z</news:publication_date>
-      <news:title>Is your Mobile data plan really worth the cost? </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/labor-minister-bas-rejects-reiches-proposal-to-raise-retirement-age</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-02T08:12:43.000Z</news:publication_date>
+      <news:title> Labor Minister Bas rejects Reiche?s proposal to raise retirement age </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-h1-2025-loss-narrows-but-punctuality-remains-poor</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-31T08:18:46.000Z</news:publication_date>
       <news:title>China&apos;s JD.com to acquire German electronics giant MediaMarkt &amp; Saturn </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/budget-2026-loans-for-health-and-long-term-care-insurance-faces-criticism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-31T07:21:33.000Z</news:publication_date>
-      <news:title>Budget 2026: Loans for health and long-term care insurance faces criticism </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/why-the-first-years-decide-your-childs-future-learning-path</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-31T07:09:22.000Z</news:publication_date>
-      <news:title>Why the first years decide your child?s future learning path </news:title>
     </news:news>
   </url>
 

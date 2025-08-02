@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/christopher-street-day-in-hamburg-to-attract-250-000-participants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-02T05:52:03.000Z</news:publication_date>
+      <news:title>Christopher Street Day in Hamburg to attract 250,000 participants </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-tougher-border-rules-result-in-over-9500-rejections-since-may</loc>
     <news:news>
       <news:publication>
@@ -143,42 +155,6 @@
       </news:publication>
       <news:publication_date>2025-07-31T07:09:22.000Z</news:publication_date>
       <news:title>Why the first years decide your child?s future learning path </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/federal-cabinet-approves-2026-budget-with-record-spending-and-soaring-debt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-31T05:37:55.000Z</news:publication_date>
-      <news:title>Federal Cabinet approves 2026 budget with record spending and soaring debt </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-to-launch-biometric-entry-exit-system-to-tighten-border-security</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T14:55:43.000Z</news:publication_date>
-      <news:title>EU to launch biometric entry-exit system to tighten border security </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-contracts-0-1-in-q2-due-to-tariffs-and-low-investment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-07-30T12:21:43.000Z</news:publication_date>
-      <news:title>German economy contracts 0.1% in Q2 due to tariffs and low Investment </news:title>
     </news:news>
   </url>
 

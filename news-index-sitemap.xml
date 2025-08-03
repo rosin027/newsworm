@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-retailers-push-for-tariffs-on-cheap-chinese-platforms-temu-and-shein</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-03T10:15:58.000Z</news:publication_date>
+      <news:title>German retailers push for tariffs on cheap chinese platforms Temu and Shein </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/justice-minister-hubig-cautious-over-using-u-s-crime-analysis-tool-palantir</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-01T10:43:04.000Z</news:publication_date>
       <news:title>Bundeswehr begins airdropping relief supplies over Gaza Strip </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/student-funding-in-germany-how-bafog-can-support-your-studies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-01T09:03:37.000Z</news:publication_date>
-      <news:title>Student Funding in Germany: How BAf?G can support your studies </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unemployment-climbs-to-2-98m-in-germany-job-vacancies-drop-sharply</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-01T07:08:09.000Z</news:publication_date>
-      <news:title>Unemployment climbs to 2.98M in Germany, job vacancies drop sharply </news:title>
     </news:news>
   </url>
 

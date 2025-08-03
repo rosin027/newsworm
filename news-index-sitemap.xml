@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/study-reveals-potatos-secret-tomato-past</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-03T10:46:58.000Z</news:publication_date>
+      <news:title>Did tomatoes help create the modern potato? Science says yes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-retailers-push-for-tariffs-on-cheap-chinese-platforms-temu-and-shein</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-01T12:07:55.000Z</news:publication_date>
       <news:title>Germany?s tougher border rules result in over 9,500 rejections since May </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-begins-airdropping-relief-supplies-over-gaza-strip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-01T10:43:04.000Z</news:publication_date>
-      <news:title>Bundeswehr begins airdropping relief supplies over Gaza Strip </news:title>
     </news:news>
   </url>
 

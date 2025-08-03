@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-spent-nearly-eu47-billion-on-citizens-benefit-in-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-03T13:43:18.000Z</news:publication_date>
+      <news:title>Germany spent nearly ?47 billion on citizen&apos;s benefit in 2024 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/markus-soder-demands-end-to-citizens-benefit-for-all-ukrainian-refugees-in-germany</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/justice-minister-hubig-cautious-over-using-u-s-crime-analysis-tool-palantir-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-03T05:52:23.000Z</news:publication_date>
+      <news:title>Justice Minister Hubig cautious over using U.S. crime analysis tool Palantir in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-calls-on-israel-to-secure-supplies-in-the-gaza-strip</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-01T07:08:09.000Z</news:publication_date>
       <news:title>Unemployment climbs to 2.98M in Germany, job vacancies drop sharply </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-hamburg-train-line-closed-for-renovation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-01T05:51:51.000Z</news:publication_date>
-      <news:title>Berlin-Hamburg train line closed for renovation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-helicopter-crash-third-crew-member-found-dead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-01T05:25:12.000Z</news:publication_date>
-      <news:title>Bundeswehr Helicopter Crash: Third crew member found dead </news:title>
     </news:news>
   </url>
 

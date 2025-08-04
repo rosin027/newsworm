@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/the-sunday-shutdown-how-to-survive-germanys-ruhetag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-04T10:20:36.000Z</news:publication_date>
+      <news:title>The Sunday Shutdown: How to Survive Germany?s Ruhetag </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rki-unveils-method-to-test-patient-samples-for-hundreds-of-viruses-at-once</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-02T13:20:17.000Z</news:publication_date>
       <news:title>DWD plans smarter pollen tracking to help millions with allergies in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/airlines-sued-for-hidden-carry-on-baggage-fees-what-european-travelers-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-02T09:56:01.000Z</news:publication_date>
-      <news:title>Airlines sued for carry-on baggage fees: What travelers should know </news:title>
     </news:news>
   </url>
 

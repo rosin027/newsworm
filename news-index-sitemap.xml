@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-finance-minister-klingbeil-criticizes-trump-and-treasury-secretary-bessent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-04T18:33:14.000Z</news:publication_date>
+      <news:title>German Finance Minister Klingbeil criticizes Trump and treasury secretary Bessent </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-party-demands-linking-of-lowest-company-wage-to-top-executive-pay</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-03T05:52:23.000Z</news:publication_date>
       <news:title>Justice Minister Hubig cautious over using U.S. crime analysis tool Palantir </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-calls-on-israel-to-secure-supplies-in-the-gaza-strip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-02T15:33:45.000Z</news:publication_date>
-      <news:title>Germany calls on Israel to secure supplies in the Gaza Strip </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economists-warn-of-pension-crisis-call-for-urgent-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-02T15:21:17.000Z</news:publication_date>
-      <news:title>German economists warn of pension crisis, call for urgent reform </news:title>
     </news:news>
   </url>
 

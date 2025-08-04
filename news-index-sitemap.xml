@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-party-demands-linking-of-lowest-company-wage-to-top-executive-pay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-04T15:04:51.000Z</news:publication_date>
+      <news:title>Left party demands linking of lowest company wage to top executive pay </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/only-2-of-germans-meet-all-healthy-lifestyle-study-reveals</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2025-08-02T15:21:17.000Z</news:publication_date>
       <news:title>German economists warn of pension crisis, call for urgent reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dwd-plans-smarter-pollen-tracking-to-help-millions-with-allergies-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-02T13:20:17.000Z</news:publication_date>
-      <news:title>DWD plans smarter pollen tracking to help millions with allergies in Germany </news:title>
     </news:news>
   </url>
 

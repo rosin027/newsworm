@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/czech-republic-tests-europes-first-driverless-train</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T18:42:07.000Z</news:publication_date>
+      <news:title>Czech Republic tests Europe?s first driverless train </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/agreement-to-tackle-irregular-migration-between-uk-and-france-takes-effect</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-08-04T06:38:25.000Z</news:publication_date>
       <news:title>Germany?s asylum applications fall 50% in 2025 amid stricter border controls </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-macron-condemn-hamas-over-shocking-footage-of-starved-israeli-hostages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-03T17:39:25.000Z</news:publication_date>
-      <news:title>Merz, Macron condemn Hamas over shocking footage of starved Israeli hostages </news:title>
     </news:news>
   </url>
 

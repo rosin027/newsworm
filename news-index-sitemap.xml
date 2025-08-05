@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/majority-of-children-in-germany-begin-smartphone-use-at-7-own-devices-by-9</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-05T11:28:10.000Z</news:publication_date>
+      <news:title>Majority of children in Germany begin smartphone use at 7, own devices by 9 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/settlement-and-transport-areas-in-germany-increase-by-51-hectares-per-day</loc>
     <news:news>
       <news:publication>
@@ -155,30 +167,6 @@
       </news:publication>
       <news:publication_date>2025-08-03T12:59:23.000Z</news:publication_date>
       <news:title>Markus S?der demands end to citizen?s benefit for all Ukrainian refugees in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/did-tomatoes-help-create-the-modern-potato-science-says-yes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-03T10:46:58.000Z</news:publication_date>
-      <news:title>Did tomatoes help create the modern potato? Science says yes </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-retailers-push-for-tariffs-on-cheap-chinese-platforms-temu-and-shein</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-03T10:15:58.000Z</news:publication_date>
-      <news:title>German retailers push for tariffs on cheap Chinese platforms Temu and Shein </news:title>
     </news:news>
   </url>
 

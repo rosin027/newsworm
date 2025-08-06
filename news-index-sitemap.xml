@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gas-prices-set-to-fall-in-germany-as-storage-levy-abolished</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T18:24:31.000Z</news:publication_date>
+      <news:title>Gas Prices set to fall in Germany as storage levy abolished </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-doubles-tariffs-on-india-to-50-percent</loc>
     <news:news>
       <news:publication>

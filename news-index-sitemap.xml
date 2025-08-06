@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/nicotine-found-in-berlin-waters-from-cigarette-butts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T14:37:30.000Z</news:publication_date>
+      <news:title>Nicotine found in Berlin waters from cigarette butts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cabinet-approves-laws-to-empower-nurses-and-standardize-nursing-assistant-training</loc>
     <news:news>
       <news:publication>
@@ -203,18 +215,6 @@
       </news:publication>
       <news:publication_date>2025-08-04T15:04:51.000Z</news:publication_date>
       <news:title>Left party demands linking of lowest company wage to top executive pay </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/only-2-of-germans-meet-all-healthy-lifestyle-study-reveals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-04T12:51:43.000Z</news:publication_date>
-      <news:title>Only 2% of Germans meet all healthy lifestyle, study reveals </news:title>
     </news:news>
   </url>
 

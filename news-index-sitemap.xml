@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/wildfire-in-southern-france-leaves-one-dead-nine-injured</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T07:18:19.000Z</news:publication_date>
+      <news:title>Wildfire in southern France leaves one dead, nine injured </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/police-union-warns-of-ongoing-strain-on-officers-from-border-checks</loc>
     <news:news>
       <news:publication>

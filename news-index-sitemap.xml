@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/climate-activists-condemn-germanys-2026-commuter-allowance-increase</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T09:46:58.000Z</news:publication_date>
+      <news:title>Climate activists condemn Germany?s 2026 commuter allowance increase </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deadly-himalayan-flash-flood-in-uttarakhand-india-leaves-4-dead-100-missing</loc>
     <news:news>
       <news:publication>
@@ -203,18 +215,6 @@
       </news:publication>
       <news:publication_date>2025-08-04T10:20:36.000Z</news:publication_date>
       <news:title>The Sunday Shutdown: How to Survive Germany?s Ruhetag </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rki-unveils-method-to-test-patient-samples-for-hundreds-of-viruses-at-once</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-04T08:51:20.000Z</news:publication_date>
-      <news:title>RKI unveils method to test patient samples for hundreds of viruses at once </news:title>
     </news:news>
   </url>
 

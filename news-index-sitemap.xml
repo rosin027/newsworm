@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-pension-stability-and-expanded-parental-pension</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T11:08:47.000Z</news:publication_date>
+      <news:title>German Cabinet approves pension stability and expanded parental pension </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/climate-activists-condemn-germanys-2026-commuter-allowance-increase</loc>
     <news:news>
       <news:publication>
@@ -33,7 +45,7 @@
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-06T07:18:19.000Z</news:publication_date>
+      <news:publication_date>2025-08-06T07:18:18.000Z</news:publication_date>
       <news:title>Wildfire in southern France leaves one dead, nine injured </news:title>
     </news:news>
   </url>
@@ -69,7 +81,7 @@
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-05T18:42:07.000Z</news:publication_date>
+      <news:publication_date>2025-08-05T18:42:06.000Z</news:publication_date>
       <news:title>Czech Republic tests Europe?s first driverless train </news:title>
     </news:news>
   </url>
@@ -191,30 +203,6 @@
       </news:publication>
       <news:publication_date>2025-08-04T12:51:43.000Z</news:publication_date>
       <news:title>Only 2% of Germans meet all healthy lifestyle, study reveals </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/two-stabbing-attacks-near-hospital-in-heide-police-search-for-perpetrator</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-04T10:50:28.000Z</news:publication_date>
-      <news:title> Two stabbing attacks near hospital in Heide, police search for perpetrator </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/the-sunday-shutdown-how-to-survive-germanys-ruhetag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-04T10:20:36.000Z</news:publication_date>
-      <news:title>The Sunday Shutdown: How to Survive Germany?s Ruhetag </news:title>
     </news:news>
   </url>
 

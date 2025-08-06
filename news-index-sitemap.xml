@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-doubles-tariffs-on-india-to-50-percent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-06T16:07:42.000Z</news:publication_date>
+      <news:title>Trump doubles tariffs on India to 50 percent </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nicotine-found-in-berlin-waters-from-cigarette-butts</loc>
     <news:news>
       <news:publication>
@@ -203,18 +215,6 @@
       </news:publication>
       <news:publication_date>2025-08-04T18:33:14.000Z</news:publication_date>
       <news:title>German Finance Minister Klingbeil criticizes Trump and treasury secretary Bessent </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/left-party-demands-linking-of-lowest-company-wage-to-top-executive-pay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-04T15:04:51.000Z</news:publication_date>
-      <news:title>Left party demands linking of lowest company wage to top executive pay </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/switching-ukrainian-refugees-to-asylum-benefits-will-not-bring-savings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-07T11:37:09.000Z</news:publication_date>
+      <news:title>Switching Ukrainian refugees to asylum benefits will not bring savings </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-industrial-output-hits-lowest-level-in-five-years-this-june</loc>
     <news:news>
       <news:publication>
@@ -215,18 +227,6 @@
       </news:publication>
       <news:publication_date>2025-08-05T14:34:58.000Z</news:publication_date>
       <news:title>Tougher rules for Barbershops and Nail salons in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/majority-of-children-in-germany-begin-smartphone-use-at-7-own-devices-by-9</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T11:28:10.000Z</news:publication_date>
-      <news:title>Majority of children in Germany begin smartphone use at 7, own devices by 9 </news:title>
     </news:news>
   </url>
 

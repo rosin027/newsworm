@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/higher-us-tariffs-now-in-force-impacting-dozens-of-trading-partners</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-07T05:53:11.000Z</news:publication_date>
+      <news:title>Higher US tariffs now in force, impacting dozens of trading partners </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gas-prices-set-to-fall-in-germany-as-storage-levy-abolished</loc>
     <news:news>
       <news:publication>
@@ -215,18 +227,6 @@
       </news:publication>
       <news:publication_date>2025-08-05T05:53:29.000Z</news:publication_date>
       <news:title>Decision time as Global Plastic Pollution treaty talks begin in Geneva </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-finance-minister-klingbeil-criticizes-trump-and-treasury-secretary-bessent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-04T18:33:14.000Z</news:publication_date>
-      <news:title>German Finance Minister Klingbeil criticizes Trump and treasury secretary Bessent </news:title>
     </news:news>
   </url>
 

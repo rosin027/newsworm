@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-industrial-output-hits-lowest-level-in-five-years-this-june</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-07T10:22:54.000Z</news:publication_date>
+      <news:title>Germany?s Industrial output hits lowest level in five years this June </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/after-fall-of-assad-regime-only-4-000-of-1-million-syrians-return-from-germany</loc>
     <news:news>
       <news:publication>
@@ -215,18 +227,6 @@
       </news:publication>
       <news:publication_date>2025-08-05T11:28:10.000Z</news:publication_date>
       <news:title>Majority of children in Germany begin smartphone use at 7, own devices by 9 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/settlement-and-transport-areas-in-germany-increase-by-51-hectares-per-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T09:57:57.000Z</news:publication_date>
-      <news:title>Settlement and Transport areas in Germany increase by 51 hectares per day </news:title>
     </news:news>
   </url>
 

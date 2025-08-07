@@ -218,16 +218,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/decision-time-as-plastic-pollution-treaty-talks-begin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T05:53:29.000Z</news:publication_date>
-      <news:title>Decision time as Global Plastic Pollution treaty talks begin in Geneva </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/after-fall-of-assad-regime-only-4-000-of-1-million-syrians-return-from-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-07T08:32:29.000Z</news:publication_date>
+      <news:title>After fall of Assad regime, only 4,000 of 1 Million Syrians return from Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/100-days-of-merz-government-vice-chancellor-klingbeil-draws-mixed-conclusions</loc>
     <news:news>
       <news:publication>

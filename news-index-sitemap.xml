@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-imposes-partial-arms-export-ban-on-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-08T12:00:27.000Z</news:publication_date>
+      <news:title>Germany imposes partial arms export ban on Israel </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/price-gap-between-electric-and-combustion-cars-shrinks-in-germany</loc>
     <news:news>
       <news:publication>
@@ -155,30 +167,6 @@
       </news:publication>
       <news:publication_date>2025-08-06T12:42:35.000Z</news:publication_date>
       <news:title>Cabinet approves laws to empower Nurses and standardize nursing assistant training </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-pension-stability-and-expanded-parental-pension</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-06T11:08:47.000Z</news:publication_date>
-      <news:title>German Cabinet approves pension stability and expanded parental pension </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/climate-activists-condemn-germanys-2026-commuter-allowance-increase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-06T09:46:58.000Z</news:publication_date>
-      <news:title>Climate activists condemn Germany?s 2026 commuter allowance increase </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-e-prescription-system-faces-criticism-over-repeated-outages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-08T07:42:30.000Z</news:publication_date>
+      <news:title>Germany?s e-prescription system faces criticism over repeated outages </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/siemens-warns-us-tariffs-cause-slowdown-in-industrial-spending</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-08-06T07:43:52.000Z</news:publication_date>
       <news:title>Deadly Himalayan flash flood in India leaves 4 dead, 100 missing </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/wildfire-in-southern-france-leaves-one-dead-nine-injured</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-06T07:18:18.000Z</news:publication_date>
-      <news:title>Wildfire in southern France leaves one dead, nine injured </news:title>
     </news:news>
   </url>
 

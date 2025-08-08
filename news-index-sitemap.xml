@@ -182,16 +182,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/trump-threatens-eu-with-35-tariffs-if-investments-fail</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-06T06:01:15.000Z</news:publication_date>
-      <news:title>Trump threatens EU with 35% tariffs if investments fail </news:title>
-    </news:news>
-  </url>
-
 </urlset>

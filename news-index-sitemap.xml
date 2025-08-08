@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-extend-border-controls-and-ramp-up-deportations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-08T05:36:21.000Z</news:publication_date>
+      <news:title>Germany to extend border controls and ramp up deportations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/switching-ukrainian-refugees-to-asylum-benefits-will-not-bring-savings</loc>
     <news:news>
       <news:publication>
@@ -179,54 +191,6 @@
       </news:publication>
       <news:publication_date>2025-08-06T06:01:15.000Z</news:publication_date>
       <news:title>Trump threatens EU with 35% tariffs if investments fail </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/czech-republic-tests-europes-first-driverless-train</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T18:42:06.000Z</news:publication_date>
-      <news:title>Czech Republic tests Europe?s first driverless train </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/agreement-to-tackle-irregular-migration-between-uk-and-france-takes-effect</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T16:05:24.000Z</news:publication_date>
-      <news:title>Agreement to tackle irregular migration between UK and France takes effect </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/european-nations-announce-1b-purchase-of-us-weapons-to-aid-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T15:31:57.000Z</news:publication_date>
-      <news:title>European nations announce $1B purchase of US weapons to aid Ukraine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tougher-rules-for-barbershops-and-nail-salons-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-05T14:34:58.000Z</news:publication_date>
-      <news:title>Tougher rules for Barbershops and Nail salons in Germany </news:title>
     </news:news>
   </url>
 

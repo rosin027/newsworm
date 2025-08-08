@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/siemens-warns-us-tariffs-cause-slowdown-in-industrial-spending</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-08T06:48:13.000Z</news:publication_date>
+      <news:title>Siemens warns US tariffs cause slowdown in industrial spending </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-extend-border-controls-and-ramp-up-deportations</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-08-06T07:18:18.000Z</news:publication_date>
       <news:title>Wildfire in southern France leaves one dead, nine injured </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/police-union-warns-of-ongoing-strain-on-officers-from-border-checks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-06T06:45:21.000Z</news:publication_date>
-      <news:title>Police union warns of ongoing strain on officers from border checks </news:title>
     </news:news>
   </url>
 

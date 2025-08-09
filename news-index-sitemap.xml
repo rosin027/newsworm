@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-politicians-criticize-merzs-arms-export-restrictions-to-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-09T12:39:37.000Z</news:publication_date>
+      <news:title>German politicians criticize Merz?s arms export restrictions to Israel </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/phishing-fraud-and-bank-compensation-key-lessons-from-german-court-ruling</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-08T05:36:21.000Z</news:publication_date>
       <news:title>Germany to extend border controls and ramp up deportations </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/switching-ukrainian-refugees-to-asylum-benefits-will-not-bring-savings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-07T11:37:09.000Z</news:publication_date>
-      <news:title>Switching Ukrainian refugees to asylum benefits will not bring savings </news:title>
     </news:news>
   </url>
 

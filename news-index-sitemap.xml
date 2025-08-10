@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/everyone-is-tired-of-ukraine-war-mayor-of-kiev</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-10T06:25:08.000Z</news:publication_date>
+      <news:title>Everyone is tired of Ukraine war: Mayor of Kiev </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-politicians-criticize-merzs-arms-export-restrictions-to-israel</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-08T06:48:13.000Z</news:publication_date>
       <news:title>Siemens warns US tariffs cause slowdown in industrial spending </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-extend-border-controls-and-ramp-up-deportations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-08T05:36:21.000Z</news:publication_date>
-      <news:title>Germany to extend border controls and ramp up deportations </news:title>
     </news:news>
   </url>
 

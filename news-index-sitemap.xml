@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/challenging-day-for-firefighters-battling-huge-blaze-in-france</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-10T12:13:31.000Z</news:publication_date>
+      <news:title>&apos;Challenging day&apos; for firefighters battling huge blaze in France </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/the-rising-price-of-health-care-in-germany-whats-driving-the-surge</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-08T17:09:48.000Z</news:publication_date>
       <news:title>Historic pay deal for Germany?s doner kebab workers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-imposes-partial-arms-export-ban-on-israel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-08T12:00:27.000Z</news:publication_date>
-      <news:title>Germany imposes partial arms export ban on Israel </news:title>
     </news:news>
   </url>
 

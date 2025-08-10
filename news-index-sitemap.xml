@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-leaders-urge-pressure-on-russia-ahead-of-trump-putin-alaska-summit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-10T07:17:24.000Z</news:publication_date>
+      <news:title>EU leaders urge pressure on Russia ahead of Trump-Putin Alaska Summit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/everyone-is-tired-of-ukraine-war-mayor-of-kiev</loc>
     <news:news>
       <news:publication>

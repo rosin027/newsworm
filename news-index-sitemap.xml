@@ -134,16 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/phishing-fraud-and-bank-compensation-key-lessons-from-german-court-ruling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-09T09:01:00.000Z</news:publication_date>
-      <news:title>Phishing Fraud and Bank Compensation: Key Lessons from German Court Ruling </news:title>
-    </news:news>
-  </url>
-
 </urlset>

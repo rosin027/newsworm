@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/europes-lowest-rated-airlines-in-2025-what-travelers-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-11T11:25:34.000Z</news:publication_date>
+      <news:title>Europe?s lowest-rated airlines in 2025: What Travelers Need to Know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/corporate-insolvencies-in-germany-jump-19-in-july-2025</loc>
     <news:news>
       <news:publication>

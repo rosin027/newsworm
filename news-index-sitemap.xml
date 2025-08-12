@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/italian-athlete-dies-at-world-games-in-china-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T06:36:08.000Z</news:publication_date>
+      <news:title> Italian athlete dies at World Games in China </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mold-leaks-and-broken-heaters-police-union-complains-about-crumbling-stations</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-10T07:17:24.000Z</news:publication_date>
       <news:title>EU leaders urge pressure on Russia ahead of Trump-Putin Alaska Summit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/everyone-is-tired-of-ukraine-war-mayor-of-kiev</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T06:25:08.000Z</news:publication_date>
-      <news:title>Everyone is tired of Ukraine war: Mayor of Kiev </news:title>
     </news:news>
   </url>
 

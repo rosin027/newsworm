@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/severe-heatwave-sweeps-germany-temperatures-to-reach-38-degc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T13:44:24.000Z</news:publication_date>
+      <news:title>Severe Heatwave sweeps Germany: Temperatures to reach 38?C </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/air-conditioners-are-booming-in-germany-a-surprising-shift-for-expats</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-10T15:07:24.000Z</news:publication_date>
       <news:title>Merz emphasizes unshaken support for Israel following arms export halt </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/challenging-day-for-firefighters-battling-huge-blaze-in-france</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T12:13:31.000Z</news:publication_date>
-      <news:title>&apos;Challenging day&apos; for firefighters battling huge blaze in France </news:title>
     </news:news>
   </url>
 

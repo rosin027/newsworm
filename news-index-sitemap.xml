@@ -27,6 +27,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-extends-us-china-tariff-pause-for-90-days</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T03:41:10.000Z</news:publication_date>
+      <news:title>Trump extends US-China tariff pause for 90 days </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mold-leaks-and-broken-heaters-police-union-complains-about-crumbling-stations</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/air-conditioners-are-booming-in-germany-a-surprising-shift-for-expats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T09:42:40.000Z</news:publication_date>
+      <news:title>Air Conditioners are booming in Germany: A surprising shift for expats </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/italian-athlete-dies-at-world-games-in-china</loc>
     <news:news>
       <news:publication>
@@ -33,7 +45,7 @@
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-11T15:10:53.000Z</news:publication_date>
+      <news:publication_date>2025-08-11T15:10:52.000Z</news:publication_date>
       <news:title>EU clears way for Dutch group Prosus to take over Just Eat </news:title>
     </news:news>
   </url>
@@ -57,7 +69,7 @@
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-11T07:36:12.000Z</news:publication_date>
+      <news:publication_date>2025-08-11T07:36:11.000Z</news:publication_date>
       <news:title>Corporate Insolvencies in Germany jump 19% in July 2025 </news:title>
     </news:news>
   </url>
@@ -69,7 +81,7 @@
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-08-11T05:32:41.000Z</news:publication_date>
+      <news:publication_date>2025-08-11T05:32:40.000Z</news:publication_date>
       <news:title> Australia to recognise Palestinian state </news:title>
     </news:news>
   </url>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-10T12:13:31.000Z</news:publication_date>
       <news:title>&apos;Challenging day&apos; for firefighters battling huge blaze in France </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/the-rising-price-of-health-care-in-germany-whats-driving-the-surge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T09:48:06.000Z</news:publication_date>
-      <news:title>The Rising Cost of Health Care in Germany: What?s Driving the Surge? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/silverfish-in-your-german-apartment-a-guide-for-expats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T07:57:22.000Z</news:publication_date>
-      <news:title>Silverfish in Your German Apartment? A Guide for Expats </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-leaders-urge-pressure-on-russia-ahead-of-trump-putin-alaska-summit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T07:17:24.000Z</news:publication_date>
-      <news:title>EU leaders urge pressure on Russia ahead of Trump-Putin Alaska Summit </news:title>
     </news:news>
   </url>
 

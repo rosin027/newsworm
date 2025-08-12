@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/mold-leaks-and-broken-heaters-police-union-complains-about-crumbling-stations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-12T03:24:42.000Z</news:publication_date>
+      <news:title>Mold, Leaks, and broken Heaters: Police Union complains about crumbling stations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-clears-way-for-dutch-group-prosus-to-take-over-just-eat</loc>
     <news:news>
       <news:publication>

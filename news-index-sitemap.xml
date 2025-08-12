@@ -134,16 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-emphasizes-unshaken-support-for-israel-following-arms-export-halt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-10T15:07:24.000Z</news:publication_date>
-      <news:title>Merz emphasizes unshaken support for Israel following arms export halt </news:title>
-    </news:news>
-  </url>
-
 </urlset>

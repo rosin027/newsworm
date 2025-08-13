@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/us-report-slams-germany-over-free-speech-limits-and-rising-antisemitism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T05:29:19.000Z</news:publication_date>
+      <news:title>US report slams Germany over free speech limits and rising antisemitism </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/severe-heatwave-sweeps-germany-temperatures-to-reach-38-degc</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-11T05:32:40.000Z</news:publication_date>
       <news:title> Australia to recognise Palestinian state </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-putin-summit-in-alaska-may-include-zelensky-says-us-envoy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T03:10:49.000Z</news:publication_date>
-      <news:title>Trump-Putin summit in Alaska may include Zelensky, says US envoy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/6-1-magnitude-earthquake-strikes-sindirgi-turkey-1-dead-29-injured</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T02:52:13.000Z</news:publication_date>
-      <news:title>6.1 magnitude earthquake strikes Sindirgi, Turkey - 1 Dead, 29 Injured </news:title>
     </news:news>
   </url>
 

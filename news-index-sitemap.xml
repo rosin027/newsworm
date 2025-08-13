@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/europe-ready-to-reimpose-un-sanctions-on-iran-over-nuclear-program</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-13T08:07:37.000Z</news:publication_date>
+      <news:title>Europe ready to reimpose UN sanctions on Iran over nuclear program </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/perplexity-ai-seeks-to-buy-google-chrome-browser-for-34-5-billion</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-11T11:25:34.000Z</news:publication_date>
       <news:title>Europe?s lowest-rated airlines in 2025: What Travelers Need to Know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/corporate-insolvencies-in-germany-jump-19-in-july-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-11T07:36:11.000Z</news:publication_date>
-      <news:title>Corporate Insolvencies in Germany jump 19% in July 2025 </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/transport-minister-schnieder-fires-deutsche-bahn-ceo-lutz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-14T15:18:51.000Z</news:publication_date>
+      <news:title> Transport Minister Schnieder fires Deutsche Bahn CEO Lutz </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/asylum-benefits-on-loan-spds-controversial-proposal-sparks-debate</loc>
     <news:news>
       <news:publication>

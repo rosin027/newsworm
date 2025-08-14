@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-in-brandenburg-classified-as-right-wing-extremist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-14T13:24:03.000Z</news:publication_date>
+      <news:title>AfD in Brandenburg classified as right-wing extremist </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pregnancy-trends-in-germany-older-moms-and-the-surge-in-c-sections</loc>
     <news:news>
       <news:publication>

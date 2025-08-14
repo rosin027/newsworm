@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pregnancy-trends-in-germany-how-c-sections-and-maternal-age-are-shaping-births</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-14T11:29:55.000Z</news:publication_date>
+      <news:title>Pregnancy Trends in Germany: How C-sections and maternal age are shaping births </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/phd-trends-in-germany-fields-enrollment-and-international-presence</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-08-12T13:44:24.000Z</news:publication_date>
       <news:title>Severe Heatwave sweeps Germany: Temperatures to reach 38?C </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/air-conditioners-are-booming-in-germany-a-surprising-shift-for-expats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-12T09:42:40.000Z</news:publication_date>
-      <news:title>Air Conditioners are booming in Germany: A surprising shift for expats </news:title>
     </news:news>
   </url>
 

@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/pregnancy-trends-in-germany-how-c-sections-and-maternal-age-are-shaping-births</loc>
+    <loc>https://www.newsworm.de/news/pregnancy-trends-in-germany-older-moms-and-the-surge-in-c-sections</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-14T11:29:55.000Z</news:publication_date>
-      <news:title>Pregnancy Trends in Germany: How C-sections and maternal age are shaping births </news:title>
+      <news:title>Pregnancy Trends in Germany: Older moms and surge in C-sections </news:title>
     </news:news>
   </url>
 

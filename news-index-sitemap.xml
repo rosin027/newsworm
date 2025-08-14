@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/border-controls-cost-german-police-over-80-million-euros</loc>
+    <loc>https://www.newsworm.de/news/germany-spends-over-80-million-euros-on-border-controls</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-14T08:10:57.000Z</news:publication_date>
-      <news:title>Border controls cost German police over 80 million euros </news:title>
+      <news:title>Germany spends over 80 million euros on border controls </news:title>
     </news:news>
   </url>
 

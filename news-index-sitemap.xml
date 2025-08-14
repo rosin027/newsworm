@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/doctoral-studies-in-germany-growing-international-presence</loc>
+    <loc>https://www.newsworm.de/news/phd-trends-in-germany-fields-enrollment-and-international-presence</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-14T09:11:36.000Z</news:publication_date>
-      <news:title>Doctoral Studies in Germany: Growing International Presence </news:title>
+      <news:title>PhD Trends in Germany: Fields, Enrollment, and International Presence </news:title>
     </news:news>
   </url>
 

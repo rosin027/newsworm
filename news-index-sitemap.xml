@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ice-l-trains-with-step-free-entry-launching-december-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-15T09:19:30.000Z</news:publication_date>
+      <news:title>ICE L trains with step-free entry, launching December 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/india-stands-strong-modi-promises-self-reliance-amid-us-tariff-pressure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-15T07:15:27.000Z</news:publication_date>
+      <news:title>India Stands Strong: Modi promises self-reliance amid US tariff pressure </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/alaska-summit-trump-and-putin-at-odds</loc>
     <news:news>
       <news:publication>
@@ -155,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-08-13T10:37:20.000Z</news:publication_date>
       <news:title>Part-time Teachers in Germany reach record high </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-ready-to-reimpose-un-sanctions-on-iran-over-nuclear-program</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-13T08:07:37.000Z</news:publication_date>
-      <news:title>Europe ready to reimpose UN sanctions on Iran over nuclear program </news:title>
     </news:news>
   </url>
 

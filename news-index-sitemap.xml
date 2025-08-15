@@ -170,28 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/perplexity-ai-seeks-to-buy-google-chrome-browser-for-34-5-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-13T07:15:04.000Z</news:publication_date>
-      <news:title> Perplexity AI seeks to buy Google Chrome browser for $34.5 billion </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/energy-security-or-climate-risk-germanys-gas-strategy-questioned</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-13T06:33:46.000Z</news:publication_date>
-      <news:title>Energy Security or Climate Risk? Germany?s gas strategy questioned </news:title>
-    </news:news>
-  </url>
-
 </urlset>

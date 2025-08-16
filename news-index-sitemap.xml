@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/every-19-minutes-a-child-is-injured-or-killed-on-germanys-roads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-16T11:33:45.000Z</news:publication_date>
+      <news:title>Every 19 Minutes, a Child Is Injured or Killed on Germany?s roads </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/taxpayers-association-calls-for-fewer-civil-servants</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-14T13:24:03.000Z</news:publication_date>
       <news:title>AfD in Brandenburg classified as right-wing extremist </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pregnancy-trends-in-germany-older-moms-and-the-surge-in-c-sections</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-14T11:29:55.000Z</news:publication_date>
-      <news:title>Pregnancy Trends in Germany: Older moms and surge in C-sections </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/phd-trends-in-germany-fields-enrollment-and-international-presence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-14T09:11:36.000Z</news:publication_date>
-      <news:title>PhD Trends in Germany: Fields, Enrollment, and International Presence </news:title>
     </news:news>
   </url>
 

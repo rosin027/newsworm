@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/taxpayers-association-calls-for-fewer-civil-servants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-16T07:08:56.000Z</news:publication_date>
+      <news:title>Taxpayers? Association calls for fewer Civil Servants in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-putin-summit-ends-without-ukraine-deal-what-really-happened-in-alaska-2025</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-08-14T08:10:57.000Z</news:publication_date>
       <news:title>Germany spends over 80 million euros on border controls </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/100-days-of-black-red-coalition-majority-rates-cdu-csu-spd-cooperation-poorly</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-14T07:04:24.000Z</news:publication_date>
-      <news:title>100 days of Black-Red Coalition: Majority rates CDU/CSU-SPD cooperation poorly </news:title>
     </news:news>
   </url>
 

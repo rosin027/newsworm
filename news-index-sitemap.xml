@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-zoos-pygmy-hippo-toni-relocates-to-mulhouse-zoo-in-france</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-17T08:23:50.000Z</news:publication_date>
+      <news:title>Berlin Zoo?s Pygmy Hippo Toni relocates to Mulhouse Zoo in France </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/member-of-taliban-security-forces-guard-near-the-pashdan-dam</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-slams-chinas-growing-aggression-in-asia-pacific</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-18T06:18:06.000Z</news:publication_date>
+      <news:title>Germany slams China?s growing aggression in Asia-Pacific </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-rules-out-crimea-return-and-nato-membership-for-ukraine</loc>
     <news:news>
       <news:publication>

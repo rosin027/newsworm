@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-rules-out-crimea-return-and-nato-membership-for-ukraine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-18T05:37:34.000Z</news:publication_date>
+      <news:title>Trump rules out Crimea return and NATO membership for Ukraine </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-and-other-european-leaders-to-join-zelenskyj-to-washington-on-monday</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-16T05:46:27.000Z</news:publication_date>
       <news:title>Trump-Putin Summit ends without Ukraine deal: What really happened in Alaska 2025? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-dead-several-injured-in-denmark-train-crash</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-15T22:41:27.000Z</news:publication_date>
-      <news:title>One dead, several injured in Denmark train crash </news:title>
     </news:news>
   </url>
 

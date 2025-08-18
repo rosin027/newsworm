@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gen-z-slang-enters-cambridge-dictionary-skibidi-delulu-and-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-18T07:50:02.000Z</news:publication_date>
+      <news:title>Gen Z slang enters Cambridge Dictionary: ?Skibidi,? ?Delulu,? and More </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-slams-chinas-growing-aggression-in-asia-pacific</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-16T11:33:45.000Z</news:publication_date>
       <news:title>Every 19 Minutes, a Child Suffers a Traffic Accident in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/taxpayers-association-calls-for-fewer-civil-servants</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-16T07:08:56.000Z</news:publication_date>
-      <news:title>Taxpayers? Association calls for fewer Civil Servants in Germany </news:title>
     </news:news>
   </url>
 

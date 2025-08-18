@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/trump-putin-summit-ends-without-ukraine-deal-what-really-happened-in-alaska-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-16T05:46:27.000Z</news:publication_date>
-      <news:title>Trump-Putin Summit ends without Ukraine deal: What really happened in Alaska 2025? </news:title>
-    </news:news>
-  </url>
-
 </urlset>

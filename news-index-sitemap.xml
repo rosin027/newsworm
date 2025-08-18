@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/federal-audit-office-warns-of-rising-health-insurance-costs-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-18T14:13:34.000Z</news:publication_date>
+      <news:title>Federal Audit Office Warns of Rising Health Insurance Costs in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/faster-and-more-frequent-train-connections-to-berlin-brandenburg-airport</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-16T15:24:30.000Z</news:publication_date>
       <news:title>Merz calls potential U.S. security guarantees for Ukraine ?significant progress? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/world-plastic-pollution-treaty-talks-collapse-with-no-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-16T12:51:36.000Z</news:publication_date>
-      <news:title> World plastic pollution treaty talks collapse with no deal  </news:title>
     </news:news>
   </url>
 

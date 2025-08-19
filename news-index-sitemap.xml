@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/good-harvest-but-farmers-warn-of-catastrophic-market-conditions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T11:46:24.000Z</news:publication_date>
+      <news:title>Good harvest, but farmers warn of catastrophic market conditions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/should-germany-restrict-social-media-use-for-youth</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-17T14:14:04.000Z</news:publication_date>
       <news:title>Merz and other European leaders to join Zelenskyj in Washington on Monday </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/from-veggies-to-meat-how-germans-really-eat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-17T10:13:28.000Z</news:publication_date>
-      <news:title>From Veggies to Meat: How Germans Really Eat </news:title>
     </news:news>
   </url>
 

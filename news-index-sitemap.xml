@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/putin-zelensky-summit-in-sight-following-trump-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T06:42:23.000Z</news:publication_date>
+      <news:title>Putin-Zelensky summit in sight following Trump talks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/federal-audit-office-warns-of-rising-health-insurance-costs-in-germany</loc>
     <news:news>
       <news:publication>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-17T08:23:50.000Z</news:publication_date>
       <news:title>Berlin Zoo?s Pygmy Hippo Toni relocates to Mulhouse Zoo in France </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/member-of-taliban-security-forces-guard-near-the-pashdan-dam</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-17T06:40:44.000Z</news:publication_date>
-      <news:title>Drought, dams and diplomacy: Afghanistan&apos;s water crisis goes regional </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/left-partys-van-aken-trump-doesnt-care-about-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-17T06:07:57.000Z</news:publication_date>
-      <news:title>Left Party?s van Aken: ?Trump doesn?t care about Ukraine? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-calls-potential-us-security-guarantees-for-ukraine-significant-progress</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-16T15:24:30.000Z</news:publication_date>
-      <news:title>Merz calls potential U.S. security guarantees for Ukraine ?significant progress? </news:title>
     </news:news>
   </url>
 

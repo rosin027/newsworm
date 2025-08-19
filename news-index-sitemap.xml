@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/n26-co-founder-valentin-stalf-steps-down-from-ceo-role</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T15:13:43.000Z</news:publication_date>
+      <news:title>N26 co-founder Valentin Stalf steps down from CEO role </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/good-harvest-but-farmers-warn-of-catastrophic-market-conditions</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-18T05:37:34.000Z</news:publication_date>
       <news:title>Trump rules out Crimea return and NATO membership for Ukraine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-and-other-european-leaders-to-join-zelenskyj-to-washington-on-monday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-17T14:14:04.000Z</news:publication_date>
-      <news:title>Merz and other European leaders to join Zelenskyj in Washington on Monday </news:title>
     </news:news>
   </url>
 

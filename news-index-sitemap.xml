@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-criticizes-u-s-museums-for-highlighting-slavery-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-20T03:34:30.000Z</news:publication_date>
+      <news:title>Trump criticizes U.S. Museums for highlighting slavery history </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/netanyahu-clashes-with-australia-france-over-palestinian-state-recognition</loc>
     <news:news>
       <news:publication>

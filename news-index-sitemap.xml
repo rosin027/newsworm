@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/europes-largest-battery-recycling-plant-in-aachen-turns-ev-batteries-into-energy-storage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-20T15:10:11.000Z</news:publication_date>
+      <news:title>Europe?s largest battery recycling plant in Aachen turns EV batteries into energy storage </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ukraine-peacekeeping-mission-to-strain-german-armed-forces-says-otte</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-19T06:42:23.000Z</news:publication_date>
       <news:title>Putin-Zelensky summit in sight following Trump talks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/federal-audit-office-warns-of-rising-health-insurance-costs-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-18T14:13:34.000Z</news:publication_date>
-      <news:title>Federal Audit Office Warns of Rising Health Insurance Costs in Germany </news:title>
     </news:news>
   </url>
 

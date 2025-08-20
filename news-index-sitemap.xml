@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/golden-from-netflixs-kpop-demon-hunters-is-germanys-summer-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-20T11:09:00.000Z</news:publication_date>
+      <news:title>?Golden? from Netflix?s Kpop Demon Hunters is Germany?s Summer Hit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/revenue-declines-in-germanys-hospitality-sector-in-first-half-of-2025</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-18T11:59:59.000Z</news:publication_date>
       <news:title>Faster and more frequent train connections to Berlin Brandenburg Airport </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/birth-control-pill-use-drops-among-young-german-women</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-18T10:54:06.000Z</news:publication_date>
-      <news:title>Birth control pill use drops among young German women </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/record-breaking-apple-production-expected-in-germany-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-18T09:11:21.000Z</news:publication_date>
-      <news:title>Record-Breaking Apple Production Expected in Germany in 2025 </news:title>
     </news:news>
   </url>
 

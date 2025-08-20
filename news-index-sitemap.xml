@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/revenue-declines-in-germanys-hospitality-sector-in-first-half-of-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-20T08:17:43.000Z</news:publication_date>
+      <news:title>Revenue declines in Germany?s Hospitality sector in first half of 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-criticizes-us-museums-for-highlighting-slavery-history</loc>
     <news:news>
       <news:publication>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-18T09:11:21.000Z</news:publication_date>
       <news:title>Record-Breaking Apple Production Expected in Germany in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/skibidi-delulu-and-more-social-media-slang-enters-cambridge-dictionary</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-18T07:50:02.000Z</news:publication_date>
-      <news:title>Skibidi, Delulu and More: Social media slang enters Cambridge Dictionary </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-slams-chinas-growing-aggression-in-asia-pacific</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-18T06:18:06.000Z</news:publication_date>
-      <news:title>Germany slams China?s growing aggression in Asia-Pacific </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-rules-out-crimea-return-and-nato-membership-for-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-18T05:37:34.000Z</news:publication_date>
-      <news:title>Trump rules out Crimea return and NATO membership for Ukraine </news:title>
     </news:news>
   </url>
 

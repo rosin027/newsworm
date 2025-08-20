@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/trump-criticizes-u-s-museums-for-highlighting-slavery-history</loc>
+    <loc>https://www.newsworm.de/news/trump-criticizes-us-museums-for-highlighting-slavery-history</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>

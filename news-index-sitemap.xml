@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/should-germans-pay-a-fee-for-every-doctor-visit</loc>
+    <loc>https://www.newsworm.de/news/your-next-doctor-visit-in-germany-could-come-with-a-fee</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-21T08:11:35.000Z</news:publication_date>
-      <news:title>Should Germans pay a fee for every Doctor visit? </news:title>
+      <news:title>Your next Doctor visit in Germany could come with a fee! </news:title>
     </news:news>
   </url>
 

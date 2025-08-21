@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rising-child-abuse-cases-in-germany-government-announces-tougher-measures</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T12:17:10.000Z</news:publication_date>
+      <news:title>Rising Child Abuse Cases in Germany: Government Announces Tougher Measures </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/growing-number-of-homeless-people-in-germany-are-employed</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-19T15:13:43.000Z</news:publication_date>
       <news:title>N26 co-founder Valentin Stalf steps down from CEO role </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/good-harvest-but-farmers-warn-of-catastrophic-market-conditions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-19T11:46:24.000Z</news:publication_date>
-      <news:title>Good harvest, but farmers warn of catastrophic market conditions </news:title>
     </news:news>
   </url>
 

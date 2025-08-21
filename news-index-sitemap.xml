@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/us-eu-trade-deal-details-tariff-reductions-for-cars-wine-faces-setback</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-21T15:22:04.000Z</news:publication_date>
+      <news:title>US-EU Trade Deal Details: Tariff Reductions for Cars, Wine Faces Setback </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rising-child-sexual-abuse-cases-in-germany-government-announces-tougher-measures</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T03:25:08.000Z</news:publication_date>
       <news:title>Netanyahu clashes with Australia, France over Palestinian state recognition </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/n26-co-founder-valentin-stalf-steps-down-from-ceo-role</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-19T15:13:43.000Z</news:publication_date>
-      <news:title>N26 co-founder Valentin Stalf steps down from CEO role </news:title>
     </news:news>
   </url>
 

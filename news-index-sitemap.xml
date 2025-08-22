@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sets-up-commission-to-streamline-social-benefits-and-administration</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-22T07:27:43.000Z</news:publication_date>
+      <news:title>Germany sets up commission to streamline Social Welfare Administration </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/high-demand-spurs-expansion-of-germanys-daycare-system</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T11:09:00.000Z</news:publication_date>
       <news:title>?Golden? from Netflix?s Kpop Demon Hunters is Germany?s Summer Hit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/revenue-declines-in-germanys-hospitality-sector-in-first-half-of-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T08:17:43.000Z</news:publication_date>
-      <news:title>Revenue declines in Germany?s Hospitality sector in first half of 2025 </news:title>
     </news:news>
   </url>
 

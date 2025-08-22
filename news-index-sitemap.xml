@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/dhl-restricts-shipments-from-germany-to-the-us-due-to-new-customs-regulations</loc>
+    <loc>https://www.newsworm.de/news/dhl-restricts-shipments-from-germany-to-the-us-due-to-new-customs-rules</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-22T11:00:47.000Z</news:publication_date>
-      <news:title>DHL restricts shipments from Germany to the US due to new customs regulations </news:title>
+      <news:title>DHL restricts shipments from Germany to the US due to new customs rules </news:title>
     </news:news>
   </url>
 
@@ -167,18 +167,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T12:45:02.000Z</news:publication_date>
       <news:title>Ukraine Peacekeeping mission to strain German Armed Forces, says Otte </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/golden-from-netflixs-kpop-demon-hunters-is-germanys-summer-hit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T11:09:00.000Z</news:publication_date>
-      <news:title>?Golden? from Netflix?s Kpop Demon Hunters is Germany?s Summer Hit </news:title>
     </news:news>
   </url>
 

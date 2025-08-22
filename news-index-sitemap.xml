@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/high-demand-spurs-expansion-of-germanys-daycare-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-22T07:15:20.000Z</news:publication_date>
+      <news:title>High demand spurs expansion of Germany?s Daycare System </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/record-number-of-mosquito-borne-disease-outbreaks-in-europe</loc>
     <news:news>
       <news:publication>

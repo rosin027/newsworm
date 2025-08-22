@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-government-aims-to-cut-electricity-costs-for-households-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-22T15:13:33.000Z</news:publication_date>
+      <news:title>German government aims to cut electricity costs for households in 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-tariffs-hit-german-economy-gdp-drops-0-3-in-q2</loc>
     <news:news>
       <news:publication>
@@ -155,30 +167,6 @@
       </news:publication>
       <news:publication_date>2025-08-20T18:41:17.000Z</news:publication_date>
       <news:title>Shein teams up with Lufthansa for eco-friendly air freight </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europes-largest-battery-recycling-plant-in-aachen-turns-ev-batteries-into-energy-storage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T15:10:11.000Z</news:publication_date>
-      <news:title>Europe?s largest battery recycling plant in Aachen turns EV batteries into energy storage </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ukraine-peacekeeping-mission-to-strain-german-armed-forces-says-otte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T12:45:02.000Z</news:publication_date>
-      <news:title>Ukraine Peacekeeping mission to strain German Armed Forces, says Otte </news:title>
     </news:news>
   </url>
 

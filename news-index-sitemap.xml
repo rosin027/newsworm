@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-court-clears-way-for-renaming-mohrenstrasse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T06:46:09.000Z</news:publication_date>
+      <news:title>Berlin court clears way for renaming Mohrenstra?e </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-government-aims-to-cut-electricity-costs-for-households-in-2026</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-21T08:11:35.000Z</news:publication_date>
       <news:title>Your next Doctor visit in Germany could come with a fee! </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/municipalities-see-relief-from-declining-number-of-refugees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T03:29:09.000Z</news:publication_date>
-      <news:title>Municipalities see relief from declining number of refugees </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/shein-teams-up-with-lufthansa-for-eco-friendly-air-freight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-20T18:41:17.000Z</news:publication_date>
-      <news:title>Shein teams up with Lufthansa for eco-friendly air freight </news:title>
     </news:news>
   </url>
 

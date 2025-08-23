@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gottingen-court-orders-one-million-euro-compensation-for-birth-malpractice</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T12:18:14.000Z</news:publication_date>
+      <news:title>G?ttingen court orders one million euro compensation for birth malpractice </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/train-travel-in-europe-often-more-expensive-than-flights</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-21T15:22:04.000Z</news:publication_date>
       <news:title>US-EU Trade Deal Details: Tariff Reductions for Cars, Wine Faces Setback </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rising-child-sexual-abuse-cases-in-germany-government-announces-tougher-measures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T12:17:10.000Z</news:publication_date>
-      <news:title>Rising Child Sexual Abuse in Germany: Government Announces Tougher Measures </news:title>
     </news:news>
   </url>
 

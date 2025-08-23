@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/train-travel-in-europe-often-more-expensive-than-flights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T10:33:48.000Z</news:publication_date>
+      <news:title>Train travel in Europe often more expensive than flights </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundid-germanys-digital-id-shows-rising-engagement</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-21T12:17:10.000Z</news:publication_date>
       <news:title>Rising Child Sexual Abuse in Germany: Government Announces Tougher Measures </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/growing-number-of-homeless-people-in-germany-are-employed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T09:20:25.000Z</news:publication_date>
-      <news:title>Growing Number of Homeless People in Germany are Employed </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/your-next-doctor-visit-in-germany-could-come-with-a-fee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-21T08:11:35.000Z</news:publication_date>
-      <news:title>Your next Doctor visit in Germany could come with a fee! </news:title>
     </news:news>
   </url>
 

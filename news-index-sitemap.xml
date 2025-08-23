@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-announces-tough-debate-with-spd-on-social-welfare-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-23T15:04:34.000Z</news:publication_date>
+      <news:title> Merz announces tough debate with SPD on social welfare reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gottingen-court-orders-one-million-euro-compensation-for-birth-malpractice</loc>
     <news:news>
       <news:publication>

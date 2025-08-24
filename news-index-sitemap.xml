@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-school-quality-declines-further-in-2025-reports-iw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-24T16:24:01.000Z</news:publication_date>
+      <news:title>German School quality declines further in 2025, reports IW </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eibsee-lake-alpine-beauty-meets-overtourism</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2025-08-23T06:46:09.000Z</news:publication_date>
       <news:title>Berlin court clears way for renaming Mohrenstra?e </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-government-aims-to-cut-electricity-costs-for-households-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-22T15:13:33.000Z</news:publication_date>
-      <news:title>German government aims to cut electricity costs for households in 2026 </news:title>
     </news:news>
   </url>
 

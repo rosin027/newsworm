@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-leaders-warn-merz-against-criticizing-germanys-social-welfare-state</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T08:41:29.000Z</news:publication_date>
+      <news:title>SPD leaders warn Merz against criticizing Germany?s social welfare state </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/construction-sector-gains-momentum-in-germany-in-early-2025</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-08-23T10:33:48.000Z</news:publication_date>
       <news:title>Train travel in Europe often more expensive than flights </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundid-germanys-digital-id-shows-rising-engagement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T07:42:39.000Z</news:publication_date>
-      <news:title>BundID: Germany?s digital ID shows rising engagement </news:title>
     </news:news>
   </url>
 

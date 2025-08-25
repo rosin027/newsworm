@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/us-envoy-criticises-macron-for-inaction-on-rising-antisemitism-in-france</loc>
+    <loc>https://www.newsworm.de/news/us-envoy-criticizes-macron-for-inaction-on-rising-antisemitism-in-france</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-25T05:55:33.000Z</news:publication_date>
-      <news:title>US envoy criticises Macron for inaction on rising Antisemitism in France </news:title>
+      <news:title>US envoy criticizes Macron for inaction on rising Antisemitism in France </news:title>
     </news:news>
   </url>
 

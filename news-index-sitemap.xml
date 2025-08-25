@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/doctors-to-offer-more-services-and-better-care-starting-2026-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T15:08:01.000Z</news:publication_date>
+      <news:title>Doctors to offer more services and better care starting 2026 in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/winemakers-call-for-more-local-wine-consumption-to-save-vineyards</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-08-24T05:52:39.000Z</news:publication_date>
       <news:title>SPD?s Klingbeil calls for Steel summit to strengthen Industry and counter US tariffs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-announces-tough-debate-with-spd-on-social-welfare-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T15:04:34.000Z</news:publication_date>
-      <news:title> Merz announces tough debate with SPD on social welfare reforms </news:title>
     </news:news>
   </url>
 

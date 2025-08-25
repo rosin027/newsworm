@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/winemakers-call-for-more-local-wine-consumption-to-save-vineyards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-25T12:32:10.000Z</news:publication_date>
+      <news:title>Winemakers call for more local wine consumption to save vineyards </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-aims-to-use-ankle-bracelets-for-domestic-violence-offenders</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2025-08-23T15:04:34.000Z</news:publication_date>
       <news:title> Merz announces tough debate with SPD on social welfare reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gottingen-court-orders-one-million-euro-compensation-for-birth-malpractice</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T12:18:14.000Z</news:publication_date>
-      <news:title>G?ttingen court orders one million euro compensation for birth malpractice </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/train-travel-in-europe-often-more-expensive-than-flights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-23T10:33:48.000Z</news:publication_date>
-      <news:title>Train travel in Europe often more expensive than flights </news:title>
     </news:news>
   </url>
 

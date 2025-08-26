@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-reform-debate-voluntary-service-vs-calls-for-conscription</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-26T06:23:30.000Z</news:publication_date>
+      <news:title>Bundeswehr Reform Debate: Voluntary Service vs. calls for Conscription </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-launch-digital-wallet-for-id-cards-by-2026</loc>
     <news:news>
       <news:publication>

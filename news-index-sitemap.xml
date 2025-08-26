@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/flixtrain-promises-cheaper-travel-than-deutsche-bahn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-26T08:12:36.000Z</news:publication_date>
+      <news:title>FlixTrain promises cheaper travel than Deutsche Bahn </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundeswehr-reform-debate-voluntary-service-vs-calls-for-conscription</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-24T16:24:01.000Z</news:publication_date>
       <news:title>German School quality declines further in 2025, reports IW </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eibsee-lake-alpine-beauty-meets-overtourism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-24T07:01:37.000Z</news:publication_date>
-      <news:title>Eibsee Lake: Alpine Beauty Meets Overtourism </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bafin-investigates-paypal-over-alleged-fraudulent-transactions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T16:37:31.000Z</news:publication_date>
+      <news:title>BaFin investigates PayPal over alleged fraudulent transactions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-strengthens-bundeswehr-security-against-drone-threats</loc>
     <news:news>
       <news:publication>
@@ -143,42 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-25T19:03:14.000Z</news:publication_date>
       <news:title>Germany to launch digital wallet for ID cards by 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/polish-president-blocks-child-benefits-for-unemployed-ukrainian-refugees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T16:06:19.000Z</news:publication_date>
-      <news:title>Polish President blocks child benefits for unemployed Ukrainian refugees </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/doctors-to-offer-more-services-and-better-care-starting-2026-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T15:08:01.000Z</news:publication_date>
-      <news:title>Doctors to offer more services and better care starting 2026 in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/winemakers-call-for-more-local-wine-consumption-to-save-vineyards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T12:32:10.000Z</news:publication_date>
-      <news:title>Winemakers call for more local wine consumption to save vineyards </news:title>
     </news:news>
   </url>
 

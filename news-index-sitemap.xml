@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-launches-new-direct-trains-to-poland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T08:08:02.000Z</news:publication_date>
+      <news:title>Deutsche Bahn launches new direct trains to Poland </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trumps-50-tariffs-on-indian-goods-take-effect-today-over-russian-oil-purchases</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-25T08:41:29.000Z</news:publication_date>
       <news:title>SPD leaders warn Merz against criticizing Germany?s social welfare state </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/construction-sector-gains-momentum-in-germany-in-early-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T07:00:08.000Z</news:publication_date>
-      <news:title>Construction sector gains momentum in Germany in early 2025 </news:title>
     </news:news>
   </url>
 

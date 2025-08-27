@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-introduces-voluntary-military-service-model-to-strengthen-bundeswehr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T10:58:59.000Z</news:publication_date>
+      <news:title>Germany introduces voluntary military service model to strengthen Bundeswehr </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlins-autobahn-100-expansion-draws-criticism-over-climate-and-traffic</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-25T12:32:10.000Z</news:publication_date>
       <news:title>Winemakers call for more local wine consumption to save vineyards </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-aims-to-use-ankle-bracelets-for-domestic-violence-offenders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T10:17:32.000Z</news:publication_date>
-      <news:title>Germany aims to use ankle bracelets for domestic violence offenders </news:title>
     </news:news>
   </url>
 

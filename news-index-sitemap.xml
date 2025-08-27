@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/french-german-and-polish-leaders-visit-moldova-in-show-of-strength-against-russia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T05:31:29.000Z</news:publication_date>
+      <news:title>French, German and Polish leaders visit Moldova in show of strength against Russia </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-threatens-new-tariffs-on-countries-regulating-digital-platforms</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-25T05:55:33.000Z</news:publication_date>
       <news:title>US envoy criticizes Macron for inaction on rising Antisemitism in France </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-school-quality-declines-further-in-2025-reports-iw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-24T16:24:01.000Z</news:publication_date>
-      <news:title>German School quality declines further in 2025, reports IW </news:title>
     </news:news>
   </url>
 

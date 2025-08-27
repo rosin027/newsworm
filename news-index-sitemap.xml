@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlins-autobahn-100-expansion-draws-criticism-over-climate-and-traffic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-27T10:06:25.000Z</news:publication_date>
+      <news:title>Berlin?s Autobahn 100 expansion draws criticism over climate and traffic </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-launches-new-direct-trains-to-poland</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-25T10:17:32.000Z</news:publication_date>
       <news:title>Germany aims to use ankle bracelets for domestic violence offenders </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-leaders-warn-merz-against-criticizing-germanys-social-welfare-state</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T08:41:29.000Z</news:publication_date>
-      <news:title>SPD leaders warn Merz against criticizing Germany?s social welfare state </news:title>
     </news:news>
   </url>
 

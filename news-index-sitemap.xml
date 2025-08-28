@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/apprenticeship-trends-2024-germany-sees-growth-among-foreign-trainees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T08:38:57.000Z</news:publication_date>
+      <news:title>Apprenticeship Trends 2024: Germany sees growth among foreign trainees </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rheinmetall-launches-europes-biggest-munitions-factory-in-germany</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-26T09:34:21.000Z</news:publication_date>
       <news:title>Germany, Canada plan cooperation on critical raw materials </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/flixtrain-promises-cheaper-travel-than-deutsche-bahn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T08:12:36.000Z</news:publication_date>
-      <news:title>FlixTrain promises cheaper travel than Deutsche Bahn </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-reform-debate-voluntary-service-vs-calls-for-conscription</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T06:23:30.000Z</news:publication_date>
-      <news:title>Bundeswehr Reform Debate: Voluntary Service vs. calls for Conscription </news:title>
     </news:news>
   </url>
 

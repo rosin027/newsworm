@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/children-offered-for-sale-online-human-trafficking-hits-record-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T10:22:41.000Z</news:publication_date>
+      <news:title>Children Offered for Sale Online: Human Trafficking hits record in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/apprenticeship-trends-2024-germany-sees-growth-among-foreign-trainees</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-26T12:12:13.000Z</news:publication_date>
       <news:title>Trump threatens new tariffs on countries regulating digital platforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-canada-plan-cooperation-on-critical-raw-materials</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T09:34:21.000Z</news:publication_date>
-      <news:title>Germany, Canada plan cooperation on critical raw materials </news:title>
     </news:news>
   </url>
 

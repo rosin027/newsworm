@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rheinmetall-launches-europes-biggest-munitions-factory-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T03:31:44.000Z</news:publication_date>
+      <news:title>Rheinmetall launches Europe?s biggest munitions factory in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bafin-investigates-paypal-over-alleged-fraudulent-transactions</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-08-26T06:23:30.000Z</news:publication_date>
       <news:title>Bundeswehr Reform Debate: Voluntary Service vs. calls for Conscription </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-launch-digital-wallet-for-id-cards-by-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-25T19:03:14.000Z</news:publication_date>
-      <news:title>Germany to launch digital wallet for ID cards by 2026 </news:title>
     </news:news>
   </url>
 

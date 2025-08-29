@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/franco-german-council-in-toulon-merz-and-macron-discuss-eu-and-energy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T10:52:44.000Z</news:publication_date>
+      <news:title>Franco-German Council in Toulon: Merz and Macron discuss EU and Energy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/russias-devastating-strike-on-kyiv-kills-23-ignites-global-outrage</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-27T10:58:59.000Z</news:publication_date>
       <news:title>Germany introduces voluntary military service to strengthen Bundeswehr </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlins-autobahn-100-expansion-draws-criticism-over-climate-and-traffic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T10:06:25.000Z</news:publication_date>
-      <news:title>Berlin?s Autobahn 100 expansion draws criticism over climate and traffic </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-launches-new-direct-trains-to-poland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T08:08:02.000Z</news:publication_date>
-      <news:title>Deutsche Bahn launches new direct trains to Poland </news:title>
     </news:news>
   </url>
 

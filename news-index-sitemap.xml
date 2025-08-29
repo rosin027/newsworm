@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/trumps-50-tariffs-on-indian-goods-take-effect-today-over-russian-oil-purchases</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T06:22:16.000Z</news:publication_date>
-      <news:title>Trump?s 50% tariffs on Indian goods take effect today over Russian oil purchases </news:title>
-    </news:news>
-  </url>
-
 </urlset>

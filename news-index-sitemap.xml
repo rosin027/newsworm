@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/unemployment-in-germany-exceeds-3-million-for-first-time-in-a-decade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T11:45:51.000Z</news:publication_date>
+      <news:title>Unemployment in Germany exceeds 3 Million for first time in a decade </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/franco-german-council-in-toulon-merz-and-macron-discuss-eu-and-energy</loc>
     <news:news>
       <news:publication>
@@ -83,42 +95,6 @@
       </news:publication>
       <news:publication_date>2025-08-27T16:37:31.000Z</news:publication_date>
       <news:title>BaFin investigates PayPal over alleged fraudulent transactions </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-strengthens-bundeswehr-security-against-drone-threats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T11:34:00.000Z</news:publication_date>
-      <news:title>Germany strengthens Bundeswehr security against drone threats </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-first-national-security-council</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T11:16:14.000Z</news:publication_date>
-      <news:title>Germany approves first National Security Council </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-introduces-voluntary-military-service-to-strengthen-bundeswehr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T10:58:59.000Z</news:publication_date>
-      <news:title>Germany introduces voluntary military service to strengthen Bundeswehr </news:title>
     </news:news>
   </url>
 

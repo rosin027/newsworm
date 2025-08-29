@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/september-2025-in-germany-important-changes-you-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-28T14:09:34.000Z</news:publication_date>
+      <news:title>September 2025 in Germany: Important changes you need to know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/children-offered-for-sale-online-human-trafficking-hits-record-in-germany</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-27T05:31:29.000Z</news:publication_date>
       <news:title>French, German and Polish leaders visit Moldova in show of strength against Russia </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-threatens-new-tariffs-on-countries-regulating-digital-platforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-26T12:12:13.000Z</news:publication_date>
-      <news:title>Trump threatens new tariffs on countries regulating digital platforms </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/russias-devastating-strike-on-kyiv-kills-23-ignites-global-outrage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-29T06:33:17.000Z</news:publication_date>
+      <news:title>Russia?s devastating strike on Kyiv kills 23, ignites global outrage </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/september-2025-in-germany-important-changes-you-need-to-know</loc>
     <news:news>
       <news:publication>

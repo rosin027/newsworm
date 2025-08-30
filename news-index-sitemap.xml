@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/hope-and-hate-how-the-migrant-wave-redefined-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-30T12:23:27.000Z</news:publication_date>
+      <news:title>Hope and Hate: How the migrant wave redefined Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/should-germany-change-its-national-anthem-and-flag</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-08-28T14:09:34.000Z</news:publication_date>
       <news:title>September 2025 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/children-offered-for-sale-online-human-trafficking-hits-record-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T10:22:41.000Z</news:publication_date>
-      <news:title>Children Offered for Sale Online: Human Trafficking hits record in Germany </news:title>
     </news:news>
   </url>
 

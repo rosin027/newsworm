@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/europe-triggers-un-sanctions-on-iran-but-leaves-30-days-for-diplomacy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-30T06:16:48.000Z</news:publication_date>
+      <news:title>Europe triggers UN sanctions on Iran but leaves 30 days for diplomacy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unemployment-in-germany-exceeds-3-million-for-first-time-in-a-decade</loc>
     <news:news>
       <news:publication>
@@ -71,30 +83,6 @@
       </news:publication>
       <news:publication_date>2025-08-28T08:38:57.000Z</news:publication_date>
       <news:title>Apprenticeship Trends: Germany sees growth among foreign trainees </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rheinmetall-launches-europes-biggest-munitions-factory-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-28T03:31:44.000Z</news:publication_date>
-      <news:title>Rheinmetall launches Europe?s biggest munitions factory in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bafin-investigates-paypal-over-alleged-fraudulent-transactions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-27T16:37:31.000Z</news:publication_date>
-      <news:title>BaFin investigates PayPal over alleged fraudulent transactions </news:title>
     </news:news>
   </url>
 

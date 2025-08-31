@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-plans-to-freeze-citizens-benefit-in-2026</loc>
+    <loc>https://www.newsworm.de/news/citizens-benefit-stays-the-same-while-asylum-payments-on-the-rise</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-08-31T06:24:52.000Z</news:publication_date>
-      <news:title>Germany plans to freeze citizen?s benefit in 2026 </news:title>
+      <news:title>Citizen?s benefit stays the same while asylum payments on the rise </news:title>
     </news:news>
   </url>
 
@@ -83,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-08-29T10:52:44.000Z</news:publication_date>
       <news:title>Franco-German Council in Toulon: Merz and Macron discuss EU and Energy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/russias-devastating-strike-on-kyiv-kills-23-ignites-global-outrage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-29T06:33:17.000Z</news:publication_date>
-      <news:title>Russia?s devastating strike on Kyiv kills 23, ignites global outrage </news:title>
     </news:news>
   </url>
 

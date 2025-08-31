@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/friedland-teen-dies-after-alleged-push-onto-train-iraqi-suspect-detained</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-31T09:45:14.000Z</news:publication_date>
+      <news:title>Friedland teen dies after alleged push onto train, Iraqi suspect detained </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-switching-gas-tariffs-in-germany-could-save-you-eu-1000-a-year</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-and-soder-rule-out-tax-hikes-despite-spd-proposals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-31T14:39:05.000Z</news:publication_date>
+      <news:title>Merz and S?der rule out tax hikes despite SPD proposals </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/friedland-teen-dies-after-alleged-push-onto-train-iraqi-suspect-detained</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2025-08-30T06:16:48.000Z</news:publication_date>
       <news:title>Europe triggers UN sanctions on Iran but leaves 30 days for diplomacy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unemployment-in-germany-exceeds-3-million-for-first-time-in-a-decade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-29T11:45:51.000Z</news:publication_date>
-      <news:title>Unemployment in Germany exceeds 3 Million for first time in a decade </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/franco-german-council-in-toulon-merz-and-macron-discuss-eu-and-energy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-29T10:52:44.000Z</news:publication_date>
-      <news:title>Franco-German Council in Toulon: Merz and Macron discuss EU and Energy </news:title>
     </news:news>
   </url>
 

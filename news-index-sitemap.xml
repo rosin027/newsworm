@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/devastating-earthquake-in-eastern-afghanistan-kills-over-600</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T07:34:17.000Z</news:publication_date>
+      <news:title>Devastating earthquake in eastern Afghanistan kills over 600 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-led-consortium-wins-15-year-contract-to-run-berlin-s-bahn</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-08-30T09:39:31.000Z</news:publication_date>
       <news:title>Should Germany change its National Anthem and Flag? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-triggers-un-sanctions-on-iran-but-leaves-30-days-for-diplomacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-30T06:16:48.000Z</news:publication_date>
-      <news:title>Europe triggers UN sanctions on Iran but leaves 30 days for diplomacy </news:title>
     </news:news>
   </url>
 

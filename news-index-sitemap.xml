@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/should-mandatory-military-service-in-germany-apply-to-women-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T12:02:09.000Z</news:publication_date>
+      <news:title>Mandatory for men, optional for women: Is the new military service fair? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-primary-care-landscape-general-practitioner-statistics-and-trends</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-30T12:23:27.000Z</news:publication_date>
       <news:title>Hope and Hate: How the migrant wave redefined Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/should-germany-change-its-national-anthem-and-flag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-30T09:39:31.000Z</news:publication_date>
-      <news:title>Should Germany change its National Anthem and Flag? </news:title>
     </news:news>
   </url>
 

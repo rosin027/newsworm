@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/sap-to-invest-20-billion-euros-in-europes-digital-sovereignty</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T16:23:35.000Z</news:publication_date>
+      <news:title>?SAP to invest ?20 billion in Europe?s digital sovereignty </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-small-loans-surge-schufa-warns-of-rising-debt-risk</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-31T18:17:54.000Z</news:publication_date>
       <news:title>Merz warns war in Ukraine could last long, focuses on defense support </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-and-soder-rule-out-tax-hikes-despite-spd-proposals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T14:39:05.000Z</news:publication_date>
-      <news:title>Merz and S?der rule out tax hikes despite SPD proposals </news:title>
     </news:news>
   </url>
 

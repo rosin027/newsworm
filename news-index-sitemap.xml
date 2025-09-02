@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/chancellor-merz-proposes-eu5-billion-cuts-to-citizens-benefit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T18:40:01.000Z</news:publication_date>
+      <news:title>Chancellor Merz proposes ?5 billion cuts to citizen?s benefit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sap-to-invest-20-billion-euros-in-europes-digital-sovereignty</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-08-31T18:47:14.000Z</news:publication_date>
       <news:title>Deutsche Bahn led consortium wins 15 year contract to run Berlin S-Bahn </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-warns-war-in-ukraine-could-last-long-focuses-on-defense-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T18:17:54.000Z</news:publication_date>
-      <news:title>Merz warns war in Ukraine could last long, focuses on defense support </news:title>
     </news:news>
   </url>
 

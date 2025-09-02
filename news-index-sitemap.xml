@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/car-insurance-could-rise-for-5-million-drivers-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T11:06:55.000Z</news:publication_date>
+      <news:title>Car insurance could rise for 5 million drivers in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/putin-and-xi-hail-unprecedented-russia-china-ties</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-08-31T14:39:05.000Z</news:publication_date>
       <news:title>Merz and S?der rule out tax hikes despite SPD proposals </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/friedland-teen-dies-after-alleged-push-onto-train-iraqi-suspect-detained</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-08-31T09:45:14.000Z</news:publication_date>
-      <news:title>Friedland teen dies after alleged push onto train, Iraqi suspect detained </news:title>
     </news:news>
   </url>
 

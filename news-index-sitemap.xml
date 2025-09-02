@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-small-loans-surge-schufa-warns-of-rising-debt-risk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-02T13:43:26.000Z</news:publication_date>
+      <news:title>Germany?s Small Loans Surge: Schufa warns of rising debt risk </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/car-insurance-could-rise-for-5-million-drivers-in-germany</loc>
     <news:news>
       <news:publication>

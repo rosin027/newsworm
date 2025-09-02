@@ -15,6 +15,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/hamburg-files-lawsuit-against-milka-for-misleading-packaging</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-01T18:39:20.000Z</news:publication_date>
+      <news:title>Hamburg files lawsuit against Milka for misleading packaging </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afghan-families-granted-entry-to-germany-from-pakistan</loc>
     <news:news>
       <news:publication>

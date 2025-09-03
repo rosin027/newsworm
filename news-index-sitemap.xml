@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-cracks-down-on-misleading-eco-friendly-claims-in-advertising</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-03T14:12:11.000Z</news:publication_date>
+      <news:title>Germany cracks down on misleading ?Eco-Friendly? claims in advertising </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/energy-relief-stronger-pensions-and-migration-updates-how-germanys-new-policies-affect-you</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-01T15:06:41.000Z</news:publication_date>
       <news:title>Afghan families granted entry into Germany from Pakistan </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/should-mandatory-military-service-in-germany-apply-to-women-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T12:02:09.000Z</news:publication_date>
-      <news:title>Mandatory for men, optional for women: Is the new military service fair? </news:title>
     </news:news>
   </url>
 

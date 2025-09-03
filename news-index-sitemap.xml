@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/openai-to-add-parental-controls-to-chatgpt-after-teens-death</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-03T17:26:51.000Z</news:publication_date>
+      <news:title>OpenAI to add parental controls to ChatGPT after teen&apos;s death </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-cracks-down-on-misleading-eco-friendly-claims-in-advertising</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-01T18:39:20.000Z</news:publication_date>
       <news:title>Hamburg files lawsuit against Milka for misleading packaging </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afghan-families-granted-entry-to-germany-from-pakistan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T15:06:41.000Z</news:publication_date>
-      <news:title>Afghan families granted entry into Germany from Pakistan </news:title>
     </news:news>
   </url>
 

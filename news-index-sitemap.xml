@@ -134,28 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-primary-care-landscape-general-practitioner-statistics-and-trends</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T08:27:29.000Z</news:publication_date>
-      <news:title>Germany?s Primary Care Landscape: General Practitioner Statistics and Trends  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/devastating-earthquake-in-eastern-afghanistan-kills-over-600</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-01T07:34:17.000Z</news:publication_date>
-      <news:title>Devastating earthquake in eastern Afghanistan kills over 600 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

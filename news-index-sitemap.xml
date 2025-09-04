@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/macron-says-26-countries-ready-to-deploy-troops-for-ukraine-ceasefire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T18:39:06.000Z</news:publication_date>
+      <news:title>Macron says 26 countries ready to deploy troops for Ukraine ceasefire </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/asylum-requests-drop-sharply-in-germany-60-fewer-than-last-year</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-02T18:40:01.000Z</news:publication_date>
       <news:title>Chancellor Merz proposes ?5 billion cuts to citizen?s benefit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/sap-to-invest-20-billion-euros-in-europes-digital-sovereignty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-02T16:23:35.000Z</news:publication_date>
-      <news:title>SAP to invest ?20 billion in Europe?s digital sovereignty </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/flixtrain-boosts-mobility-300-cities-added-via-regional-rail-partnership</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T09:13:19.000Z</news:publication_date>
+      <news:title>Flixtrain Boosts Mobility: 300 cities added via Regional Rail partnership </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-risks-losing-one-third-of-workforce-as-baby-boomers-retire</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-02T11:06:55.000Z</news:publication_date>
       <news:title>Car insurance could rise for 5 million drivers in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/putin-and-xi-hail-unprecedented-russia-china-ties</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-02T08:44:49.000Z</news:publication_date>
-      <news:title>Putin and Xi hail ?unprecedented? Russia-China ties  </news:title>
     </news:news>
   </url>
 

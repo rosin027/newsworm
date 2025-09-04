@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/asylum-requests-drop-sharply-in-germany-60-fewer-than-last-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-04T15:48:39.000Z</news:publication_date>
+      <news:title>Asylum requests drop sharply in Germany, 60% fewer than last year </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lisbon-funicular-derailment-kills-19-injures-21</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-02T16:23:35.000Z</news:publication_date>
       <news:title>SAP to invest ?20 billion in Europe?s digital sovereignty </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-small-loans-surge-schufa-warns-of-rising-debt-risk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-02T13:43:26.000Z</news:publication_date>
-      <news:title>Germany?s Small Loans Surge: Schufa warns of rising debt risk </news:title>
     </news:news>
   </url>
 

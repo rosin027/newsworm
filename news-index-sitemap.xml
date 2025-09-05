@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-jupiter-europes-fastest-supercomputer-to-boost-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-05T05:33:05.000Z</news:publication_date>
+      <news:title>Germany launches Jupiter, Europe?s fastest Supercomputer to boost AI </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/macron-says-26-countries-ready-to-deploy-troops-for-ukraine-ceasefire</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-03T06:31:11.000Z</news:publication_date>
       <news:title>Beijing military parade marks 80 years since WWII with Xi, Kim &amp; Putin </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-makes-germany-attractive-for-international-students</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-02T18:50:13.000Z</news:publication_date>
-      <news:title>What Makes Germany Attractive for International Students? </news:title>
     </news:news>
   </url>
 

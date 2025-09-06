@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bmw-ceo-confident-in-neue-klasse-evs-for-china-market-growth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-06T08:31:27.000Z</news:publication_date>
+      <news:title>BMW CEO confident in &quot;Neue Klasse&quot; EVs for China market growth </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-pledges-1million-euros-to-save-struggling-wine-industry</loc>
     <news:news>
       <news:publication>

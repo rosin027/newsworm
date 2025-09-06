@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bas-plans-higher-social-insurance-contribution-ceilings-amid-reform-debate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-06T15:40:01.000Z</news:publication_date>
+      <news:title>Bas plans higher social insurance contribution ceilings amid reform debate </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-fines-google-2-95-billion-euros-citing-adtech-monopoly</loc>
     <news:news>
       <news:publication>

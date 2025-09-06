@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-fines-google-2-95-billion-euros-citing-adtech-monopoly</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-06T11:07:56.000Z</news:publication_date>
+      <news:title>EU fines Google ?2.95 Billion, citing adtech monopoly </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bmw-ceo-predicts-growth-in-china-with-new-ev-lineup</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-09-04T11:08:57.000Z</news:publication_date>
       <news:title>Lisbon funicular derailment kills 19, injures 21 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/flixtrain-boosts-mobility-300-cities-added-via-regional-rail-partnership</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-04T09:13:19.000Z</news:publication_date>
-      <news:title>Flixtrain Boosts Mobility: 300 cities added via Regional Rail partnership </news:title>
     </news:news>
   </url>
 

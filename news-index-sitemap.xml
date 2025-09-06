@@ -110,16 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/lisbon-funicular-derailment-kills-19-injures-21</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-04T11:08:57.000Z</news:publication_date>
-      <news:title>Lisbon funicular derailment kills 19, injures 21 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

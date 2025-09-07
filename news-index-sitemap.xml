@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-faces-pilot-strike-ballot-over-pension-dispute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-07T10:07:34.000Z</news:publication_date>
+      <news:title>Lufthansa faces Pilot strike ballot over pension dispute </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/total-lunar-eclipse-to-dazzle-skywatchers-across-parts-of-germany</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2025-09-05T15:02:24.000Z</news:publication_date>
       <news:title>Statutory health insurance struggles with costs, Warken urges reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-industrial-sector-sees-continued-slowdown-in-july</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-05T08:46:29.000Z</news:publication_date>
-      <news:title>German Industrial Sector Sees Continued Slowdown in July </news:title>
     </news:news>
   </url>
 

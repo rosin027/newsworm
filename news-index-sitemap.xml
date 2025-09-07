@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/total-lunar-eclipse-to-dazzle-skywatchers-across-parts-of-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-07T07:51:12.000Z</news:publication_date>
+      <news:title>Total Lunar Eclipse to Dazzle Skywatchers Across Parts of Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/csu-leader-soder-unveils-10-point-plan-to-revive-germanys-auto-industry</loc>
     <news:news>
       <news:publication>

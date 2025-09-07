@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/csu-leader-soder-unveils-10-point-plan-to-revive-germanys-auto-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-07T06:34:09.000Z</news:publication_date>
+      <news:title>CSU leader S?der unveils 10-point plan to revive Germany?s auto industry </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bas-plans-higher-social-insurance-contribution-ceilings-amid-reform-debate</loc>
     <news:news>
       <news:publication>
@@ -83,42 +95,6 @@
       </news:publication>
       <news:publication_date>2025-09-05T08:26:51.000Z</news:publication_date>
       <news:title>Putin threatens to target Western troops in Ukraine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-jupiter-europes-fastest-supercomputer-to-boost-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-05T05:33:05.000Z</news:publication_date>
-      <news:title>Germany launches Jupiter, Europe?s fastest Supercomputer to boost AI </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/macron-says-26-countries-ready-to-deploy-troops-for-ukraine-ceasefire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-04T18:39:06.000Z</news:publication_date>
-      <news:title>Macron says 26 countries ready to deploy troops for Ukraine ceasefire </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/asylum-requests-drop-sharply-in-germany-60-fewer-than-last-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-04T15:48:39.000Z</news:publication_date>
-      <news:title>Asylum requests drop sharply in Germany, 60% fewer than last year </news:title>
     </news:news>
   </url>
 

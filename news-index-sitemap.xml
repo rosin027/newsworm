@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/france-government-falls-pm-bayrou-ousted-over-eu44b-austerity-vote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T18:08:33.000Z</news:publication_date>
+      <news:title>France Government Falls: PM Bayrou Ousted Over ?44B Austerity Vote </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-presents-20k-euros-affordable-electric-cars-in-munich</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-09-07T06:34:09.000Z</news:publication_date>
       <news:title>CSU leader S?der unveils 10-point plan to revive Germany?s auto industry </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bas-plans-higher-social-insurance-contribution-ceilings-amid-reform-debate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-06T15:40:01.000Z</news:publication_date>
-      <news:title>Bas plans higher social insurance contribution ceilings amid reform debate </news:title>
     </news:news>
   </url>
 

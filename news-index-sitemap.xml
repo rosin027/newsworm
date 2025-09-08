@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/macron-in-turmoil-as-french-parliament-set-to-oust-pm-bayrou</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T05:57:05.000Z</news:publication_date>
+      <news:title>Macron in turmoil as French parliament set to oust PM Bayrou </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ecb-set-to-hold-rates-steady-at-2-with-eye-on-france-crisis</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-09-06T08:31:27.000Z</news:publication_date>
       <news:title>BMW CEO predicts growth in China with new EV lineup </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-pledges-1million-euros-to-save-struggling-wine-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-06T05:05:43.000Z</news:publication_date>
-      <news:title>Germany pledges ?1 Million to save struggling Wine industry </news:title>
     </news:news>
   </url>
 

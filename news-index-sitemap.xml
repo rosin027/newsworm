@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-exports-to-u-s-plunge-to-lowest-in-almost-four-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T08:55:39.000Z</news:publication_date>
+      <news:title>German exports to U.S. plunge to lowest in almost four years </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/macron-in-turmoil-as-french-parliament-set-to-oust-pm-bayrou</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-09-06T11:07:56.000Z</news:publication_date>
       <news:title>EU fines Google ?2.95 Billion, citing adtech monopoly </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-ceo-predicts-growth-in-china-with-new-ev-lineup</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-06T08:31:27.000Z</news:publication_date>
-      <news:title>BMW CEO predicts growth in China with new EV lineup </news:title>
     </news:news>
   </url>
 

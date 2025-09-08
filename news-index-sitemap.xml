@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ecb-set-to-hold-rates-steady-at-2-with-eye-on-france-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T03:45:31.000Z</news:publication_date>
+      <news:title>ECB set to hold rates steady at 2% with eye on France crisis </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dozens-injured-in-mass-crashes-at-riderman-cycling-race-in-germany</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-09-06T05:05:43.000Z</news:publication_date>
       <news:title>Germany pledges ?1 Million to save struggling Wine industry </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/statutory-health-insurance-struggles-with-costs-warken-urges-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-05T15:02:24.000Z</news:publication_date>
-      <news:title>Statutory health insurance struggles with costs, Warken urges reform </news:title>
     </news:news>
   </url>
 

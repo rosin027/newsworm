@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/missed-flight-due-to-delayed-train-court-rejects-claim-for-compensation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T09:40:07.000Z</news:publication_date>
+      <news:title>Missed Flight Due to Delayed Train: Court Rejects Claim for Compensation </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tens-of-thousands-lose-power-in-berlin-after-suspected-pylon-arson</loc>
     <news:news>
       <news:publication>

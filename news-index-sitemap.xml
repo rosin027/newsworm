@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/mistral-strengthens-leadership-in-europes-ai-sector-with-big-funding</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-09T16:30:49.000Z</news:publication_date>
+      <news:title>Mistral strengthens leadership in Europe?s AI sector with big funding </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-approves-landmark-law-to-slash-food-and-textile-waste</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-09-08T03:45:31.000Z</news:publication_date>
       <news:title>ECB set to hold rates steady at 2% with eye on France crisis </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dozens-injured-in-mass-crashes-at-riderman-cycling-race-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-07T14:13:01.000Z</news:publication_date>
-      <news:title>Dozens injured in mass crashes at RiderMan cycling race in Germany </news:title>
     </news:news>
   </url>
 

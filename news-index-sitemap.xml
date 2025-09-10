@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-tax-relief-package-with-commuter-restaurant-and-farm-benefits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-10T09:44:42.000Z</news:publication_date>
+      <news:title>German cabinet approves tax relief package: Commuter, Restaurant and Farm Benefits </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-chief-von-der-leyen-to-defend-eu-us-trade-deal-in-parliament</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2025-09-08T11:07:50.000Z</news:publication_date>
       <news:title>European carmakers on track to meet emission targets </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-exports-to-us-plunge-to-lowest-in-almost-four-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T08:55:39.000Z</news:publication_date>
-      <news:title>German exports to U.S. plunge to lowest in almost four years </news:title>
     </news:news>
   </url>
 

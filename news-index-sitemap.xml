@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/russian-drones-in-poland-put-nato-to-the-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-10T18:36:39.000Z</news:publication_date>
+      <news:title>Russian drones in Poland put NATO to the test </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-government-wants-to-better-protect-crucial-infrastructure</loc>
     <news:news>
       <news:publication>

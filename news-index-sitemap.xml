@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-chief-von-der-leyen-to-defend-eu-us-trade-deal-in-parliament</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-10T06:32:45.000Z</news:publication_date>
+      <news:title>EU chief Von der Leyen to defend EU-US trade deal in parliament </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sebastien-lecornu-takes-office-as-frances-new-prime-minister</loc>
     <news:news>
       <news:publication>

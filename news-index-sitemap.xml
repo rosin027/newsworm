@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/sebastien-lecornu-takes-office-as-frances-new-prime-minister</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-10T03:55:27.000Z</news:publication_date>
+      <news:title>S?bastien Lecornu takes office as France?s new Prime Minister </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nationwide-alert-day-in-germany-why-its-crucial-for-public-safety</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2025-09-08T05:57:05.000Z</news:publication_date>
       <news:title>Macron in turmoil as French parliament set to oust PM Bayrou </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ecb-set-to-hold-rates-steady-at-2-with-eye-on-france-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-08T03:45:31.000Z</news:publication_date>
-      <news:title>ECB set to hold rates steady at 2% with eye on France crisis </news:title>
     </news:news>
   </url>
 

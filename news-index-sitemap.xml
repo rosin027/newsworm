@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-group-submits-vote-of-no-confidence-against-ursula-von-der-leyen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T11:21:33.000Z</news:publication_date>
+      <news:title>Left group submits vote of no confidence against Ursula von der Leyen </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-education-rankings-2025-saxony-leads-bremen-at-the-bottom</loc>
     <news:news>
       <news:publication>

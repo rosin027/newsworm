@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/automakers-and-ig-metall-demand-stronger-push-for-e-mobility</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-11T14:10:20.000Z</news:publication_date>
+      <news:title>Automakers and IG Metall demand stronger push for e-mobility </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/historic-showdown-eu-commission-faces-two-no-confidence-motions</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2025-09-09T16:30:49.000Z</news:publication_date>
       <news:title>Mistral strengthens leadership in Europe?s AI sector with big funding </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-approves-landmark-law-to-slash-food-and-textile-waste</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-09T14:02:37.000Z</news:publication_date>
-      <news:title>EU approves landmark law to slash food and textile waste </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-government-plans-reform-to-expand-skills-of-nursing-staff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T03:55:34.000Z</news:publication_date>
+      <news:title>German government plans reform to expand skills of nursing staff </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/statutory-health-insurers-to-file-10-billion-euros-lawsuit-against-german-government</loc>
     <news:news>
       <news:publication>
@@ -11,18 +23,6 @@
       </news:publication>
       <news:publication_date>2025-09-12T03:47:07.000Z</news:publication_date>
       <news:title>Statutory health insurers to file ?10 Billion lawsuit against German government </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-health-insurers-sue-government</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-11T19:13:51.000Z</news:publication_date>
-      <news:title>Statutory health insurers to file ?10B lawsuit against German government </news:title>
     </news:news>
   </url>
 

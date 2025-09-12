@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/europes-top-destinations-for-german-emigrants-revealed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-12T10:32:08.000Z</news:publication_date>
+      <news:title>Europe?s Top Destinations for German Emigrants Revealed </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-government-plans-reform-to-expand-skills-of-nursing-staff</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-10T12:39:42.000Z</news:publication_date>
       <news:title>German cabinet approves no rise in citizen&apos;s benefit in 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-tax-relief-package-with-commuter-restaurant-and-farm-benefits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T09:44:42.000Z</news:publication_date>
-      <news:title>German cabinet approves tax relief package to ease citizens? costs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-chief-von-der-leyen-to-defend-eu-us-trade-deal-in-parliament</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-10T06:32:45.000Z</news:publication_date>
-      <news:title>EU chief Von der Leyen to defend EU-US trade deal in parliament </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/epp-leader-weber-vows-to-scrap-eu-combustion-engine-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-13T07:05:59.000Z</news:publication_date>
+      <news:title>EPP leader Weber vows to scrap EU combustion engine ban </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/essen-knife-attack-federal-prosecutors-office-suspects-islamist-motive</loc>
     <news:news>
       <news:publication>

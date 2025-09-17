@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germans-turn-to-digital-health-apps-as-insurers-cover-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-17T03:27:33.000Z</news:publication_date>
+      <news:title>Germans Turn to Digital Health Apps as Insurers Cover Costs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/steinmeier-calls-for-bold-reforms-to-strengthen-germanys-welfare-system</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-15T05:44:45.000Z</news:publication_date>
       <news:title>Pharmacists warn of severe medicine shortages in Germany this winter </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/train-delays-after-fire-at-switch-box-near-hanover-police-investigate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-14T16:16:36.000Z</news:publication_date>
-      <news:title>Train delays after fire at switch box near Hanover, police investigate </news:title>
     </news:news>
   </url>
 

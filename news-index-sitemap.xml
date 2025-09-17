@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/poor-pay-high-stress-retail-workers-in-germany-speak-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-17T07:39:35.000Z</news:publication_date>
+      <news:title>Poor Pay, High Stress: Retail Workers in Germany Speak Out </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germans-turn-to-digital-health-apps-as-insurers-cover-costs</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-15T08:32:27.000Z</news:publication_date>
       <news:title>NRW Elections 2025: CDU leads, AfD surges, SPD and Greens lose ground </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pharmacists-warn-of-severe-medicine-shortages-in-germany-this-winter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-15T05:44:45.000Z</news:publication_date>
-      <news:title>Pharmacists warn of severe medicine shortages in Germany this winter </news:title>
     </news:news>
   </url>
 

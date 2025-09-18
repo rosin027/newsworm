@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/inaugural-visit-of-polish-president-nawrocki-brings-reparations-to-forefront</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-16T08:09:26.000Z</news:publication_date>
-      <news:title>Inaugural visit of Polish president Nawrocki brings reparations to forefront </news:title>
-    </news:news>
-  </url>
-
 </urlset>

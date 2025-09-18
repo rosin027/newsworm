@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tires-of-more-than-260-cars-punctured-in-bremen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-18T11:47:34.000Z</news:publication_date>
+      <news:title>Tires of more than 260 cars punctured in Bremen </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/flight-delays-possible-as-hamburg-airport-experiences-fuel-shortage</loc>
     <news:news>
       <news:publication>

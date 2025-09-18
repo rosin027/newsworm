@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/17-6-million-children-received-child-benefits-in-germany-in-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-18T12:47:02.000Z</news:publication_date>
+      <news:title>17.6 Million Children Received Child Benefits in Germany in 2024 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tires-of-more-than-260-cars-punctured-in-bremen</loc>
     <news:news>
       <news:publication>

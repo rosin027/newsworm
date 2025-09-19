@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tiktok-faces-four-day-strike-in-berlin-over-ai-driven-job-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-19T11:46:01.000Z</news:publication_date>
+      <news:title>TikTok faces four-day strike in Berlin over AI driven job cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/oktoberfest-2025-high-alert-but-no-direct-danger-to-visitors</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-17T12:51:16.000Z</news:publication_date>
       <news:title>Chancellor Merz vows &apos;autumn of reforms&apos; in turbulent times </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/oktoberfest-2025-in-munich-dates-history-and-must-see-events</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-17T11:40:16.000Z</news:publication_date>
-      <news:title>Oktoberfest 2025 in Munich: Dates, History, and Must-See Events </news:title>
     </news:news>
   </url>
 

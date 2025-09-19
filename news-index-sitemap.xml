@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/can-trial-living-revive-shrinking-towns-in-eastern-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-19T05:55:02.000Z</news:publication_date>
+      <news:title>Can Trial-Living Revive Shrinking Towns in Eastern Germany? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-approves-germanys-2025-budget-with-record-investment-plans</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-17T07:39:35.000Z</news:publication_date>
       <news:title>Poor Pay, High Stress: Retail Workers in Germany Speak Out </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germans-turn-to-digital-health-apps-as-insurers-cover-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-17T03:27:33.000Z</news:publication_date>
-      <news:title>Germans Turn to Digital Health Apps as Insurers Cover Costs </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gdl-chief-reiss-accuses-deutsche-bahn-of-manipulating-punctuality-statistics</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T06:18:19.000Z</news:publication_date>
+      <news:title>GDL chief Rei? accuses Deutsche Bahn of manipulating punctuality statistics </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tiktok-faces-four-day-strike-in-berlin-over-ai-driven-job-cuts</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-18T07:48:32.000Z</news:publication_date>
       <news:title>43.8 Million Homes in Germany by 2024: Insights on Space Trends </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-criticism-of-israel-can-be-necessary-support-is-non-negotiable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-18T03:40:58.000Z</news:publication_date>
-      <news:title>Merz: Criticism of Israel Can Be Necessary, Support Is Non-Negotiable </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/chancellor-merz-vows-autumn-of-reforms-in-turbulent-times</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-17T12:51:16.000Z</news:publication_date>
-      <news:title>Chancellor Merz vows &apos;autumn of reforms&apos; in turbulent times </news:title>
     </news:news>
   </url>
 

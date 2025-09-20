@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-firms-grapple-with-rising-cyberattacks-from-russia-and-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-20T07:44:35.000Z</news:publication_date>
+      <news:title>German firms grapple with rising cyberattacks from Russia and China </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gdl-chief-reiss-accuses-deutsche-bahn-of-manipulating-punctuality-statistics</loc>
     <news:news>
       <news:publication>

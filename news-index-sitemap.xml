@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/health-minister-to-evaluate-smoking-ban-in-cars-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-21T12:02:58.000Z</news:publication_date>
+      <news:title>Health Minister to evaluate smoking ban in cars in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/climate-change-boosts-northern-germany-vineyards</loc>
     <news:news>
       <news:publication>
@@ -59,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-09-20T06:18:19.000Z</news:publication_date>
       <news:title>GDL chief Rei? accuses Deutsche Bahn of manipulating punctuality statistics </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tiktok-faces-four-day-strike-in-berlin-over-ai-driven-job-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-19T11:46:01.000Z</news:publication_date>
-      <news:title>TikTok faces four-day strike in Berlin over AI driven job cuts </news:title>
     </news:news>
   </url>
 

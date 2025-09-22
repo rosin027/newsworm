@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/autumn-in-germany-2025-a-look-at-changing-leaves-and-ancient-wisdom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-22T07:13:44.000Z</news:publication_date>
+      <news:title>Autumn in Germany 2025: A Look at Changing Leaves and Ancient Wisdom </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/health-minister-to-evaluate-smoking-ban-in-cars-in-germany</loc>
     <news:news>
       <news:publication>
@@ -47,30 +59,6 @@
       </news:publication>
       <news:publication_date>2025-09-20T07:44:35.000Z</news:publication_date>
       <news:title>German firms grapple with rising cyberattacks from Russia and China </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/porsche-slows-electric-shift-vw-braces-for-5b-euros-hit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T06:28:33.000Z</news:publication_date>
-      <news:title>Porsche slows electric shift, VW braces for ?5B hit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gdl-chief-reiss-accuses-deutsche-bahn-of-manipulating-punctuality-statistics</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-20T06:18:19.000Z</news:publication_date>
-      <news:title>GDL chief Rei? accuses Deutsche Bahn of manipulating punctuality statistics </news:title>
     </news:news>
   </url>
 

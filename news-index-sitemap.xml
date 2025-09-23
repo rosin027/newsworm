@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-shifting-workforce-shorter-hours-and-job-security-top-priorities</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-23T13:56:55.000Z</news:publication_date>
+      <news:title>Germany&apos;s Shifting Workforce: Shorter Hours and Job Security Top Priorities </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-households-face-rising-heating-costs-in-2025</loc>
     <news:news>
       <news:publication>

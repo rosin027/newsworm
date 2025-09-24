@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/chancellor-merz-calls-for-growth-reform-and-balanced-climate-strategy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-24T09:23:35.000Z</news:publication_date>
+      <news:title>Chancellor Merz calls for growth, reform, and balanced climate strategy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-warns-of-more-flight-cuts-in-germany-over-rising-costs</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-09-22T11:25:33.000Z</news:publication_date>
       <news:title>CDU pushes for stricter EU regulations on work and social benefits </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/evelyn-palla-nominated-as-deutsche-bahn-ceo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-22T08:33:18.000Z</news:publication_date>
-      <news:title>Evelyn Palla Nominated as Deutsche Bahn CEO </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/autumn-in-germany-2025-a-look-at-changing-leaves-and-ancient-wisdom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-22T07:13:44.000Z</news:publication_date>
-      <news:title>Autumn in Germany 2025: A Look at Changing Leaves and Ancient Wisdom </news:title>
     </news:news>
   </url>
 

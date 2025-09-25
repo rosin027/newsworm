@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bosch-to-cut-13000-jobs-in-germany-amid-auto-industry-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-25T18:00:54.000Z</news:publication_date>
+      <news:title>Bosch to cut 13,000 jobs in Germany amid auto industry crisis </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-pledges-35-billion-euro-for-space-defense-against-russia-china</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-pledges-35-billion-euro-for-space-defense-against-russia-china</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-25T14:47:16.000Z</news:publication_date>
+      <news:title>Germany pledges ?35 billion for space defense against Russia, China </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/relief-for-eu-auto-industry-as-us-reduces-tariffs-on-cars-retroactively</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-23T18:45:10.000Z</news:publication_date>
       <news:title>Berlin gang defrauds job centers and employment agencies of ?900,000 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-shifting-workforce-shorter-hours-and-job-security-top-priorities</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-23T13:56:55.000Z</news:publication_date>
-      <news:title>Germany&apos;s Shifting Workforce: Shorter Hours and Job Security Top Priorities </news:title>
     </news:news>
   </url>
 

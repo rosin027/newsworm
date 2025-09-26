@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-faces-legal-setback-over-illegal-emission-devices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-26T07:22:44.000Z</news:publication_date>
+      <news:title>Volkswagen faces legal setback over illegal emission devices </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-elects-three-new-judges-to-federal-constitutional-court</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-24T09:23:35.000Z</news:publication_date>
       <news:title>Chancellor Merz calls for growth, reform, and balanced climate strategy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-warns-of-more-flight-cuts-in-germany-over-rising-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-24T06:45:03.000Z</news:publication_date>
-      <news:title>Lufthansa warns of more flight cuts in Germany over rising costs </news:title>
     </news:news>
   </url>
 

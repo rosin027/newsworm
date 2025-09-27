@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/freedom-of-expression-and-justice-in-u-s-under-pressure-says-merz</loc>
+    <loc>https://www.newsworm.de/news/freedom-of-expression-and-justice-in-us-under-pressure-says-merz</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
@@ -119,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-09-25T08:30:30.000Z</news:publication_date>
       <news:title>Interior Minister Dobrindt warns of growing drone threats in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-meets-eastern-state-leaders-amid-rising-afd-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-25T05:42:30.000Z</news:publication_date>
-      <news:title>Merz meets eastern state leaders amid rising AfD support </news:title>
     </news:news>
   </url>
 

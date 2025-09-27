@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/freedom-of-expression-and-justice-in-u-s-under-pressure-says-merz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-27T04:42:24.000Z</news:publication_date>
+      <news:title>Freedom of Expression and Justice in U.S. ?Under Pressure,? Says Merz </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-increases-ice-trains-on-central-routes-with-new-schedule</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-25T05:42:30.000Z</news:publication_date>
       <news:title>Merz meets eastern state leaders amid rising AfD support </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rising-sleep-disorders-in-germany-generation-z-most-affected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-24T14:02:07.000Z</news:publication_date>
-      <news:title>Rising Sleep Disorders in Germany: Generation Z Most Affected </news:title>
     </news:news>
   </url>
 

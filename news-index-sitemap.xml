@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-housing-market-q2-2025-insights-property-prices-on-the-rise</loc>
+    <loc>https://www.newsworm.de/news/germany-housing-market-q2-2025-insights-prices-on-the-rise</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-09-28T08:53:52.000Z</news:publication_date>
-      <news:title>Germany Housing Market Q2 2025 Insights: Property Prices on the Rise </news:title>
+      <news:title>Germany Housing Market Q2 2025 Insights: Prices on the Rise </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/north-rhine-westphalia-runoffs-what-the-local-elections-reveal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-29T06:50:38.000Z</news:publication_date>
+      <news:title>North Rhine-Westphalia Runoffs: What the Local Elections Reveal </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundesrat-calls-for-amendment-of-basic-law-to-protect-sexual-minorities</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-09-27T07:40:53.000Z</news:publication_date>
       <news:title>Lufthansa plans thousands of job cuts after profit slump </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/freedom-of-expression-and-justice-in-us-under-pressure-says-merz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-27T04:42:24.000Z</news:publication_date>
-      <news:title>Freedom of Expression and Justice in U.S. ?Under Pressure,? Says Merz </news:title>
     </news:news>
   </url>
 

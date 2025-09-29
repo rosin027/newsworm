@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/number-of-people-over-100-years-old-in-germany-on-the-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-29T09:35:17.000Z</news:publication_date>
+      <news:title>Number of people over 100 years old in Germany on the rise </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/north-rhine-westphalia-runoffs-what-the-local-elections-reveal</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-09-27T10:12:41.000Z</news:publication_date>
       <news:title>October 2025 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-plans-thousands-of-job-cuts-after-profit-slump</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-27T07:40:53.000Z</news:publication_date>
-      <news:title>Lufthansa plans thousands of job cuts after profit slump </news:title>
     </news:news>
   </url>
 

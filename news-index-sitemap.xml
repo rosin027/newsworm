@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/e-commerce-growth-in-germany-top-online-shops-and-digital-payment-trends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-30T10:49:43.000Z</news:publication_date>
+      <news:title>E-Commerce Growth in Germany: Top Online Shops and Digital Payment Trends </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unemployment-rate-in-germany-dips-amid-slow-autumn-recovery</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-09-28T15:28:35.000Z</news:publication_date>
       <news:title>Bundesrat calls for amendment of Basic Law to protect sexual minorities </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundesrat-renews-effort-for-opt-out-organ-donation-law-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-28T10:48:24.000Z</news:publication_date>
-      <news:title>Bundesrat renews effort for opt-out organ donation law in Germany </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-warns-we-are-not-at-war-but-not-at-peace-either</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-30T07:28:12.000Z</news:publication_date>
+      <news:title>Merz warns, &quot;We are not at war, but not at peace either&quot; </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cannabis-crimes-drop-sharply-after-partial-legalization-in-germany</loc>
     <news:news>
       <news:publication>

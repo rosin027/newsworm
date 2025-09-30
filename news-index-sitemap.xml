@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/unemployment-rate-in-germany-dips-amid-slow-autumn-recovery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-30T09:22:46.000Z</news:publication_date>
+      <news:title>Unemployment rate in Germany dips to 6.3% amid slow autumn recovery </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-warns-we-are-not-at-war-but-not-at-peace-either</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-09-28T10:48:24.000Z</news:publication_date>
       <news:title>Bundesrat renews effort for opt-out organ donation law in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-housing-market-q2-2025-insights-prices-on-the-rise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-28T08:53:52.000Z</news:publication_date>
-      <news:title>Germany Housing Market Q2 2025 Insights: Prices on the Rise </news:title>
     </news:news>
   </url>
 

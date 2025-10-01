@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/munich-oktoberfest-temporarily-closed-following-explosives-discovery</loc>
+    <loc>https://www.newsworm.de/news/oktoberfest-temporarily-closed-following-explosives-discovery</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-10-01T08:40:40.000Z</news:publication_date>
-      <news:title>Munich Oktoberfest Temporarily Closed Following Explosives Discovery </news:title>
+      <news:title>Oktoberfest Temporarily Closed Following Explosives Discovery </news:title>
     </news:news>
   </url>
 

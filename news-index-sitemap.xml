@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/using-touchscreen-e-cigarettes-while-driving-is-prohibited</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T13:55:21.000Z</news:publication_date>
+      <news:title>Using Touchscreen E-Cigarettes While Driving Is Prohibited </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-unveils-major-reforms-in-administration-healthcare-energy-and-security</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-29T16:35:58.000Z</news:publication_date>
       <news:title>SPD pushes to legalize dumpster diving to fight food waste </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-airline-lufthansa-plans-4000-job-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-29T13:37:28.000Z</news:publication_date>
-      <news:title>German Airline Lufthansa Plans 4,000 Job Cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pistorius-and-wadephul-urge-nato-unity-and-vigilance-amid-drone-threats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-29T11:51:53.000Z</news:publication_date>
-      <news:title>Pistorius and Wadephul urge NATO unity and vigilance amid drone threats </news:title>
     </news:news>
   </url>
 

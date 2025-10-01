@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/munich-oktoberfest-temporarily-closed-following-explosives-discovery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-01T08:40:40.000Z</news:publication_date>
+      <news:title>Munich Oktoberfest Temporarily Closed Following Explosives Discovery </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/grid-fee-cuts-in-germany-could-lower-electricity-prices-in-2026</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-09-29T09:35:17.000Z</news:publication_date>
       <news:title>Number of people over 100 years old in Germany on the rise </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/north-rhine-westphalia-runoffs-what-the-local-elections-reveal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-29T06:50:38.000Z</news:publication_date>
-      <news:title>North Rhine-Westphalia Runoffs: What the Local Elections Reveal </news:title>
     </news:news>
   </url>
 

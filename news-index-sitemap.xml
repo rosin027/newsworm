@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-fifth-of-german-pensioners-have-under-1400-euros-monthly-income</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-02T12:46:52.000Z</news:publication_date>
+      <news:title>One Fifth of German Pensioners Have Under ?1,400 Monthly Income </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-unity-day-2025-commemorating-35-years-of-reunification</loc>
     <news:news>
       <news:publication>

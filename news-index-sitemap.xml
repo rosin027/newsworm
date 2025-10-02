@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-unity-day-2025-commemorating-35-years-of-reunification</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-02T09:30:35.000Z</news:publication_date>
+      <news:title>German Unity Day 2025: Commemorating 35 Years of Reunification </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/zf-announces-savings-program-job-cuts-and-cost-cutting-measures</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2025-09-30T10:49:43.000Z</news:publication_date>
       <news:title>E-Commerce Growth in Germany: Top Online Shops and Digital Payment Trends </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unemployment-rate-in-germany-dips-amid-slow-autumn-recovery</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-30T09:22:46.000Z</news:publication_date>
-      <news:title>Unemployment rate in Germany dips to 6.3% amid slow autumn recovery </news:title>
     </news:news>
   </url>
 

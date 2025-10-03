@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-gives-hamas-until-sunday-to-agree-to-gaza-deal-or-face-military-anhilation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-03T15:46:08.000Z</news:publication_date>
+      <news:title>Trump gives Hamas until Sunday to agree to Gaza deal or face Military Anhilation </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/from-leipzig-to-lubeck-how-german-cities-fare-on-late-night-transport</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-02T06:26:24.000Z</news:publication_date>
       <news:title>Three Hamas Members Arrested in Berlin Over Planned Attacks on Jewish Sites </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/using-touchscreen-e-cigarettes-while-driving-is-prohibited</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-01T13:55:21.000Z</news:publication_date>
-      <news:title>Using Touchscreen E-Cigarettes While Driving Is Prohibited </news:title>
     </news:news>
   </url>
 

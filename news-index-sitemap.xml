@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pistorius-slams-cdu-csu-for-blocking-germanys-new-military-service-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-04T13:28:42.000Z</news:publication_date>
+      <news:title>Pistorius Slams CDU/CSU for Blocking Germany?s New Military Service Law </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-punctuality-hits-lowest-level-in-september</loc>
     <news:news>
       <news:publication>
@@ -71,42 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-03T04:18:54.000Z</news:publication_date>
       <news:title>Munich Airport Flights Halted After Drone Sightings </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-fifth-of-german-pensioners-have-under-1400-euros-monthly-income</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-02T12:46:52.000Z</news:publication_date>
-      <news:title>One Fifth of German Pensioners Have Under ?1,400 Monthly Income </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-unity-day-2025-commemorating-35-years-of-reunification</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-02T09:30:35.000Z</news:publication_date>
-      <news:title>German Unity Day 2025: Commemorating 35 Years of Reunification </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/zf-announces-savings-program-job-cuts-and-cost-cutting-measures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-02T07:36:50.000Z</news:publication_date>
-      <news:title>ZF announces savings program: Job Cuts and Cost-Cutting Measures </news:title>
     </news:news>
   </url>
 

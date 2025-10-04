@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-punctuality-hits-lowest-level-in-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-04T07:03:08.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Punctuality Hits Lowest Level in September </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/munich-airport-faces-second-drone-scare-in-24-hours</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-10-02T07:36:50.000Z</news:publication_date>
       <news:title>ZF announces savings program: Job Cuts and Cost-Cutting Measures </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/three-hamas-members-arrested-in-berlin-over-planned-attacks-on-jewish-sites</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-02T06:26:24.000Z</news:publication_date>
-      <news:title>Three Hamas Members Arrested in Berlin Over Planned Attacks on Jewish Sites </news:title>
     </news:news>
   </url>
 

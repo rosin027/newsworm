@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-and-eu-partners-explore-migrant-return-centers-outside-the-bloc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-05T05:18:43.000Z</news:publication_date>
+      <news:title>Germany and EU Partners Explore Migrant Return Centers Outside the Bloc </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pistorius-slams-cdu-csu-for-blocking-germanys-new-military-service-law</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-03T11:42:40.000Z</news:publication_date>
       <news:title>From Leipzig to L?beck: How German Cities Fare on Late-Night Transport </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-airport-flights-halted-after-drone-sightings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-03T04:18:54.000Z</news:publication_date>
-      <news:title>Munich Airport Flights Halted After Drone Sightings </news:title>
     </news:news>
   </url>
 

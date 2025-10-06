@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berliners-ranked-least-popular-in-germany-survey-reveals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-06T07:47:08.000Z</news:publication_date>
+      <news:title>Berliners Ranked Least Popular in Germany, Survey Reveals </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-people-will-have-to-spend-more-on-social-security</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-04T13:28:42.000Z</news:publication_date>
       <news:title>Pistorius Slams CDU/CSU for Blocking Germany?s New Military Service Law </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-punctuality-hits-lowest-level-in-september</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-04T07:03:08.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Punctuality Hits Lowest Level in September </news:title>
     </news:news>
   </url>
 

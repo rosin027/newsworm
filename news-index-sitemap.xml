@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/von-der-leyen-no-confidence-vote-underscores-fragile-unity-in-eu-parliament</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-06T06:00:31.000Z</news:publication_date>
+      <news:title>Von der Leyen no confidence vote underscores fragile unity in EU parliament </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/munich-oktoberfest-2025-wrap-up-beer-visitors-festival-stats-revealed</loc>
     <news:news>
       <news:publication>
@@ -59,42 +71,6 @@
       </news:publication>
       <news:publication_date>2025-10-04T07:03:08.000Z</news:publication_date>
       <news:title>Deutsche Bahn Punctuality Hits Lowest Level in September </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-airport-faces-second-drone-scare-in-24-hours</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-04T05:57:40.000Z</news:publication_date>
-      <news:title>Munich Airport Faces Second Drone Scare in 24 Hours </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-unity-at-35-does-the-east-really-have-to-change-until-it-becomes-like-the-west</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-03T16:54:20.000Z</news:publication_date>
-      <news:title>German Unity at 35: Does the East really have to change until it becomes like the West? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-gives-hamas-until-sunday-to-agree-to-gaza-deal-or-face-military-annihilation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-03T15:46:08.000Z</news:publication_date>
-      <news:title>Trump gives Hamas until Sunday to agree to Gaza deal or face Military Annihilation </news:title>
     </news:news>
   </url>
 

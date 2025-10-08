@@ -110,28 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-ev-sales-surge-31-9-percent-in-september-but-experts-warn-market-growth-is-deceiving</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-06T15:00:43.000Z</news:publication_date>
-      <news:title>Germany&apos;s EV sales surge 31.9% in September, but experts warn market growth is &apos;deceiving&apos; </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-airport-gradually-resuming-normal-operations-in-coming-days</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-06T13:14:49.000Z</news:publication_date>
-      <news:title>Berlin Airport Gradually Resuming Normal Operations in Coming Days </news:title>
-    </news:news>
-  </url>
-
 </urlset>

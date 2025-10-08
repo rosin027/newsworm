@@ -1,100 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<?xml version=""1.0"" encoding=""UTF-8""?>
+<urlset xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""
+        xmlns:news=""http://www.google.com/schemas/sitemap-news/0.9"">
 
   <url>
-    <loc>https://www.newsworm.de/news/merz-calls-to-acquire-drone-defense-systems-amid-security-threats</loc>
+    <loc>https://www.newsworm.de/news/cabinet-approves-federal-police-powers-for-drones-and-mobile-tracking</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-06T09:27:46.000Z</news:publication_date>
-      <news:title>Merz calls to acquire drone defense systems amid security threats </news:title>
+      <news:publication_date>2025-10-08T10:30:48.000Z</news:publication_date>
+      <news:title>Cabinet Approves Federal Police Powers for Drones and Mobile Tracking </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/berliners-ranked-least-popular-in-germany-survey-reveals</loc>
+    <loc>https://www.newsworm.de/news/klingbeil-warns-citizens-to-brace-for-a-marathon-of-reforms-and-spending-cuts</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-06T07:47:08.000Z</news:publication_date>
-      <news:title>Berliners Ranked Least Popular in Germany, Survey Reveals </news:title>
+      <news:publication_date>2025-10-08T06:57:51.000Z</news:publication_date>
+      <news:title>Klingbeil warns citizens to brace for a “marathon of reforms” and spending cuts </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/merz-people-will-have-to-spend-more-on-social-security</loc>
+    <loc>https://www.newsworm.de/news/knife-attack-on-newly-elected-herdecke-mayor-iris-stalzer</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-06T06:13:25.000Z</news:publication_date>
-      <news:title>Merz: People will have to spend more on social security </news:title>
+      <news:publication_date>2025-10-07T13:27:37.000Z</news:publication_date>
+      <news:title>Knife Attack on Newly Elected Herdecke Mayor Iris Stalzer </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/von-der-leyen-no-confidence-vote-underscores-fragile-unity-in-eu-parliament</loc>
+    <loc>https://www.newsworm.de/news/fuel-price-in-germany-trends-variations-and-tips-for-drivers</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-06T06:00:31.000Z</news:publication_date>
-      <news:title>Von der Leyen no confidence vote underscores fragile unity in EU parliament </news:title>
+      <news:publication_date>2025-10-07T12:42:33.000Z</news:publication_date>
+      <news:title>Fuel Price in Germany: Trends, Variations, and Tips for Drivers </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/munich-oktoberfest-2025-wrap-up-beer-visitors-festival-stats-revealed</loc>
+    <loc>https://www.newsworm.de/news/germanys-industrial-orders-fall-for-fourth-month-recovery-stalls</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-05T13:33:25.000Z</news:publication_date>
-      <news:title>Munich Oktoberfest 2025 Wrap-Up: Beer, Visitors &amp; Festival Stats Revealed </news:title>
+      <news:publication_date>2025-10-07T11:02:54.000Z</news:publication_date>
+      <news:title>Germany’s Industrial Orders Fall for Fourth Month, Recovery Stalls </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/wadephul-pushes-eu-arab-cooperation-to-support-trumps-middle-east-peace-plan</loc>
+    <loc>https://www.newsworm.de/news/germany-debates-future-of-cars-as-2035-eu-combustion-engine-ban-looms</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-05T05:26:11.000Z</news:publication_date>
-      <news:title>Wadephul pushes EU-Arab cooperation to support Trump?s Middle East peace plan </news:title>
+      <news:publication_date>2025-10-07T07:15:13.000Z</news:publication_date>
+      <news:title>Germany Debates Future of Cars as 2035 EU Combustion Engine Ban Looms </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-and-eu-partners-explore-migrant-return-centers-outside-the-bloc</loc>
+    <loc>https://www.newsworm.de/news/october-7-anniversary-israel-marks-two-years-since-hamas-attack</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-05T05:18:43.000Z</news:publication_date>
-      <news:title>Germany and EU Partners Explore Migrant Return Centers Outside the Bloc </news:title>
+      <news:publication_date>2025-10-07T06:19:04.000Z</news:publication_date>
+      <news:title>October 7 Anniversary: Israel Marks Two Years Since Hamas Attack </news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/pistorius-slams-cdu-csu-for-blocking-germanys-new-military-service-law</loc>
+    <loc>https://www.newsworm.de/news/macrons-dilemma-what-next-for-france-after-pm-resigns</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-04T13:28:42.000Z</news:publication_date>
-      <news:title>Pistorius Slams CDU/CSU for Blocking Germany?s New Military Service Law </news:title>
+      <news:publication_date>2025-10-07T06:03:46.000Z</news:publication_date>
+      <news:title>Macron&apos;s dilemma: What next for France after PM resigns? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-ev-sales-surge-31-9-percent-in-september-but-experts-warn-market-growth-is-deceiving</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-06T15:00:43.000Z</news:publication_date>
+      <news:title>Germany&apos;s EV sales surge 31.9% in September, but experts warn market growth is &apos;deceiving&apos; </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/berlin-airport-gradually-resuming-normal-operations-in-coming-days</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-06T13:14:49.000Z</news:publication_date>
+      <news:title>Berlin Airport Gradually Resuming Normal Operations in Coming Days </news:title>
     </news:news>
   </url>
 

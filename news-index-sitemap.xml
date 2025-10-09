@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/coalition-leaders-agree-on-citizens-income-sanctions-active-pensions-and-road-construction</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-09T08:33:44.000Z</news:publication_date>
+      <news:title>Coalition leaders agree on citizen&apos;s benefit sanctions, active pensions and road construction </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-cracks-down-on-influencer-tax-evasion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-09T07:01:57.000Z</news:publication_date>
+      <news:title>Germany Cracks Down on Influencer Tax Evasion </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-tightens-citizenship-law-fast-track-naturalization-scrapped</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-10-07T11:02:54.000Z</news:publication_date>
       <news:title>Germany?s Industrial Orders Fall for Fourth Month, Recovery Stalls </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-debates-future-of-cars-as-2035-eu-combustion-engine-ban-looms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-07T07:15:13.000Z</news:publication_date>
-      <news:title>Germany Debates Future of Cars as 2035 EU Combustion Engine Ban Looms </news:title>
     </news:news>
   </url>
 

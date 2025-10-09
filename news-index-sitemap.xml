@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ursula-von-der-leyen-survives-two-no-confidence-votes-in-eu-parliament</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-09T11:05:42.000Z</news:publication_date>
+      <news:title>Ursula von der Leyen Survives Two No-Confidence Votes in EU Parliament </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/coalition-leaders-agree-on-citizens-income-sanctions-active-pensions-and-road-construction</loc>
     <news:news>
       <news:publication>
@@ -39,6 +51,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-richest-2025-new-rankings-reveal-record-number-of-billionaires</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-08T17:21:22.000Z</news:publication_date>
+      <news:title>Germany?s Richest 2025: New Rankings Reveal Record Number of Billionaires </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-parliament-backs-ban-on-meat-names-for-vegetarian-products</loc>
     <news:news>
       <news:publication>
@@ -71,42 +95,6 @@
       </news:publication>
       <news:publication_date>2025-10-08T06:57:51.000Z</news:publication_date>
       <news:title>Klingbeil warns citizens to brace for a ?marathon of reforms? and spending cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/knife-attack-on-newly-elected-herdecke-mayor-iris-stalzer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-07T13:27:37.000Z</news:publication_date>
-      <news:title>Knife Attack on Newly Elected Herdecke Mayor Iris Stalzer </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-price-in-germany-trends-variations-and-tips-for-drivers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-07T12:42:33.000Z</news:publication_date>
-      <news:title>Fuel Price in Germany: Trends, Variations, and Tips for Drivers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-industrial-orders-fall-for-fourth-month-recovery-stalls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-07T11:02:54.000Z</news:publication_date>
-      <news:title>Germany?s Industrial Orders Fall for Fourth Month, Recovery Stalls </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-2025-timetable-no-price-hikes-on-long-distance-travel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-10T09:25:30.000Z</news:publication_date>
+      <news:title>Deutsche Bahn 2025 Timetable: No Price Hikes on Long-Distance Travel </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/israelis-and-gazans-celebrate-ceasefire-deal-and-hostage-release</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-10T07:38:39.000Z</news:publication_date>
+      <news:title>Israelis and Gazans Celebrate Ceasefire Deal and Hostage Release </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-pushes-for-eu-flexibility-on-2035-combustion-engine-ban</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-10-08T10:30:48.000Z</news:publication_date>
       <news:title>Cabinet Approves Federal Police Powers for Drones and Mobile Tracking </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/klingbeil-warns-citizens-to-brace-for-a-marathon-of-reforms-and-spending-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-08T06:57:51.000Z</news:publication_date>
-      <news:title>Klingbeil warns citizens to brace for a ?marathon of reforms? and spending cuts </news:title>
     </news:news>
   </url>
 

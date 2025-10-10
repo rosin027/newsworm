@@ -15,6 +15,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-introduces-unified-nursing-assistant-training-starting-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-10T08:29:59.000Z</news:publication_date>
+      <news:title>Germany Introduces Unified Nursing Assistant Training Starting 2027 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/israelis-and-gazans-celebrate-ceasefire-deal-and-hostage-release</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2025-10-08T17:21:22.000Z</news:publication_date>
       <news:title>Germany?s Richest 2025: New Rankings Reveal Record Number of Billionaires </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-parliament-backs-ban-on-meat-names-for-vegetarian-products</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-08T12:19:45.000Z</news:publication_date>
-      <news:title>EU Parliament Backs Ban on Meat Names for Vegetarian Products </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabinet-approves-federal-police-powers-for-drones-and-mobile-tracking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-08T10:30:48.000Z</news:publication_date>
-      <news:title>Cabinet Approves Federal Police Powers for Drones and Mobile Tracking </news:title>
     </news:news>
   </url>
 

@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-richest-2025-new-rankings-reveal-record-number-of-billionaires</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-08T17:21:22.000Z</news:publication_date>
-      <news:title>Germany?s Richest 2025: New Rankings Reveal Record Number of Billionaires </news:title>
-    </news:news>
-  </url>
-
 </urlset>

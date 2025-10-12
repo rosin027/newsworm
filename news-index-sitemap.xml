@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-square-meter-cap-to-protect-welfare-recipients-from-exploitation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-12T08:51:53.000Z</news:publication_date>
+      <news:title>Germany Plans ?Square Meter Cap? to Protect Welfare Recipients from Exploitation </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dobrindt-deportation-agreement-with-afghanistans-taliban-very-near</loc>
     <news:news>
       <news:publication>
@@ -47,42 +59,6 @@
       </news:publication>
       <news:publication_date>2025-10-11T06:35:29.000Z</news:publication_date>
       <news:title> State initiative: Fuel prices should only be allowed to rise once a day </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-2025-timetable-no-price-hikes-on-long-distance-travel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-10T09:25:30.000Z</news:publication_date>
-      <news:title>Deutsche Bahn 2025 Timetable: No Price Hikes on Long-Distance Travel </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-introduces-unified-nursing-assistant-training-starting-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-10T08:29:59.000Z</news:publication_date>
-      <news:title>Germany Introduces Unified Nursing Assistant Training Starting 2027 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/israelis-and-gazans-celebrate-ceasefire-deal-and-hostage-release</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-10T07:38:39.000Z</news:publication_date>
-      <news:title>Israelis and Gazans Celebrate Ceasefire Deal and Hostage Release </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dobrindt-deportation-agreement-with-afghanistans-taliban-very-near</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-12T05:08:06.000Z</news:publication_date>
+      <news:title>Dobrindt: Deportation Agreement with Afghanistan?s Taliban ?Very Near? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rising-e-scooter-accidents-experts-call-for-licenses-and-larger-wheels</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-10T07:38:39.000Z</news:publication_date>
       <news:title>Israelis and Gazans Celebrate Ceasefire Deal and Hostage Release </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-pushes-for-eu-flexibility-on-2035-combustion-engine-ban</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-10T05:57:45.000Z</news:publication_date>
-      <news:title>Merz Pushes for EU Flexibility on 2035 Combustion Engine Ban </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rundfunkbeitrag-on-trial-historic-chance-to-end-germanys-radio-tax</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-12T11:12:11.000Z</news:publication_date>
+      <news:title>Rundfunkbeitrag on Trial: Historic Chance To End Germany?s Radio Tax </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-square-meter-cap-to-protect-welfare-recipients-from-exploitation</loc>
     <news:news>
       <news:publication>

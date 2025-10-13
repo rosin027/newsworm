@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-goes-digital-new-entry-exit-system-starts-for-travelers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T06:40:17.000Z</news:publication_date>
+      <news:title>EU Goes Digital: New Entry/Exit System Starts for Travelers </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rundfunkbeitrag-on-trial-historic-chance-to-end-germanys-radio-tax</loc>
     <news:news>
       <news:publication>
@@ -35,42 +47,6 @@
       </news:publication>
       <news:publication_date>2025-10-12T05:08:06.000Z</news:publication_date>
       <news:title>Dobrindt: Deportation Agreement with Afghanistan?s Taliban ?Very Near? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rising-e-scooter-accidents-experts-call-for-licenses-and-larger-wheels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-11T09:20:50.000Z</news:publication_date>
-      <news:title>Rising E-Scooter Accidents: Experts Call for Licenses and Larger Wheels </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-bau-turbo-faster-housing-approvals-and-more-flexibility-ahead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-11T07:31:28.000Z</news:publication_date>
-      <news:title>Bundestag approves ?Bau-Turbo?: Faster Housing Approvals and More Flexibility Ahead </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/state-initiative-fuel-prices-should-only-be-allowed-to-rise-once-a-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-11T06:35:29.000Z</news:publication_date>
-      <news:title> State initiative: Fuel prices should only be allowed to rise once a day </news:title>
     </news:news>
   </url>
 

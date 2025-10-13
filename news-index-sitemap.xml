@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-raises-minimum-pay-for-dual-vocational-trainees-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T13:55:41.000Z</news:publication_date>
+      <news:title>Germany Raises Minimum Pay for Dual Vocational Trainees in 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/your-emergency-checklist-germanys-new-emergency-guide-is-here</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-13T11:15:06.000Z</news:publication_date>
+      <news:title>Your Emergency Checklist: Germany&apos;s New Emergency Guide Is Here </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-goes-digital-new-entry-exit-system-starts-for-travelers</loc>
     <news:news>
       <news:publication>

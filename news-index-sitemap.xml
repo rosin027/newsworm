@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/inflation-in-germany-climbs-to-2-4-percent-in-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-14T09:45:18.000Z</news:publication_date>
+      <news:title>Inflation in Germany Climbs to 2.4% in September </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/frankfurt-book-fair-2025-celebrating-literature-awards-and-cultural-exchange</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-14T07:45:17.000Z</news:publication_date>
+      <news:title>Frankfurt Book Fair 2025: Celebrating Literature, Awards, and Cultural Exchange </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-a-lottery-soon-decide-who-faces-military-conscription-in-germany</loc>
     <news:news>
       <news:publication>
@@ -59,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-12T11:12:11.000Z</news:publication_date>
       <news:title>Rundfunkbeitrag on Trial: Historic Chance To End Germany?s Radio Tax </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-square-meter-cap-to-protect-welfare-recipients-from-exploitation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-12T08:51:53.000Z</news:publication_date>
-      <news:title>Germany Plans ?Square Meter Cap? to Protect Welfare Recipients from Exploitation </news:title>
     </news:news>
   </url>
 

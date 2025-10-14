@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/secure-and-efficient-banking-instant-payments-and-payee-verification-go-live</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-14T13:25:03.000Z</news:publication_date>
+      <news:title>Secure and Efficient Banking: Instant Payments and Payee Verification Go Live </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/inflation-in-germany-climbs-to-2-4-percent-in-september</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-13T06:40:17.000Z</news:publication_date>
       <news:title>EU Goes Digital: New Entry/Exit System Starts for Travelers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rundfunkbeitrag-on-trial-historic-chance-to-end-germanys-radio-tax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-12T11:12:11.000Z</news:publication_date>
-      <news:title>Rundfunkbeitrag on Trial: Historic Chance To End Germany?s Radio Tax </news:title>
     </news:news>
   </url>
 

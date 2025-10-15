@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-active-pension-scheme-for-working-pensioners</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-15T12:31:08.000Z</news:publication_date>
+      <news:title>German Cabinet Approves ?Active Pension? Scheme for Working Pensioners </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/electric-cars-exempt-from-vehicle-tax-for-another-five-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-15T10:37:34.000Z</news:publication_date>
+      <news:title>Electric cars exempt from vehicle tax for another five years </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-explores-hunter-drones-and-jamming-to-counter-uavs</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-10-14T06:09:50.000Z</news:publication_date>
       <news:title>Will a Lottery Soon Decide Who Faces Military Conscription in Germany? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-raises-minimum-pay-for-dual-vocational-trainees-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T13:55:41.000Z</news:publication_date>
-      <news:title>Germany Raises Minimum Pay for Dual Vocational Trainees in 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/your-emergency-checklist-germanys-new-emergency-guide-is-here</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T11:15:06.000Z</news:publication_date>
-      <news:title>Your Emergency Checklist: Germany&apos;s New Emergency Guide Is Here </news:title>
     </news:news>
   </url>
 

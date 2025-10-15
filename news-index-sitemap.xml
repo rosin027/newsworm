@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-explores-hunter-drones-and-jamming-to-counter-uavs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-15T09:04:27.000Z</news:publication_date>
+      <news:title>Germany Explores Hunter Drones and Jamming to Counter UAVs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/who-will-take-30000-asylum-seekers-eu-talks-hit-early-roadblock</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-15T07:51:53.000Z</news:publication_date>
+      <news:title>Who will take 30,000 asylum seekers? EU talks hit early roadblock </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/meta-unveils-new-instagram-safety-features-for-teens</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2025-10-13T11:15:06.000Z</news:publication_date>
       <news:title>Your Emergency Checklist: Germany&apos;s New Emergency Guide Is Here </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-goes-digital-new-entry-exit-system-starts-for-travelers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-13T06:40:17.000Z</news:publication_date>
-      <news:title>EU Goes Digital: New Entry/Exit System Starts for Travelers </news:title>
     </news:news>
   </url>
 

@@ -74,16 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-nightlife-in-crisis-iconic-clubs-struggle-to-survive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-16T07:06:01.000Z</news:publication_date>
-      <news:title>Berlin Nightlife in Crisis: Iconic Clubs Struggle to Survive </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-divided-over-draft-lottery-in-military-recruitment-debate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-18T05:11:21.000Z</news:publication_date>
+      <news:title>Germany Divided Over ?Draft Lottery? in Military Recruitment Debate </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-approves-bau-turbo-nursing-reform-and-100-billion-infrastructure-fund</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-16T07:06:01.000Z</news:publication_date>
       <news:title>Berlin Nightlife in Crisis: Iconic Clubs Struggle to Survive </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/broadcasting-fee-battle-enters-next-phase-court-sets-new-legal-precedent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-16T06:04:58.000Z</news:publication_date>
-      <news:title>Broadcasting Fee Battle Enters Next Phase: Court Sets New Legal Precedent </news:title>
     </news:news>
   </url>
 

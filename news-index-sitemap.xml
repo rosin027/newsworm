@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/das-crazy-named-germanys-youth-word-of-the-year-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T12:42:05.000Z</news:publication_date>
+      <news:title>?Das crazy? Named Germany?s Youth Word of the Year 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/executive-salaries-in-german-listed-companies-fall-but-almost-exclusively-for-women</loc>
     <news:news>
       <news:publication>
@@ -35,30 +47,6 @@
       </news:publication>
       <news:publication_date>2025-10-18T05:11:21.000Z</news:publication_date>
       <news:title>Germany Divided Over ?Draft Lottery? in Military Recruitment Debate </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-bau-turbo-nursing-reform-and-100-billion-infrastructure-fund</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-17T13:36:51.000Z</news:publication_date>
-      <news:title>Germany Approves Bau-Turbo, Nursing Reform, and 100-Billion Infrastructure Fund </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-unveils-new-ice-l-with-step-free-access</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-17T12:42:36.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Unveils New ICE L with Step-Free Access </news:title>
     </news:news>
   </url>
 

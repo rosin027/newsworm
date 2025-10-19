@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/executive-salaries-in-german-listed-companies-fall-but-almost-exclusively-for-women</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T07:32:45.000Z</news:publication_date>
+      <news:title>Executive Salaries in German Listed Companies Fall But Almost Exclusively for Women </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/chancellor-merz-rules-out-any-cooperation-between-cdu-and-afd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T07:20:50.000Z</news:publication_date>
+      <news:title>Chancellor Merz Rules Out Any Cooperation Between CDU and AfD </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-divided-over-draft-lottery-in-military-recruitment-debate</loc>
     <news:news>
       <news:publication>
@@ -35,30 +59,6 @@
       </news:publication>
       <news:publication_date>2025-10-17T12:42:36.000Z</news:publication_date>
       <news:title>Deutsche Bahn Unveils New ICE L with Step-Free Access </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-group-ceo-oliver-blume-set-to-step-down-as-porsche-ceo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-17T08:53:29.000Z</news:publication_date>
-      <news:title>Volkswagen Group CEO Oliver Blume Set to Step Down as Porsche CEO </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-students-show-decline-in-math-and-science-performance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-17T06:52:12.000Z</news:publication_date>
-      <news:title>German Students Show Decline in Math and Science Performance </news:title>
     </news:news>
   </url>
 

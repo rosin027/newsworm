@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/new-eu-driving-rules-accompanied-driving-cross-border-bans-digital-license</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T12:11:33.000Z</news:publication_date>
+      <news:title>New EU Driving Rules: Accompanied Driving, Cross-Border Bans, Digital License </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/us-shutdown-puts-german-workers-at-military-bases-at-risk-of-wage-loss</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T10:12:46.000Z</news:publication_date>
+      <news:title>U.S. Shutdown Puts German Workers at Military Bases at Risk of Wage Loss </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/computer-science-now-mandatory-in-majority-of-german-states</loc>
     <news:news>
       <news:publication>
@@ -59,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-20T06:53:07.000Z</news:publication_date>
       <news:title>Three-Quarters of Healthcare Professionals Report Assaults in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/das-crazy-named-germanys-youth-word-of-the-year-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-19T12:42:05.000Z</news:publication_date>
-      <news:title>?Das crazy? Named Germany?s Youth Word of the Year 2025 </news:title>
     </news:news>
   </url>
 

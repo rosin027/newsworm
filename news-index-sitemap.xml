@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/computer-science-now-mandatory-in-majority-of-german-states</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T08:51:22.000Z</news:publication_date>
+      <news:title>Computer Science Now Mandatory in Majority of German States </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/young-group-in-cdu-csu-opposes-spd-led-pension-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-21T08:25:48.000Z</news:publication_date>
+      <news:title>Young Group in CDU/CSU Opposes SPD-Led Pension Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/chancellor-merz-vows-to-take-on-ascendant-far-right-afd</loc>
     <news:news>
       <news:publication>
@@ -47,30 +71,6 @@
       </news:publication>
       <news:publication_date>2025-10-19T12:42:05.000Z</news:publication_date>
       <news:title>?Das crazy? Named Germany?s Youth Word of the Year 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/executive-salaries-in-german-listed-companies-fall-but-almost-exclusively-for-women</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-19T07:32:45.000Z</news:publication_date>
-      <news:title>Executive Salaries in German Listed Companies Fall But Almost Exclusively for Women </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/chancellor-merz-rules-out-any-cooperation-between-cdu-and-afd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-19T07:20:50.000Z</news:publication_date>
-      <news:title>Chancellor Merz Rules Out Any Cooperation Between CDU and AfD </news:title>
     </news:news>
   </url>
 

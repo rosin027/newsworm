@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/chancellor-merz-vows-to-take-on-ascendant-far-right-afd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-20T15:27:31.000Z</news:publication_date>
-      <news:title>Chancellor Merz vows to take on ascendant far-right AfD </news:title>
-    </news:news>
-  </url>
-
 </urlset>

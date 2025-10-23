@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tax-forecast-33-6-billion-euro-boost-in-germanys-revenues-by-2029</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-23T10:39:52.000Z</news:publication_date>
+      <news:title>Tax Forecast: ?33.6 Billion Boost in Germany?s Revenues by 2029 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spain-tops-as-germanys-favorite-exchange-destination-for-students</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-21T16:26:47.000Z</news:publication_date>
       <news:title>Deutsche Bahn Finalizes Board Restructure; Cargo Chief Faces Exit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/new-eu-driving-rules-accompanied-driving-cross-border-bans-digital-license</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-21T12:11:33.000Z</news:publication_date>
-      <news:title>New EU Driving Rules: Accompanied Driving, Cross-Border Bans, Digital License </news:title>
     </news:news>
   </url>
 

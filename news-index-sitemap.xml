@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spain-tops-as-germanys-favorite-exchange-destination-for-students</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-23T09:08:24.000Z</news:publication_date>
+      <news:title>Spain Tops as Germany?s Favorite Exchange Destination for Students </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/hanover-shooting-leaves-one-dead-and-several-injured</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-23T06:26:57.000Z</news:publication_date>
+      <news:title>Hanover Shooting Leaves One Dead and Several Injured </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/electric-cars-in-germany-german-brands-dominate-boom-fails-to-materialize</loc>
     <news:news>
       <news:publication>
@@ -59,42 +83,6 @@
       </news:publication>
       <news:publication_date>2025-10-21T12:11:33.000Z</news:publication_date>
       <news:title>New EU Driving Rules: Accompanied Driving, Cross-Border Bans, Digital License </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-shutdown-puts-german-workers-at-military-bases-at-risk-of-wage-loss</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-21T10:12:46.000Z</news:publication_date>
-      <news:title>U.S. Shutdown Puts German Workers at Military Bases at Risk of Wage Loss </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/computer-science-now-mandatory-in-majority-of-german-states</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-21T08:51:22.000Z</news:publication_date>
-      <news:title>Computer Science Now Mandatory in Majority of German States </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/young-group-in-cdu-csu-opposes-spd-led-pension-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-21T08:25:48.000Z</news:publication_date>
-      <news:title>Young Group in CDU/CSU Opposes SPD-Led Pension Reform </news:title>
     </news:news>
   </url>
 

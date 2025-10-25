@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/porsche-loses-almost-one-billion-euros-on-shift-back-to-petrol</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-25T04:19:10.000Z</news:publication_date>
+      <news:title>Porsche loses almost one billion euros on shift back to petrol </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/talks-with-lufthansa-unsuccessful-pilots-union-discusses-strikes-again</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-25T03:56:09.000Z</news:publication_date>
+      <news:title>Talks with Lufthansa unsuccessful: Pilots&apos; union discusses strikes again </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-organized-crime-surges-2-64-billion-euro-losses-dobrindt-sounds-alarm-on-drugs</loc>
     <news:news>
       <news:publication>

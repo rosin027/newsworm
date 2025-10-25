@@ -62,16 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/tax-forecast-33-6-billion-euro-boost-in-germanys-revenues-by-2029</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-23T10:39:52.000Z</news:publication_date>
-      <news:title>Tax Forecast: ?33.6 Billion Boost in Germany?s Revenues by 2029 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

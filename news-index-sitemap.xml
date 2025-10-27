@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bird-flu-crisis-deepens-in-germany-130000-poultry-culled-amid-h5n1-spread</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-27T10:15:37.000Z</news:publication_date>
+      <news:title>Bird Flu Crisis Deepens in Germany: 130,000 Poultry Culled Amid H5N1 Spread </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/man-threatens-to-detonate-grenade-in-bielefeld-restaurant-shot-by-police</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-27T07:25:49.000Z</news:publication_date>
+      <news:title>Man Threatens to Detonate Grenade in Bielefeld Restaurant, Shot by Police </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/yes-to-olympics-munich-decides-on-hosting-future-summer-games</loc>
     <news:news>
       <news:publication>

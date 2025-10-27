@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/police-union-demand-tighter-security-at-germanys-train-stations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-27T18:28:13.000Z</news:publication_date>
+      <news:title>Police Union Demand Tighter Security at Germany?s Train Stations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bird-flu-crisis-deepens-in-germany-500000-poultry-culled-amid-h5n1-spread</loc>
     <news:news>
       <news:publication>

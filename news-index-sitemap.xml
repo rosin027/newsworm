@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-moves-to-reform-paternity-laws-prioritizing-child-welfare</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T18:41:04.000Z</news:publication_date>
+      <news:title>Germany Moves to Reform Paternity Laws, Prioritizing Child Welfare </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/political-debate-heats-up-over-dual-citizenship-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T12:03:01.000Z</news:publication_date>
+      <news:title>Political Debate Heats Up Over Dual Citizenship in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-approves-highest-minimum-wage-increase-in-a-decade</loc>
     <news:news>
       <news:publication>
@@ -47,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-10-28T09:51:43.000Z</news:publication_date>
       <news:title>Nexperia, the new crisis looming for Europe&apos;s carmakers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/police-union-demand-tighter-security-at-germanys-train-stations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-27T18:28:13.000Z</news:publication_date>
-      <news:title>Police Union Demand Tighter Security at Germany?s Train Stations </news:title>
     </news:news>
   </url>
 

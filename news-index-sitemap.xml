@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-highest-minimum-wage-increase-in-a-decade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T10:59:31.000Z</news:publication_date>
+      <news:title>German Cabinet Approves Highest Minimum Wage Increase in a Decade </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-health-insurance-coverage-millions-covered-thousands-still-left-out</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T10:15:13.000Z</news:publication_date>
+      <news:title>Germany?s Health Insurance Coverage: Millions Covered, Thousands Still Left Out </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-in-ten-euros-saved-how-german-households-manage-their-income</loc>
     <news:news>
       <news:publication>
@@ -35,30 +59,6 @@
       </news:publication>
       <news:publication_date>2025-10-27T18:28:13.000Z</news:publication_date>
       <news:title>Police Union Demand Tighter Security at Germany?s Train Stations </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bird-flu-crisis-deepens-in-germany-500000-poultry-culled-amid-h5n1-spread</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-27T10:15:37.000Z</news:publication_date>
-      <news:title>Bird Flu Crisis Deepens in Germany: 500,000 Poultry Culled Amid H5N1 Spread </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/man-threatens-to-detonate-grenade-in-bielefeld-restaurant-shot-by-police</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-27T07:25:49.000Z</news:publication_date>
-      <news:title>Man Threatens to Detonate Grenade in Bielefeld Restaurant, Shot by Police </news:title>
     </news:news>
   </url>
 

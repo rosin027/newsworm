@@ -74,16 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/nexperia-the-new-crisis-looming-for-europes-carmakers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T09:51:43.000Z</news:publication_date>
-      <news:title>Nexperia, the new crisis looming for Europe&apos;s carmakers </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/men-in-germany-live-nearly-five-years-less-than-women-data-shows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-31T09:13:58.000Z</news:publication_date>
+      <news:title>Men in Germany Live Nearly Five Years Less Than Women, Data Shows </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-economy-stagnates-in-q3-narrowly-avoiding-recession</loc>
     <news:news>
       <news:publication>
@@ -47,30 +59,6 @@
       </news:publication>
       <news:publication_date>2025-10-29T12:03:01.000Z</news:publication_date>
       <news:title>Political Debate Heats Up Over Dual Citizenship in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-highest-minimum-wage-increase-in-a-decade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-29T10:59:31.000Z</news:publication_date>
-      <news:title>German Cabinet Approves Highest Minimum Wage Increase in a Decade </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-health-insurance-coverage-millions-covered-thousands-still-left-out</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-29T10:15:13.000Z</news:publication_date>
-      <news:title>Germany?s Health Insurance Coverage: Millions Covered, Thousands Still Left Out </news:title>
     </news:news>
   </url>
 

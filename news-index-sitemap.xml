@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-police-intensify-action-against-gun-crime</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-31T17:13:52.000Z</news:publication_date>
+      <news:title>Berlin Police Intensify Action Against Gun Crime </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/men-in-germany-live-nearly-five-years-less-than-women-data-shows</loc>
     <news:news>
       <news:publication>
@@ -35,18 +47,6 @@
       </news:publication>
       <news:publication_date>2025-10-29T19:31:59.000Z</news:publication_date>
       <news:title>November 2025 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-moves-to-reform-paternity-laws-prioritizing-child-welfare</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-29T18:41:04.000Z</news:publication_date>
-      <news:title>Germany Moves to Reform Paternity Laws, Prioritizing Child Welfare </news:title>
     </news:news>
   </url>
 

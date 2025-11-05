@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/munichs-iconic-eisbach-surf-wave-mysteriously-disappears</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-05T14:07:35.000Z</news:publication_date>
+      <news:title>Munich?s Iconic Eisbach Surf Wave Mysteriously Disappears </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-industrial-orders-rise-for-the-first-time-in-five-months</loc>
     <news:news>
       <news:publication>

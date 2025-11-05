@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/pensions-in-germany-could-rise-by-3-7-percent-in-2026-higher-than-expected</loc>
+    <loc>https://www.newsworm.de/news/germanys-industrial-orders-rise-for-the-first-time-in-five-months</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-01T07:13:40.000Z</news:publication_date>
-      <news:title>Pensions in Germany Could Rise by 3.7 Percent in 2026 ? Higher Than Expected </news:title>
+      <news:publication_date>2025-11-05T11:08:59.000Z</news:publication_date>
+      <news:title>Germany?s Industrial Orders Rise for the First Time in Five Months </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/christmas-bonus-in-germany-who-gets-it-and-how-much-they-receive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-05T09:32:15.000Z</news:publication_date>
+      <news:title>Christmas Bonus in Germany: Who Gets It and How Much They Receive </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-bans-islamist-association-muslim-interactive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-05T07:50:03.000Z</news:publication_date>
+      <news:title>Germany bans Islamist association Muslim Interactive </news:title>
     </news:news>
   </url>
 

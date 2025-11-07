@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/munichs-iconic-eisbach-surf-wave-mysteriously-disappears</loc>
+    <loc>https://www.newsworm.de/news/deutschland-ticket-to-cost-63-euro-from-january-as-new-funding-deal-approved-by-bundestag</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-05T14:07:35.000Z</news:publication_date>
-      <news:title>Munich?s Iconic Eisbach Surf Wave Mysteriously Disappears </news:title>
+      <news:publication_date>2025-11-07T12:32:21.000Z</news:publication_date>
+      <news:title>Deutschland-Ticket to Cost ?63 from January as New Funding Deal Approved by Bundestag </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-government-loses-public-support-to-afd-as-its-approval-rating-drops</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-07T11:33:53.000Z</news:publication_date>
+      <news:title>German Government Loses Public Support to AfD as its Approval Rating Drops </news:title>
     </news:news>
   </url>
 

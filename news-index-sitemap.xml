@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/a-quarter-of-germans-miss-angela-merkel-as-chancellor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T11:09:25.000Z</news:publication_date>
+      <news:title>A Quarter of Germans Miss Angela Merkel as Chancellor </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/seven-fall-sick-after-anti-trump-package-opened-at-us-base</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-08T07:43:04.000Z</news:publication_date>
+      <news:title>Seven Fall Sick after Anti-Trump Package Opened at US Base </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nexperia-chip-exports-resuming-german-auto-supplier</loc>
     <news:news>
       <news:publication>

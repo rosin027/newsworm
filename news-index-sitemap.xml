@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/after-six-months-in-power-germanys-merz-faces-growing-political-turmoil</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-09T11:10:13.000Z</news:publication_date>
+      <news:title>After Six Months in Power, Germany?s Merz Faces Growing Political Turmoil </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pistorius-german-military-service-deal-in-the-home-stretch</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/the-total-number-of-students-in-germany-will-continue-to-rise-until-2032</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T06:32:32.000Z</news:publication_date>
+      <news:title>The Total Number of Students in Germany Will Continue to Rise Until 2032 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/trial-begins-for-attack-on-magdeburg-christmas-market</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-10T04:40:34.000Z</news:publication_date>
+      <news:title>Trial begins for attack on Magdeburg Christmas market </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-car-market-rises-in-october-with-strong-growth-for-electric-vehicles</loc>
     <news:news>
       <news:publication>

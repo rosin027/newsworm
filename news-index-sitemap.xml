@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/delivery-services-added-to-germanys-fight-against-undeclared-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-11T11:07:25.000Z</news:publication_date>
+      <news:title>Delivery Services Added to Germany?s Fight Against Undeclared Work </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/syrian-migration-to-germany-drops-sharply-after-assad-regimes-fall</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-11-09T11:29:47.000Z</news:publication_date>
       <news:title>Germany?s Car Market Rises in October with Strong Growth for Electric Vehicles </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/after-six-months-in-power-germanys-merz-faces-growing-political-turmoil</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-09T11:10:13.000Z</news:publication_date>
-      <news:title>After Six Months in Power, Germany?s Merz Faces Growing Political Turmoil </news:title>
     </news:news>
   </url>
 

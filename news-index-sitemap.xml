@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/syrian-migration-to-germany-drops-sharply-after-assad-regimes-fall</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-11T07:14:08.000Z</news:publication_date>
+      <news:title>Syrian Migration to Germany Drops Sharply After Assad Regime?s Fall </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/safety-concerns-stall-magdeburg-christmas-market-following-deadly-2024-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-11T05:03:57.000Z</news:publication_date>
+      <news:title>Safety Concerns Stall Magdeburg Christmas Market Following Deadly 2024 Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/usa-is-the-most-popular-non-european-travel-destination-for-germans</loc>
     <news:news>
       <news:publication>

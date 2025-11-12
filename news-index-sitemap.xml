@@ -86,16 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/usa-is-the-most-popular-non-european-travel-destination-for-germans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-10T11:08:15.000Z</news:publication_date>
-      <news:title>USA is the most popular non-European travel destination for Germans </news:title>
-    </news:news>
-  </url>
-
 </urlset>

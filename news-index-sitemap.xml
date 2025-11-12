@@ -3,7 +3,19 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-lands-googles-largest-ever-eu5-5-billion-investment</loc>
+    <loc>https://www.newsworm.de/news/german-inflation-eases-to-2-3-percent-stubborn-service-costs-remain-the-key-driver</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-12T09:19:08.000Z</news:publication_date>
+      <news:title>German Inflation Eases to 2.3%; Stubborn Service Costs Remain the Key Driver </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-lands-googles-largest-ever-5-5-billion-euro-investment</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2025-11-10T11:08:15.000Z</news:publication_date>
       <news:title>USA is the most popular non-European travel destination for Germans </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/health-minister-warken-announces-2-9-supplementary-health-insurance-contribution</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-10T08:22:44.000Z</news:publication_date>
-      <news:title>Health Minister Warken Announces 2.9% Supplementary Health Insurance Contribution </news:title>
     </news:news>
   </url>
 

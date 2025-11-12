@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-lands-googles-largest-ever-eu5-5-billion-investment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-12T07:58:24.000Z</news:publication_date>
+      <news:title>Germany Lands Google?s Largest-Ever ?5.5 Billion Investment </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/sip-carefully-gluhwein-now-costs-more-than-ever-at-christmas-markets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-12T06:42:05.000Z</news:publication_date>
+      <news:title>Sip Carefully: Gl?hwein Now Costs More Than Ever at Christmas Markets </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/magdeburg-christmas-market-attacker-admits-to-planning-deadly-2024-assault</loc>
     <news:news>
       <news:publication>
@@ -71,42 +95,6 @@
       </news:publication>
       <news:publication_date>2025-11-10T08:22:44.000Z</news:publication_date>
       <news:title>Health Minister Warken Announces 2.9% Supplementary Health Insurance Contribution </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/heating-law-sparks-fresh-tensions-between-germanys-coalition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-10T07:39:55.000Z</news:publication_date>
-      <news:title>Heating Law Sparks Fresh Tensions Between Germany?s Coalition </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/the-total-number-of-students-in-germany-will-continue-to-rise-until-2032</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-10T06:32:32.000Z</news:publication_date>
-      <news:title>The Total Number of Students in Germany Will Continue to Rise Until 2032 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trial-begins-for-attack-on-magdeburg-christmas-market</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-10T04:40:34.000Z</news:publication_date>
-      <news:title>Trial begins for attack on Magdeburg Christmas market </news:title>
     </news:news>
   </url>
 

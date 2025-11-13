@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-coalition-agrees-to-keep-military-service-voluntary</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-13T15:39:51.000Z</news:publication_date>
+      <news:title>Germany?s Coalition Agrees to Keep Military Service Voluntary </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-sees-slight-rise-in-organ-donations-in-2025</loc>
     <news:news>
       <news:publication>

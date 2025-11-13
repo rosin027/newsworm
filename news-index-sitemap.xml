@@ -62,16 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/syrian-migration-to-germany-drops-sharply-after-assad-regimes-fall</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-11T07:14:08.000Z</news:publication_date>
-      <news:title>Syrian Migration to Germany Drops Sharply After Assad Regime?s Fall </news:title>
-    </news:news>
-  </url>
-
 </urlset>

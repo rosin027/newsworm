@@ -50,16 +50,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/magdeburg-christmas-market-attacker-admits-to-planning-deadly-2024-assault</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-11T13:26:31.000Z</news:publication_date>
-      <news:title>Magdeburg Christmas Market Attacker Admits to Planning Deadly 2024 Assault </news:title>
-    </news:news>
-  </url>
-
 </urlset>

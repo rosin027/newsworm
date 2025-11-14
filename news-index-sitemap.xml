@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-most-expensive-cities-revealed-munich-leads-rural-areas-more-affordable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T13:00:03.000Z</news:publication_date>
+      <news:title>Germany?s Most Expensive Cities Revealed: Munich Leads, Rural Areas More Affordable </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-approves-2026-budget-with-higher-borrowing-and-industry-relief-measures</loc>
     <news:news>
       <news:publication>

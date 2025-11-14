@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-economic-boost-cuts-to-industrial-electricity-prices-and-aviation-tax</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-14T07:58:57.000Z</news:publication_date>
+      <news:title>Germany Plans Economic Boost: Cuts to Industrial Electricity Prices and Aviation Tax </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-ukrainians-should-serve-in-their-own-country-instead-of-coming-to-germany</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2025-11-12T09:19:08.000Z</news:publication_date>
       <news:title>German Inflation Eases to 2.3%; Stubborn Service Costs Remain the Key Driver </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-lands-googles-largest-ever-5-5-billion-euro-investment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T07:58:24.000Z</news:publication_date>
-      <news:title>Germany Lands Google?s Largest-Ever ?5.5 Billion Investment </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/sip-carefully-gluhwein-now-costs-more-than-ever-at-christmas-markets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-12T06:42:05.000Z</news:publication_date>
-      <news:title>Sip Carefully: Gl?hwein Now Costs More Than Ever at Christmas Markets </news:title>
     </news:news>
   </url>
 

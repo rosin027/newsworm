@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-health-policy-expert-streeck-calls-for-a-paradigm-shift-in-the-treatment-of-the-elderly</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-15T14:22:19.000Z</news:publication_date>
+      <news:title>CDU health policy expert Streeck calls for a paradigm shift in the treatment of the elderly </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-calls-on-spd-to-step-up-in-the-fight-against-afd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-15T14:07:13.000Z</news:publication_date>
+      <news:title>Merz Calls on SPD to Step Up in the Fight Against AfD </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-hit-by-massive-bird-flu-wave-1-5-million-animals-culled</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-11-13T16:10:38.000Z</news:publication_date>
       <news:title>Pro-Palestinian Activists Climb Berlin?s Brandenburg Gate and Unfurl Banner </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-coalition-agrees-to-keep-military-service-voluntary</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-13T15:39:51.000Z</news:publication_date>
-      <news:title>Germany?s Coalition Agrees to Keep Military Service Voluntary </news:title>
     </news:news>
   </url>
 

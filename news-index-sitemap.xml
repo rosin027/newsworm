@@ -62,16 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-2026-budget-with-higher-borrowing-and-industry-relief-measures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-14T10:30:29.000Z</news:publication_date>
-      <news:title>Germany Approves 2026 Budget with Higher Borrowing and Industry Relief Measures </news:title>
-    </news:news>
-  </url>
-
 </urlset>

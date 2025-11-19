@@ -3,26 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/cdu-health-policy-expert-streeck-calls-for-a-paradigm-shift-in-the-treatment-of-the-elderly</loc>
+    <loc>https://www.newsworm.de/news/germany-bets-on-new-ai-mega-data-centre-to-drive-true-digital-sovereignty</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-11-15T14:22:19.000Z</news:publication_date>
-      <news:title>CDU health policy expert Streeck calls for a paradigm shift in the treatment of the elderly </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-calls-on-spd-to-step-up-in-the-fight-against-afd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-15T14:07:13.000Z</news:publication_date>
-      <news:title>Merz Calls on SPD to Step Up in the Fight Against AfD </news:title>
+      <news:publication_date>2025-11-19T07:24:48.000Z</news:publication_date>
+      <news:title>Germany bets on new AI mega data centre to drive true digital sovereignty </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/money-instead-of-entry-62-afghans-accept-the-german-governments-offer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-19T09:16:17.000Z</news:publication_date>
+      <news:title>Money instead of entry: 62 Afghans accept the German government&apos;s offer </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/china-reclaims-lead-over-the-united-states-as-germanys-top-trading-partner</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-19T08:29:04.000Z</news:publication_date>
+      <news:title>China Reclaims Lead Over the United States as Germany?s Top Trading Partner </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-bets-on-new-ai-mega-data-centre-to-drive-true-digital-sovereignty</loc>
     <news:news>
       <news:publication>

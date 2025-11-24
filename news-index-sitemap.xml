@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-consumers-plan-higher-spending-for-black-friday-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-24T12:29:09.000Z</news:publication_date>
+      <news:title>German Consumers Plan Higher Spending for Black Friday 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-business-morale-falls-as-hopes-for-revival-dim</loc>
     <news:news>
       <news:publication>

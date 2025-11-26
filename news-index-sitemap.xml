@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-interior-minister-announces-entry-of-more-afghan-asylum-seekers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-26T15:11:45.000Z</news:publication_date>
+      <news:title>Germany?s Interior Minister Announces Entry of More Afghan Asylum Seekers </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-job-market-weakens-as-companies-scale-back-hiring</loc>
     <news:news>
       <news:publication>

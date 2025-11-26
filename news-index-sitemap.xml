@@ -74,16 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-deutsche-bahn-plan-seamless-rail-to-flight-service</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-24T07:57:29.000Z</news:publication_date>
-      <news:title>Lufthansa &amp; Deutsche Bahn Plan Seamless Rail-to-Flight Service </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -98,28 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/eu-adopts-tougher-toy-safety-standards-banning-pfas-and-carcinogens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-25T13:56:17.000Z</news:publication_date>
-      <news:title>EU Adopts Tougher Toy Safety Standards, Banning PFAS and Carcinogens </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-court-rules-member-states-must-recognise-same-sex-marriages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-25T12:00:44.000Z</news:publication_date>
-      <news:title>EU Court Rules Member States Must Recognise Same-Sex Marriages </news:title>
-    </news:news>
-  </url>
-
 </urlset>

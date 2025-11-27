@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/high-sick-leave-in-germany-trade-union-urges-employer-action</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-27T09:33:58.000Z</news:publication_date>
+      <news:title>High Sick Leave in Germany: Trade Union Urges Employer Action </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/insurance-giant-allianz-warns-of-job-cuts-amid-ai-transition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-27T08:37:28.000Z</news:publication_date>
+      <news:title>Insurance giant Allianz warns of job cuts amid AI transition </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-interior-minister-announces-entry-of-more-afghan-asylum-seekers</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-11-25T12:00:44.000Z</news:publication_date>
       <news:title>EU Court Rules Member States Must Recognise Same-Sex Marriages </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/black-friday-spam-alert-german-email-providers-warn-of-fraud-surge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-25T09:16:35.000Z</news:publication_date>
-      <news:title>Black Friday Spam Alert: German Email Providers Warn of Fraud Surge </news:title>
     </news:news>
   </url>
 

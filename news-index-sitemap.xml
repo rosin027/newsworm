@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/automotive-supplier-continental-plans-job-cuts-in-its-contitech-division</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-25T07:43:51.000Z</news:publication_date>
-      <news:title>Automotive Supplier Continental Plans Job Cuts in Its ContiTech Division </news:title>
-    </news:news>
-  </url>
-
 </urlset>

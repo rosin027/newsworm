@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gkv-warns-supplementary-health-insurance-contributions-may-exceed-3-percent-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-27T11:01:10.000Z</news:publication_date>
+      <news:title>GKV Warns: Supplementary Health Insurance Contributions May Exceed 3% in 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/high-sick-leave-in-germany-trade-union-urges-employer-action</loc>
     <news:news>
       <news:publication>

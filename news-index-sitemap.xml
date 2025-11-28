@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/parents-raise-concerns-over-digital-readiness-in-german-schools</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-28T08:32:17.000Z</news:publication_date>
+      <news:title>Parents Raise Concerns Over Digital Readiness in German Schools </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-astronaut-set-to-fly-to-the-moon-with-nasa</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2025-11-26T10:28:38.000Z</news:publication_date>
       <news:title>Deutsche Bahn Restricts Rail Construction Over Christmas Holidays </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlins-prenzlauer-berg-hit-by-overnight-tire-slashing-spree</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-26T09:22:05.000Z</news:publication_date>
-      <news:title>Berlin?s Prenzlauer Berg Hit by Overnight Tire Slashing Spree </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-approves-germanys-2025-budget-despite-higher-deficit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-26T08:13:39.000Z</news:publication_date>
-      <news:title>EU Approves Germany&apos;s 2025 Budget Despite Higher Deficit </news:title>
     </news:news>
   </url>
 

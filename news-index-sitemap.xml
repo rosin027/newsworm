@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-youth-wing-launch-triggers-widespread-protests-and-clashes-in-giessen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-29T09:29:51.000Z</news:publication_date>
+      <news:title>AfD Youth Wing Launch Triggers Widespread Protests and Clashes in Gie?en </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-524-billion-euro-budget-for-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-29T08:39:49.000Z</news:publication_date>
+      <news:title>Bundestag Approves ?524 Billion Budget for 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/december-2025-in-germany-important-changes-you-need-to-know</loc>
     <news:news>
       <news:publication>
@@ -59,30 +83,6 @@
       </news:publication>
       <news:publication_date>2025-11-27T11:01:10.000Z</news:publication_date>
       <news:title>GKV Warns: Supplementary Health Insurance Contributions May Exceed 3% in 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/high-sick-leave-in-germany-trade-union-urges-employer-action</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-27T09:33:58.000Z</news:publication_date>
-      <news:title>High Sick Leave in Germany: Trade Union Urges Employer Action </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/insurance-giant-allianz-warns-of-job-cuts-amid-ai-transition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-27T08:37:28.000Z</news:publication_date>
-      <news:title>Insurance giant Allianz warns of job cuts amid AI transition </news:title>
     </news:news>
   </url>
 

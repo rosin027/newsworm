@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-early-booking-and-seat-reservations-advised-for-christmas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-30T11:24:14.000Z</news:publication_date>
+      <news:title>Deutsche Bahn: Early Booking and Seat Reservations Advised for Christmas </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/beuthener-strasse-elementary-school-hit-by-massive-fire-in-hanover</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-11-28T14:29:08.000Z</news:publication_date>
       <news:title>December 2025 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-5000-euro-incentive-for-ev-and-plug-in-hybrid-cars-for-low-middle-income-buyers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-28T11:41:20.000Z</news:publication_date>
-      <news:title>Germany Plans ?5,000 Incentive for EV and Plug-in Hybrid Cars for Low &amp; Middle-Income Buyers </news:title>
     </news:news>
   </url>
 

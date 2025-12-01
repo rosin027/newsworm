@@ -50,28 +50,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/afd-youth-wing-launch-triggers-widespread-protests-and-clashes-in-giessen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-29T09:29:51.000Z</news:publication_date>
-      <news:title>AfD Youth Wing Launch Triggers Widespread Protests and Clashes in Gie?en </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-524-billion-euro-budget-for-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-29T08:39:49.000Z</news:publication_date>
-      <news:title>Bundestag Approves ?524 Billion Budget for 2026 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

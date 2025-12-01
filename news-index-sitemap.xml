@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/from-porcelain-to-tweed-eu-introduces-protected-status-to-traditional-crafts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-01T15:27:32.000Z</news:publication_date>
+      <news:title>From Porcelain to Tweed: EU Introduces Protected Status to Traditional Crafts </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/africa-begins-rollout-of-groundbreaking-lenacapavir-hiv-prevention-shots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-01T14:29:40.000Z</news:publication_date>
+      <news:title>Africa Begins Rollout of Groundbreaking Lenacapavir HIV-Prevention shots </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/airbus-confirms-quality-issue-on-a320-panels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-01T14:08:29.000Z</news:publication_date>
+      <news:title>Airbus confirms &apos;quality issue&apos; on A320 panels </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-statutory-health-funds-file-lawsuits-against-government-over-insurance-costs-for-citizens-on-social-benefits</loc>
     <news:news>
       <news:publication>

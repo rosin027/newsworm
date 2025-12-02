@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/who-backs-glp-1-treatments-to-tackle-obesity-epidemic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-02T09:46:59.000Z</news:publication_date>
+      <news:title>WHO backs GLP-1 treatments to tackle obesity epidemic </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-and-poland-forge-deeper-alliance-strengthening-defense-transport-and-remembrance-efforts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-02T08:31:21.000Z</news:publication_date>
+      <news:title>Germany and Poland Forge Deeper Alliance, Strengthening Defense, Transport, and Remembrance Efforts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/from-porcelain-to-tweed-eu-introduces-protected-status-to-traditional-crafts</loc>
     <news:news>
       <news:publication>
@@ -71,30 +95,6 @@
       </news:publication>
       <news:publication_date>2025-11-30T11:24:14.000Z</news:publication_date>
       <news:title>Deutsche Bahn: Early Booking and Seat Reservations Advised for Christmas </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/beuthener-strasse-elementary-school-hit-by-massive-fire-in-hanover</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-30T09:17:14.000Z</news:publication_date>
-      <news:title>Beuthener Strasse Elementary School Hit by Massive Fire in Hanover </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-launches-new-youth-wing-with-jean-pascal-hohm-as-leader</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-30T09:07:54.000Z</news:publication_date>
-      <news:title>AfD Launches New Youth Wing With Jean-Pascal Hohm as Leader </news:title>
     </news:news>
   </url>
 

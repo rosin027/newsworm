@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/chinese-retail-giant-jd-dot-com-secures-85-percent-stake-in-mediamarkt-saturn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T07:33:49.000Z</news:publication_date>
+      <news:title>Chinese Retail Giant JD.com Secures 85% Stake in MediaMarkt-Saturn </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/job-cuts-and-price-hikes-likely-as-germany-raises-minimum-wage-ifo-survey-finds</loc>
     <news:news>
       <news:publication>

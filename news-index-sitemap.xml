@@ -122,28 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-statutory-health-funds-file-lawsuits-against-government-over-insurance-costs-for-citizens-on-social-benefits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-01T11:57:08.000Z</news:publication_date>
-      <news:title>German Statutory Health Funds File Lawsuits Against Government Over Insurance Costs for Citizens on Social Benefits </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/retailers-dissatisfied-early-christmas-sales-off-to-a-slow-start</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-01T10:56:49.000Z</news:publication_date>
-      <news:title>Retailers Dissatisfied: Early Christmas Sales Off to a Slow Start </news:title>
-    </news:news>
-  </url>
-
 </urlset>

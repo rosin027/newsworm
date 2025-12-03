@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-puts-ballistic-missile-defence-shield-into-service</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T15:50:21.000Z</news:publication_date>
+      <news:title>Germany puts ballistic missile defence shield into service </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/tai-po-fire-in-hong-kong-kills-159-investigation-ongoing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T15:45:03.000Z</news:publication_date>
+      <news:title>Tai Po Fire in Hong Kong Kills 159, Investigation Ongoing </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-reports-a-slight-decline-in-unemployment-in-november-2025</loc>
     <news:news>
       <news:publication>
@@ -95,42 +119,6 @@
       </news:publication>
       <news:publication_date>2025-12-02T08:31:21.000Z</news:publication_date>
       <news:title>Germany and Poland Forge Deeper Alliance, Strengthening Defense, Transport, and Remembrance Efforts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/from-porcelain-to-tweed-eu-introduces-protected-status-to-traditional-crafts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-01T15:27:32.000Z</news:publication_date>
-      <news:title>From Porcelain to Tweed: EU Introduces Protected Status to Traditional Crafts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/africa-begins-rollout-of-groundbreaking-lenacapavir-hiv-prevention-shots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-01T14:29:40.000Z</news:publication_date>
-      <news:title>Africa Begins Rollout of Groundbreaking Lenacapavir HIV-Prevention shots </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/airbus-confirms-quality-issue-on-a320-panels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-01T14:08:29.000Z</news:publication_date>
-      <news:title>Airbus confirms &apos;quality issue&apos; on A320 panels </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-economy-hits-deepest-post-war-crisis-industry-leaders-warn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T09:27:03.000Z</news:publication_date>
+      <news:title>German Economy Hits ?Deepest Post-War Crisis,? Industry Leaders Warn </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-tenants-association-criticizes-rent-cap-regularly-circumvented-in-practice</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T08:01:38.000Z</news:publication_date>
+      <news:title>Germany?s Tenants? Association Criticizes: Rent Cap &quot;Regularly Circumvented&quot; in Practice </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/chinese-retail-giant-jd-dot-com-secures-85-percent-stake-in-mediamarkt-saturn</loc>
     <news:news>
       <news:publication>

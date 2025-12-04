@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-unveils-multi-billion-plan-to-cut-reliance-on-china-for-rare-earths</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-04T07:55:54.000Z</news:publication_date>
+      <news:title>EU Unveils Multi-Billion Plan to Cut Reliance on China for Rare Earths </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/putin-begins-two-day-india-visit-focused-on-defence-ties</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-04T07:50:13.000Z</news:publication_date>
+      <news:title>Putin Begins Two-Day India Visit Focused on Defence Ties </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-puts-ballistic-missile-defence-shield-into-service</loc>
     <news:news>
       <news:publication>

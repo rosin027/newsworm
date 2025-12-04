@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/job-cuts-and-price-hikes-likely-as-germany-raises-minimum-wage-ifo-survey-finds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T14:38:19.000Z</news:publication_date>
-      <news:title>Job Cuts and Price Hikes Likely as Germany Raises Minimum Wage, Ifo Survey Finds </news:title>
-    </news:news>
-  </url>
-
 </urlset>

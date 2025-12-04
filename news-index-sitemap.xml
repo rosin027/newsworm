@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-a-tax-relief-package-for-citizens-and-the-hospitality-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-04T09:34:23.000Z</news:publication_date>
+      <news:title>Bundestag approves a tax relief package for citizens and the hospitality industry </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-to-host-uefa-womens-euro-2029</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-04T08:01:48.000Z</news:publication_date>
+      <news:title>Germany to Host UEFA Women?s Euro 2029 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-unveils-multi-billion-plan-to-cut-reliance-on-china-for-rare-earths</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2025-12-02T12:44:09.000Z</news:publication_date>
       <news:title>E-Scooter Accidents on the Rise: Germany Introduces Tougher Rules for Riders and Owners </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/who-backs-glp-1-treatments-to-tackle-obesity-epidemic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T09:46:59.000Z</news:publication_date>
-      <news:title>WHO backs GLP-1 treatments to tackle obesity epidemic </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-and-poland-forge-deeper-alliance-strengthening-defense-transport-and-remembrance-efforts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T08:31:21.000Z</news:publication_date>
-      <news:title>Germany and Poland Forge Deeper Alliance, Strengthening Defense, Transport, and Remembrance Efforts </news:title>
     </news:news>
   </url>
 

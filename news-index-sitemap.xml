@@ -122,28 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-puts-ballistic-missile-defence-shield-into-service</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-03T15:50:21.000Z</news:publication_date>
-      <news:title>Germany puts ballistic missile defence shield into service </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tai-po-fire-in-hong-kong-kills-159-investigation-ongoing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-03T15:45:03.000Z</news:publication_date>
-      <news:title>Tai Po Fire in Hong Kong Kills 159, Investigation Ongoing </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-takes-aim-at-europe-in-new-security-strategy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-06T08:32:12.000Z</news:publication_date>
+      <news:title>Trump takes aim at Europe in new security strategy </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/donald-trump-wins-fifas-first-ever-peace-prize</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-06T08:17:44.000Z</news:publication_date>
+      <news:title>Donald Trump Wins FIFA?s First-Ever Peace Prize </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-tightens-migration-policy-with-new-safe-country-law</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-12-05T08:00:05.000Z</news:publication_date>
       <news:title>Bundestag Approves Geothermal Acceleration Law for Climate-Neutral Heating </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-a-tax-relief-package-for-citizens-and-the-hospitality-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-04T09:34:23.000Z</news:publication_date>
-      <news:title>Bundestag approves a tax relief package for citizens and the hospitality industry </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-host-uefa-womens-euro-2029</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-04T08:01:48.000Z</news:publication_date>
-      <news:title>Germany to Host UEFA Women?s Euro 2029 </news:title>
     </news:news>
   </url>
 

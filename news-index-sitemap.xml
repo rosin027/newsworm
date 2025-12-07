@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-hits-musks-x-with-120-million-euro-fine-sparking-us-ire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-07T09:06:19.000Z</news:publication_date>
+      <news:title>EU hits Musk&apos;s X with ?120 million fine, sparking US ire </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-public-broadcasting-fee-hike-recommendation-cut-unexpectedly</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-07T08:47:35.000Z</news:publication_date>
+      <news:title>Germany?s Public Broadcasting Fee Hike Recommendation Cut Unexpectedly </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/massive-backlash-hits-netflix-over-warner-bros-acquisition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-07T08:37:58.000Z</news:publication_date>
+      <news:title>Massive Backlash Hits Netflix Over Warner Bros. Acquisition </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bsw-elects-fabio-de-masi-as-new-leader-and-adopts-major-party-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-07T08:32:45.000Z</news:publication_date>
+      <news:title>BSW Elects Fabio de Masi as New Leader and Adopts Major Party Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-pledges-support-to-israel-on-first-visit-but-acknowledges-key-differences</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-07T08:24:45.000Z</news:publication_date>
+      <news:title>Merz Pledges Support to Israel on First Visit but Acknowledges Key Differences </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-merz-makes-first-visit-to-israel-as-chancellor</loc>
     <news:news>
       <news:publication>
@@ -95,42 +155,6 @@
       </news:publication>
       <news:publication_date>2025-12-05T10:31:31.000Z</news:publication_date>
       <news:title>German factory orders rise more than expected in October </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/uk-norway-to-jointly-hunt-russian-submarines-under-new-pact</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-05T08:40:26.000Z</news:publication_date>
-      <news:title>UK, Norway to jointly &apos;hunt Russian submarines&apos; under new pact </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-adopts-modernization-plan-to-cut-bureaucracy-and-boost-services</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-05T08:19:32.000Z</news:publication_date>
-      <news:title>Germany Adopts Modernization Plan to Cut Bureaucracy and Boost Services </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-geothermal-acceleration-law-for-climate-neutral-heating</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-05T08:00:05.000Z</news:publication_date>
-      <news:title>Bundestag Approves Geothermal Acceleration Law for Climate-Neutral Heating </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/not-black-or-white-teens-worldwide-react-to-australia-social-media-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-08T08:22:08.000Z</news:publication_date>
+      <news:title>&apos;Not black or white&apos;: Teens worldwide react to Australia social media ban </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ukraine-president-to-meet-european-allies-after-trump-criticism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-08T08:11:55.000Z</news:publication_date>
+      <news:title>Ukraine president to meet European allies after Trump criticism </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-sets-new-renewable-energy-record-in-q3-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-08T08:05:49.000Z</news:publication_date>
+      <news:title>Germany Sets New Renewable Energy Record in Q3 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deadly-floods-hit-indonesia-and-sri-lanka-amid-severe-shortages</loc>
     <news:news>
       <news:publication>
@@ -83,30 +119,6 @@
       </news:publication>
       <news:publication_date>2025-12-06T14:42:09.000Z</news:publication_date>
       <news:title>Germany&apos;s Merz makes first visit to Israel as chancellor </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-takes-aim-at-europe-in-new-security-strategy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-06T08:32:12.000Z</news:publication_date>
-      <news:title>Trump takes aim at Europe in new security strategy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/donald-trump-wins-fifas-first-ever-peace-prize</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-06T08:17:44.000Z</news:publication_date>
-      <news:title>Donald Trump Wins FIFA?s First-Ever Peace Prize </news:title>
     </news:news>
   </url>
 

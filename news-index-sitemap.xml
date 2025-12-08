@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-health-insurance-contributions-expected-to-rise-next-year-warns-tk-ceo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-08T10:59:48.000Z</news:publication_date>
+      <news:title>German Health Insurance Contributions Expected to Rise Next Year, Warns TK CEO </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/not-black-or-white-teens-worldwide-react-to-australia-social-media-ban</loc>
     <news:news>
       <news:publication>

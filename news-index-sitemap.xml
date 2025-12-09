@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/public-holidays-in-germany-2026-national-regional-days-off</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T12:51:45.000Z</news:publication_date>
+      <news:title>Public Holidays in Germany 2026: National &amp; Regional Days Off </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-employees-will-work-more-in-2026-as-holidays-fall-on-weekends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T12:00:28.000Z</news:publication_date>
+      <news:title>German Employees Will Work More in 2026 as Holidays Fall on Weekends </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-launches-antitrust-probe-into-googles-data-use-for-ai</loc>
     <news:news>
       <news:publication>

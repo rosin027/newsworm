@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-cracks-down-on-fake-paternity-claims-for-residency</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-10T14:35:49.000Z</news:publication_date>
+      <news:title>Germany Cracks Down on Fake Paternity Claims for Residency </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-consumers-back-mandatory-nutri-score-labeling-on-food-products</loc>
     <news:news>
       <news:publication>

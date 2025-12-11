@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-2026-growth-slashed-new-forecasts-deal-blow-to-merzs-economic-strategy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T13:46:12.000Z</news:publication_date>
+      <news:title>Germany?s 2026 Growth Slashed: New Forecasts Deal Blow to Merz?s Economic Strategy </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-ceo-palla-launches-major-restructuring-and-management-overhaul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T12:16:22.000Z</news:publication_date>
+      <news:title>Deutsche Bahn CEO Palla Launches Major Restructuring and Management Overhaul </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-launches-plan-to-boost-language-and-math-skills-in-schools-and-kitas</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2025-12-09T15:34:04.000Z</news:publication_date>
       <news:title>BMW Appoints Milan Nedeljkovic as New CEO to Steer Car Giant in Tough Times </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/public-holidays-in-germany-2026-national-regional-days-off</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:51:45.000Z</news:publication_date>
-      <news:title>Public Holidays in Germany 2026: National &amp; Regional Days Off </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-employees-will-work-more-in-2026-as-holidays-fall-on-weekends</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T12:00:28.000Z</news:publication_date>
-      <news:title>German Employees Will Work More in 2026 as Holidays Fall on Weekends </news:title>
     </news:news>
   </url>
 

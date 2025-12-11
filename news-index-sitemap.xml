@@ -134,16 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/microsoft-announces-17-5-billion-dollars-investment-in-india-its-largest-ever-in-asia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T16:13:32.000Z</news:publication_date>
-      <news:title>Microsoft announces $17.5 billion investment in India, its &apos;largest ever&apos; in Asia </news:title>
-    </news:news>
-  </url>
-
 </urlset>

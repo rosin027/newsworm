@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ais-400-billion-dollars-problem-are-chips-getting-old-too-fast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T08:39:49.000Z</news:publication_date>
+      <news:title>AI&apos;s $400 billion problem: Are chips getting old too fast? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/trump-says-had-pretty-strong-words-with-europeans-on-ukraine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T08:32:42.000Z</news:publication_date>
+      <news:title>Trump says had &apos;pretty strong words&apos; with Europeans on Ukraine </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/us-to-tighten-screening-for-german-travelers-with-new-social-media-checks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-11T08:06:46.000Z</news:publication_date>
+      <news:title>U.S. to Tighten Screening for German Travelers with New Social-Media Checks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/take-charge-of-your-reels-feed-with-instagrams-your-algorithm</loc>
     <news:news>
       <news:publication>
@@ -107,54 +143,6 @@
       </news:publication>
       <news:publication_date>2025-12-09T12:00:28.000Z</news:publication_date>
       <news:title>German Employees Will Work More in 2026 as Holidays Fall on Weekends </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-launches-antitrust-probe-into-googles-data-use-for-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T09:35:20.000Z</news:publication_date>
-      <news:title>EU launches antitrust probe into Google&apos;s data use for AI </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-asylum-reform-germany-does-not-have-to-accept-refugees-from-other-eu-countries</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T08:25:48.000Z</news:publication_date>
-      <news:title>EU Asylum Reform: Germany does not have to accept refugees from other EU countries </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/debate-intensifies-in-germany-on-tying-retirement-age-to-years-of-contributions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T08:06:53.000Z</news:publication_date>
-      <news:title>Debate Intensifies in Germany on Tying Retirement Age to Years of Contributions </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-shows-self-criticism-over-cityscape-migration-remarks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-09T08:00:44.000Z</news:publication_date>
-      <news:title>Merz Shows Self-Criticism Over ?Cityscape? Migration Remarks </news:title>
     </news:news>
   </url>
 

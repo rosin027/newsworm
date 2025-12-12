@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-portal-for-citizens-to-report-bureaucracy-and-suggest-improvements</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-12T11:12:03.000Z</news:publication_date>
+      <news:title>Germany Launches Portal for Citizens to Report Bureaucracy and Suggest Improvements </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/wwii-bomb-detonation-in-hanau-causes-property-damage-apartment-uninhabitable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-12T10:24:39.000Z</news:publication_date>
+      <news:title>WWII Bomb Detonation in Hanau Causes Property Damage, Apartment Uninhabitable </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/flixtrain-to-double-services-and-connect-major-german-cities-by-2028</loc>
     <news:news>
       <news:publication>
@@ -155,18 +179,6 @@
       </news:publication>
       <news:publication_date>2025-12-10T14:35:49.000Z</news:publication_date>
       <news:title>Germany Cracks Down on Fake Paternity Claims for Residency </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-consumers-back-mandatory-nutri-score-labeling-on-food-products</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T10:49:30.000Z</news:publication_date>
-      <news:title>German Consumers Back Mandatory Nutri-Score Labeling on Food Products </news:title>
     </news:news>
   </url>
 

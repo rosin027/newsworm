@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-targets-chinas-shein-and-temu-imports-with-3-euro-low-value-parcel-tax</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-13T08:42:53.000Z</news:publication_date>
+      <news:title>EU Targets China?s Shein and Temu Imports with ?3 Low-Value Parcel Tax </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/plane-with-three-occupants-makes-emergency-landing-in-mannheim</loc>
     <news:news>
       <news:publication>
@@ -131,42 +143,6 @@
       </news:publication>
       <news:publication_date>2025-12-11T10:27:42.000Z</news:publication_date>
       <news:title>Berlin Launches Plan to Boost Language and Math Skills in Schools and Kitas </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ais-400-billion-dollars-problem-are-chips-getting-old-too-fast</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T08:39:49.000Z</news:publication_date>
-      <news:title>AI&apos;s $400 billion problem: Are chips getting old too fast? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-says-had-pretty-strong-words-with-europeans-on-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T08:32:42.000Z</news:publication_date>
-      <news:title>Trump says had &apos;pretty strong words&apos; with Europeans on Ukraine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-to-tighten-screening-for-german-travelers-with-new-social-media-checks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T08:06:46.000Z</news:publication_date>
-      <news:title>U.S. to Tighten Screening for German Travelers with New Social-Media Checks </news:title>
     </news:news>
   </url>
 

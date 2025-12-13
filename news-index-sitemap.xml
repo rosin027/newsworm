@@ -122,28 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-2026-growth-slashed-new-forecasts-deal-blow-to-merzs-economic-strategy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T13:46:12.000Z</news:publication_date>
-      <news:title>Germany?s 2026 Growth Slashed: New Forecasts Deal Blow to Merz?s Economic Strategy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-ceo-palla-launches-major-restructuring-and-management-overhaul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T12:16:22.000Z</news:publication_date>
-      <news:title>Deutsche Bahn CEO Palla Launches Major Restructuring and Management Overhaul </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/european-airlines-vary-widely-in-baggage-policies-and-costs-survey-finds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-13T11:47:31.000Z</news:publication_date>
+      <news:title>European Airlines Vary Widely in Baggage Policies and Costs, Survey Finds </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-targets-chinas-shein-and-temu-imports-with-3-euro-low-value-parcel-tax</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2025-12-11T12:16:22.000Z</news:publication_date>
       <news:title>Deutsche Bahn CEO Palla Launches Major Restructuring and Management Overhaul </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-launches-plan-to-boost-language-and-math-skills-in-schools-and-kitas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-11T10:27:42.000Z</news:publication_date>
-      <news:title>Berlin Launches Plan to Boost Language and Math Skills in Schools and Kitas </news:title>
     </news:news>
   </url>
 

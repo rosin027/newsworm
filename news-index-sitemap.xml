@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-defence-giants-battle-over-military-spending-ramp-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T09:29:44.000Z</news:publication_date>
+      <news:title>German defence giants battle over military spending ramp-up </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/why-spacex-ipo-plan-is-generating-so-much-buzz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-14T09:22:16.000Z</news:publication_date>
+      <news:title>Why SpaceX IPO plan is generating so much buzz </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/european-airlines-vary-widely-in-baggage-policies-and-costs-survey-finds</loc>
     <news:news>
       <news:publication>
@@ -59,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-12-12T10:24:39.000Z</news:publication_date>
       <news:title>WWII Bomb Detonation in Hanau Causes Property Damage, Apartment Uninhabitable </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/flixtrain-to-double-services-and-connect-major-german-cities-by-2028</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-12T08:49:44.000Z</news:publication_date>
-      <news:title>Flixtrain to Double Services and Connect Major German Cities by 2028 </news:title>
     </news:news>
   </url>
 

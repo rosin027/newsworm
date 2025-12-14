@@ -62,28 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-portal-for-citizens-to-report-bureaucracy-and-suggest-improvements</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-12T11:12:03.000Z</news:publication_date>
-      <news:title>Germany Launches Portal for Citizens to Report Bureaucracy and Suggest Improvements </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/wwii-bomb-detonation-in-hanau-causes-property-damage-apartment-uninhabitable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-12T10:24:39.000Z</news:publication_date>
-      <news:title>WWII Bomb Detonation in Hanau Causes Property Damage, Apartment Uninhabitable </news:title>
-    </news:news>
-  </url>
-
 </urlset>

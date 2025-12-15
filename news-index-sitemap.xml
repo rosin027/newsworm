@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-aging-population-one-in-four-will-be-67-or-older-by-2035</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-15T10:56:26.000Z</news:publication_date>
+      <news:title>Germany?s Aging Population: One in Four Will Be 67 or Older by 2035 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/australia-to-toughen-gun-laws-after-deadly-bondi-shootings</loc>
     <news:news>
       <news:publication>
@@ -59,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-12-14T09:22:16.000Z</news:publication_date>
       <news:title>Why SpaceX IPO plan is generating so much buzz </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/european-airlines-vary-widely-in-baggage-policies-and-costs-survey-finds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-13T11:47:31.000Z</news:publication_date>
-      <news:title>European Airlines Vary Widely in Baggage Policies and Costs, Survey Finds </news:title>
     </news:news>
   </url>
 

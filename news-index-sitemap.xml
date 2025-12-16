@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/vw-stops-production-at-german-site-for-first-time-due-to-cost-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-16T20:25:49.000Z</news:publication_date>
+      <news:title>VW stops production at German site for first time due to cost cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-health-id-the-end-of-the-physical-health-card-in-2026</loc>
     <news:news>
       <news:publication>

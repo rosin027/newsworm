@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-eases-2035-combustion-engine-ban-to-boost-car-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-17T08:25:48.000Z</news:publication_date>
+      <news:title>EU Eases 2035 Combustion Engine Ban to Boost Car Industry </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/vw-stops-production-at-german-site-for-first-time-due-to-cost-cuts</loc>
     <news:news>
       <news:publication>
@@ -59,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-12-15T10:56:26.000Z</news:publication_date>
       <news:title>Germany?s Aging Population: One in Four Will Be 67 or Older by 2035 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/australia-to-toughen-gun-laws-after-deadly-bondi-shootings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-15T08:47:59.000Z</news:publication_date>
-      <news:title>Australia to toughen gun laws after deadly Bondi shootings </news:title>
     </news:news>
   </url>
 

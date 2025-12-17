@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-replaces-citizens-benefit-with-basic-income-support-and-stricter-sanctions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-17T12:46:50.000Z</news:publication_date>
+      <news:title>German Cabinet Replaces Citizen?s Benefit with Basic Income Support and Stricter Sanctions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-eases-2035-combustion-engine-ban-to-boost-car-industry</loc>
     <news:news>
       <news:publication>

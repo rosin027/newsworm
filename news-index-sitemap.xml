@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/oscars-to-stream-exclusively-on-youtube-from-2029</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-18T12:48:02.000Z</news:publication_date>
+      <news:title>Oscars to stream exclusively on YouTube from 2029 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ecb-set-to-hold-rates-but-debate-swirls-over-future</loc>
     <news:news>
       <news:publication>
@@ -59,30 +71,6 @@
       </news:publication>
       <news:publication_date>2025-12-16T20:25:49.000Z</news:publication_date>
       <news:title>VW stops production at German site for first time due to cost cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-health-id-the-end-of-the-physical-health-card-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-16T13:57:48.000Z</news:publication_date>
-      <news:title>Germany&apos;s Digital Health ID: The End of the Physical Health Card in 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sees-sharp-rise-in-adhd-diagnoses-among-adults</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-16T13:03:01.000Z</news:publication_date>
-      <news:title>Germany Sees Sharp Rise in ADHD Diagnoses Among Adults </news:title>
     </news:news>
   </url>
 

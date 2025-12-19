@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/more-vaccinations-at-the-pharmacy-new-law-grants-pharmacies-further-powers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-19T09:39:43.000Z</news:publication_date>
+      <news:title>More vaccinations at the pharmacy: New law grants pharmacies further powers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-agrees-90-billion-euros-loan-for-ukraine-without-russian-assets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-19T08:33:45.000Z</news:publication_date>
+      <news:title>EU Agrees ?90 Billion Loan for Ukraine, without Russian assets </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/oscars-to-stream-exclusively-on-youtube-from-2029</loc>
     <news:news>
       <news:publication>
@@ -47,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-12-17T12:46:50.000Z</news:publication_date>
       <news:title>German Cabinet Replaces Citizen?s Benefit with Basic Income Support and Stricter Sanctions </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-eases-2035-combustion-engine-ban-to-boost-car-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-17T08:25:48.000Z</news:publication_date>
-      <news:title>EU Eases 2035 Combustion Engine Ban to Boost Car Industry </news:title>
     </news:news>
   </url>
 

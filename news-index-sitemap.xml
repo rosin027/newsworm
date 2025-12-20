@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/end-of-status-quo-finance-minister-plans-major-pension-reform-germany-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-20T12:41:07.000Z</news:publication_date>
+      <news:title>The End of the Status Quo? Finance Minister Plans &quot;Major Pension Reform&quot; for 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-approves-pension-reform-stable-pensions-child-rearing-credits-and-active-pension</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2025-12-19T08:33:45.000Z</news:publication_date>
       <news:title>EU Agrees ?90 Billion Loan for Ukraine, without Russian assets </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/oscars-to-stream-exclusively-on-youtube-from-2029</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-18T12:48:02.000Z</news:publication_date>
-      <news:title>Oscars to stream exclusively on YouTube from 2029 </news:title>
     </news:news>
   </url>
 

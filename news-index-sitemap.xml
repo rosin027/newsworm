@@ -62,40 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-key-measures-on-asylum-military-service-budget-and-pensions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-19T13:24:25.000Z</news:publication_date>
-      <news:title>Germany Approves Key Measures on Asylum, Military Service, Budget, and Pensions </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-reduces-vat-on-meals-boosts-allowances-for-citizens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-19T12:50:44.000Z</news:publication_date>
-      <news:title>Germany Reduces VAT on Meals, Boosts Allowances for Citizens </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-continues-kurzarbeitergeld-at-24-month-through-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-19T12:14:52.000Z</news:publication_date>
-      <news:title>Germany Continues Kurzarbeitergeld at 24-Month Through 2026 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rising-old-age-poverty-record-number-of-german-pensioners-rely-on-social-assistance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-21T07:31:10.000Z</news:publication_date>
+      <news:title>Rising Old-Age Poverty: Record Number of German Pensioners Rely on Social Assistance </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-commemorates-one-year-since-magdeburg-christmas-market-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-21T06:17:10.000Z</news:publication_date>
+      <news:title>Germany Commemorates One Year Since Magdeburg Christmas Market Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/end-of-status-quo-finance-minister-plans-major-pension-reform-germany-2026</loc>
     <news:news>
       <news:publication>

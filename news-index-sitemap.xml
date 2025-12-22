@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-health-insurance-contributions-rise-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-22T13:22:08.000Z</news:publication_date>
+      <news:title>Germany?s Health Insurance Contributions Rise in 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/schleswig-holstein-pushes-for-nationwide-sugar-tax-in-germany</loc>
     <news:news>
       <news:publication>
@@ -35,18 +47,6 @@
       </news:publication>
       <news:publication_date>2025-12-21T06:17:10.000Z</news:publication_date>
       <news:title>Germany Commemorates One Year Since Magdeburg Christmas Market Attack </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/end-of-status-quo-finance-minister-plans-major-pension-reform-germany-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-20T12:41:07.000Z</news:publication_date>
-      <news:title>The End of the Status Quo? Finance Minister Plans &quot;Major Pension Reform&quot; for 2026 </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/schleswig-holstein-pushes-for-nationwide-sugar-tax-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-22T08:12:58.000Z</news:publication_date>
+      <news:title>Schleswig-Holstein Pushes for Nationwide Sugar Tax in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rising-old-age-poverty-record-number-of-german-pensioners-rely-on-social-assistance</loc>
     <news:news>
       <news:publication>
@@ -35,30 +47,6 @@
       </news:publication>
       <news:publication_date>2025-12-20T12:41:07.000Z</news:publication_date>
       <news:title>The End of the Status Quo? Finance Minister Plans &quot;Major Pension Reform&quot; for 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-pension-reform-stable-pensions-child-rearing-credits-and-active-pension</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-20T09:33:22.000Z</news:publication_date>
-      <news:title>Germany Approves Pension Reform: Stable Pensions, Child-Rearing Credits, and Active Pension </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-tightens-e-scooter-rules-with-higher-fines-and-safety-measures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-20T09:01:55.000Z</news:publication_date>
-      <news:title>Germany Tightens E-Scooter Rules With Higher Fines and Safety Measures </news:title>
     </news:news>
   </url>
 

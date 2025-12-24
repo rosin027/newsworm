@@ -38,16 +38,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/schleswig-holstein-pushes-for-nationwide-sugar-tax-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-22T08:12:58.000Z</news:publication_date>
-      <news:title>Schleswig-Holstein Pushes for Nationwide Sugar Tax in Germany </news:title>
-    </news:news>
-  </url>
-
 </urlset>

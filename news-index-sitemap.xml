@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-welcomes-eu-move-to-cut-industrial-energy-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-25T07:52:07.000Z</news:publication_date>
+      <news:title>Germany Welcomes EU Move to Cut Industrial Energy Costs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/the-european-laws-are-curbing-big-tech-and-irking-trump</loc>
     <news:news>
       <news:publication>

@@ -62,28 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/january-2026-in-germany-important-changes-you-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-23T15:17:56.000Z</news:publication_date>
-      <news:title>January 2026 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/how-disinformation-is-targeting-german-christmas-markets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-23T14:02:17.000Z</news:publication_date>
-      <news:title>How Disinformation Is Targeting German Christmas Markets </news:title>
-    </news:news>
-  </url>
-
 </urlset>

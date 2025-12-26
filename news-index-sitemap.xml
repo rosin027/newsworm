@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/reiche-calls-for-more-working-hours-and-later-retirement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-26T10:11:31.000Z</news:publication_date>
+      <news:title>Reiche Calls for More Working Hours and Later Retirement </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/auto-supplier-zf-sells-driver-assistance-unit-to-samsungs-harman</loc>
     <news:news>
       <news:publication>

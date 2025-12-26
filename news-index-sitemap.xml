@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/finding-work-in-germany-has-never-been-harder-chief-of-federal-employment-agency</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-26T13:16:19.000Z</news:publication_date>
+      <news:title>Finding Work in Germany Has Never Been Harder: Chief of Federal Employment Agency </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/reiche-calls-for-more-working-hours-and-later-retirement</loc>
     <news:news>
       <news:publication>
@@ -59,18 +71,6 @@
       </news:publication>
       <news:publication_date>2025-12-24T14:57:09.000Z</news:publication_date>
       <news:title>The European laws are curbing Big Tech... and irking Trump </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/historic-shift-germany-deports-criminal-to-syria-for-first-time-since-2011</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-24T13:31:35.000Z</news:publication_date>
-      <news:title>Historic Shift: Germany Deports Criminal to Syria for First Time Since 2011 </news:title>
     </news:news>
   </url>
 

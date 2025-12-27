@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-germany-heading-for-a-new-year-fireworks-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-27T09:12:05.000Z</news:publication_date>
+      <news:title>Is Germany Heading for a New Year Fireworks Ban? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/finding-work-in-germany-has-never-been-harder-chief-of-federal-employment-agency</loc>
     <news:news>
       <news:publication>
@@ -23,30 +35,6 @@
       </news:publication>
       <news:publication_date>2025-12-26T10:11:31.000Z</news:publication_date>
       <news:title>Reiche Calls for More Working Hours and Later Retirement </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/auto-supplier-zf-sells-driver-assistance-unit-to-samsungs-harman</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-25T08:36:51.000Z</news:publication_date>
-      <news:title>Auto supplier ZF Sells Driver Assistance Unit to Samsung?s Harman </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/economic-advisor-advocates-for-higher-out-of-pocket-costs-for-patients-with-statutory-health-insurance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-25T08:26:12.000Z</news:publication_date>
-      <news:title>Economic advisor advocates for higher out-of-pocket costs for patients with statutory health insurance </news:title>
     </news:news>
   </url>
 

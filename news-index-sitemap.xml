@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/electric-vs-combustion-cars-price-gap-narrows-further</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-30T08:52:16.000Z</news:publication_date>
+      <news:title>Electric vs Combustion Cars: Price Gap Narrows Further </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-moves-to-toughen-laws-on-attacks-against-police-and-medical-staff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-30T08:38:13.000Z</news:publication_date>
+      <news:title>Germany Moves to Toughen Laws on Attacks Against Police and Medical Staff </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/disposable-e-cigarettes-could-soon-face-a-ban-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-30T08:24:12.000Z</news:publication_date>
+      <news:title>Disposable E-Cigarettes Could Soon Face a Ban in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-top-companies-see-profits-plunge-and-jobs-cut-in-2025</loc>
     <news:news>
       <news:publication>
@@ -35,78 +71,6 @@
       </news:publication>
       <news:publication_date>2025-12-29T09:31:59.000Z</news:publication_date>
       <news:title>Sale of New Year&apos;s Eve fireworks begins in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bulgaria-adopts-euro-amid-fear-and-uncertainty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-28T09:14:54.000Z</news:publication_date>
-      <news:title>Bulgaria adopts euro amid fear and uncertainty </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-debates-real-name-requirement-to-tackle-online-abuse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-28T09:09:21.000Z</news:publication_date>
-      <news:title>Germany Debates Real-Name Requirement to Tackle Online Abuse </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lower-air-traffic-tax-doesnt-mean-cheaper-flights-says-schnieder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-28T08:53:45.000Z</news:publication_date>
-      <news:title>Lower Air Traffic Tax Doesn?t Mean Cheaper Flights, Says Schnieder </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-trains-far-more-punctual-over-christmas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-28T08:38:55.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Trains Far More Punctual Over Christmas </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fireworks-association-rejects-ban-on-new-years-eve-fireworks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-28T08:32:13.000Z</news:publication_date>
-      <news:title>Fireworks Association Rejects Ban on New Year?s Eve Fireworks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/electricity-prices-in-germany-to-stay-stable-or-fall-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-28T07:59:28.000Z</news:publication_date>
-      <news:title>Electricity Prices in Germany to Stay Stable or Fall in 2026 </news:title>
     </news:news>
   </url>
 

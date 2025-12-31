@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/india-surpasses-japan-as-worlds-fourth-largest-economy-sets-sights-on-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-31T12:35:58.000Z</news:publication_date>
+      <news:title>India Surpasses Japan as World?s Fourth-Largest Economy, Sets Sights on Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-dog-owners-avoid-new-years-eve-fireworks-in-airport-hotels</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2025-12-30T08:24:12.000Z</news:publication_date>
       <news:title>Disposable E-Cigarettes Could Soon Face a Ban in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-top-companies-see-profits-plunge-and-jobs-cut-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-29T12:39:23.000Z</news:publication_date>
-      <news:title>Germany?s Top Companies See Profits Plunge and Jobs Cut in 2025 </news:title>
     </news:news>
   </url>
 

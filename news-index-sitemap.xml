@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-dog-owners-avoid-new-years-eve-fireworks-in-airport-hotels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-31T10:00:44.000Z</news:publication_date>
+      <news:title>German Dog Owners Avoid New Year?s Eve Fireworks in Airport Hotels </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/2-7-million-sign-petition-demanding-ban-on-new-years-eve-fireworks-in-germany</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2025-12-29T12:39:23.000Z</news:publication_date>
       <news:title>Germany?s Top Companies See Profits Plunge and Jobs Cut in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/2026-new-year-resolutions-trends-across-germany-uncovered</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-29T10:45:41.000Z</news:publication_date>
-      <news:title>2026 New Year Resolutions Trends Across Germany Uncovered </news:title>
     </news:news>
   </url>
 

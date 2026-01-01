@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-eyes-seamless-rail-to-air-luggage-transfer-for-passengers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-01T09:22:57.000Z</news:publication_date>
+      <news:title>Germany Eyes Seamless Rail-to-Air Luggage Transfer for Passengers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/berlin-new-years-eve-around-400-detained-dozens-seriously-injured</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-01T08:50:01.000Z</news:publication_date>
+      <news:title>Berlin New Year?s Eve: Around 400 Detained, Dozens Seriously Injured </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/india-surpasses-japan-as-worlds-fourth-largest-economy-sets-sights-on-germany</loc>
     <news:news>
       <news:publication>
@@ -59,42 +83,6 @@
       </news:publication>
       <news:publication_date>2025-12-30T12:58:31.000Z</news:publication_date>
       <news:title>All Eurostar trains between London, Paris, Amsterdam and Brussels are cancelled </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/electric-vs-combustion-cars-price-gap-narrows-further</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-30T08:52:16.000Z</news:publication_date>
-      <news:title>Electric vs Combustion Cars: Price Gap Narrows Further </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-moves-to-toughen-laws-on-attacks-against-police-and-medical-staff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-30T08:38:13.000Z</news:publication_date>
-      <news:title>Germany Moves to Toughen Laws on Attacks Against Police and Medical Staff </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/disposable-e-cigarettes-could-soon-face-a-ban-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-30T08:24:12.000Z</news:publication_date>
-      <news:title>Disposable E-Cigarettes Could Soon Face a Ban in Germany </news:title>
     </news:news>
   </url>
 

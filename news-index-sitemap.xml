@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bulgaria-adopts-the-euro-nearly-20-years-after-joining-the-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-02T07:53:44.000Z</news:publication_date>
+      <news:title>Bulgaria adopts the euro, nearly 20 years after joining the EU </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/csu-calls-for-major-migration-overhaul-with-deportations-and-benefit-curbs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-02T07:34:27.000Z</news:publication_date>
+      <news:title>CSU Calls for Major Migration Overhaul With Deportations and Benefit Curbs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-employers-association-calls-for-changes-to-paid-sick-leave-amid-high-absences</loc>
     <news:news>
       <news:publication>

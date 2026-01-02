@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-fuel-prices-surge-in-2026-amid-higher-co2-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-02T15:16:45.000Z</news:publication_date>
+      <news:title>Germany Fuel Prices Surge in 2026 Amid Higher CO2 Costs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/norway-closes-in-on-2025-goal-of-100-electric-car-sales</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-02T14:01:24.000Z</news:publication_date>
+      <news:title>Norway Closes in on 2025 Goal of 100% Electric Car Sales </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/employment-in-germany-holds-steady-in-2025-despite-weak-economy</loc>
     <news:news>
       <news:publication>

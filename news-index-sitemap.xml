@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-turns-away-over-24-000-people-amid-stricter-2025-border-controls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-02T11:40:34.000Z</news:publication_date>
+      <news:title>Germany Turns Away Over 24,000 People Amid Stricter 2025 Border Controls </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bulgaria-adopts-the-euro-nearly-20-years-after-joining-the-eu</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2025-12-31T12:35:58.000Z</news:publication_date>
       <news:title>India Surpasses Japan as World?s Fourth-Largest Economy, Sets Sights on Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-dog-owners-avoid-new-years-eve-fireworks-in-airport-hotels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-31T10:00:44.000Z</news:publication_date>
-      <news:title>German Dog Owners Avoid New Year?s Eve Fireworks in Airport Hotels </news:title>
     </news:news>
   </url>
 

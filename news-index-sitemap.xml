@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/employment-in-germany-holds-steady-in-2025-despite-weak-economy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-02T13:49:04.000Z</news:publication_date>
+      <news:title>Employment in Germany Holds Steady in 2025 Despite Weak Economy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-turns-away-over-24-000-people-amid-stricter-2025-border-controls</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-01-01T08:50:01.000Z</news:publication_date>
       <news:title>Berlin New Year?s Eve: Around 400 Detained, Dozens Seriously Injured </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/india-surpasses-japan-as-worlds-fourth-largest-economy-sets-sights-on-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-31T12:35:58.000Z</news:publication_date>
-      <news:title>India Surpasses Japan as World?s Fourth-Largest Economy, Sets Sights on Germany </news:title>
     </news:news>
   </url>
 

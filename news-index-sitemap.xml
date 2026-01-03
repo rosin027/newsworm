@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/breaking-news-massive-power-outage-in-berlin-police-suspect-arson-attack-on-cable-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-03T14:23:57.000Z</news:publication_date>
+      <news:title>Breaking News: Massive power outage in Berlin - Police suspect arson attack on cable system  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/indians-earn-the-highest-median-wage-in-germany</loc>
     <news:news>
       <news:publication>

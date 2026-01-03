@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/indians-earn-the-highest-median-wage-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-03T10:50:27.000Z</news:publication_date>
+      <news:title>Indians Earn the Highest Median Wage in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/happiness-index-2025-the-real-state-of-well-being-in-germany</loc>
     <news:news>
       <news:publication>

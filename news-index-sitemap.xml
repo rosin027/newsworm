@@ -110,16 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-turns-away-over-24-000-people-amid-stricter-2025-border-controls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-02T11:40:34.000Z</news:publication_date>
-      <news:title>Germany Turns Away Over 24,000 People Amid Stricter 2025 Border Controls </news:title>
-    </news:news>
-  </url>
-
 </urlset>

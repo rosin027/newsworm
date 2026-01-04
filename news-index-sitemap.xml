@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-says-maduro-led-venezuela-to-ruin-sees-us-action-as-complex</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-04T12:55:20.000Z</news:publication_date>
+      <news:title>Merz Says Maduro Led Venezuela to Ruin, Sees US Action as Complex </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/police-release-surveillance-images-after-gelsenkirchen-bank-break-in</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-02T14:01:24.000Z</news:publication_date>
       <news:title>Norway Closes in on 2025 Goal of 100% Electric Car Sales </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/employment-in-germany-holds-steady-in-2025-despite-weak-economy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-02T13:49:04.000Z</news:publication_date>
-      <news:title>Employment in Germany Holds Steady in 2025 Despite Weak Economy </news:title>
     </news:news>
   </url>
 

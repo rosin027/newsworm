@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/are-waiting-times-to-see-specialist-doctors-in-germany-getting-worse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-05T15:03:45.000Z</news:publication_date>
+      <news:title>Are Waiting Times to See Specialist Doctors in Germany Getting Worse? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/why-are-indian-students-facing-deportation-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-05T13:55:07.000Z</news:publication_date>
+      <news:title>Why Are Indian Students Facing Deportation in Germany? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/punctuality-of-deutsche-bahn-significantly-improved-in-december</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-03T19:23:33.000Z</news:publication_date>
       <news:title>US to &apos;run&apos; Venezuela after toppling Maduro in military attack, eyes Huge Oil-Reserves </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/breaking-news-massive-power-outage-in-berlin-police-suspect-arson-attack-on-cable-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-03T14:23:57.000Z</news:publication_date>
-      <news:title>Breaking News: Massive power outage in Berlin - Police suspect arson attack on cable system </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ukraine-peace-deal-us-would-monitor-ceasefire-back-european-military-force</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-06T14:41:23.000Z</news:publication_date>
+      <news:title>Ukraine Peace Deal: US Would Monitor Ceasefire, Back European Military Force </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/brandenburg-coalition-falls-afd-calls-for-new-elections-after-government-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-06T14:22:02.000Z</news:publication_date>
+      <news:title>Brandenburg Coalition Falls: AfD Calls for New Elections After Government Crisis </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ev-sales-rebound-in-germany-as-chinese-brands-make-inroads</loc>
     <news:news>
       <news:publication>

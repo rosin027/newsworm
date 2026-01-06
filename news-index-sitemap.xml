@@ -74,16 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/police-release-surveillance-images-after-gelsenkirchen-bank-break-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-04T08:01:40.000Z</news:publication_date>
-      <news:title>Police Release Surveillance Images After Gelsenkirchen Bank Break-In </news:title>
-    </news:news>
-  </url>
-
 </urlset>

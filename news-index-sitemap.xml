@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ev-sales-rebound-in-germany-as-chinese-brands-make-inroads</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-06T13:01:07.000Z</news:publication_date>
+      <news:title>EV sales rebound in Germany as Chinese brands make inroads </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/toppling-of-venezuelas-maduro-stirs-fear-in-cubans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-06T12:48:01.000Z</news:publication_date>
+      <news:title>Toppling of Venezuela&apos;s Maduro stirs fear in Cubans </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-calls-on-the-coalition-to-implement-decisive-reforms-to-strengthen-the-economy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-06T12:32:49.000Z</news:publication_date>
+      <news:title>Merz calls on the coalition to implement decisive reforms to strengthen the economy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/are-waiting-times-to-see-specialist-doctors-in-germany-getting-worse</loc>
     <news:news>
       <news:publication>
@@ -59,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-01-04T18:05:15.000Z</news:publication_date>
       <news:title>Snow and Lasting Frost Expected to Continue in Germany, DWD warns </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-says-maduro-led-venezuela-to-ruin-sees-us-action-as-complex</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-04T12:55:20.000Z</news:publication_date>
-      <news:title>Merz Says Maduro Led Venezuela to Ruin, Sees US Action as Complex </news:title>
     </news:news>
   </url>
 

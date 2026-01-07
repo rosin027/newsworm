@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-weighs-military-option-to-acquire-greenland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-07T09:05:36.000Z</news:publication_date>
+      <news:title>Trump weighs military option to acquire Greenland </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/berlin-arson-attack-terrorism-probe-launched-after-45000-left-without-power</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-07T08:03:45.000Z</news:publication_date>
+      <news:title>Berlin Arson Attack: Terrorism Probe Launched After 45,000 Left Without Power </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ukraine-peace-deal-us-would-monitor-ceasefire-back-european-military-force</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-01-05T11:24:33.000Z</news:publication_date>
       <news:title>Punctuality of Deutsche Bahn significantly improved in December </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/csu-pushes-court-proceedings-for-children-under-14</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-05T09:48:37.000Z</news:publication_date>
-      <news:title>CSU Pushes Court Proceedings for Children Under 14 </news:title>
     </news:news>
   </url>
 

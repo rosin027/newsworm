@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-pension-commission-begins-work-on-long-term-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-07T14:55:27.000Z</news:publication_date>
+      <news:title>Germany?s Pension Commission Begins Work on Long-Term Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-weighs-military-option-to-acquire-greenland</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-01-06T12:32:49.000Z</news:publication_date>
       <news:title>Merz calls on the coalition to implement decisive reforms to strengthen the economy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/are-waiting-times-to-see-specialist-doctors-in-germany-getting-worse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-05T15:03:45.000Z</news:publication_date>
-      <news:title>Are Waiting Times to See Specialist Doctors in Germany Getting Worse? </news:title>
     </news:news>
   </url>
 

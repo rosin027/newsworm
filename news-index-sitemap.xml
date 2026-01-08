@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-reduces-long-distance-services-in-northern-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T08:30:28.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Reduces Long-Distance Services in Northern Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/power-restored-in-berlin-after-days-long-blackout</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T08:07:37.000Z</news:publication_date>
+      <news:title>Power restored in Berlin after days-long blackout </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/magdeburg-christmas-market-attack-trial-defendants-appeal-rejected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T07:59:24.000Z</news:publication_date>
+      <news:title>Magdeburg Christmas Market Attack Trial: Defendant?s Appeal Rejected </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-pension-commission-begins-work-on-long-term-reforms</loc>
     <news:news>
       <news:publication>

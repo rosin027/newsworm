@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-faces-severe-winter-weather-as-storm-elli-approaches</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T15:53:11.000Z</news:publication_date>
+      <news:title>Germany Faces Severe Winter Weather as Storm Elli Approaches </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/zalando-to-close-erfurt-logistics-center-cutting-2700-jobs</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-07T08:03:45.000Z</news:publication_date>
       <news:title>Berlin Arson Attack: Terrorism Probe Launched After 45,000 Left Without Power </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ukraine-peace-deal-us-would-monitor-ceasefire-back-european-military-force</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-06T14:41:23.000Z</news:publication_date>
-      <news:title>Ukraine Peace Deal: US Would Monitor Ceasefire, Back European Military Force </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/brandenburg-coalition-falls-afd-calls-for-new-elections-after-government-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-06T14:22:02.000Z</news:publication_date>
-      <news:title>Brandenburg Coalition Falls: AfD Calls for New Elections After Government Crisis </news:title>
     </news:news>
   </url>
 

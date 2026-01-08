@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/zalando-to-close-erfurt-logistics-center-cutting-2700-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T13:58:10.000Z</news:publication_date>
+      <news:title>Zalando to Close Erfurt Logistics Center, Cutting 2,700 Jobs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-nears-decision-on-migrant-return-centers-outside-the-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T13:47:07.000Z</news:publication_date>
+      <news:title>Germany Nears Decision on Migrant Return Centers Outside the EU </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-reduces-long-distance-services-in-northern-germany</loc>
     <news:news>
       <news:publication>
@@ -95,42 +119,6 @@
       </news:publication>
       <news:publication_date>2026-01-06T14:22:02.000Z</news:publication_date>
       <news:title>Brandenburg Coalition Falls: AfD Calls for New Elections After Government Crisis </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ev-sales-rebound-in-germany-as-chinese-brands-make-inroads</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-06T13:01:07.000Z</news:publication_date>
-      <news:title>EV sales rebound in Germany as Chinese brands make inroads </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/toppling-of-venezuelas-maduro-stirs-fear-in-cubans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-06T12:48:01.000Z</news:publication_date>
-      <news:title>Toppling of Venezuela&apos;s Maduro stirs fear in Cubans </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-calls-on-the-coalition-to-implement-decisive-reforms-to-strengthen-the-economy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-06T12:32:49.000Z</news:publication_date>
-      <news:title>Merz calls on the coalition to implement decisive reforms to strengthen the economy </news:title>
     </news:news>
   </url>
 

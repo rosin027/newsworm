@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-approves-mercosur-trade-deal-after-25-years-of-negotiations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T14:32:59.000Z</news:publication_date>
+      <news:title>EU Approves Mercosur Trade Deal After 25 Years of Negotiations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/all-are-in-the-streets-iranians-defiant-as-protests-grow</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-08T07:59:24.000Z</news:publication_date>
       <news:title>Magdeburg Christmas Market Attack Trial: Defendant?s Appeal Rejected </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-pension-commission-begins-work-on-long-term-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-07T14:55:27.000Z</news:publication_date>
-      <news:title>Germany?s Pension Commission Begins Work on Long-Term Reforms </news:title>
     </news:news>
   </url>
 

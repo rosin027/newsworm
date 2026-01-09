@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-suspends-long-distance-services-in-northern-germany-amid-winter-storm</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T09:39:16.000Z</news:publication_date>
+      <news:title> Deutsche Bahn Suspends Long-Distance Services in Northern Germany Amid Winter Storm </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-factory-orders-jump-on-rising-defence-demand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T08:49:27.000Z</news:publication_date>
+      <news:title>German Factory Orders Jump on Rising Defence Demand </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/spd-plans-tax-reforms-and-residency-rights-for-workers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-09T08:23:08.000Z</news:publication_date>
+      <news:title>SPD Plans Tax Reforms and Residency Rights for Workers </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-faces-severe-winter-weather-as-storm-elli-approaches</loc>
     <news:news>
       <news:publication>
@@ -83,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-01-07T14:55:27.000Z</news:publication_date>
       <news:title>Germany?s Pension Commission Begins Work on Long-Term Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-weighs-military-option-to-acquire-greenland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-07T09:05:36.000Z</news:publication_date>
-      <news:title>Trump weighs military option to acquire Greenland </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-arson-attack-terrorism-probe-launched-after-45000-left-without-power</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-07T08:03:45.000Z</news:publication_date>
-      <news:title>Berlin Arson Attack: Terrorism Probe Launched After 45,000 Left Without Power </news:title>
     </news:news>
   </url>
 

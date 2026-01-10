@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-trial-starts-of-white-tiger-online-predator</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-10T12:27:24.000Z</news:publication_date>
+      <news:title>German trial starts of &apos;White Tiger&apos; online predator </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/american-no-says-greenland-after-latest-trump-threat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-10T12:08:16.000Z</news:publication_date>
+      <news:title>&apos;American? No!&apos; says Greenland after latest Trump threat </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/northern-germany-rail-traffic-slowly-resumes-after-storm-elli</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-08T15:53:11.000Z</news:publication_date>
       <news:title>Germany Faces Severe Winter Weather as Storm Elli Approaches </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/zalando-to-close-erfurt-logistics-center-cutting-2700-jobs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T13:58:10.000Z</news:publication_date>
-      <news:title>Zalando to Close Erfurt Logistics Center, Cutting 2,700 Jobs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-nears-decision-on-migrant-return-centers-outside-the-eu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-08T13:47:07.000Z</news:publication_date>
-      <news:title>Germany Nears Decision on Migrant Return Centers Outside the EU </news:title>
     </news:news>
   </url>
 

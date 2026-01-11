@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-visits-india-germany-seeks-stronger-economic-defense-ties</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-11T09:50:37.000Z</news:publication_date>
+      <news:title>Merz Visits India: Germany Seeks Stronger Economic, Defense Ties </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-trial-starts-of-white-tiger-online-predator</loc>
     <news:news>
       <news:publication>
@@ -95,42 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-09T11:59:43.000Z</news:publication_date>
       <news:title>US immigration agent&apos;s fatal shooting of woman leaves Minneapolis in shock </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-suspends-long-distance-services-in-northern-germany-amid-winter-storm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T09:39:16.000Z</news:publication_date>
-      <news:title> Deutsche Bahn Suspends Long-Distance Services in Northern Germany Amid Winter Storm </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-factory-orders-jump-on-rising-defence-demand</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T08:49:27.000Z</news:publication_date>
-      <news:title>German Factory Orders Jump on Rising Defence Demand </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-plans-tax-reforms-and-residency-rights-for-workers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T08:23:08.000Z</news:publication_date>
-      <news:title>SPD Plans Tax Reforms and Residency Rights for Workers </news:title>
     </news:news>
   </url>
 

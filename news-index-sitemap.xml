@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/buying-your-smartphone-and-sim-plan-separately-saves-up-to-25-percent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-11T10:44:41.000Z</news:publication_date>
+      <news:title>Buying Your Smartphone and SIM Plan Separately Saves Up to 25% </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-long-distance-trains-resume-in-north-but-disruptions-persist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-11T10:01:11.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Long-Distance Trains Resume in North but Disruptions Persist </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-visits-india-germany-seeks-stronger-economic-defense-ties</loc>
     <news:news>
       <news:publication>

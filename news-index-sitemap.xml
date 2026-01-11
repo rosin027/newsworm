@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/weather-calms-down-after-storm-elli-but-snow-and-black-ice-continue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-11T14:09:46.000Z</news:publication_date>
+      <news:title>Weather calms down after storm ?Elli? - but snow and black ice continue  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/buying-your-smartphone-and-sim-plan-separately-saves-up-to-25-percent</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-09T18:26:23.000Z</news:publication_date>
       <news:title>Germany Hit by Winter Storm Elli, Rail Services Severely Affected </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-approves-mercosur-trade-deal-after-25-years-of-negotiations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T14:32:59.000Z</news:publication_date>
-      <news:title>EU Approves Mercosur Trade Deal After 25 Years of Negotiations </news:title>
     </news:news>
   </url>
 

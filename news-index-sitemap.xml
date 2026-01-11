@@ -110,28 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/all-are-in-the-streets-iranians-defiant-as-protests-grow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T12:08:29.000Z</news:publication_date>
-      <news:title>&apos;All are in the streets&apos;: Iranians defiant as protests grow </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-immigration-agents-fatal-shooting-of-woman-leaves-minneapolis-in-shock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-09T11:59:43.000Z</news:publication_date>
-      <news:title>US immigration agent&apos;s fatal shooting of woman leaves Minneapolis in shock </news:title>
-    </news:news>
-  </url>
-
 </urlset>

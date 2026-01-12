@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-announces-stronger-economic-and-military-cooperation-with-india</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T09:49:59.000Z</news:publication_date>
+      <news:title>Merz announces stronger economic and military cooperation with India </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/gunda-brings-freezing-rain-and-ice-warnings-across-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T08:25:36.000Z</news:publication_date>
+      <news:title>Gunda Brings Freezing Rain and Ice Warnings Across Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/weather-calms-down-after-storm-elli-but-snow-and-black-ice-continue</loc>
     <news:news>
       <news:publication>
@@ -71,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-01-10T12:08:16.000Z</news:publication_date>
       <news:title>&apos;American? No!&apos; says Greenland after latest Trump threat </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/northern-germany-rail-traffic-slowly-resumes-after-storm-elli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-10T09:19:58.000Z</news:publication_date>
-      <news:title>Northern Germany Rail Traffic Slowly Resumes After Storm Elli </news:title>
     </news:news>
   </url>
 

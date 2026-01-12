@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/majority-of-germans-have-never-used-online-government-services</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-12T13:54:39.000Z</news:publication_date>
+      <news:title>Majority of Germans Have Never Used Online Government Services </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-announces-stronger-economic-and-military-cooperation-with-india</loc>
     <news:news>
       <news:publication>
@@ -71,30 +83,6 @@
       </news:publication>
       <news:publication_date>2026-01-11T09:50:37.000Z</news:publication_date>
       <news:title>Merz Visits India: Germany Seeks Stronger Economic, Defense Ties </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-trial-starts-of-white-tiger-online-predator</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-10T12:27:24.000Z</news:publication_date>
-      <news:title>German trial starts of &apos;White Tiger&apos; online predator </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/american-no-says-greenland-after-latest-trump-threat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-10T12:08:16.000Z</news:publication_date>
-      <news:title>&apos;American? No!&apos; says Greenland after latest Trump threat </news:title>
     </news:news>
   </url>
 

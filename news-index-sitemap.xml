@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stock-market-investing-in-germany-reaches-record-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T14:22:54.000Z</news:publication_date>
+      <news:title>Stock Market Investing in Germany Reaches Record High </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-proposes-higher-taxes-on-large-inheritances-in-germany</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-12T08:25:36.000Z</news:publication_date>
       <news:title>Gunda Brings Freezing Rain and Ice Warnings Across Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/weather-calms-down-after-storm-elli-but-snow-and-black-ice-continue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T14:09:46.000Z</news:publication_date>
-      <news:title>Weather calms down after storm ?Elli? - but snow and black ice continue  </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/black-ice-eases-in-western-germany-roads-still-slippery-in-east</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T09:25:51.000Z</news:publication_date>
+      <news:title>Black Ice Eases in Western Germany, Roads Still Slippery in East </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/weeks-of-protests-test-irans-leadership-but-fall-not-imminent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T08:01:21.000Z</news:publication_date>
+      <news:title>Weeks of Protests Test Iran?s Leadership but Fall Not Imminent </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-warns-us-screwed-if-supreme-court-overturns-tariffs</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-11T10:01:11.000Z</news:publication_date>
       <news:title>Deutsche Bahn Long-Distance Trains Resume in North but Disruptions Persist </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-visits-india-germany-seeks-stronger-economic-defense-ties</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-11T09:50:37.000Z</news:publication_date>
-      <news:title>Merz Visits India: Germany Seeks Stronger Economic, Defense Ties </news:title>
     </news:news>
   </url>
 

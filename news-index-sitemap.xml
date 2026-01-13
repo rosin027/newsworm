@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-warns-us-screwed-if-supreme-court-overturns-tariffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T07:52:08.000Z</news:publication_date>
+      <news:title>Trump Warns US ?Screwed? if Supreme Court Overturns Tariffs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/spd-proposes-measures-against-rising-food-prices-cdu-pushes-back</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T07:41:18.000Z</news:publication_date>
+      <news:title>SPD Proposes Measures Against Rising Food Prices, CDU Pushes Back </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-to-admit-around-400-afghans-stranded-in-pakistan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T07:35:55.000Z</news:publication_date>
+      <news:title>Germany to Admit Around 400 Afghans Stranded in Pakistan </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-to-replace-development-grants-with-loans-for-emerging-economies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-13T07:28:23.000Z</news:publication_date>
+      <news:title>Germany to Replace Development Grants With Loans for Emerging Economies </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/majority-of-germans-have-never-used-online-government-services</loc>
     <news:news>
       <news:publication>

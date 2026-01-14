@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/extremist-incidents-in-bundeswehr-undermine-efforts-to-recruit-soldiers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-14T08:51:58.000Z</news:publication_date>
+      <news:title>Extremist Incidents in Bundeswehr Undermine Efforts to Recruit Soldiers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-plans-tougher-criminal-laws-after-surge-in-ai-sexualized-images</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-14T08:40:27.000Z</news:publication_date>
+      <news:title>Germany Plans Tougher Criminal Laws After Surge in AI Sexualized Images </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/stock-market-investing-in-germany-reaches-record-high</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-12T13:54:39.000Z</news:publication_date>
       <news:title>Majority of Germans Have Never Used Online Government Services </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-announces-stronger-economic-and-military-cooperation-with-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-12T09:49:59.000Z</news:publication_date>
-      <news:title>Merz announces stronger economic and military cooperation with India </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gunda-brings-freezing-rain-and-ice-warnings-across-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-12T08:25:36.000Z</news:publication_date>
-      <news:title>Gunda Brings Freezing Rain and Ice Warnings Across Germany </news:title>
     </news:news>
   </url>
 

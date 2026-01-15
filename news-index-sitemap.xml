@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-housing-shortfall-reaches-1-4-million-homes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-15T13:49:07.000Z</news:publication_date>
+      <news:title>Germany?s Housing Shortfall Reaches 1.4 Million Homes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-right-to-repair-law-for-electronic-devices</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-13T14:22:54.000Z</news:publication_date>
       <news:title>Stock Market Investing in Germany Reaches Record High </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-proposes-higher-taxes-on-large-inheritances-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-13T13:52:43.000Z</news:publication_date>
-      <news:title>SPD Proposes Higher Taxes on Large Inheritances in Germany </news:title>
     </news:news>
   </url>
 

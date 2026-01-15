@@ -110,16 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-introduces-visa-free-airport-transit-for-indian-travellers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-13T10:41:53.000Z</news:publication_date>
-      <news:title>Germany Introduces Visa-Free Airport Transit for Indian Travellers </news:title>
-    </news:news>
-  </url>
-
 </urlset>

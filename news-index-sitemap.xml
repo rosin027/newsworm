@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-debates-sweeping-welfare-reform-to-replace-burgergeld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-16T09:10:00.000Z</news:publication_date>
+      <news:title>Bundestag Debates Sweeping Welfare Reform to Replace B?rgergeld </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-avoids-recession-in-2025-but-faces-deepening-economic-challenges</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-16T08:38:45.000Z</news:publication_date>
+      <news:title>Germany Avoids Recession in 2025 but Faces Deepening Economic Challenges </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/vat-cut-in-hospitality-sector-most-germans-doubt-prices-will-fall</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-16T08:27:04.000Z</news:publication_date>
+      <news:title>VAT Cut in Hospitality Sector: Most Germans Doubt Prices Will Fall </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/new-military-service-german-armed-forces-send-out-first-questionnaires</loc>
     <news:news>
       <news:publication>
@@ -83,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-01-14T11:23:27.000Z</news:publication_date>
       <news:title>Germany Hits Record High for Startup Foundings in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/extremist-incidents-in-bundeswehr-undermine-efforts-to-recruit-soldiers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-14T08:51:58.000Z</news:publication_date>
-      <news:title>Extremist Incidents in Bundeswehr Undermine Efforts to Recruit Soldiers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-tougher-criminal-laws-after-surge-in-ai-sexualized-images</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-14T08:40:27.000Z</news:publication_date>
-      <news:title>Germany Plans Tougher Criminal Laws After Surge in AI Sexualized Images </news:title>
     </news:news>
   </url>
 

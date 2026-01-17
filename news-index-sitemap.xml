@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-slaps-10-tariffs-against-germany-and-other-european-countries-over-greenland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-17T17:59:54.000Z</news:publication_date>
+      <news:title>Trump slaps 10% tariffs against Germany and other European countries over Greenland </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/illegal-student-residency-scam-uncovered-in-bavaria</loc>
     <news:news>
       <news:publication>

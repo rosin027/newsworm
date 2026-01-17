@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/parliamentary-commissioner-for-the-armed-forces-demands-action-after-bundeswehr-abuse-reports</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-17T09:32:01.000Z</news:publication_date>
+      <news:title>Parliamentary Commissioner for the Armed Forces Demands Action After Bundeswehr Abuse Reports </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-debates-sweeping-welfare-reform-to-replace-burgergeld</loc>
     <news:news>
       <news:publication>

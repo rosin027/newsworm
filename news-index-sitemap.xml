@@ -62,40 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-right-to-repair-law-for-electronic-devices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-15T05:15:02.000Z</news:publication_date>
-      <news:title>Germany Plans ?Right to Repair? Law for Electronic Devices </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-deploys-troops-to-greenland-as-tensions-with-us-rise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-15T05:01:36.000Z</news:publication_date>
-      <news:title>Germany Deploys Troops to Greenland as Tensions With US Rise </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-rejects-deportation-freeze-to-iran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-15T04:52:42.000Z</news:publication_date>
-      <news:title>Germany Rejects Deportation Freeze to Iran </news:title>
-    </news:news>
-  </url>
-
 </urlset>

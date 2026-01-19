@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-says-world-not-secure-without-u-s-control-of-greenland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-19T15:35:25.000Z</news:publication_date>
+      <news:title>Trump Says World Not Secure Without U.S. Control of Greenland </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-rejects-pressure-as-trump-signals-new-tariffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-19T15:05:21.000Z</news:publication_date>
+      <news:title>Germany Rejects Pressure as Trump Signals New Tariffs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-brings-back-electric-car-subsidy-starting-2026</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-17T17:59:54.000Z</news:publication_date>
       <news:title>Trump slaps 10% tariffs against Germany and other European countries over Greenland </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/illegal-student-residency-scam-uncovered-in-bavaria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-17T14:51:19.000Z</news:publication_date>
-      <news:title>Illegal Student Residency Scam Uncovered in Bavaria </news:title>
     </news:news>
   </url>
 

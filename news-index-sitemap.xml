@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-brings-back-electric-car-subsidy-starting-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-19T12:40:37.000Z</news:publication_date>
+      <news:title>Germany Brings Back Electric Car Subsidy Starting 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-startups-raise-nearly-8-4-billion-euros-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-19T12:28:18.000Z</news:publication_date>
+      <news:title>German Startups Raise Nearly ?8.4 Billion in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/europe-hits-back-at-trump-tariff-threat-over-greenland</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-01-17T14:51:19.000Z</news:publication_date>
       <news:title>Illegal Student Residency Scam Uncovered in Bavaria </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/police-call-in-safe-deposit-box-owners-after-gelsenkirchen-bank-heist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-17T13:01:16.000Z</news:publication_date>
-      <news:title>Police Call In Safe Deposit Box Owners After Gelsenkirchen Bank Heist </news:title>
     </news:news>
   </url>
 

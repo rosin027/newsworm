@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-is-trumps-board-of-peace</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-20T13:05:42.000Z</news:publication_date>
+      <news:title>What is Trump&apos;s &apos;Board of Peace&apos;? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-reassess-phone-sick-note-policy-amid-rising-sick-leave</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-01-19T06:25:20.000Z</news:publication_date>
       <news:title>CDU Pushes Plan to Curb Minijobs and Expand Regular Employment </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/how-to-get-german-citizenship-in-2026-full-requirements-explained</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-18T12:06:46.000Z</news:publication_date>
-      <news:title>How to Get German Citizenship in 2026: Full Requirements Explained </news:title>
     </news:news>
   </url>
 

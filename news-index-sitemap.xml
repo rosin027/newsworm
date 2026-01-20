@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/public-sector-warning-strikes-disrupt-traffic-across-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-20T09:17:49.000Z</news:publication_date>
+      <news:title>Public-Sector Warning Strikes Disrupt Traffic Across Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/trump-tariff-threat-poison-for-germanys-fragile-recovery</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-20T08:55:27.000Z</news:publication_date>
+      <news:title>Trump tariff threat &apos;poison&apos; for Germany&apos;s fragile recovery </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-leaders-take-stage-in-davos-as-trump-rocks-global-order</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-20T08:44:34.000Z</news:publication_date>
+      <news:title>EU leaders take stage in Davos as Trump rocks global order </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-says-world-not-secure-without-u-s-control-of-greenland</loc>
     <news:news>
       <news:publication>
@@ -107,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-18T12:06:46.000Z</news:publication_date>
       <news:title>How to Get German Citizenship in 2026: Full Requirements Explained </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/digital-certificate-of-conduct-set-to-roll-out-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-18T08:12:03.000Z</news:publication_date>
-      <news:title>Digital Certificate of Conduct Set to Roll Out in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/thousands-protest-in-berlin-for-new-agricultural-policy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-18T08:03:24.000Z</news:publication_date>
-      <news:title>Thousands Protest in Berlin for New Agricultural Policy </news:title>
     </news:news>
   </url>
 

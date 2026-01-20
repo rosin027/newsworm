@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/vitamin-d-deficiency-in-germany-what-expats-need-to-know-before-taking-supplements</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-20T16:42:44.000Z</news:publication_date>
+      <news:title>Vitamin D Deficiency in Germany: What Expats Need to Know Before Taking Supplements </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-is-trumps-board-of-peace</loc>
     <news:news>
       <news:publication>

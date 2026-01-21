@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-plan-to-introduce-digital-certificate-of-conduct</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-21T12:33:15.000Z</news:publication_date>
+      <news:title>German Cabinet Approves Plan to Introduce Digital Certificate of Conduct </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-heads-to-davos-amid-escalating-greenland-dispute</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-19T15:05:21.000Z</news:publication_date>
       <news:title>Germany Rejects Pressure as Trump Signals New Tariffs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-brings-back-electric-car-subsidy-starting-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T12:40:37.000Z</news:publication_date>
-      <news:title>Germany Brings Back Electric Car Subsidy Starting 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-startups-raise-nearly-8-4-billion-euros-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T12:28:18.000Z</news:publication_date>
-      <news:title>German Startups Raise Nearly ?8.4 Billion in 2025 </news:title>
     </news:news>
   </url>
 

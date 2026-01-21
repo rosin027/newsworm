@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-heads-to-davos-amid-escalating-greenland-dispute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-21T07:30:21.000Z</news:publication_date>
+      <news:title>Trump Heads to Davos Amid Escalating Greenland Dispute </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-general-practitioners-association-opposes-plans-to-scrap-telephone-sick-leave</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-21T07:15:10.000Z</news:publication_date>
+      <news:title>Germany?s General Practitioners Association Opposes Plans to Scrap Telephone Sick Leave </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-unveils-immediate-safety-and-cleanliness-program-at-stations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-21T07:06:20.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Unveils Immediate Safety and Cleanliness Program at Stations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/vitamin-d-deficiency-in-germany-what-expats-need-to-know-before-taking-supplements</loc>
     <news:news>
       <news:publication>
@@ -119,54 +155,6 @@
       </news:publication>
       <news:publication_date>2026-01-19T12:28:18.000Z</news:publication_date>
       <news:title>German Startups Raise Nearly ?8.4 Billion in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-hits-back-at-trump-tariff-threat-over-greenland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T07:09:31.000Z</news:publication_date>
-      <news:title>Europe hits back at Trump tariff threat over Greenland </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deadly-train-collision-in-spain-21-killed-over-70-injured</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T06:56:25.000Z</news:publication_date>
-      <news:title>Deadly Train Collision in Spain: 21 Killed, Over 70 Injured </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hesses-minister-president-advocates-for-longer-working-weeks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T06:39:32.000Z</news:publication_date>
-      <news:title>Hesse&apos;s Minister-President advocates for longer working weeks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-pushes-plan-to-curb-minijobs-and-expand-regular-employment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T06:25:20.000Z</news:publication_date>
-      <news:title>CDU Pushes Plan to Curb Minijobs and Expand Regular Employment </news:title>
     </news:news>
   </url>
 

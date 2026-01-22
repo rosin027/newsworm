@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-demands-eu-reforms-to-strengthen-competitiveness-and-free-trade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T11:20:57.000Z</news:publication_date>
+      <news:title>Merz Demands EU Reforms to Strengthen Competitiveness and Free Trade </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-trumps-shift-on-the-greenland-dispute-is-the-right-path</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-22T10:35:16.000Z</news:publication_date>
+      <news:title>Merz: Trump?s Shift on the Greenland Dispute Is ?the Right Path? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/majority-of-afghans-decline-german-money-to-give-up-resettlement-promises</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-20T13:05:42.000Z</news:publication_date>
       <news:title>What is Trump&apos;s &apos;Board of Peace&apos;? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-reassess-phone-sick-note-policy-amid-rising-sick-leave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-20T10:50:42.000Z</news:publication_date>
-      <news:title>Germany to Reassess Phone Sick Note Policy Amid Rising Sick Leave </news:title>
     </news:news>
   </url>
 

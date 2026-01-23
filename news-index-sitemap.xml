@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/carney-answers-trump-canada-doesnt-live-because-of-us</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T07:42:47.000Z</news:publication_date>
+      <news:title>Carney answers Trump: &apos;Canada doesn&apos;t live because of US&apos; </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ikea-launches-dynamic-electricity-tariff-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T07:30:55.000Z</news:publication_date>
+      <news:title>Ikea Launches Dynamic Electricity Tariff in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cdu-pushes-to-recover-billions-in-unpaid-citizens-benefit-debts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T07:21:00.000Z</news:publication_date>
+      <news:title>CDU Pushes to Recover Billions in Unpaid Citizen?s Benefit Debts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-demands-eu-reforms-to-strengthen-competitiveness-and-free-trade</loc>
     <news:news>
       <news:publication>
@@ -83,42 +119,6 @@
       </news:publication>
       <news:publication_date>2026-01-21T12:33:15.000Z</news:publication_date>
       <news:title>German Cabinet Approves Plan to Introduce Digital Certificate of Conduct </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-heads-to-davos-amid-escalating-greenland-dispute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-21T07:30:21.000Z</news:publication_date>
-      <news:title>Trump Heads to Davos Amid Escalating Greenland Dispute </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-general-practitioners-association-opposes-plans-to-scrap-telephone-sick-leave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-21T07:15:10.000Z</news:publication_date>
-      <news:title>Germany?s General Practitioners Association Opposes Plans to Scrap Telephone Sick Leave </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-unveils-immediate-safety-and-cleanliness-program-at-stations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-21T07:06:20.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Unveils Immediate Safety and Cleanliness Program at Stations </news:title>
     </news:news>
   </url>
 

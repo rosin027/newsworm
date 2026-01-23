@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/slippery-ice-from-freezing-rain-causes-hundreds-of-accidents-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-23T09:44:50.000Z</news:publication_date>
+      <news:title>Slippery Ice From Freezing Rain Causes Hundreds of Accidents in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/carney-answers-trump-canada-doesnt-live-because-of-us</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dwd-warns-of-severe-black-ice-in-western-and-northwestern-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-24T10:14:02.000Z</news:publication_date>
+      <news:title>DWD Warns of Severe Black Ice in Western and Northwestern Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/all-day-school-care-rollout-faces-staffing-and-space-shortages-in-germany</loc>
     <news:news>
       <news:publication>
@@ -71,30 +83,6 @@
       </news:publication>
       <news:publication_date>2026-01-23T07:21:00.000Z</news:publication_date>
       <news:title>CDU Pushes to Recover Billions in Unpaid Citizen?s Benefit Debts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-demands-eu-reforms-to-strengthen-competitiveness-and-free-trade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T11:20:57.000Z</news:publication_date>
-      <news:title>Merz Demands EU Reforms to Strengthen Competitiveness and Free Trade </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-trumps-shift-on-the-greenland-dispute-is-the-right-path</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T10:35:16.000Z</news:publication_date>
-      <news:title>Merz: Trump?s Shift on the Greenland Dispute Is ?the Right Path? </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/all-day-school-care-rollout-faces-staffing-and-space-shortages-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-24T06:47:41.000Z</news:publication_date>
+      <news:title>All-day school care rollout faces staffing and space shortages in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cheaper-drivers-license-safety-experts-warn-against-lowering-standards</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-24T06:33:40.000Z</news:publication_date>
+      <news:title>Cheaper driver?s license: Safety experts warn against lowering standards </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/slippery-ice-from-freezing-rain-causes-hundreds-of-accidents-in-germany</loc>
     <news:news>
       <news:publication>
@@ -83,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-22T08:47:29.000Z</news:publication_date>
       <news:title>Majority of Afghans Decline German Money to Give Up Resettlement Promises </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greenland-issues-crisis-guide-as-trump-renews-bid-to-acquire-island</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T07:28:07.000Z</news:publication_date>
-      <news:title>Greenland Issues Crisis Guide as Trump Renews Bid to Acquire Island </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-announces-nato-arctic-deal-withdraws-planned-eu-tariffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-22T07:15:21.000Z</news:publication_date>
-      <news:title>Trump Announces NATO Arctic Deal, Withdraws Planned EU Tariffs </news:title>
     </news:news>
   </url>
 

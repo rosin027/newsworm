@@ -50,40 +50,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/carney-answers-trump-canada-doesnt-live-because-of-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-23T07:42:47.000Z</news:publication_date>
-      <news:title>Carney answers Trump: &apos;Canada doesn&apos;t live because of US&apos; </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ikea-launches-dynamic-electricity-tariff-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-23T07:30:55.000Z</news:publication_date>
-      <news:title>Ikea Launches Dynamic Electricity Tariff in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-pushes-to-recover-billions-in-unpaid-citizens-benefit-debts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-23T07:21:00.000Z</news:publication_date>
-      <news:title>CDU Pushes to Recover Billions in Unpaid Citizen?s Benefit Debts </news:title>
-    </news:news>
-  </url>
-
 </urlset>

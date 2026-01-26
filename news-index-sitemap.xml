@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-weather-guide-what-to-expect-in-every-season</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-26T09:43:22.000Z</news:publication_date>
+      <news:title>Germany?s Weather Guide: What to Expect in Every Season </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/numerous-accidents-and-travel-disruptions-as-snow-and-freezing-rain-grip-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-26T08:16:42.000Z</news:publication_date>
+      <news:title>Numerous Accidents and Travel Disruptions as Snow and Freezing Rain Grip Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/severe-ice-and-up-to-25-cm-of-snow-expected-in-germany</loc>
     <news:news>
       <news:publication>

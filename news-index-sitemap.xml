@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-opens-probe-into-musks-grok-over-sexual-ai-deepfakes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-26T13:51:34.000Z</news:publication_date>
+      <news:title>EU opens probe into Musk&apos;s Grok over sexual AI deepfakes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/february-2026-in-germany-important-changes-you-need-to-know</loc>
     <news:news>
       <news:publication>

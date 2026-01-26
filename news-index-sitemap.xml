@@ -50,28 +50,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/all-day-school-care-rollout-faces-staffing-and-space-shortages-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-24T06:47:41.000Z</news:publication_date>
-      <news:title>All-day school care rollout faces staffing and space shortages in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cheaper-drivers-license-safety-experts-warn-against-lowering-standards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-24T06:33:40.000Z</news:publication_date>
-      <news:title>Cheaper driver?s license: Safety experts warn against lowering standards </news:title>
-    </news:news>
-  </url>
-
 </urlset>

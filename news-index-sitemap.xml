@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/hybrid-cars-top-choice-for-consumers-in-europe-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-27T15:51:21.000Z</news:publication_date>
+      <news:title>Hybrid Cars Top Choice For Consumers In Europe In 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-offers-1-million-euro-reward-for-berlin-blackout-suspects</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-27T15:02:22.000Z</news:publication_date>
+      <news:title>Germany Offers ?1 Million Reward for Berlin Blackout Suspects </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/public-sector-pay-dispute-triggers-strikes-at-over-20-university-hospitals</loc>
     <news:news>
       <news:publication>

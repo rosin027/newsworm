@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-outlines-plan-to-restructure-social-welfare-benefits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-27T08:37:55.000Z</news:publication_date>
+      <news:title>Germany Outlines Plan To Restructure Social Welfare Benefits </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/india-and-eu-seal-historic-mother-of-all-deals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-27T08:21:31.000Z</news:publication_date>
+      <news:title>India and EU Seal Historic ?Mother of All Deals? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/half-of-europeans-view-trump-as-an-enemy-of-europe-survey-reveals</loc>
     <news:news>
       <news:publication>
@@ -71,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-01-25T12:40:54.000Z</news:publication_date>
       <news:title>Severe Ice and Up to 25 cm of Snow Expected in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-targets-60-punctuality-despite-record-construction</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-25T08:59:51.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Targets 60% Punctuality Despite Record Construction </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-moves-to-criminalize-voyeuristic-recording-in-saunas-and-spas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-25T08:49:56.000Z</news:publication_date>
-      <news:title>Germany Moves to Criminalize Voyeuristic Recording in Saunas and Spas </news:title>
     </news:news>
   </url>
 

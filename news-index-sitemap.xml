@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tenants-cannot-profit-from-subletting-germanys-top-court-rules</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-28T15:04:24.000Z</news:publication_date>
+      <news:title>Tenants Cannot Profit From Subletting, Germany?s Top Court Rules </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-urged-to-step-up-on-defence-as-us-focus-shifts-away</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-01-27T08:21:31.000Z</news:publication_date>
       <news:title>India and EU Seal Historic ?Mother of All Deals? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/half-of-europeans-view-trump-as-an-enemy-of-europe-survey-reveals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-26T14:22:20.000Z</news:publication_date>
-      <news:title>Half of Europeans view Trump as an ?enemy of Europe,? survey reveals </news:title>
     </news:news>
   </url>
 

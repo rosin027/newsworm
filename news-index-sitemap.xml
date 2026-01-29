@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-population-fell-in-2025-as-the-birth-deficit-exceeded-immigration</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-29T11:30:56.000Z</news:publication_date>
+      <news:title>Germany?s population fell in 2025 as the birth deficit exceeded immigration </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/could-your-name-affect-your-chances-of-renting-in-germany-heres-the-reality</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-29T10:00:29.000Z</news:publication_date>
+      <news:title>Could Your Name Affect Your Chances of Renting in Germany? Here?s the Reality </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-distances-himself-from-trump-criticism-over-tariff-threats-and-nato-remarks</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-01-27T15:02:22.000Z</news:publication_date>
       <news:title>Germany Offers ?1 Million Reward for Berlin Blackout Suspects </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/public-sector-pay-dispute-triggers-strikes-at-over-20-university-hospitals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-27T11:38:43.000Z</news:publication_date>
-      <news:title>Public-Sector Pay Dispute Triggers Strikes At Over 20 University Hospitals </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-distances-himself-from-trump-criticism-over-tariff-threats-and-nato-remarks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-29T09:27:41.000Z</news:publication_date>
+      <news:title>Merz Distances Himself From Trump: Criticism Over Tariff Threats and NATO Remarks </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bank-logs-record-profits-as-new-probe-casts-shadow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-29T08:39:40.000Z</news:publication_date>
+      <news:title>Deutsche Bank logs record profits, as new probe casts shadow </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-to-tighten-infrastructure-security-as-fears-of-russian-sabotage-grow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-29T08:05:18.000Z</news:publication_date>
+      <news:title>Germany to tighten infrastructure security as fears of Russian sabotage grow </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-cuts-its-2026-growth-outlook-amid-slower-recovery</loc>
     <news:news>
       <news:publication>
@@ -107,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-27T11:38:43.000Z</news:publication_date>
       <news:title>Public-Sector Pay Dispute Triggers Strikes At Over 20 University Hospitals </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-outlines-plan-to-restructure-social-welfare-benefits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-27T08:37:55.000Z</news:publication_date>
-      <news:title>Germany Outlines Plan To Restructure Social Welfare Benefits </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/india-and-eu-seal-historic-mother-of-all-deals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-27T08:21:31.000Z</news:publication_date>
-      <news:title>India and EU Seal Historic ?Mother of All Deals? </news:title>
     </news:news>
   </url>
 

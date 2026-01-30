@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-womens-union-calls-for-mandatory-completion-of-military-service-questionnaire-for-women</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T08:18:08.000Z</news:publication_date>
+      <news:title>CDU Women?s Union Calls for Mandatory Completion of Military Service Questionnaire for Women </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-tougher-penalties-for-terrorism-and-espionage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T08:09:06.000Z</news:publication_date>
+      <news:title>Bundestag Approves Tougher Penalties for Terrorism and Espionage </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/aldi-and-lidl-cut-chocolate-prices-across-dozens-of-products</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-28T10:10:37.000Z</news:publication_date>
       <news:title>Euro Hits Four-Year High Against Dollar as US Currency Weakens </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-consumer-sentiment-improves-at-start-of-the-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-28T08:41:27.000Z</news:publication_date>
-      <news:title>Germany?s Consumer Sentiment Improves at Start of the Year </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-major-healthcare-reform-with-new-primary-care-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-28T08:30:22.000Z</news:publication_date>
-      <news:title>Germany Plans Major Healthcare Reform With New Primary Care System </news:title>
     </news:news>
   </url>
 

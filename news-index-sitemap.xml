@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/unemployment-climbs-past-3-million-in-germany-this-january</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T16:03:31.000Z</news:publication_date>
+      <news:title>Unemployment Climbs Past 3 Million in Germany This January </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-introduces-new-rules-to-strengthen-consumer-rights</loc>
     <news:news>
       <news:publication>

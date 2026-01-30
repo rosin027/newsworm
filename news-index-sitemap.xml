@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/verdi-announces-nationwide-local-public-transport-strikes-for-monday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T09:02:15.000Z</news:publication_date>
+      <news:title>Verdi Announces Nationwide Local Public Transport Strikes for Monday </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cdu-womens-union-calls-for-mandatory-completion-of-military-service-questionnaire-for-women</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-01-28T15:04:24.000Z</news:publication_date>
       <news:title>Tenants Cannot Profit From Subletting, Germany?s Top Court Rules </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-urged-to-step-up-on-defence-as-us-focus-shifts-away</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-28T11:18:56.000Z</news:publication_date>
-      <news:title>EU urged to &apos;step up&apos; on defence as US focus shifts away </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/euro-hits-four-year-high-against-dollar-as-us-currency-weakens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-28T10:10:37.000Z</news:publication_date>
-      <news:title>Euro Hits Four-Year High Against Dollar as US Currency Weakens </news:title>
     </news:news>
   </url>
 

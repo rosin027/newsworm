@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-introduces-new-rules-to-strengthen-consumer-rights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-30T15:26:27.000Z</news:publication_date>
+      <news:title>Germany Introduces New Rules to Strengthen Consumer Rights </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/verdi-announces-nationwide-local-public-transport-strikes-for-monday</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-01-29T07:53:08.000Z</news:publication_date>
       <news:title>Germany cuts its 2026 growth outlook amid slower recovery </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tenants-cannot-profit-from-subletting-germanys-top-court-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-28T15:04:24.000Z</news:publication_date>
-      <news:title>Tenants Cannot Profit From Subletting, Germany?s Top Court Rules </news:title>
     </news:news>
   </url>
 

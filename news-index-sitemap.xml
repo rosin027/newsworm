@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/danone-recalls-aptamil-baby-formula-over-contamination-concerns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T09:56:35.000Z</news:publication_date>
+      <news:title>Danone Recalls Aptamil Baby Formula Over Contamination Concerns </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/will-the-eu-ban-social-media-for-children-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:34:36.000Z</news:publication_date>
+      <news:title>Will the EU ban social media for children in 2026? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/inflation-rises-to-2-1-percent-in-january-as-food-and-fuel-costs-surge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:26:57.000Z</news:publication_date>
+      <news:title>Inflation Rises to 2.1% in January as Food and Fuel Costs Surge </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/traffic-experts-call-for-stricter-penalties-for-cyclists-riding-under-the-influence-and-drivers-using-phones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-31T08:13:27.000Z</news:publication_date>
+      <news:title>Traffic Experts Call for Stricter Penalties for Cyclists Riding Under the Influence and Drivers Using Phones </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unemployment-climbs-past-3-million-in-germany-this-january</loc>
     <news:news>
       <news:publication>
@@ -95,42 +143,6 @@
       </news:publication>
       <news:publication_date>2026-01-29T10:00:29.000Z</news:publication_date>
       <news:title>Could Your Name Affect Your Chances of Renting in Germany? Here?s the Reality </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-distances-himself-from-trump-criticism-over-tariff-threats-and-nato-remarks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T09:27:41.000Z</news:publication_date>
-      <news:title>Merz Distances Himself From Trump: Criticism Over Tariff Threats and NATO Remarks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bank-logs-record-profits-as-new-probe-casts-shadow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T08:39:40.000Z</news:publication_date>
-      <news:title>Deutsche Bank logs record profits, as new probe casts shadow </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-tighten-infrastructure-security-as-fears-of-russian-sabotage-grow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-29T08:05:18.000Z</news:publication_date>
-      <news:title>Germany to tighten infrastructure security as fears of Russian sabotage grow </news:title>
     </news:news>
   </url>
 

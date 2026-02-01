@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/touchscreens-increase-driver-distraction-and-lower-usability-warns-adac</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-01T08:53:39.000Z</news:publication_date>
+      <news:title>Touchscreens Increase Driver Distraction and Lower Usability, warns ADAC </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cdu-in-nrw-seeks-tougher-measures-against-benefit-on-social-benefit-abuse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-01T08:37:25.000Z</news:publication_date>
+      <news:title>CDU in NRW Seeks Tougher Measures Against Benefit on Social Benefit Abuse </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/personal-choice-leads-germanys-part-time-work-trends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-01T08:18:30.000Z</news:publication_date>
+      <news:title>Personal Choice Leads Germany?s Part-Time Work Trends </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/danone-recalls-aptamil-baby-formula-over-contamination-concerns</loc>
     <news:news>
       <news:publication>
@@ -71,42 +107,6 @@
       </news:publication>
       <news:publication_date>2026-01-30T15:26:27.000Z</news:publication_date>
       <news:title>Germany Introduces New Rules to Strengthen Consumer Rights </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/verdi-announces-nationwide-local-public-transport-strikes-for-monday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T09:02:15.000Z</news:publication_date>
-      <news:title>Verdi Announces Nationwide Local Public Transport Strikes for Monday </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-womens-union-calls-for-mandatory-completion-of-military-service-questionnaire-for-women</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T08:18:08.000Z</news:publication_date>
-      <news:title>CDU Women?s Union Calls for Mandatory Completion of Military Service Questionnaire for Women </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-tougher-penalties-for-terrorism-and-espionage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-30T08:09:06.000Z</news:publication_date>
-      <news:title>Bundestag Approves Tougher Penalties for Terrorism and Espionage </news:title>
     </news:news>
   </url>
 

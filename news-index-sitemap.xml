@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/euros-climb-raises-inflation-and-export-concerns-for-ecb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-02T08:27:51.000Z</news:publication_date>
+      <news:title>Euro?s Climb Raises Inflation and Export Concerns for ECB </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/soder-employees-in-germany-should-work-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-02T08:18:03.000Z</news:publication_date>
+      <news:title>S?der: Employees in Germany should work more </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cdu-proposes-harsh-cuts-to-social-benefits-prompting-political-outrage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-02T08:00:31.000Z</news:publication_date>
+      <news:title>CDU Proposes Harsh Cuts to Social Benefits, Prompting Political Outrage </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/touchscreens-increase-driver-distraction-and-lower-usability-warns-adac</loc>
     <news:news>
       <news:publication>
@@ -35,54 +71,6 @@
       </news:publication>
       <news:publication_date>2026-02-01T08:18:30.000Z</news:publication_date>
       <news:title>Personal Choice Leads Germany?s Part-Time Work Trends </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/danone-recalls-aptamil-baby-formula-over-contamination-concerns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-31T09:56:35.000Z</news:publication_date>
-      <news:title>Danone Recalls Aptamil Baby Formula Over Contamination Concerns </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/will-the-eu-ban-social-media-for-children-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-31T08:34:36.000Z</news:publication_date>
-      <news:title>Will the EU ban social media for children in 2026? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-rises-to-2-1-percent-in-january-as-food-and-fuel-costs-surge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-31T08:26:57.000Z</news:publication_date>
-      <news:title>Inflation Rises to 2.1% in January as Food and Fuel Costs Surge </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/traffic-experts-call-for-stricter-penalties-for-cyclists-riding-under-the-influence-and-drivers-using-phones</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-31T08:13:27.000Z</news:publication_date>
-      <news:title>Traffic Experts Call for Stricter Penalties for Cyclists Riding Under the Influence and Drivers Using Phones </news:title>
     </news:news>
   </url>
 

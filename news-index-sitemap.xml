@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-waiting-for-cheaper-driving-license-in-germany-worth-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-02T15:26:01.000Z</news:publication_date>
+      <news:title>Is Waiting for Cheaper Driving License in Germany Worth It? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-records-sharpest-beer-sales-drop-since-1993</loc>
     <news:news>
       <news:publication>

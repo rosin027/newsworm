@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-in-two-in-germany-likely-to-develop-cancer-rki-reports</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-04T15:38:36.000Z</news:publication_date>
+      <news:title>One in Two in Germany Likely to Develop Cancer, RKI Reports </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-heads-to-gulf-as-germany-looks-to-diversify-trade-ties</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-04T14:15:40.000Z</news:publication_date>
+      <news:title>Merz heads to Gulf as Germany looks to diversify trade ties </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/train-conductor-dies-after-attack-during-ticket-inspection-in-germany</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-03T08:40:04.000Z</news:publication_date>
       <news:title>Merz Calls for Stronger EU Independence From the United States </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/is-waiting-for-cheaper-driving-license-in-germany-worth-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-02T15:26:01.000Z</news:publication_date>
-      <news:title>Is Waiting for Cheaper Driving License in Germany Worth It? </news:title>
     </news:news>
   </url>
 

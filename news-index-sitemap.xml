@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/statutory-insured-patients-face-42-day-wait-for-specialist-appointments-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-04T09:21:42.000Z</news:publication_date>
+      <news:title>Statutory Insured Patients Face 42-Day Wait for Specialist Appointments in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/more-snow-and-freezing-rain-disruptions-and-accidents-in-northwestern-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-04T08:48:02.000Z</news:publication_date>
+      <news:title>More Snow and Freezing Rain: Disruptions and Accidents in Northwestern Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/luggage-theft-on-long-distance-trains-prompts-police-alert</loc>
     <news:news>
       <news:publication>
@@ -83,42 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-02T10:41:48.000Z</news:publication_date>
       <news:title>Germany Records Sharpest Beer Sales Drop Since 1993 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/euros-climb-raises-inflation-and-export-concerns-for-ecb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-02T08:27:51.000Z</news:publication_date>
-      <news:title>Euro?s Climb Raises Inflation and Export Concerns for ECB </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/soder-employees-in-germany-should-work-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-02T08:18:03.000Z</news:publication_date>
-      <news:title>S?der: Employees in Germany should work more </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-proposes-harsh-cuts-to-social-benefits-prompting-political-outrage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-02T08:00:31.000Z</news:publication_date>
-      <news:title>CDU Proposes Harsh Cuts to Social Benefits, Prompting Political Outrage </news:title>
     </news:news>
   </url>
 

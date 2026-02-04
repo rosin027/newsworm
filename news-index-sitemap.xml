@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/statutory-insured-patients-face-42-day-wait-for-specialist-appointments-in-germany</loc>
+    <loc>https://www.newsworm.de/news/train-conductor-dies-after-attack-during-ticket-inspection-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-04T11:33:19.000Z</news:publication_date>
+      <news:title>Train Conductor Dies After Attack During Ticket Inspection in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/statutory-insured-patients-wait-42-days-for-specialist-appointments-in-germany</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-02-04T09:21:42.000Z</news:publication_date>
-      <news:title>Statutory Insured Patients Face 42-Day Wait for Specialist Appointments in Germany </news:title>
+      <news:title>Statutory Insured Patients Wait 42-Days for Specialist Appointments in Germany </news:title>
     </news:news>
   </url>
 
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-02T15:26:01.000Z</news:publication_date>
       <news:title>Is Waiting for Cheaper Driving License in Germany Worth It? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-sharpest-beer-sales-drop-since-1993</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-02T10:41:48.000Z</news:publication_date>
-      <news:title>Germany Records Sharpest Beer Sales Drop Since 1993 </news:title>
     </news:news>
   </url>
 

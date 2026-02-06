@@ -86,16 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/part-time-work-ban-in-germany-will-it-help-or-hurt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-04T18:57:40.000Z</news:publication_date>
-      <news:title>Part-Time Work Ban in Germany: Will it Help or Hurt? </news:title>
-    </news:news>
-  </url>
-
 </urlset>

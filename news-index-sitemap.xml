@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/danone-widens-baby-formula-recall-over-cereulide-contamination-risk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-06T09:24:27.000Z</news:publication_date>
+      <news:title>Danone Widens Baby Formula Recall Over Cereulide Contamination Risk </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eastern-germany-grinds-to-a-halt-as-freezing-rain-forces-airport-shutdown-and-transport-suspensions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-06T08:15:00.000Z</news:publication_date>
+      <news:title>Eastern Germany Grinds to a Halt as Freezing Rain Forces Airport Shutdown and Transport Suspensions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/freezing-rain-brings-berlin-airport-to-a-standstill</loc>
     <news:news>
       <news:publication>
@@ -107,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-02-04T11:33:19.000Z</news:publication_date>
       <news:title>Train Conductor Dies After Attack During Ticket Inspection in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/statutory-insured-patients-wait-42-days-for-specialist-appointments-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-04T09:21:42.000Z</news:publication_date>
-      <news:title>Statutory Insured Patients Wait 42-Days for Specialist Appointments in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-snow-and-freezing-rain-disruptions-and-accidents-in-northwestern-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-04T08:48:02.000Z</news:publication_date>
-      <news:title>More Snow and Freezing Rain: Disruptions and Accidents in Northwestern Germany </news:title>
     </news:news>
   </url>
 

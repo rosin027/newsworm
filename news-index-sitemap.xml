@@ -98,28 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-two-in-germany-likely-to-develop-cancer-rki-reports</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-04T15:38:36.000Z</news:publication_date>
-      <news:title>One in Two in Germany Likely to Develop Cancer, RKI Reports </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-heads-to-gulf-as-germany-looks-to-diversify-trade-ties</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-04T14:15:40.000Z</news:publication_date>
-      <news:title>Merz heads to Gulf as Germany looks to diversify trade ties </news:title>
-    </news:news>
-  </url>
-
 </urlset>

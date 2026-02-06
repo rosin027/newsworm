@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/train-conductor-dies-after-attack-during-ticket-inspection-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-04T11:33:19.000Z</news:publication_date>
-      <news:title>Train Conductor Dies After Attack During Ticket Inspection in Germany </news:title>
-    </news:news>
-  </url>
-
 </urlset>

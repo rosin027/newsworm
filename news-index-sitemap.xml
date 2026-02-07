@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/milan-cortina-winter-olympics-open-with-dazzling-ceremony</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T11:42:14.000Z</news:publication_date>
+      <news:title>Milan-Cortina Winter Olympics open with dazzling ceremony </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-exports-to-the-united-states-plunge-as-tariffs-hit-trade</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-02-06T07:51:31.000Z</news:publication_date>
       <news:title>Freezing Rain Brings Berlin Airport to a Standstill </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlins-salt-ban-sparks-public-anger-amid-severe-ice</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T10:56:06.000Z</news:publication_date>
-      <news:title>Berlin?s Salt Ban Sparks Public Anger Amid Severe Ice </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-factory-orders-see-biggest-rise-in-two-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T10:04:02.000Z</news:publication_date>
-      <news:title>Germany?s Factory Orders See Biggest Rise in Two Years </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-leader-bas-warns-welfare-state-is-being-put-at-risk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T15:21:37.000Z</news:publication_date>
+      <news:title>SPD Leader Bas Warns Welfare State Is Being Put at Risk </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-halts-admissions-to-integration-courses-leaving-migrants-and-providers-in-limbo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T15:20:26.000Z</news:publication_date>
+      <news:title>Germany Halts Admissions to Integration Courses, Leaving Migrants and Providers in Limbo </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/milan-cortina-winter-olympics-open-with-dazzling-ceremony</loc>
     <news:news>
       <news:publication>

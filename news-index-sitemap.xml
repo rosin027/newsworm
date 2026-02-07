@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-exports-to-the-united-states-plunge-as-tariffs-hit-trade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T09:34:52.000Z</news:publication_date>
+      <news:title>German Exports to the United States Plunge as Tariffs Hit Trade </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/digital-euro-delay-could-leave-europe-vulnerable-ecb-warns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T09:23:46.000Z</news:publication_date>
+      <news:title>Digital euro delay could leave Europe vulnerable, ECB warns </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/billions-wasted-on-law-aimed-at-speeding-up-doctor-appointments-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T08:06:25.000Z</news:publication_date>
+      <news:title>Billions Wasted on Law Aimed at Speeding Up Doctor Appointments in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bsw-demands-2000-euro-cap-on-drivers-license-costs</loc>
     <news:news>
       <news:publication>
@@ -71,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-05T10:04:02.000Z</news:publication_date>
       <news:title>Germany?s Factory Orders See Biggest Rise in Two Years </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/safety-demands-intensify-after-train-conductor-killed-during-ticket-check</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T08:33:58.000Z</news:publication_date>
-      <news:title>Safety Demands Intensify After Train Conductor Killed During Ticket Check </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/public-sector-pay-dispute-warning-strikes-in-the-west-and-north</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T08:16:36.000Z</news:publication_date>
-      <news:title>Public sector pay dispute: Warning strikes in the West and North </news:title>
     </news:news>
   </url>
 

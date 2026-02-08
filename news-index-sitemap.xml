@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/more-protection-for-tenants-germany-plans-rental-law-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-08T12:52:21.000Z</news:publication_date>
+      <news:title>More Protection for Tenants: Germany Plans Rental Law Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/security-costs-put-german-carnival-clubs-under-pressure</loc>
     <news:news>
       <news:publication>

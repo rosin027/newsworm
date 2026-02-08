@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-proposes-health-levy-on-all-types-of-income</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-08T09:23:15.000Z</news:publication_date>
+      <news:title>SPD Proposes Health Levy On All Types Of Income </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-leader-bas-warns-welfare-state-is-being-put-at-risk</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-02-07T07:51:26.000Z</news:publication_date>
       <news:title>BSW Demands 2,000-Euro Cap on Driver?s License Costs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/danone-widens-baby-formula-recall-over-cereulide-contamination-risk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-06T09:24:27.000Z</news:publication_date>
-      <news:title>Danone Widens Baby Formula Recall Over Cereulide Contamination Risk </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eastern-germany-grinds-to-a-halt-as-freezing-rain-forces-airport-shutdown-and-transport-suspensions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-06T08:15:00.000Z</news:publication_date>
-      <news:title>Eastern Germany Grinds to a Halt as Freezing Rain Forces Airport Shutdown and Transport Suspensions </news:title>
     </news:news>
   </url>
 

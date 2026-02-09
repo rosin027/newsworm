@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-police-uncover-major-identity-fraud-scheme-in-citizenship-exams</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-09T10:42:05.000Z</news:publication_date>
+      <news:title>German Police Uncover Major Identity Fraud Scheme in Citizenship Exams </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-government-spent-481-million-euros-on-microsoft-licenses-in-2025</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-07T15:20:26.000Z</news:publication_date>
       <news:title>Germany Halts Admissions to Integration Courses, Leaving Migrants and Providers in Limbo </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/milan-cortina-winter-olympics-open-with-dazzling-ceremony</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-07T11:42:14.000Z</news:publication_date>
-      <news:title>Milan-Cortina Winter Olympics open with dazzling ceremony </news:title>
     </news:news>
   </url>
 

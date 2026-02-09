@@ -110,16 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/bsw-demands-2000-euro-cap-on-drivers-license-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-07T07:51:26.000Z</news:publication_date>
-      <news:title>BSW Demands 2,000-Euro Cap on Driver?s License Costs </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-government-spent-481-million-euros-on-microsoft-licenses-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-09T08:47:20.000Z</news:publication_date>
+      <news:title>German Government Spent 481 Million Euros on Microsoft Licenses in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/interior-minister-dobrindt-announces-new-powers-for-domestic-intelligence-agency</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-09T08:35:00.000Z</news:publication_date>
+      <news:title>Interior Minister Dobrindt Announces New Powers for Domestic Intelligence Agency </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/strengthening-the-welfare-state-spd-begins-work-on-new-policy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-09T08:12:48.000Z</news:publication_date>
+      <news:title>Strengthening the Welfare State: SPD Begins Work on New Policy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/more-protection-for-tenants-germany-plans-rental-law-reform</loc>
     <news:news>
       <news:publication>
@@ -71,42 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-07T11:42:14.000Z</news:publication_date>
       <news:title>Milan-Cortina Winter Olympics open with dazzling ceremony </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-exports-to-the-united-states-plunge-as-tariffs-hit-trade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-07T09:34:52.000Z</news:publication_date>
-      <news:title>German Exports to the United States Plunge as Tariffs Hit Trade </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/digital-euro-delay-could-leave-europe-vulnerable-ecb-warns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-07T09:23:46.000Z</news:publication_date>
-      <news:title>Digital euro delay could leave Europe vulnerable, ECB warns </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/billions-wasted-on-law-aimed-at-speeding-up-doctor-appointments-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-07T08:06:25.000Z</news:publication_date>
-      <news:title>Billions Wasted on Law Aimed at Speeding Up Doctor Appointments in Germany </news:title>
     </news:news>
   </url>
 

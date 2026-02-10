@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/online-dating-surges-among-young-adults-seniors-are-joining-in-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-10T09:40:18.000Z</news:publication_date>
+      <news:title>Online Dating Surges Among Young Adults, Seniors Are Joining In Too </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/two-thirds-of-germans-no-longer-believe-the-welfare-state-is-financially-sustainable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-10T08:37:11.000Z</news:publication_date>
+      <news:title>Two-thirds of Germans no longer believe the welfare state is financially sustainable </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-plans-for-stricter-entry-requirements-raise-concern-in-germany-diplomacy</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-08T10:16:58.000Z</news:publication_date>
       <news:title>Security Costs Put German Carnival Clubs Under Pressure </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-proposes-health-levy-on-all-types-of-income</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-08T09:23:15.000Z</news:publication_date>
-      <news:title>SPD Proposes Health Levy On All Types Of Income </news:title>
     </news:news>
   </url>
 

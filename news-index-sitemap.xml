@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/all-genders-experience-violence-but-women-face-it-more-severely-and-more-often</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-10T11:24:26.000Z</news:publication_date>
+      <news:title>All Genders Experience Violence But Women Face It More Severely and More Often </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/online-dating-surges-among-young-adults-seniors-are-joining-in-too</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-08T12:52:21.000Z</news:publication_date>
       <news:title>More Protection for Tenants: Germany Plans Rental Law Reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/security-costs-put-german-carnival-clubs-under-pressure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-08T10:16:58.000Z</news:publication_date>
-      <news:title>Security Costs Put German Carnival Clubs Under Pressure </news:title>
     </news:news>
   </url>
 

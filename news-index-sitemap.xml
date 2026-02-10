@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/automotive-industry-warns-of-job-losses-and-declining-investment-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-10T14:48:25.000Z</news:publication_date>
+      <news:title>Automotive Industry Warns of Job Losses and Declining Investment in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/social-media-ban-for-youth-faces-broad-skepticism-in-germany</loc>
     <news:news>
       <news:publication>

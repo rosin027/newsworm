@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/social-media-ban-for-youth-faces-broad-skepticism-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-10T13:08:27.000Z</news:publication_date>
+      <news:title>Social Media Ban for Youth Faces Broad Skepticism in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/all-genders-experience-violence-but-women-face-it-more-severely-and-more-often</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-09T08:12:48.000Z</news:publication_date>
       <news:title>Strengthening the Welfare State: SPD Begins Work on New Policy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-protection-for-tenants-germany-plans-rental-law-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-08T12:52:21.000Z</news:publication_date>
-      <news:title>More Protection for Tenants: Germany Plans Rental Law Reform </news:title>
     </news:news>
   </url>
 

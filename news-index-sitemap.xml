@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/vw-workforce-demands-answers-after-surprise-eu6-billion-cashflow-secures-executive-bonuses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-11T10:12:55.000Z</news:publication_date>
+      <news:title>VW Workforce Demands Answers After Surprise ?6 Billion Cashflow Secures Executive Bonuses </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-pilots-and-cabin-crew-announce-strike-over-pensions</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-09T15:32:40.000Z</news:publication_date>
       <news:title>US Plans For Stricter Entry Requirements Raise Concern In Germany Diplomacy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-police-uncover-major-identity-fraud-scheme-in-citizenship-exams</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-09T10:42:05.000Z</news:publication_date>
-      <news:title>German Police Uncover Major Identity Fraud Scheme in Citizenship Exams </news:title>
     </news:news>
   </url>
 

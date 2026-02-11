@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germanys-integration-course-freeze-sparks-spd-outrage</loc>
+    <loc>https://www.newsworm.de/news/german-cabinet-passes-accessibility-reform-critics-unimpressed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-11T15:34:14.000Z</news:publication_date>
+      <news:title>German Cabinet Passes Accessibility Reform, Critics Unimpressed </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/what-is-behind-germanys-sudden-halt-on-integration-courses</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-02-11T12:16:00.000Z</news:publication_date>
-      <news:title>Germany?s Integration Course Freeze Sparks SPD Outrage </news:title>
+      <news:title>What Is Behind Germany?s Sudden Halt on Integration Courses? </news:title>
     </news:news>
   </url>
 
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-10T08:37:11.000Z</news:publication_date>
       <news:title>Two-thirds of Germans no longer believe the welfare state is financially sustainable </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-plans-for-stricter-entry-requirements-raise-concern-in-germany-diplomacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-09T15:32:40.000Z</news:publication_date>
-      <news:title>US Plans For Stricter Entry Requirements Raise Concern In Germany Diplomacy </news:title>
     </news:news>
   </url>
 

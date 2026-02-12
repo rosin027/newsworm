@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/mercedes-benz-net-profit-nearly-halves-amid-china-us-woes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-12T19:05:42.000Z</news:publication_date>
+      <news:title>Mercedes-Benz net profit nearly halves amid China, US woes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-parliament-adopts-safe-countries-of-origin-list</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-10T21:07:38.000Z</news:publication_date>
       <news:title>Lufthansa Pilots and Cabin Crew Announce Strike Over Pensions </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-and-brandenburg-face-new-wave-of-public-sector-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-10T19:56:29.000Z</news:publication_date>
-      <news:title>Berlin and Brandenburg Face New Wave of Public-Sector Strikes </news:title>
     </news:news>
   </url>
 

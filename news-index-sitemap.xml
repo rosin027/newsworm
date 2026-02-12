@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/alaaf-and-helau-as-street-carnival-officially-begins-in-rhineland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-12T10:51:36.000Z</news:publication_date>
+      <news:title>?Alaaf? and ?Helau? as Street Carnival Officially Begins in Rhineland </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-pilot-strike-causes-widespread-flight-cancellations</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-10T13:08:27.000Z</news:publication_date>
       <news:title>Social Media Ban for Youth Faces Broad Skepticism in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/all-genders-experience-violence-but-women-face-it-more-severely-and-more-often</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-10T11:24:26.000Z</news:publication_date>
-      <news:title>All Genders Experience Violence But Women Face It More Severely and More Often </news:title>
     </news:news>
   </url>
 

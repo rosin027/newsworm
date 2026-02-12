@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-pilot-strike-causes-widespread-flight-cancellations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-12T09:24:45.000Z</news:publication_date>
+      <news:title>Lufthansa Pilot Strike Causes Widespread Flight Cancellations </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bmw-recalls-hundreds-of-thousands-of-cars-worldwide-over-fire-risk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-12T08:39:09.000Z</news:publication_date>
+      <news:title>BMW Recalls Hundreds of Thousands of Cars Worldwide Over Fire Risk </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-passes-accessibility-reform-critics-unimpressed</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-10T11:24:26.000Z</news:publication_date>
       <news:title>All Genders Experience Violence But Women Face It More Severely and More Often </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/online-dating-surges-among-young-adults-seniors-are-joining-in-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-10T09:40:18.000Z</news:publication_date>
-      <news:title>Online Dating Surges Among Young Adults, Seniors Are Joining In Too </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/two-thirds-of-germans-no-longer-believe-the-welfare-state-is-financially-sustainable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-10T08:37:11.000Z</news:publication_date>
-      <news:title>Two-thirds of Germans no longer believe the welfare state is financially sustainable </news:title>
     </news:news>
   </url>
 

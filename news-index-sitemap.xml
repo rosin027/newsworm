@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-smartphone-tax-filing-via-elster-app</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T14:25:49.000Z</news:publication_date>
+      <news:title>Germany Launches Smartphone Tax Filing via Elster App </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-germanys-drivers-license-reform-lower-costs</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-02-12T08:39:09.000Z</news:publication_date>
       <news:title>BMW Recalls Hundreds of Thousands of Cars Worldwide Over Fire Risk </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-passes-accessibility-reform-critics-unimpressed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-11T15:34:14.000Z</news:publication_date>
-      <news:title>German Cabinet Passes Accessibility Reform, Critics Unimpressed </news:title>
     </news:news>
   </url>
 

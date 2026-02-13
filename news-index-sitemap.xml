@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/will-germanys-drivers-license-reform-lower-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-13T10:42:19.000Z</news:publication_date>
+      <news:title>Will Germany?s Driver?s License Reform Lower Costs? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-sugar-intake-far-exceeds-who-recommendations</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-11T12:16:00.000Z</news:publication_date>
       <news:title>What Is Behind Germany?s Sudden Halt on Integration Courses? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/vw-workforce-demands-answers-after-surprise-eu6-billion-cashflow-secures-executive-bonuses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-11T10:12:55.000Z</news:publication_date>
-      <news:title>VW Workforce Demands Answers After Surprise ?6 Billion Cashflow Secures Executive Bonuses </news:title>
     </news:news>
   </url>
 

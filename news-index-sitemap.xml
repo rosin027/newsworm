@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rubio-usa-wants-a-strong-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-14T09:35:26.000Z</news:publication_date>
+      <news:title>Rubio: USA Wants a ?Strong? Europe </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-states-end-wage-dispute-with-new-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-14T09:01:42.000Z</news:publication_date>
+      <news:title>German States End Wage Dispute with New Deal </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-chancellor-merz-urges-us-to-repair-ties-with-europe</loc>
     <news:news>
       <news:publication>
@@ -83,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-12T10:51:36.000Z</news:publication_date>
       <news:title>?Alaaf? and ?Helau? as Street Carnival Officially Begins in Rhineland </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-pilot-strike-causes-widespread-flight-cancellations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T09:24:45.000Z</news:publication_date>
-      <news:title>Lufthansa Pilot Strike Causes Widespread Flight Cancellations </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-recalls-hundreds-of-thousands-of-cars-worldwide-over-fire-risk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T08:39:09.000Z</news:publication_date>
-      <news:title>BMW Recalls Hundreds of Thousands of Cars Worldwide Over Fire Risk </news:title>
     </news:news>
   </url>
 

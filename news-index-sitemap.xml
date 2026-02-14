@@ -86,16 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/mercedes-benz-net-profit-nearly-halves-amid-china-us-woes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T19:05:42.000Z</news:publication_date>
-      <news:title>Mercedes-Benz net profit nearly halves amid China, US woes </news:title>
-    </news:news>
-  </url>
-
 </urlset>

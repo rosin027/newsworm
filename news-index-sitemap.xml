@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-million-open-cases-push-germanys-courts-to-brink</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-15T10:22:12.000Z</news:publication_date>
+      <news:title>One Million Open Cases Push Germany?s Courts to Brink </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/european-debate-over-nuclear-weapons-gains-pace</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-15T10:00:57.000Z</news:publication_date>
+      <news:title>European debate over nuclear weapons gains pace </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-is-wohngeld-germanys-housing-benefit-guide</loc>
     <news:news>
       <news:publication>
@@ -59,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-02-13T14:25:49.000Z</news:publication_date>
       <news:title>Germany Launches Smartphone Tax Filing via Elster App </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/will-germanys-drivers-license-reform-lower-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-13T10:42:19.000Z</news:publication_date>
-      <news:title>Will Germany?s Driver?s License Reform Lower Costs? </news:title>
     </news:news>
   </url>
 

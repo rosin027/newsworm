@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-state-library-to-close-for-eleven-year-renovation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-15T17:32:18.000Z</news:publication_date>
+      <news:title>Berlin State Library to Close for Eleven-Year Renovation </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/marriages-in-germany-decline-to-historic-low-since-1950</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-02-14T09:01:42.000Z</news:publication_date>
       <news:title>German States End Wage Dispute with New Deal </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-merz-urges-us-to-repair-ties-with-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-13T15:59:13.000Z</news:publication_date>
-      <news:title>German Chancellor Merz urges US to repair ties with Europe </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/marriages-in-germany-decline-to-historic-low-since-1950</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-15T13:38:08.000Z</news:publication_date>
+      <news:title>Marriages in Germany Decline to Historic Low Since 1950 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-million-open-cases-push-germanys-courts-to-brink</loc>
     <news:news>
       <news:publication>
@@ -27,14 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/what-is-wohngeld-germanys-housing-benefit-guide</loc>
+    <loc>https://www.newsworm.de/news/rent-too-high-you-could-get-370-euro-monthly-housing-benefit-in-germany</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-02-14T14:16:56.000Z</news:publication_date>
-      <news:title>What Is Wohngeld? Germany?s Housing Benefit Guide </news:title>
+      <news:title>Rent Too High? You Could Get ?370 Monthly Housing Benefit in Germany </news:title>
     </news:news>
   </url>
 

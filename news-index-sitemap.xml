@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-carnival-revellers-take-swipes-at-putin-trump-epstein</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T15:34:15.000Z</news:publication_date>
+      <news:title>German carnival revellers take swipes at Putin, Trump, Epstein </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/heavy-snowfall-in-germany-causes-dozens-of-accidents-and-travel-disruptions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T15:25:23.000Z</news:publication_date>
+      <news:title>Heavy Snowfall in Germany Causes Dozens of Accidents and Travel Disruptions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/14-safe-deposit-boxes-ransacked-at-stuhr-bank-in-lower-saxony</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-15T10:00:57.000Z</news:publication_date>
       <news:title>European debate over nuclear weapons gains pace </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rent-too-high-you-could-get-370-euro-monthly-housing-benefit-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-14T14:16:56.000Z</news:publication_date>
-      <news:title>Rent Too High? You Could Get ?370 Monthly Housing Benefit in Germany </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/14-safe-deposit-boxes-ransacked-at-stuhr-bank-in-lower-saxony</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T08:24:08.000Z</news:publication_date>
+      <news:title>14 Safe-Deposit Boxes Ransacked at Stuhr Bank in Lower Saxony </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/dobrindt-extends-border-controls-for-another-six-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-16T08:06:50.000Z</news:publication_date>
+      <news:title>Dobrindt extends border controls for another six months </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/standardized-deutschland-ticket-with-photo-proposed-for-rail-safety</loc>
     <news:news>
       <news:publication>
@@ -71,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-02-14T14:16:56.000Z</news:publication_date>
       <news:title>Rent Too High? You Could Get ?370 Monthly Housing Benefit in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rubio-usa-wants-a-strong-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-14T09:35:26.000Z</news:publication_date>
-      <news:title>Rubio: USA Wants a ?Strong? Europe </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-states-end-wage-dispute-with-new-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-14T09:01:42.000Z</news:publication_date>
-      <news:title>German States End Wage Dispute with New Deal </news:title>
     </news:news>
   </url>
 

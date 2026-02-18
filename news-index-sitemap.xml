@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-chancellor-merz-casts-doubt-on-european-fighter-jet-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-18T12:39:10.000Z</news:publication_date>
+      <news:title>German Chancellor Merz Casts Doubt on European Fighter Jet Plan </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ukraine-war-talks-in-geneva-end-without-agreement-on-territory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-18T12:28:28.000Z</news:publication_date>
+      <news:title>Ukraine War Talks in Geneva End Without Agreement on Territory </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/europes-aviation-sector-is-booming-but-germany-is-falling-behind</loc>
     <news:news>
       <news:publication>

@@ -182,28 +182,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-carnival-revellers-take-swipes-at-putin-trump-epstein</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-16T15:34:15.000Z</news:publication_date>
-      <news:title>German carnival revellers take swipes at Putin, Trump, Epstein </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/heavy-snowfall-in-germany-causes-dozens-of-accidents-and-travel-disruptions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-16T15:25:23.000Z</news:publication_date>
-      <news:title>Heavy Snowfall in Germany Causes Dozens of Accidents and Travel Disruptions </news:title>
-    </news:news>
-  </url>
-
 </urlset>

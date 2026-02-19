@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/klingbeil-and-bas-push-for-application-free-child-benefits-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T14:24:41.000Z</news:publication_date>
+      <news:title>Klingbeil and Bas Push for Application-Free Child Benefits in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-to-cut-thousands-of-jobs-at-db-cargo</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-02-17T21:10:42.000Z</news:publication_date>
       <news:title>Dozens of film figures condemn Berlin Film Festival &apos;silence&apos; on Gaza </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/made-in-europe-or-made-with-europe-buy-european-push-splits-bloc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T14:12:31.000Z</news:publication_date>
-      <news:title>&apos;Made in Europe&apos; or &apos;Made with Europe&apos;? Buy European push splits bloc </news:title>
     </news:news>
   </url>
 

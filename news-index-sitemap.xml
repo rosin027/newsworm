@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rising-pollen-levels-expected-across-germany-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T11:14:22.000Z</news:publication_date>
+      <news:title>Rising Pollen Levels Expected Across Germany Next Week </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/worlds-best-cities-2026-top-10-global-rankings</loc>
     <news:news>
       <news:publication>

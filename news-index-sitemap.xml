@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/worlds-best-cities-2026-top-10-global-rankings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T09:12:15.000Z</news:publication_date>
+      <news:title>World?s Best Cities 2026: Top 10 Global Rankings </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-film-festival-rejects-accusation-of-censorship-on-gaza</loc>
     <news:news>
       <news:publication>
@@ -155,42 +167,6 @@
       </news:publication>
       <news:publication_date>2026-02-17T13:57:07.000Z</news:publication_date>
       <news:title>Germany Announces Planned Law on Voluntary Services </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-industrial-sector-cut-124100-jobs-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T09:21:23.000Z</news:publication_date>
-      <news:title>Germany?s Industrial Sector Cut 124,100 Jobs in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/social-media-ban-for-children-spd-proposal-receives-support-and-criticism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T08:11:18.000Z</news:publication_date>
-      <news:title>Social media ban for children: SPD proposal receives support and criticism </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/verdi-calls-nationwide-autobahn-strike-elbtunnel-affected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T08:05:35.000Z</news:publication_date>
-      <news:title>Verdi Calls Nationwide Autobahn Strike, Elbtunnel Affected </news:title>
     </news:news>
   </url>
 

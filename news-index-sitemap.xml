@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-to-cut-thousands-of-jobs-at-db-cargo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-19T12:20:43.000Z</news:publication_date>
+      <news:title>Deutsche Bahn to Cut Thousands of Jobs at DB Cargo  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rising-pollen-levels-expected-across-germany-next-week</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-02-17T14:12:31.000Z</news:publication_date>
       <news:title>&apos;Made in Europe&apos; or &apos;Made with Europe&apos;? Buy European push splits bloc </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-announces-planned-law-on-voluntary-services</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-17T13:57:07.000Z</news:publication_date>
-      <news:title>Germany Announces Planned Law on Voluntary Services </news:title>
     </news:news>
   </url>
 

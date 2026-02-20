@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-party-conference-in-stuttgart-key-test-for-chancellor-merz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-20T09:09:58.000Z</news:publication_date>
+      <news:title>CDU Party Conference in Stuttgart ? Key Test for Chancellor Merz </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/klingbeil-and-bas-push-for-application-free-child-benefits-in-germany</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-18T10:28:55.000Z</news:publication_date>
       <news:title>Europe&apos;s Aviation Sector is Booming But Germany is Falling Behind </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/chancellor-merz-rejects-spd-proposals-for-tax-increases</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-18T08:42:02.000Z</news:publication_date>
-      <news:title>Chancellor Merz Rejects SPD Proposals for Tax Increases </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/chancellor-merz-supports-ocial-media-ban-for-minors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-18T08:33:42.000Z</news:publication_date>
-      <news:title>Chancellor Merz Supports Social Media Ban for Minors </news:title>
     </news:news>
   </url>
 

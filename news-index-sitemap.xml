@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/europes-aviation-sector-is-booming-but-germany-is-falling-behind</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-18T10:28:55.000Z</news:publication_date>
-      <news:title>Europe&apos;s Aviation Sector is Booming But Germany is Falling Behind </news:title>
-    </news:news>
-  </url>
-
 </urlset>

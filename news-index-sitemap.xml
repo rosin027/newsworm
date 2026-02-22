@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dobrindt-aims-to-get-asylum-seekers-into-jobs-more-quickly</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-22T15:31:31.000Z</news:publication_date>
+      <news:title>Dobrindt Aims to Get Asylum Seekers into Jobs More Quickly </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-set-for-sunny-spring-as-midweek-temperatures-jump</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-20T19:15:29.000Z</news:publication_date>
       <news:title>Despite headwinds, German Chancellor Merz wins strong party backing </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-merz-to-visit-china-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-20T14:57:41.000Z</news:publication_date>
-      <news:title>German Chancellor Merz to visit China next week </news:title>
     </news:news>
   </url>
 

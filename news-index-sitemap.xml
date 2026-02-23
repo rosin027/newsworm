@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-pledges-unwavering-german-support-for-ukraine-ahead-of-war-anniversary</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T13:20:24.000Z</news:publication_date>
+      <news:title>Merz Pledges Unwavering German Support for Ukraine Ahead of War Anniversary </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-gdl-wage-talks-strike-possible-next-week</loc>
     <news:news>
       <news:publication>
@@ -10,7 +22,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-02-23T11:15:02.000Z</news:publication_date>
-      <news:title>Deutsche Bahn GDL Wage Talks: Strike Possible Next Week </news:title>
+      <news:title>Deutsche Bahn - GDL Wage Talks: Strike Possible Next Week </news:title>
     </news:news>
   </url>
 
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-21T15:05:57.000Z</news:publication_date>
       <news:title>CDU Approves Social Media Limits, Parental Leave &amp; Wage Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/march-2026-in-germany-important-changes-you-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-21T13:37:17.000Z</news:publication_date>
-      <news:title>March 2026 in Germany: Important changes you need to know </news:title>
     </news:news>
   </url>
 

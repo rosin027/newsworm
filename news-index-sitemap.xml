@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-parliament-pauses-us-trade-deal-after-supreme-court-tariff-ruling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T16:00:21.000Z</news:publication_date>
+      <news:title>EU Parliament Pauses US Trade Deal After Supreme Court Tariff Ruling </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-pledges-unwavering-german-support-for-ukraine-ahead-of-war-anniversary</loc>
     <news:news>
       <news:publication>

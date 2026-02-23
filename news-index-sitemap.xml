@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-says-no-to-cdu-plans-on-sick-notes-work-rights-and-conscription</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T08:17:22.000Z</news:publication_date>
+      <news:title>SPD Says No to CDU Plans on Sick Notes, Work Rights and Conscription </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/voluntary-health-insurance-benefits-should-be-scrapped-says-the-kbv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T08:08:28.000Z</news:publication_date>
+      <news:title>Voluntary Health Insurance Benefits Should Be Scrapped, Says the KBV </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dobrindt-aims-to-get-asylum-seekers-into-jobs-more-quickly</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-21T10:04:09.000Z</news:publication_date>
       <news:title>Trump Imposes 10% Worldwide Tariffs After Defeat at the Supreme Court </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-aims-to-cut-building-and-housing-costs-party-convention-approves-key-proposal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-21T09:50:33.000Z</news:publication_date>
-      <news:title>CDU Aims to Cut Building and Housing Costs ? Party Convention Approves Key Proposal </news:title>
     </news:news>
   </url>
 

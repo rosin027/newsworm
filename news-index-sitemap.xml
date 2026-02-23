@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-gdl-wage-talks-strike-possible-next-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-23T11:15:02.000Z</news:publication_date>
+      <news:title>Deutsche Bahn GDL Wage Talks: Strike Possible Next Week </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-says-no-to-cdu-plans-on-sick-notes-work-rights-and-conscription</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-02-21T13:37:17.000Z</news:publication_date>
       <news:title>March 2026 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-imposes-10-percent-worldwide-tariffs-after-defeat-at-the-supreme-court</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-21T10:04:09.000Z</news:publication_date>
-      <news:title>Trump Imposes 10% Worldwide Tariffs After Defeat at the Supreme Court </news:title>
     </news:news>
   </url>
 

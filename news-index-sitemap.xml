@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-heads-to-china-spd-demands-tough-stance-on-trade-and-economic-policy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T09:36:47.000Z</news:publication_date>
+      <news:title>Merz Heads to China: SPD Demands Tough Stance on Trade and Economic Policy </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/one-in-four-doctors-in-germany-has-an-immigrant-background-new-data-shows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T08:49:46.000Z</news:publication_date>
+      <news:title>One in Four Doctors in Germany Has an Immigrant Background, New Data Shows </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-bundeswehr-questionnaire-50-percent-male-response-rate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T08:34:44.000Z</news:publication_date>
+      <news:title>Germany&apos;s Bundeswehr Questionnaire: 50% Male Response Rate </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-parliament-pauses-us-trade-deal-after-supreme-court-tariff-ruling</loc>
     <news:news>
       <news:publication>
@@ -83,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-22T12:17:10.000Z</news:publication_date>
       <news:title>Germany Set for ?Sunny Spring? as Midweek Temperatures Jump </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-raises-global-us-import-tariffs-to-15-percent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-22T08:58:59.000Z</news:publication_date>
-      <news:title>Trump Raises Global U.S. Import Tariffs to 15% </news:title>
     </news:news>
   </url>
 

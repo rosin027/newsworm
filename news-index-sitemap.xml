@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/220-officers-bust-3-1-million-euro-fraud-network-across-seven-states-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T12:11:33.000Z</news:publication_date>
+      <news:title>220 Officers Bust ?3.1 Million Fraud Network Across Seven States in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-in-china-five-agreements-signed-as-trade-and-tariffs-dominate-talks</loc>
     <news:news>
       <news:publication>
@@ -82,7 +94,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-02-24T08:49:46.000Z</news:publication_date>
-      <news:title>One in Four Doctors in Germany Has an Immigrant Background, New Data Shows </news:title>
+      <news:title>One in Four Doctors in Germany Has an Immigrant Background </news:title>
     </news:news>
   </url>
 
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-23T16:00:21.000Z</news:publication_date>
       <news:title>EU Parliament Pauses US Trade Deal After Supreme Court Tariff Ruling </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-pledges-unwavering-german-support-for-ukraine-ahead-of-war-anniversary</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T13:20:24.000Z</news:publication_date>
-      <news:title>Merz Pledges Unwavering German Support for Ukraine Ahead of War Anniversary </news:title>
     </news:news>
   </url>
 

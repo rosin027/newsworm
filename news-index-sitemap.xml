@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-action-plan-to-fight-organised-crime-and-money-laundering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T14:39:44.000Z</news:publication_date>
+      <news:title>German Cabinet Approves Action Plan to Fight Organised Crime and Money Laundering </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-and-xi-jinping-meet-in-beijing-china-agrees-to-buy-120-airbus-aircraft</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T14:34:14.000Z</news:publication_date>
+      <news:title>Merz and Xi Jinping Meet in Beijing - China Agrees to Buy 120 Airbus Aircraft </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/220-officers-bust-3-1-million-euro-fraud-network-across-seven-states-in-germany</loc>
     <news:news>
       <news:publication>

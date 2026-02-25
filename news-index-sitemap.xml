@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-coalition-scraps-65-renewable-heating-law-homeowners-get-free-choice</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T09:17:43.000Z</news:publication_date>
+      <news:title> Germany&apos;s Coalition Scraps 65% Renewable Heating Law -  Homeowners Get Free Choice </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-heads-to-china-trade-de-risking-and-ukraine-on-agenda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T09:01:58.000Z</news:publication_date>
+      <news:title>Merz Heads to China: Trade, De-Risking and Ukraine on Agenda </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ukraine-war-anniversary-zelensky-declares-putin-failed-as-europe-gathers-in-kyiv</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-23T11:15:02.000Z</news:publication_date>
       <news:title>Deutsche Bahn - GDL Wage Talks: Strike Possible Next Week </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-says-no-to-cdu-plans-on-sick-notes-work-rights-and-conscription</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T08:17:22.000Z</news:publication_date>
-      <news:title>SPD Says No to CDU Plans on Sick Notes, Work Rights and Conscription </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/voluntary-health-insurance-benefits-should-be-scrapped-says-the-kbv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T08:08:28.000Z</news:publication_date>
-      <news:title>Voluntary Health Insurance Benefits Should Be Scrapped, Says the KBV </news:title>
     </news:news>
   </url>
 

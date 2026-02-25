@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-in-china-five-agreements-signed-as-trade-and-tariffs-dominate-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-25T10:31:16.000Z</news:publication_date>
+      <news:title>Merz in China: Five Agreements Signed as Trade and Tariffs Dominate Talks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-coalition-scraps-65-renewable-heating-law-homeowners-get-free-choice</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-23T13:20:24.000Z</news:publication_date>
       <news:title>Merz Pledges Unwavering German Support for Ukraine Ahead of War Anniversary </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-gdl-wage-talks-strike-possible-next-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-23T11:15:02.000Z</news:publication_date>
-      <news:title>Deutsche Bahn - GDL Wage Talks: Strike Possible Next Week </news:title>
     </news:news>
   </url>
 

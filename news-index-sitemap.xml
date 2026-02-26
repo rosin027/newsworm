@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-cityline-pilots-vote-for-strike-action-over-pay-dispute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26T11:37:47.000Z</news:publication_date>
+      <news:title>Lufthansa Cityline Pilots Vote for Strike Action Over Pay Dispute </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-vegetable-harvest-hits-record-high-of-4-5-million-tonnes-in-2025</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-24T12:18:03.000Z</news:publication_date>
       <news:title>Ukraine War Anniversary: Zelensky Declares Putin Failed as Europe Gathers in Kyiv </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/verdi-calls-nationwide-public-transport-strike-for-friday-and-saturday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T10:27:36.000Z</news:publication_date>
-      <news:title>Verdi Calls Nationwide Public Transport Strike on 27th and 28th February </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-vegetable-harvest-hits-record-high-of-4-5-million-tonnes-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26T08:30:28.000Z</news:publication_date>
+      <news:title>Germany&apos;s Vegetable Harvest Hits Record High of 4.5 Million Tonnes in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/berlin-film-festival-director-may-be-fired-over-gaza-war-remarks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-26T08:15:45.000Z</news:publication_date>
+      <news:title>Berlin Film Festival Director May Be Fired Over Gaza War Remarks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-approves-action-plan-to-fight-organised-crime-and-money-laundering</loc>
     <news:news>
       <news:publication>
@@ -95,42 +119,6 @@
       </news:publication>
       <news:publication_date>2026-02-24T10:27:36.000Z</news:publication_date>
       <news:title>Verdi Calls Nationwide Public Transport Strike on 27th and 28th February </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-heads-to-china-spd-demands-tough-stance-on-trade-and-economic-policy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T09:36:47.000Z</news:publication_date>
-      <news:title>Merz Heads to China: SPD Demands Tough Stance on Trade and Economic Policy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-four-doctors-in-germany-has-an-immigrant-background-new-data-shows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T08:49:46.000Z</news:publication_date>
-      <news:title>One in Four Doctors in Germany Has an Immigrant Background </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-bundeswehr-questionnaire-50-percent-male-response-rate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T08:34:44.000Z</news:publication_date>
-      <news:title>Germany&apos;s Bundeswehr Questionnaire: 50% Male Response Rate </news:title>
     </news:news>
   </url>
 

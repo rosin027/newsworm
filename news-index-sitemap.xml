@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-labour-market-remains-stuck-with-three-million-unemployed-in-february</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T10:57:27.000Z</news:publication_date>
+      <news:title>Germany&apos;s Labour Market Remains Stuck With Three Million Unemployed in February  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-and-gdl-reach-pay-deal-without-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T10:17:58.000Z</news:publication_date>
+      <news:title>Deutsche Bahn and GDL Reach Pay Deal Without Strikes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-unveils-plan-to-fix-dirty-trains-and-unreliable-onboard-catering</loc>
     <news:news>
       <news:publication>
@@ -155,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-02-25T12:11:33.000Z</news:publication_date>
       <news:title>220 Officers Bust ?3.1 Million Fraud Network Across Seven States in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-in-china-five-agreements-signed-as-trade-and-tariffs-dominate-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-25T10:31:16.000Z</news:publication_date>
-      <news:title>Merz in China: Five Agreements Signed as Trade and Tariffs Dominate Talks </news:title>
     </news:news>
   </url>
 

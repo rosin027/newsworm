@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/openai-raises-110-billion-usd-valuing-the-company-at-730-billion-usd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T15:17:35.000Z</news:publication_date>
+      <news:title>OpenAI Raises $110 Billion Valuing the Company at $730 Billion </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/basf-workers-protest-in-berlin-over-job-cuts-and-asia-shift</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-27T15:01:56.000Z</news:publication_date>
+      <news:title>BASF Workers Protest in Berlin Over Job Cuts and Asia Shift </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-confirms-provisional-application-of-contested-mercosur-trade-deal</loc>
     <news:news>
       <news:publication>
@@ -155,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-02-26T08:15:45.000Z</news:publication_date>
       <news:title>Berlin Film Festival Director May Be Fired Over Gaza War Remarks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-action-plan-to-fight-organised-crime-and-money-laundering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-25T14:39:44.000Z</news:publication_date>
-      <news:title>German Cabinet Approves Action Plan to Fight Organised Crime and Money Laundering </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-and-xi-jinping-meet-in-beijing-china-agrees-to-buy-120-airbus-aircraft</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-25T14:34:14.000Z</news:publication_date>
-      <news:title>Merz and Xi Jinping Meet in Beijing - China Agrees to Buy 120 Airbus Aircraft </news:title>
     </news:news>
   </url>
 

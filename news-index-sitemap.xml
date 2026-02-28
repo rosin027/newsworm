@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/airlines-ground-middle-east-flights-after-iran-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T11:24:08.000Z</news:publication_date>
+      <news:title>Airlines Ground Middle East Flights After Iran Strikes </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/applying-for-german-citizenship-in-berlin-here-is-what-you-must-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-28T10:08:07.000Z</news:publication_date>
+      <news:title>Applying for German Citizenship in Berlin? Here Is What You Must Know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-and-israel-launch-massive-strikes-on-iran</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-02-26T13:25:34.000Z</news:publication_date>
       <news:title>Germany Deports 20 Criminals to Afghanistan in Historic First </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-cityline-pilots-vote-for-strike-action-over-pay-dispute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T11:37:47.000Z</news:publication_date>
-      <news:title>Lufthansa Cityline Pilots Vote for Strike Action Over Pay Dispute </news:title>
     </news:news>
   </url>
 

@@ -146,40 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/court-blocks-afd-from-being-labelled-extremist-for-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T15:56:32.000Z</news:publication_date>
-      <news:title>Court Blocks AfD from Being Labelled Extremist For Now </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-accused-of-nepotism-as-bundestag-debates-family-hiring-row</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T15:43:18.000Z</news:publication_date>
-      <news:title>AfD Accused of Nepotism as Bundestag Debates Family Hiring Row </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/new-collective-bargaining-law-passed-by-german-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T15:04:46.000Z</news:publication_date>
-      <news:title>New Collective Bargaining Law Passed by German Bundestag </news:title>
-    </news:news>
-  </url>
-
 </urlset>

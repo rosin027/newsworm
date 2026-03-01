@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/iran-war-travel-disruptions-what-travellers-in-germany-need-to-know-right-now</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-01T09:40:21.000Z</news:publication_date>
+      <news:title>Iran War Travel Disruptions: What Travellers in Germany Need to Know Right Now </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/supreme-leader-khamenei-killed-iran-enters-40-day-mourning-strait-of-hormuz-closed</loc>
     <news:news>
       <news:publication>
@@ -131,42 +143,6 @@
       </news:publication>
       <news:publication_date>2026-02-27T10:17:58.000Z</news:publication_date>
       <news:title>Deutsche Bahn and GDL Reach Pay Deal Without Strikes </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-unveils-plan-to-fix-dirty-trains-and-unreliable-onboard-catering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T09:17:55.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Unveils Plan to Fix Dirty Trains and Unreliable Onboard Catering </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-passes-paternity-reform-giving-biological-fathers-stronger-rights-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T08:19:22.000Z</news:publication_date>
-      <news:title>Bundestag Passes Paternity Reform Giving Biological Fathers Stronger Rights in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/health-minister-calls-for-egg-donation-legalization-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T08:12:25.000Z</news:publication_date>
-      <news:title>Health Minister Calls for Egg Donation Legalization in Germany </news:title>
     </news:news>
   </url>
 

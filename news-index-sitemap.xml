@@ -110,16 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/eu-confirms-provisional-application-of-contested-mercosur-trade-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-27T13:55:07.000Z</news:publication_date>
-      <news:title>EU Confirms Provisional Application of Contested Mercosur Trade Deal  </news:title>
-    </news:news>
-  </url>
-
 </urlset>

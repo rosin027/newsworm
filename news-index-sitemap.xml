@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/iran-war-escalates-strikes-hit-middle-east-and-beyond</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-02T13:56:05.000Z</news:publication_date>
+      <news:title>Iran War Escalates: Strikes Hit Middle East and Beyond </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pro-iranian-protests-erupt-across-pakistan-after-khamenei-death</loc>
     <news:news>
       <news:publication>

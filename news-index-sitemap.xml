@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/how-the-iran-war-is-driving-up-fuel-prices-and-threatening-energy-supply</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-02T14:40:06.000Z</news:publication_date>
+      <news:title>How the Iran War Is Driving Up Fuel Prices and Threatening Energy Supply </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-war-escalates-strikes-hit-middle-east-and-beyond</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/30000-germans-stranded-in-the-gulf-amid-escalating-iran-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-02T09:19:31.000Z</news:publication_date>
+      <news:title> 30,000 Germans Stranded in the Gulf Amid Escalating Iran War </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/france-germany-uk-ready-to-take-defensive-action-against-iran</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-02-28T10:08:07.000Z</news:publication_date>
       <news:title>Applying for German Citizenship in Berlin? Here Is What You Must Know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-and-israel-launch-massive-strikes-on-iran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-28T08:30:23.000Z</news:publication_date>
-      <news:title>US and Israel Launch Massive Strikes on Iran </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-to-test-ai-humanoid-robots-at-leipzig-factor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-28T08:24:44.000Z</news:publication_date>
-      <news:title>BMW to Test AI Humanoid Robots at Leipzig Factor </news:title>
     </news:news>
   </url>
 

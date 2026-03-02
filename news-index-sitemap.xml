@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pro-iranian-protests-erupt-across-pakistan-after-khamenei-death</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-02T11:42:35.000Z</news:publication_date>
+      <news:title>Pro-Iranian Protests Erupt Across Pakistan After Khamenei Death </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/30000-germans-stranded-in-the-gulf-amid-escalating-iran-war</loc>
     <news:news>
       <news:publication>
@@ -71,30 +83,6 @@
       </news:publication>
       <news:publication_date>2026-02-28T20:14:51.000Z</news:publication_date>
       <news:title>Breaking News: Iran&apos;s Supreme Leader Khamenei is Dead - Israel </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/airlines-ground-middle-east-flights-after-iran-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-28T11:24:08.000Z</news:publication_date>
-      <news:title>Airlines Ground Middle East Flights After Iran Strikes </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/applying-for-german-citizenship-in-berlin-here-is-what-you-must-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-28T10:08:07.000Z</news:publication_date>
-      <news:title>Applying for German Citizenship in Berlin? Here Is What You Must Know </news:title>
     </news:news>
   </url>
 

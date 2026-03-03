@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-becomes-first-foreign-leader-to-meet-trump-since-us-israel-strikes-on-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-03T08:13:06.000Z</news:publication_date>
+      <news:title>Merz Becomes First Foreign Leader to Meet Trump Since US-Israel Strikes on Iran </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-the-iran-war-is-driving-up-fuel-prices-and-threatening-energy-supply</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-03-01T16:59:46.000Z</news:publication_date>
       <news:title>Merz: &quot;Relief&quot; Over Foreseeable End of Mullah Rule in Iran </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iran-war-travel-disruptions-what-travellers-in-germany-need-to-know-right-now</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-01T09:40:21.000Z</news:publication_date>
-      <news:title>Iran War Travel Disruptions: What Travellers in Germany Need to Know Right Now </news:title>
     </news:news>
   </url>
 

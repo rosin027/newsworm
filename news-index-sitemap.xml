@@ -86,16 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/supreme-leader-khamenei-killed-iran-enters-40-day-mourning-strait-of-hormuz-closed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-01T04:56:31.000Z</news:publication_date>
-      <news:title>Supreme Leader Khamenei Killed: Iran Enters 40-Day Mourning, Strait of Hormuz Closed </news:title>
-    </news:news>
-  </url>
-
 </urlset>

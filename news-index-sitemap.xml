@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-unveils-made-in-europe-plan-to-combat-its-industrial-decline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-04T13:02:02.000Z</news:publication_date>
+      <news:title>EU Unveils &quot;Made in Europe&quot; Plan to Combat Its Industrial Decline </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/endometriosis-on-the-rise-in-germany-diagnoses-double-as-awareness-grows</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-03-02T14:40:06.000Z</news:publication_date>
       <news:title>How the Iran War Is Driving Up Fuel Prices and Threatening Energy Supply </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iran-war-escalates-strikes-hit-middle-east-and-beyond</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-02T13:56:05.000Z</news:publication_date>
-      <news:title>Iran War Escalates: Strikes Hit Middle East and Beyond </news:title>
     </news:news>
   </url>
 

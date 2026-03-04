@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/endometriosis-on-the-rise-in-germany-diagnoses-double-as-awareness-grows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-04T10:09:48.000Z</news:publication_date>
+      <news:title>Endometriosis on the Rise in Germany, Diagnoses Double as Awareness Grows </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-price-surge-oil-companies-face-criticism-and-calls-for-market-intervention</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-03-02T13:56:05.000Z</news:publication_date>
       <news:title>Iran War Escalates: Strikes Hit Middle East and Beyond </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pro-iranian-protests-erupt-across-pakistan-after-khamenei-death</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-02T11:42:35.000Z</news:publication_date>
-      <news:title>Pro-Iranian Protests Erupt Across Pakistan After Khamenei Death </news:title>
     </news:news>
   </url>
 

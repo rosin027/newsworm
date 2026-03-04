@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-price-surge-oil-companies-face-criticism-and-calls-for-market-intervention</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-04T08:46:42.000Z</news:publication_date>
+      <news:title> Fuel Price Surge: Oil Companies Face Criticism and Calls for Market Intervention </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-lashes-out-at-the-uk-and-spain-over-iran-war-support</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-03-02T11:42:35.000Z</news:publication_date>
       <news:title>Pro-Iranian Protests Erupt Across Pakistan After Khamenei Death </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/30000-germans-stranded-in-the-gulf-amid-escalating-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-02T09:19:31.000Z</news:publication_date>
-      <news:title> 30,000 Germans Stranded in the Gulf Amid Escalating Iran War </news:title>
     </news:news>
   </url>
 

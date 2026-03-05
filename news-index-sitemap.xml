@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-kensington-treaty-to-rebuild-ties-with-britain-after-brexit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-05T11:23:43.000Z</news:publication_date>
+      <news:title>Bundestag Approves Kensington Treaty to Rebuild Ties With Britain After Brexit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-prices-in-germany-cross-two-euro-mark-amid-iran-war</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-03T15:46:30.000Z</news:publication_date>
       <news:title>German Tourists Finally Head Home After Days Stranded in the Gulf </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-three-eu-citizens-in-germany-wants-to-leave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-03T11:53:36.000Z</news:publication_date>
-      <news:title>One in Three EU Citizens in Germany Wants to Leave  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/women-in-germany-still-earn-16-percent-less-and-the-gap-is-not-closing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-03T10:06:25.000Z</news:publication_date>
-      <news:title>Women in Germany Still Earn 16% Less, And the Gap Is Not Closing </news:title>
     </news:news>
   </url>
 

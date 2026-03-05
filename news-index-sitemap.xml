@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/basic-income-support-reform-passed-by-germanys-bundestag-replacing-burgergeld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-05T15:27:18.000Z</news:publication_date>
+      <news:title>Basic Income Support Reform Passed by Germany&apos;s Bundestag Replacing B?rgergeld </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/european-countries-are-split-over-their-response-to-the-iran-war</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-03-03T18:56:20.000Z</news:publication_date>
       <news:title>Trump Lashes Out at the UK and Spain Over Iran War Support </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-tourists-finally-head-home-after-days-stranded-in-the-gulf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-03T15:46:30.000Z</news:publication_date>
-      <news:title>German Tourists Finally Head Home After Days Stranded in the Gulf </news:title>
     </news:news>
   </url>
 

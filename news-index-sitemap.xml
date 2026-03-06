@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-passes-law-to-protect-critical-infrastructure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T11:10:30.000Z</news:publication_date>
+      <news:title>Germany Passes Law to Protect Critical Infrastructure </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-second-evacuation-flight-from-gulf-lands-in-frankfurt</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-03-04T13:02:02.000Z</news:publication_date>
       <news:title>EU Unveils &quot;Made in Europe&quot; Plan to Combat Its Industrial Decline </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/endometriosis-on-the-rise-in-germany-diagnoses-double-as-awareness-grows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-04T10:09:48.000Z</news:publication_date>
-      <news:title>Endometriosis on the Rise in Germany, Diagnoses Double as Awareness Grows </news:title>
     </news:news>
   </url>
 

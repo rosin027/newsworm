@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-school-students-rally-against-bundeswehr-recruitment-drive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T12:18:54.000Z</news:publication_date>
+      <news:title>German School Students Rally Against Bundeswehr Recruitment Drive </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-amends-hospital-reform-with-4-billion-euros-funding-boost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-06T12:06:39.000Z</news:publication_date>
+      <news:title>Germany Amends Hospital Reform With ?4 Billion Funding Boost </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-passes-law-to-protect-critical-infrastructure</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-03-04T17:27:15.000Z</news:publication_date>
       <news:title>Germany Will Not Join the Iran War - Defence Minister Makes It Clear </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-unveils-made-in-europe-plan-to-combat-its-industrial-decline</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-04T13:02:02.000Z</news:publication_date>
-      <news:title>EU Unveils &quot;Made in Europe&quot; Plan to Combat Its Industrial Decline </news:title>
     </news:news>
   </url>
 

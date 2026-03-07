@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-germanys-tax-system-trapping-married-women-in-part-time-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T13:24:35.000Z</news:publication_date>
+      <news:title>Is Germany&apos;s Tax System Trapping Married Women in Part-Time Work? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundesrat-backs-easier-residency-path-for-integrated-refugees</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-05T15:27:18.000Z</news:publication_date>
       <news:title>Basic Income Support Reform Passed by Germany&apos;s Bundestag Replacing B?rgergeld </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/european-countries-are-split-over-their-response-to-the-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T13:19:10.000Z</news:publication_date>
-      <news:title>European Countries Are Split Over Their Response to the Iran War </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-court-jails-syrian-man-for-is-inspired-berlin-memorial-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T12:47:37.000Z</news:publication_date>
-      <news:title>German Court Jails Syrian Man for IS-Inspired Berlin Memorial Attack </news:title>
     </news:news>
   </url>
 

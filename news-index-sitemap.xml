@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-in-three-deutsche-bahn-employees-may-quit-over-rising-violence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T14:42:31.000Z</news:publication_date>
+      <news:title>One in Three Deutsche Bahn Employees May Quit Over Rising Violence </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-germanys-tax-system-trapping-married-women-in-part-time-work</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-06T08:00:47.000Z</news:publication_date>
       <news:title>Germany Raises Pensions by 4.24% Starting July </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/basic-income-support-reform-passed-by-germanys-bundestag-replacing-burgergeld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T15:27:18.000Z</news:publication_date>
-      <news:title>Basic Income Support Reform Passed by Germany&apos;s Bundestag Replacing B?rgergeld </news:title>
     </news:news>
   </url>
 

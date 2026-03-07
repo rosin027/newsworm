@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-states-demand-comprehensive-reform-of-bafog-student-financial-aid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-07T08:22:53.000Z</news:publication_date>
+      <news:title>German States Demand Comprehensive Reform of Baf?g Student Financial Aid </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-iran-war-poses-growing-threat-to-german-economy</loc>
     <news:news>
       <news:publication>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-03-05T11:23:43.000Z</news:publication_date>
       <news:title>Bundestag Approves Kensington Treaty to Rebuild Ties With Britain After Brexit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-prices-in-germany-cross-two-euro-mark-amid-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T09:56:01.000Z</news:publication_date>
-      <news:title>Fuel Prices in Germany Cross Two-Euro Mark Amid Iran War </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/after-oil-us-moves-to-secure-access-to-venezuelan-minerals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T09:35:14.000Z</news:publication_date>
-      <news:title>After oil, US moves to secure access to Venezuelan minerals </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/google-launches-berlin-ai-centre-as-europe-struggles-for-tech-sovereignty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-05T08:41:30.000Z</news:publication_date>
-      <news:title>Google Launches Berlin AI Centre as Europe Struggles for Tech Sovereignty </news:title>
     </news:news>
   </url>
 

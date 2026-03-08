@@ -74,28 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-school-students-rally-against-bundeswehr-recruitment-drive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T12:18:54.000Z</news:publication_date>
-      <news:title>German School Students Rally Against Bundeswehr Recruitment Drive </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-amends-hospital-reform-with-4-billion-euros-funding-boost</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T12:06:39.000Z</news:publication_date>
-      <news:title>Germany Amends Hospital Reform With ?4 Billion Funding Boost </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/why-expats-leave-germany-after-5-to-10-years-even-when-life-is-good</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-08T16:07:55.000Z</news:publication_date>
+      <news:title>Why Expats Leave Germany After 5 to 10 Years ? Even When Life Is Good </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/baden-wurttemberg-election-2026-cdu-and-greens-in-dead-heat-as-afd-eyes-record-result</loc>
     <news:news>
       <news:publication>

@@ -98,28 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-second-evacuation-flight-from-gulf-lands-in-frankfurt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T09:24:31.000Z</news:publication_date>
-      <news:title>Germany&apos;s Second Evacuation Flight From Gulf Lands in Frankfurt </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-raises-pensions-by-4-24-percent-starting-july</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T08:00:47.000Z</news:publication_date>
-      <news:title>Germany Raises Pensions by 4.24% Starting July </news:title>
-    </news:news>
-  </url>
-
 </urlset>

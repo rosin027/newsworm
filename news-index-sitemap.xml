@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/baden-wurttemberg-election-2026-cdu-and-greens-in-dead-heat-as-afd-eyes-record-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-08T10:03:14.000Z</news:publication_date>
+      <news:title>Baden-W?rttemberg Election 2026: CDU and Greens in Dead Heat as AfD Eyes Record Result </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-in-three-deutsche-bahn-employees-may-quit-over-rising-violence</loc>
     <news:news>
       <news:publication>
@@ -83,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-03-06T12:06:39.000Z</news:publication_date>
       <news:title>Germany Amends Hospital Reform With ?4 Billion Funding Boost </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-passes-law-to-protect-critical-infrastructure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T11:10:30.000Z</news:publication_date>
-      <news:title>Germany Passes Law to Protect Critical Infrastructure </news:title>
     </news:news>
   </url>
 

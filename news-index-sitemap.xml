@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-concerned-over-rising-energy-prices-declines-to-commit-on-fuel-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-09T14:31:21.000Z</news:publication_date>
+      <news:title>Merz &quot;Concerned&quot; Over Rising Energy Prices, Declines to Commit on Fuel Discount </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-metal-and-electrical-industry-set-to-cut-150000-jobs</loc>
     <news:news>
       <news:publication>
@@ -47,18 +59,6 @@
       </news:publication>
       <news:publication_date>2026-03-08T10:03:14.000Z</news:publication_date>
       <news:title>Baden-W?rttemberg Election 2026: CDU and Greens in Dead Heat as AfD Eyes Record Result </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-three-deutsche-bahn-employees-may-quit-over-rising-violence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-07T14:42:31.000Z</news:publication_date>
-      <news:title>One in Three Deutsche Bahn Employees May Quit Over Rising Violence </news:title>
     </news:news>
   </url>
 

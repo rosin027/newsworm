@@ -62,16 +62,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/is-germanys-tax-system-trapping-married-women-in-part-time-work</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-07T13:24:35.000Z</news:publication_date>
-      <news:title>Is Germany&apos;s Tax System Trapping Married Women in Part-Time Work? </news:title>
-    </news:news>
-  </url>
-
 </urlset>

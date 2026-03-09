@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/greens-win-baden-wurttemberg-election-afd-sets-western-germany-record</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-09T07:46:31.000Z</news:publication_date>
+      <news:title>Greens Win Baden-W?rttemberg Election, AfD Sets Western Germany Record </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/why-expats-leave-germany-after-5-to-10-years-even-when-life-is-good</loc>
     <news:news>
       <news:publication>

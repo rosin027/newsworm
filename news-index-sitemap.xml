@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-metal-and-electrical-industry-set-to-cut-150000-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-09T09:50:16.000Z</news:publication_date>
+      <news:title>Germany&apos;s Metal and Electrical Industry Set to Cut 150,000 Jobs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/greens-win-baden-wurttemberg-election-afd-sets-western-germany-record</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-03-07T10:05:45.000Z</news:publication_date>
       <news:title>Bundesrat Backs Easier Residency Path for Integrated Refugees  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-states-demand-comprehensive-reform-of-bafog-student-financial-aid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-07T08:22:53.000Z</news:publication_date>
-      <news:title>German States Demand Comprehensive Reform of Baf?g Student Financial Aid </news:title>
     </news:news>
   </url>
 

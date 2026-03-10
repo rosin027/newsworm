@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/over-13-percent-of-people-in-germany-have-experienced-discrimination</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T11:16:27.000Z</news:publication_date>
+      <news:title>Over 13% of People in Germany Have Experienced Discrimination </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-exports-slide-in-new-setback-for-struggling-economy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T10:04:34.000Z</news:publication_date>
+      <news:title>German Exports Slide in New Setback for Struggling Economy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/profit-slump-job-cuts-and-tariff-pain-the-crisis-deepens-at-volkswagen</loc>
     <news:news>
       <news:publication>
@@ -59,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-03-08T16:07:55.000Z</news:publication_date>
       <news:title>Why Expats Leave Germany After 5 to 10 Years ? Even When Life Is Good </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/baden-wurttemberg-election-2026-cdu-and-greens-in-dead-heat-as-afd-eyes-record-result</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-08T10:03:14.000Z</news:publication_date>
-      <news:title>Baden-W?rttemberg Election 2026: CDU and Greens in Dead Heat as AfD Eyes Record Result </news:title>
     </news:news>
   </url>
 

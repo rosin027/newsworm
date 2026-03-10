@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-pivots-back-to-nuclear-power-calling-past-decision-a-strategic-mistake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T14:21:19.000Z</news:publication_date>
+      <news:title>EU Pivots Back to Nuclear Power Calling Past Decision a Strategic Mistake </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/over-13-percent-of-adults-in-germany-experienced-discrimination-in-a-year</loc>
     <news:news>
       <news:publication>

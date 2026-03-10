@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/profit-slump-job-cuts-and-tariff-pain-the-crisis-deepens-at-volkswagen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T08:04:47.000Z</news:publication_date>
+      <news:title>Profit Slump, Job Cuts and Tariff Pain: The Crisis Deepens at Volkswagen </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-concerned-over-rising-energy-prices-declines-to-commit-on-fuel-discount</loc>
     <news:news>
       <news:publication>

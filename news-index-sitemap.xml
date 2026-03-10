@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-strike-hundreds-of-flights-at-risk-as-pilots-walk-out-for-two-days</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-10T18:33:28.000Z</news:publication_date>
+      <news:title>Lufthansa Strike: Hundreds of Flights at Risk as Pilots Walk Out for Two Days </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-pivots-back-to-nuclear-power-calling-past-decision-a-strategic-mistake</loc>
     <news:news>
       <news:publication>
@@ -22,7 +34,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-03-10T11:16:27.000Z</news:publication_date>
-      <news:title>Over 13% of Adults in Germany Experienced Discrimination in a Year </news:title>
+      <news:title>Over 13% of People in Germany Experienced Discrimination in a Year </news:title>
     </news:news>
   </url>
 

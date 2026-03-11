@@ -134,16 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-concerned-over-rising-energy-prices-declines-to-commit-on-fuel-discount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-09T14:31:21.000Z</news:publication_date>
-      <news:title>Merz &quot;Concerned&quot; Over Rising Energy Prices, Declines to Commit on Fuel Discount </news:title>
-    </news:news>
-  </url>
-
 </urlset>

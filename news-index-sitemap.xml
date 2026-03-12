@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-considers-once-a-day-limit-on-petrol-price-hikes</loc>
+    <loc>https://www.newsworm.de/news/bmw-profit-dips-slightly-but-outshines-german-rivals-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-12T08:16:41.000Z</news:publication_date>
+      <news:title>BMW Profit Dips Slightly but Outshines German Rivals in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/lufthansa-pilot-strike-begins-disrupting-flights-across-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-12T08:07:33.000Z</news:publication_date>
+      <news:title>Lufthansa Pilot Strike Begins Disrupting Flights Across Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/gas-stations-may-only-raise-prices-once-a-day-in-germany</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-03-12T06:55:13.000Z</news:publication_date>
-      <news:title>Germany Considers Once a Day Limit on Petrol Price Hikes </news:title>
+      <news:title>Gas Stations May Only Raise Prices Once a Day in Germany </news:title>
     </news:news>
   </url>
 
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-03-10T10:04:34.000Z</news:publication_date>
       <news:title>German Exports Slide in New Setback for Struggling Economy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/profit-slump-job-cuts-and-tariff-pain-the-crisis-deepens-at-volkswagen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T08:04:47.000Z</news:publication_date>
-      <news:title>Profit Slump, Job Cuts and Tariff Pain: The Crisis Deepens at Volkswagen </news:title>
     </news:news>
   </url>
 

@@ -134,28 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/over-13-percent-of-adults-in-germany-experienced-discrimination-in-a-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T11:16:27.000Z</news:publication_date>
-      <news:title>Over 13% of People in Germany Experienced Discrimination in a Year </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-exports-slide-in-new-setback-for-struggling-economy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-10T10:04:34.000Z</news:publication_date>
-      <news:title>German Exports Slide in New Setback for Struggling Economy </news:title>
-    </news:news>
-  </url>
-
 </urlset>

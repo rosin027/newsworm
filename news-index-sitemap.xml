@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/racism-in-german-government-offices-is-worse-than-anyone-admitted</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-12T13:04:06.000Z</news:publication_date>
+      <news:title>Racism in German Government Offices Is Worse Than Anyone Admitted </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bmw-profit-dips-slightly-but-outshines-german-rivals-in-2025</loc>
     <news:news>
       <news:publication>

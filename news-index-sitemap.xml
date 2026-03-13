@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-free-lung-cancer-screening-for-heavy-smokers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T10:42:30.000Z</news:publication_date>
+      <news:title>Germany Launches Free Lung Cancer Screening for Heavy Smokers </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-war-could-drive-german-inflation-to-six-percent-and-push-economy-into-fourth-recession</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-11T12:01:43.000Z</news:publication_date>
       <news:title>Empty E-Cigarette Tanks Cannot Be Sold to Minors, Germany&apos;s Top Court Rules </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/porsche-profit-collapses-by-over-90-percent-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-11T11:16:31.000Z</news:publication_date>
-      <news:title>Porsche Profit Collapses by Over 90% in 2025 </news:title>
     </news:news>
   </url>
 

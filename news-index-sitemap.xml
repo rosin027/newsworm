@@ -122,40 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/wwii-bomb-discovered-in-dresden-prompts-evacuation-of-18000-residents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-11T09:09:22.000Z</news:publication_date>
-      <news:title>WWII Bomb Discovered in Dresden Prompts Evacuation of 18,000 Residents  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-rheinmetall-forecasts-45-percent-sales-jump-as-europe-races-to-rearm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-11T08:30:30.000Z</news:publication_date>
-      <news:title>Germany&apos;s Rheinmetall Forecasts 45% Sales Jump as Europe Races to Rearm </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/student-enrollment-in-germany-rise-for-fourth-consecutive-year-reaching-11-5-million</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-11T08:25:23.000Z</news:publication_date>
-      <news:title>Student Enrollment in Germany Rise for Fourth Consecutive Year Reaching 11.5 Million </news:title>
-    </news:news>
-  </url>
-
 </urlset>

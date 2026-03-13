@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/iran-war-could-drive-german-inflation-to-six-percent-and-push-economy-into-fourth-recession</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T07:16:50.000Z</news:publication_date>
+      <news:title>Iran War Could Drive German Inflation to Six Percent and Push Economy Into Fourth Recession </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-is-the-top-destination-for-iranian-refugees-fleeing-the-middle-east-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T07:08:30.000Z</news:publication_date>
+      <news:title>Germany Is the Top Destination for Iranian Refugees Fleeing the Middle East War </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-war-sends-oil-prices-soaring-and-german-growth-forecasts-down</loc>
     <news:news>
       <news:publication>

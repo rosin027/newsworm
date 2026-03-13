@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/number-of-pensioners-on-housing-benefit-in-germany-doubles-in-four-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T13:08:16.000Z</news:publication_date>
+      <news:title>Number of Pensioners on Housing Benefit in Germany Doubles in Four Years </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-launches-free-lung-cancer-screening-for-heavy-smokers</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-03-12T06:55:13.000Z</news:publication_date>
       <news:title>Gas Stations May Only Raise Prices Once a Day in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-releases-oil-reserves-as-iran-war-sends-energy-prices-soaring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-11T13:08:24.000Z</news:publication_date>
-      <news:title>Germany Releases Oil Reserves as Iran War Sends Energy Prices Soaring </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/empty-e-cigarette-tanks-cannot-be-sold-to-minors-germanys-top-court-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-11T12:01:43.000Z</news:publication_date>
-      <news:title>Empty E-Cigarette Tanks Cannot Be Sold to Minors, Germany&apos;s Top Court Rules </news:title>
     </news:news>
   </url>
 

@@ -86,16 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/iran-war-sends-oil-prices-soaring-and-german-growth-forecasts-down</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-12T14:17:32.000Z</news:publication_date>
-      <news:title>Iran War Sends Oil Prices Soaring and German Growth Forecasts Down </news:title>
-    </news:news>
-  </url>
-
 </urlset>

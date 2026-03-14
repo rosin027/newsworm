@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germans-cross-into-poland-to-beat-rising-fuel-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-14T09:44:34.000Z</news:publication_date>
+      <news:title>Germans Cross Into Poland to Beat Rising Fuel Prices </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-the-iran-war-benefits-no-one-and-harms-many</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-03-12T13:04:06.000Z</news:publication_date>
       <news:title>Racism in German Government Offices Is Worse Than Anyone Admitted </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-profit-dips-slightly-but-outshines-german-rivals-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-12T08:16:41.000Z</news:publication_date>
-      <news:title>BMW Profit Dips Slightly but Outshines German Rivals in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-pilot-strike-begins-disrupting-flights-across-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-12T08:07:33.000Z</news:publication_date>
-      <news:title>Lufthansa Pilot Strike Begins Disrupting Flights Across Germany </news:title>
     </news:news>
   </url>
 

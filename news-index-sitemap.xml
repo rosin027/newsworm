@@ -74,16 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/number-of-pensioners-on-housing-benefit-in-germany-doubles-in-four-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T13:08:16.000Z</news:publication_date>
-      <news:title>Number of Pensioners on Housing Benefit in Germany Doubles in Four Years </news:title>
-    </news:news>
-  </url>
-
 </urlset>

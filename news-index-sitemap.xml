@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-pull-plug-on-independent-asylum-counselling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-15T08:36:18.000Z</news:publication_date>
+      <news:title>Germany to Pull Plug on Independent Asylum Counselling </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/medical-assistant-is-germanys-most-popular-apprenticeship-for-women</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/less-surgery-more-botox-germanys-cosmetic-shift-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-15T10:21:53.000Z</news:publication_date>
+      <news:title>Less Surgery, More Botox - Germany&apos;s Cosmetic Shift in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/soder-pushes-for-mini-nuclear-power-plants-in-bavaria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-15T10:04:34.000Z</news:publication_date>
+      <news:title>S?der Pushes for Mini Nuclear Power Plants in Bavaria </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-pull-plug-on-independent-asylum-counselling</loc>
     <news:news>
       <news:publication>
@@ -59,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-03-13T13:08:16.000Z</news:publication_date>
       <news:title>Number of Pensioners on Housing Benefit in Germany Doubles in Four Years </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-free-lung-cancer-screening-for-heavy-smokers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-13T10:42:30.000Z</news:publication_date>
-      <news:title>Germany Launches Free Lung Cancer Screening for Heavy Smokers </news:title>
     </news:news>
   </url>
 

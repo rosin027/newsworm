@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/oil-companies-in-germany-will-have-to-justify-price-increases-in-the-future</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-16T15:04:33.000Z</news:publication_date>
+      <news:title>Oil companies in Germany will have to justify price increases in the future </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/unicredits-commerzbank-takeover-bid-sparks-fury-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-16T14:38:54.000Z</news:publication_date>
+      <news:title>UniCredit&apos;s Commerzbank Takeover Bid Sparks Fury in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-rejects-trumps-nato-demand-over-strait-of-hormuz-this-is-not-our-war</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-brandenburg-airport-cancels-all-wednesday-flights-over-verdi-strike</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-17T07:12:43.000Z</news:publication_date>
+      <news:title>Berlin Brandenburg Airport Cancels All Wednesday Flights Over Verdi Strike </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/oil-companies-in-germany-will-have-to-justify-price-increases-in-the-future</loc>
     <news:news>
       <news:publication>
@@ -71,18 +83,6 @@
       </news:publication>
       <news:publication_date>2026-03-16T07:42:23.000Z</news:publication_date>
       <news:title>Fare Dodging on Deutsche Bahn Long-Distance Trains Increases </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-needs-skilled-migrants-so-why-are-they-leaving</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-15T16:48:43.000Z</news:publication_date>
-      <news:title>Germany Needs Skilled Migrants. So Why Are They Leaving? </news:title>
     </news:news>
   </url>
 

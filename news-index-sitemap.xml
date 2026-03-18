@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-inc-register-a-business-anywhere-in-europe-in-48-hours</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T15:20:30.000Z</news:publication_date>
+      <news:title>EU Inc. - Register a Business Anywhere in Europe in 48 Hours </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-pays-europes-highest-petrol-prices-heres-why</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T14:48:58.000Z</news:publication_date>
+      <news:title>Germany Pays Europe&apos;s Highest Petrol Prices. Here&apos;s Why. </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-germany-was-not-consulted-on-iran-war-and-will-not-join-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T14:31:27.000Z</news:publication_date>
+      <news:title>Merz: Germany Was Not Consulted on Iran War, and Will Not Join It </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-calls-on-eu-to-assert-itself-against-global-powers-including-the-us</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T14:05:58.000Z</news:publication_date>
+      <news:title>Merz Calls on EU to Assert Itself Against Global Powers, Including the US </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/schufa-credit-score-is-now-transparent-check-how-your-rating-is-calculated</loc>
     <news:news>
       <news:publication>
@@ -95,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-03-17T07:12:43.000Z</news:publication_date>
       <news:title>Berlin Brandenburg Airport Cancels All Wednesday Flights Over Verdi Strike </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/oil-companies-in-germany-will-have-to-justify-price-increases-in-the-future</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-16T15:04:33.000Z</news:publication_date>
-      <news:title>Oil companies in Germany will have to justify price increases in the future </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unicredits-commerzbank-takeover-bid-sparks-fury-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-16T14:38:54.000Z</news:publication_date>
-      <news:title>UniCredit&apos;s Commerzbank Takeover Bid Sparks Fury in Germany </news:title>
     </news:news>
   </url>
 

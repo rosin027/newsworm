@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/schufa-credit-score-is-now-transparent-check-how-your-rating-is-calculated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-18T13:14:14.000Z</news:publication_date>
+      <news:title>Schufa Credit Score Is Now Transparent - Check How Your Rating Is Calculated </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-pay-child-benefit-automatically-from-2027-no-application-needed</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-16T14:38:54.000Z</news:publication_date>
       <news:title>UniCredit&apos;s Commerzbank Takeover Bid Sparks Fury in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-rejects-trumps-nato-demand-over-strait-of-hormuz-this-is-not-our-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-16T13:12:19.000Z</news:publication_date>
-      <news:title>Germany Rejects Trump&apos;s NATO Demand Over Strait of Hormuz: &quot;This Is Not Our War&quot; </news:title>
     </news:news>
   </url>
 

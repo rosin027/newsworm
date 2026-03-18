@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/eu-inc-register-a-business-anywhere-in-europe-in-48-hours</loc>
+    <loc>https://www.newsworm.de/news/eu-inc-register-a-business-anywhere-in-european-union-in-48-hours</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-03-18T15:20:30.000Z</news:publication_date>
-      <news:title>EU Inc. - Register a Business Anywhere in Europe in 48 Hours </news:title>
+      <news:title>EU Inc. - Register a Business Anywhere in the European Union in 48 Hours </news:title>
     </news:news>
   </url>
 

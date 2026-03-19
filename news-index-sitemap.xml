@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-e-scooter-liability-rules-accident-compensation-rental-operators</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T13:07:44.000Z</news:publication_date>
+      <news:title>Germany Tightens E-Scooter Liability Rules to Protect Accident Victims </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/happiest-countries-in-the-world-2026-rankings</loc>
     <news:news>
       <news:publication>

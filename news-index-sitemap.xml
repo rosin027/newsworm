@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-e-scooter-liability-rules-accident-compensation-rental-operators</loc>
+    <loc>https://www.newsworm.de/news/germany-tightens-e-scooter-liability-rules-to-protect-accident-victims</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
@@ -131,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-03-18T07:59:40.000Z</news:publication_date>
       <news:title>One in Three Students Is Bullied Every Month in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iran-war-drives-gas-prices-up-over-20-percent-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T15:49:45.000Z</news:publication_date>
-      <news:title>Iran War Drives Gas Prices Up Over 20% in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-fuel-price-reform-key-changes-coming-in-april</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-17T14:24:08.000Z</news:publication_date>
-      <news:title>Germany&apos;s Fuel Price Reform: Key Changes Coming in April </news:title>
     </news:news>
   </url>
 

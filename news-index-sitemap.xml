@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/schufa-credit-score-is-now-transparent-check-how-your-rating-is-calculated</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T13:14:14.000Z</news:publication_date>
-      <news:title>Schufa Credit Score Is Now Transparent - Check How Your Rating Is Calculated </news:title>
-    </news:news>
-  </url>
-
 </urlset>

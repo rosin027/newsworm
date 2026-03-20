@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/italy-germany-and-france-offer-help-with-strait-of-hormuz-only-after-ceasefire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-20T11:01:23.000Z</news:publication_date>
+      <news:title>Italy, Germany and France offer help with Strait of Hormuz only after ceasefire </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-war-drives-gas-electricity-prices-higher-germany</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-03-18T13:14:14.000Z</news:publication_date>
       <news:title>Schufa Credit Score Is Now Transparent - Check How Your Rating Is Calculated </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-pay-child-benefit-automatically-from-2027-no-application-needed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-18T11:31:00.000Z</news:publication_date>
-      <news:title>Germany to Pay Child Benefit Automatically From 2027, No Application Needed </news:title>
     </news:news>
   </url>
 

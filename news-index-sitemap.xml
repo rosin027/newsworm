@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/natos-iran-moment-puts-ukraines-war-in-a-brutal-new-light</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T11:41:15.000Z</news:publication_date>
+      <news:title>The Alliance That Wasn&apos;t: How NATO&apos;s Iran Moment Puts Ukraine&apos;s War in a Brutal New Light </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/foreigners-out-racist-chants-at-german-teen-party-spark-political-outrage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-22T10:28:47.000Z</news:publication_date>
+      <news:title>&apos;Foreigners Out&apos;: Racist Chants at German Teen Party Spark Political Outrage </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-punctuality-plan-22-measures-to-cut-train-delays</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-03-20T15:58:23.000Z</news:publication_date>
       <news:title>Trump Brands NATO Allies &apos;Cowards&apos; Over Strait of Hormuz </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/italy-germany-and-france-offer-help-with-strait-of-hormuz-only-after-ceasefire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-20T11:01:23.000Z</news:publication_date>
-      <news:title>Italy, Germany and France offer help with Strait of Hormuz only after ceasefire </news:title>
     </news:news>
   </url>
 

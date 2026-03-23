@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-retail-crisis-4900-store-closures-expected-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T11:04:30.000Z</news:publication_date>
+      <news:title>Germany Retail Crisis: 4,900 Store Closures Expected in 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/free-spouse-health-insurance-in-germany-could-be-scrapped</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T10:16:45.000Z</news:publication_date>
+      <news:title>Free Spouse Health Insurance in Germany Could Be Scrapped </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pharmacies-across-germany-close-for-a-day-of-protest-over-pay</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-03-21T14:50:49.000Z</news:publication_date>
       <news:title>Working From Home Linked to Higher Birth Rates, Ifo Study Reveals </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/zugspitze-ski-lift-demolished-as-germanys-glaciers-vanish</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T11:31:22.000Z</news:publication_date>
-      <news:title>Zugspitze Ski Lift Demolished as Germany&apos;s Glaciers Vanish </news:title>
     </news:news>
   </url>
 

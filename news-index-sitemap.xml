@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pharmacies-across-germany-close-for-a-day-of-protest-over-pay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T09:15:32.000Z</news:publication_date>
+      <news:title>Pharmacies across Germany close for a day of protest over pay  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cdu-wins-rhineland-palatinate-state-election-ending-35-years-spd-rule</loc>
     <news:news>
       <news:publication>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-03-21T11:31:22.000Z</news:publication_date>
       <news:title>Zugspitze Ski Lift Demolished as Germany&apos;s Glaciers Vanish </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/is-fake-porn-illegal-in-germany-new-law-proposes-up-to-two-years-in-prison</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T09:50:05.000Z</news:publication_date>
-      <news:title>Is Fake Porn Illegal in Germany? New Law Proposes Up to Two Years in Prison </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-to-cut-funding-for-200-democracy-promotion-projects-in-major-overhaul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T08:47:07.000Z</news:publication_date>
-      <news:title>Germany Plans to Cut Funding for 200+ Democracy Promotion Projects in Major Overhaul </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/subsidies-for-solar-power-systems-at-risk-as-germany-pushes-energy-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T08:21:50.000Z</news:publication_date>
-      <news:title>Subsidies for Solar Power Systems at Risk as Germany Pushes Energy Reform </news:title>
     </news:news>
   </url>
 

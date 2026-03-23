@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-announces-iran-talks-pauses-power-plant-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T14:01:09.000Z</news:publication_date>
+      <news:title>Trump Announces Iran Talks, Pauses Power Plant Strikes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/easter-holidays-2026-adac-warns-of-heavy-traffic-jams</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-03-22T08:46:27.000Z</news:publication_date>
       <news:title>Rhineland-Palatinate Election 2026: CDU Bids to End 35 Years of SPD Rule </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/working-from-home-linked-to-higher-birth-rates-ifo-study-reveals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-21T14:50:49.000Z</news:publication_date>
-      <news:title>Working From Home Linked to Higher Birth Rates, Ifo Study Reveals </news:title>
     </news:news>
   </url>
 

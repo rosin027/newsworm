@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/italy-rejects-melonis-justice-reforms-in-major-referendum-blow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T08:29:34.000Z</news:publication_date>
+      <news:title>Italy Rejects Meloni&apos;s Justice Reforms in Major Referendum Blow </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/trumps-iran-u-turn-his-most-spectacular-reversal-yet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T08:20:00.000Z</news:publication_date>
+      <news:title>Trump&apos;s Iran U-Turn: His Most Spectacular Reversal Yet </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-australia-free-trade-deal-sealed-after-eight-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-24T08:04:13.000Z</news:publication_date>
+      <news:title>EU-Australia Free Trade Deal Sealed After Eight Years </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/hungary-faces-serious-espionage-allegations-eu-russia-information-leaks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-23T17:31:53.000Z</news:publication_date>
+      <news:title>Hungary Faces Serious Espionage Allegations Over EU-Russia Information Leaks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/daylight-saving-time-in-germany-2026</loc>
     <news:news>
       <news:publication>
@@ -119,54 +167,6 @@
       </news:publication>
       <news:publication_date>2026-03-22T10:28:47.000Z</news:publication_date>
       <news:title>&apos;Foreigners Out&apos;: Racist Chants at German Teen Party Spark Political Outrage </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-church-membership-drops-by-1-13-million-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T09:31:46.000Z</news:publication_date>
-      <news:title>German Church Membership Drops by 1.13 Million in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-punctuality-plan-22-measures-to-cut-train-delays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T09:23:18.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Punctuality Plan: 22 Measures to Cut Train Delays </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fewer-trains-higher-fares-what-the-eu-court-ruling-on-german-rail-fees-means-for-passengers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T09:04:58.000Z</news:publication_date>
-      <news:title>Fewer Trains, Higher Fares? What the EU Court Ruling on German Rail Fees Means for Passengers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rhineland-palatinate-election-2026-cdu-bids-to-end-35-years-of-spd-rule</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-22T08:46:27.000Z</news:publication_date>
-      <news:title>Rhineland-Palatinate Election 2026: CDU Bids to End 35 Years of SPD Rule </news:title>
     </news:news>
   </url>
 

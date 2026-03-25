@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-demands-stricter-citizenship-law-in-new-motion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T14:43:50.000Z</news:publication_date>
+      <news:title>AfD Demands Stricter Citizenship Law in New Motion </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-unveils-500-million-euros-ev-charging-plan-for-apartment-buildings</loc>
     <news:news>
       <news:publication>
@@ -155,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-03-23T17:31:53.000Z</news:publication_date>
       <news:title>Hungary Faces Serious Espionage Allegations Over EU-Russia Information Leaks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/daylight-saving-time-in-germany-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T14:34:40.000Z</news:publication_date>
-      <news:title>Daylight Saving Time in Germany 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-announces-iran-talks-pauses-power-plant-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T14:01:09.000Z</news:publication_date>
-      <news:title>Trump Announces Iran Talks, Pauses Power Plant Strikes </news:title>
     </news:news>
   </url>
 

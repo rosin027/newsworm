@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-passes-law-forcing-manufacturers-to-repair-electronics</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T11:33:45.000Z</news:publication_date>
+      <news:title>German Cabinet Passes Law Forcing Manufacturers to Repair Electronics </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ehegattensplitting-in-germany-who-benefits-from-joint-taxation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T10:41:24.000Z</news:publication_date>
+      <news:title>Ehegattensplitting in Germany: Who Benefits from Joint Taxation </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/joint-taxation-in-germany-faces-abolition-under-new-tax-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T09:56:50.000Z</news:publication_date>
+      <news:title>Joint Taxation in Germany Faces Abolition Under New Tax Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/dual-leadership-wont-work-young-socialists-doubt-klingbeil-and-bas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T08:42:01.000Z</news:publication_date>
+      <news:title>&quot;Dual Leadership Won&apos;t Work&quot;: Young Socialists Doubt Klingbeil and Bas  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/free-health-coverage-for-spouses-at-risk-soder-opposes-the-proposal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T08:30:31.000Z</news:publication_date>
+      <news:title>Free Health Coverage for Spouses at Risk: S?der Opposes the Proposal </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-riester-pension-overhaul-whats-in-the-proposed-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T08:06:16.000Z</news:publication_date>
+      <news:title>Germany&apos;s Riester Pension Overhaul: What&apos;s in the Proposed Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/humpback-whale-stranded-on-baltic-coast-fights-for-life</loc>
     <news:news>
       <news:publication>
@@ -107,42 +179,6 @@
       </news:publication>
       <news:publication_date>2026-03-23T13:22:05.000Z</news:publication_date>
       <news:title>Easter Holidays 2026: ADAC Warns of Heavy Traffic Jams </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-retail-crisis-4900-store-closures-expected-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T11:04:30.000Z</news:publication_date>
-      <news:title>Germany Retail Crisis: 4,900 Store Closures Expected in 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/free-spouse-health-insurance-in-germany-could-be-scrapped</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T10:16:45.000Z</news:publication_date>
-      <news:title>Free Spouse Health Insurance in Germany Could Be Scrapped </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pharmacies-across-germany-close-for-a-day-of-protest-over-pay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T09:15:32.000Z</news:publication_date>
-      <news:title>Pharmacies across Germany close for a day of protest over pay  </news:title>
     </news:news>
   </url>
 

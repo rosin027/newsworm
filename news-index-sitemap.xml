@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-unveils-500-million-euros-ev-charging-plan-for-apartment-buildings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-25T13:17:00.000Z</news:publication_date>
+      <news:title>Germany Unveils ?500M EV Charging Plan for Apartment Buildings </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-passes-law-forcing-manufacturers-to-repair-electronics</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-03-23T14:01:09.000Z</news:publication_date>
       <news:title>Trump Announces Iran Talks, Pauses Power Plant Strikes </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/easter-holidays-2026-adac-warns-of-heavy-traffic-jams</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T13:22:05.000Z</news:publication_date>
-      <news:title>Easter Holidays 2026: ADAC Warns of Heavy Traffic Jams </news:title>
     </news:news>
   </url>
 

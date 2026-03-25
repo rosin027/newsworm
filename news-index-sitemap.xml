@@ -158,16 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/hungary-faces-serious-espionage-allegations-eu-russia-information-leaks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T17:31:53.000Z</news:publication_date>
-      <news:title>Hungary Faces Serious Espionage Allegations Over EU-Russia Information Leaks </news:title>
-    </news:news>
-  </url>
-
 </urlset>

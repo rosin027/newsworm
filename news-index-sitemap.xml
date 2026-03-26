@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-approves-us-tariff-deal-with-conditions-vowing-to-diversify-trade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T11:13:57.000Z</news:publication_date>
+      <news:title>EU Approves US Tariff Deal With Conditions, Vowing to Diversify Trade </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-parliament-approves-migrant-return-hubs-outside-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T10:56:45.000Z</news:publication_date>
+      <news:title>EU Parliament Approves Migrant Return Hubs Outside Europe </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-price-hike-a-day-bundestag-passes-new-law-for-fuel-stations</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-03-24T14:19:39.000Z</news:publication_date>
       <news:title>Humpback Whale Stranded on Baltic Coast Fights for Life </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/this-war-violates-international-law-german-president-condemns-us-israels-war-against-iran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-24T10:21:43.000Z</news:publication_date>
-      <news:title>&quot;This War Violates International Law&quot;: German President Condemns US-Israel&apos;s War Against Iran </news:title>
     </news:news>
   </url>
 

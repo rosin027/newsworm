@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-price-hike-a-day-bundestag-passes-new-law-for-fuel-stations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T09:48:11.000Z</news:publication_date>
+      <news:title>One Price Hike A Day: Bundestag Passes New Law For Fuel Stations </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/basic-income-support-claims-among-germanys-elderly-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T09:09:59.000Z</news:publication_date>
+      <news:title>Basic Income Support Claims Among Germany&apos;s Elderly Rise </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-is-building-half-the-homes-it-needs-and-the-crisis-is-accelerating</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-26T08:21:04.000Z</news:publication_date>
+      <news:title>Germany Is Building Half the Homes It Needs and the Crisis Is Accelerating </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-tax-reform-end-of-joint-taxation-and-income-tax-cuts-announced</loc>
     <news:news>
       <news:publication>
@@ -143,42 +179,6 @@
       </news:publication>
       <news:publication_date>2026-03-24T10:21:43.000Z</news:publication_date>
       <news:title>&quot;This War Violates International Law&quot;: German President Condemns US-Israel&apos;s War Against Iran </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/italy-rejects-melonis-justice-reforms-in-major-referendum-blow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-24T08:29:34.000Z</news:publication_date>
-      <news:title>Italy Rejects Meloni&apos;s Justice Reforms in Major Referendum Blow </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trumps-iran-u-turn-his-most-spectacular-reversal-yet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-24T08:20:00.000Z</news:publication_date>
-      <news:title>Trump&apos;s Iran U-Turn: His Most Spectacular Reversal Yet </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-australia-free-trade-deal-sealed-after-eight-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-24T08:04:13.000Z</news:publication_date>
-      <news:title>EU-Australia Free Trade Deal Sealed After Eight Years </news:title>
     </news:news>
   </url>
 

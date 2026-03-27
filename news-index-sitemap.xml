@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/april-2026-in-germany-important-changes-you-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T16:23:58.000Z</news:publication_date>
+      <news:title>April 2026 in Germany: Important changes you need to know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-records-2-3-billion-euros-loss-but-sees-recovery-signs</loc>
     <news:news>
       <news:publication>

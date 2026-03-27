@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-stations-restricted-to-single-daily-price-increase-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T11:05:08.000Z</news:publication_date>
+      <news:title>Fuel Stations Restricted to Single Daily Price Increase in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-replaces-riester-pension-with-new-retirement-savings-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T10:15:05.000Z</news:publication_date>
+      <news:title>Germany Replaces Riester Pension with New Retirement Savings Plan </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/european-sleeper-launches-new-berlin-paris-night-train</loc>
     <news:news>
       <news:publication>
@@ -179,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-03-25T13:17:00.000Z</news:publication_date>
       <news:title>Germany Unveils ?500M EV Charging Plan for Apartment Buildings </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-passes-law-forcing-manufacturers-to-repair-electronics</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T11:33:45.000Z</news:publication_date>
-      <news:title>German Cabinet Passes Law Forcing Manufacturers to Repair Electronics </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ehegattensplitting-in-germany-who-benefits-from-joint-taxation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T10:41:24.000Z</news:publication_date>
-      <news:title>Ehegattensplitting in Germany: Who Benefits from Joint Taxation </news:title>
     </news:news>
   </url>
 

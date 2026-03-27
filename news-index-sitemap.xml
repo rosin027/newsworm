@@ -194,28 +194,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-tax-reform-end-of-joint-taxation-and-income-tax-cuts-announced</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T18:16:28.000Z</news:publication_date>
-      <news:title>German Tax Reform: End of Joint Taxation and Income Tax Cuts Announced </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-blames-immigrants-for-exploding-violence-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T18:05:07.000Z</news:publication_date>
-      <news:title>German Chancellor Blames Immigrants for &quot;Exploding Violence&quot; in Germany </news:title>
-    </news:news>
-  </url>
-
 </urlset>

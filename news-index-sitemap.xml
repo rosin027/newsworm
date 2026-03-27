@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-records-2-3-billion-euros-loss-but-sees-recovery-signs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T13:08:51.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Records ?2.3 Billion Loss But Sees Recovery Signs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-replaces-burgergeld-with-stricter-welfare-rules</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T12:16:12.000Z</news:publication_date>
+      <news:title>Germany Replaces B?rgergeld with Stricter Welfare Rules </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-stations-restricted-to-single-daily-price-increase-in-germany</loc>
     <news:news>
       <news:publication>
@@ -191,18 +215,6 @@
       </news:publication>
       <news:publication_date>2026-03-25T14:43:50.000Z</news:publication_date>
       <news:title>AfD Demands Stricter Citizenship Law in New Motion </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-unveils-500-million-euros-ev-charging-plan-for-apartment-buildings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T13:17:00.000Z</news:publication_date>
-      <news:title>Germany Unveils ?500M EV Charging Plan for Apartment Buildings </news:title>
     </news:news>
   </url>
 

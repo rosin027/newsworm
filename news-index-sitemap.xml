@@ -206,16 +206,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/afd-demands-stricter-citizenship-law-in-new-motion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T14:43:50.000Z</news:publication_date>
-      <news:title>AfD Demands Stricter Citizenship Law in New Motion </news:title>
-    </news:news>
-  </url>
-
 </urlset>

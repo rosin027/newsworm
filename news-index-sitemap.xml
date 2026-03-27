@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/european-sleeper-launches-new-berlin-paris-night-train</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T08:30:30.000Z</news:publication_date>
+      <news:title>European Sleeper Launches New Berlin-Paris Night Train </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/stranded-humpback-whale-frees-itself-from-german-baltic-sandbank</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T08:19:30.000Z</news:publication_date>
+      <news:title>Stranded Humpback Whale Frees Itself From German Baltic Sandbank </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-40-largest-companies-see-steepest-decline-since-2021</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-27T08:07:52.000Z</news:publication_date>
+      <news:title>Germany&apos;s 40 Largest Companies See Steepest Decline Since 2021  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-germanys-9-euro-ticket-make-a-comeback</loc>
     <news:news>
       <news:publication>
@@ -167,54 +203,6 @@
       </news:publication>
       <news:publication_date>2026-03-25T10:41:24.000Z</news:publication_date>
       <news:title>Ehegattensplitting in Germany: Who Benefits from Joint Taxation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/joint-taxation-in-germany-faces-abolition-under-new-tax-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T09:56:50.000Z</news:publication_date>
-      <news:title>Joint Taxation in Germany Faces Abolition Under New Tax Reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dual-leadership-wont-work-young-socialists-doubt-klingbeil-and-bas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T08:42:01.000Z</news:publication_date>
-      <news:title>&quot;Dual Leadership Won&apos;t Work&quot;: Young Socialists Doubt Klingbeil and Bas  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/free-health-coverage-for-spouses-at-risk-soder-opposes-the-proposal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T08:30:31.000Z</news:publication_date>
-      <news:title>Free Health Coverage for Spouses at Risk: S?der Opposes the Proposal </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-riester-pension-overhaul-whats-in-the-proposed-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-25T08:06:16.000Z</news:publication_date>
-      <news:title>Germany&apos;s Riester Pension Overhaul: What&apos;s in the Proposed Reform </news:title>
     </news:news>
   </url>
 

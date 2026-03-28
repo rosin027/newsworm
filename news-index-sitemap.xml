@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-slams-merz-for-refusing-to-support-us-in-iran-conflict</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-28T14:08:20.000Z</news:publication_date>
+      <news:title>Trump Slams Merz for Refusing to Support US in Iran Conflict </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/health-insurance-reform-employer-group-demands-spending-freeze-amid-rising-costs</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-03-27T08:07:52.000Z</news:publication_date>
       <news:title>Germany&apos;s 40 Largest Companies See Steepest Decline Since 2021  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/will-germanys-9-euro-ticket-make-a-comeback</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T16:48:56.000Z</news:publication_date>
-      <news:title>Will Germany&apos;s 9-Euro Ticket Make a Comeback?  </news:title>
     </news:news>
   </url>
 

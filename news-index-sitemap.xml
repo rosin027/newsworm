@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/deutschland-ticket-states-agree-on-yearly-price-increase-formula</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T15:19:28.000Z</news:publication_date>
-      <news:title>Deutschland Ticket: States Agree on Yearly Price Increase Formula  </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -158,28 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/eu-approves-us-tariff-deal-with-conditions-vowing-to-diversify-trade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T11:13:57.000Z</news:publication_date>
-      <news:title>EU Approves US Tariff Deal With Conditions, Vowing to Diversify Trade </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-parliament-approves-migrant-return-hubs-outside-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T10:56:45.000Z</news:publication_date>
-      <news:title>EU Parliament Approves Migrant Return Hubs Outside Europe </news:title>
-    </news:news>
-  </url>
-
 </urlset>

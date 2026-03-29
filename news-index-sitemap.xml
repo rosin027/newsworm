@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stranded-baltic-sea-humpback-whales-condition-significantly-deteriorated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T11:37:36.000Z</news:publication_date>
+      <news:title>Stranded Baltic Sea Humpback Whale&apos;s Condition Significantly Deteriorated </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/easter-travel-deutsche-bahn-reports-strong-holiday-booking-demand</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-27T13:08:51.000Z</news:publication_date>
       <news:title>Deutsche Bahn Records ?2.3 Billion Loss But Sees Recovery Signs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-replaces-burgergeld-with-stricter-welfare-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T12:16:12.000Z</news:publication_date>
-      <news:title>Germany Replaces B?rgergeld with Stricter Welfare Rules </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-stations-restricted-to-single-daily-price-increase-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T11:05:08.000Z</news:publication_date>
-      <news:title>Fuel Stations Restricted to Single Daily Price Increase in Germany </news:title>
     </news:news>
   </url>
 

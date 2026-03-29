@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/easter-travel-deutsche-bahn-reports-strong-holiday-booking-demand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T08:30:16.000Z</news:publication_date>
+      <news:title>Easter Travel: Deutsche Bahn Reports Strong Holiday Booking Demand </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/third-no-kings-protest-over-eight-million-rally-against-trump-across-united-states</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T08:07:55.000Z</news:publication_date>
+      <news:title>Third &apos;No Kings&apos; Protest: Over Eight Million Rally Against Trump Across United States </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-wwii-munitions-a-toxic-legacy-on-baltic-sea-floor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-29T07:58:16.000Z</news:publication_date>
+      <news:title>Germany&apos;s WWII munitions a toxic legacy on Baltic Sea floor </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-slams-merz-for-refusing-to-support-us-in-iran-conflict</loc>
     <news:news>
       <news:publication>
@@ -107,42 +143,6 @@
       </news:publication>
       <news:publication_date>2026-03-27T10:15:05.000Z</news:publication_date>
       <news:title>Germany Replaces Riester Pension with New Retirement Savings Plan </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/european-sleeper-launches-new-berlin-paris-night-train</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T08:30:30.000Z</news:publication_date>
-      <news:title>European Sleeper Launches New Berlin-Paris Night Train </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/stranded-humpback-whale-frees-itself-from-german-baltic-sandbank</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T08:19:30.000Z</news:publication_date>
-      <news:title>Stranded Humpback Whale Frees Itself From German Baltic Sandbank </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-40-largest-companies-see-steepest-decline-since-2021</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-27T08:07:52.000Z</news:publication_date>
-      <news:title>Germany&apos;s 40 Largest Companies See Steepest Decline Since 2021  </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/kehl-nightclub-fire-750-people-evacuated-safely-in-southwest-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T08:44:49.000Z</news:publication_date>
+      <news:title>Kehl Nightclub Fire: 750 People Evacuated Safely in Southwest Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/rheinmetall-ceo-sparks-outrage-calling-ukrainian-drone-makers-housewives</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T07:20:21.000Z</news:publication_date>
+      <news:title>Rheinmetall CEO Sparks Outrage Calling Ukrainian Drone Makers &quot;Housewives&quot; </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/syrian-president-al-sharaa-visits-germany-to-discuss-middle-east-war-and-migrants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T07:02:47.000Z</news:publication_date>
+      <news:title>Syrian President Al-Sharaa Visits Germany to Discuss Middle East War and Migrants </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-to-ban-supervised-drinking-for-youth-under-16-to-combat-addiction</loc>
     <news:news>
       <news:publication>
@@ -95,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-03-28T09:22:00.000Z</news:publication_date>
       <news:title>Electricity Tax Cuts Gain Momentum Across Germany to Ease Energy Crisis </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-eu-asylum-reform-geas-with-stricter-migration-procedures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-28T08:52:00.000Z</news:publication_date>
-      <news:title>Germany Approves EU Asylum Reform GEAS with Stricter Migration Procedures </news:title>
     </news:news>
   </url>
 

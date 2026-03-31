@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-wants-80-percent-of-syrian-refugees-to-return-home-within-three-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T06:30:18.000Z</news:publication_date>
+      <news:title>Germany Wants 80% of Syrian Refugees to Return Home Within Three Years </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/inflation-in-germany-jumps-to-2-7-percent-as-energy-costs-spike</loc>
     <news:news>
       <news:publication>

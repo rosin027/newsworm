@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-price-reform-single-daily-increase-at-noon-takes-effect-wednesday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T08:17:33.000Z</news:publication_date>
+      <news:title>Fuel Price Reform: Single Daily Increase at Noon Takes Effect Wednesday </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-wants-80-percent-of-syrian-refugees-to-return-home-within-three-years</loc>
     <news:news>
       <news:publication>
@@ -107,42 +119,6 @@
       </news:publication>
       <news:publication_date>2026-03-29T11:37:36.000Z</news:publication_date>
       <news:title>Stranded Baltic Sea Humpback Whale&apos;s Condition Significantly Deteriorated </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/easter-travel-deutsche-bahn-reports-strong-holiday-booking-demand</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T08:30:16.000Z</news:publication_date>
-      <news:title>Easter Travel: Deutsche Bahn Reports Strong Holiday Booking Demand </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/third-no-kings-protest-over-eight-million-rally-against-trump-across-united-states</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T08:07:55.000Z</news:publication_date>
-      <news:title>Third &apos;No Kings&apos; Protest: Over Eight Million Rally Against Trump Across United States </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-wwii-munitions-a-toxic-legacy-on-baltic-sea-floor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T07:58:16.000Z</news:publication_date>
-      <news:title>Germany&apos;s WWII munitions a toxic legacy on Baltic Sea floor </news:title>
     </news:news>
   </url>
 

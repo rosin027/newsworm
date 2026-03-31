@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-to-ban-supervised-drinking-for-youth-under-16-to-combat-addiction</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T14:43:08.000Z</news:publication_date>
-      <news:title>Germany Plans to Ban Supervised Drinking for Youth Under 16 to Combat Addiction </news:title>
-    </news:news>
-  </url>
-
 </urlset>

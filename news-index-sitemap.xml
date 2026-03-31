@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/wolf-bites-woman-in-hamburg-first-unprovoked-incident-in-30-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T11:35:49.000Z</news:publication_date>
+      <news:title>Wolf Bites Woman in Hamburg: First Unprovoked Incident in 30 years </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-job-market-unemployment-falls-but-stays-above-3-million-in-march</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-03-29T14:43:08.000Z</news:publication_date>
       <news:title>Germany Plans to Ban Supervised Drinking for Youth Under 16 to Combat Addiction </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/stranded-baltic-sea-humpback-whales-condition-significantly-deteriorated</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-29T11:37:36.000Z</news:publication_date>
-      <news:title>Stranded Baltic Sea Humpback Whale&apos;s Condition Significantly Deteriorated </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-faces-backlash-over-80-percent-syrian-return-statement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T06:18:03.000Z</news:publication_date>
+      <news:title>Merz Faces Backlash Over 80% Syrian Return Statement </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-commits-177-million-euro-aid-package-for-middle-east-amid-iran-conflict</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T06:04:56.000Z</news:publication_date>
+      <news:title>Germany Pledges ?177 Million Aid Package for Middle East Amid Iran Conflict </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/wolf-bites-woman-in-hamburg-first-unprovoked-incident-in-30-years</loc>
     <news:news>
       <news:publication>

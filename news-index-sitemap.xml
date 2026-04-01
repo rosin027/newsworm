@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-ends-rescue-mission-for-stranded-humpback-whale-timmy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T15:23:17.000Z</news:publication_date>
+      <news:title>Germany Ends Rescue Mission for Stranded Humpback Whale &quot;Timmy&quot; </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-oil-industry-profits-jump-81-million-euros-per-day-amid-middle-east-conflict</loc>
     <news:news>
       <news:publication>

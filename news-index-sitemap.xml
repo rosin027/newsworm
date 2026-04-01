@@ -86,28 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-in-germany-jumps-to-2-7-percent-as-energy-costs-spike</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T13:51:40.000Z</news:publication_date>
-      <news:title>Inflation in Germany Jumps to 2.7% as Energy Costs Spike </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/health-insurance-reform-expert-panel-proposes-66-point-action-plan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-30T13:30:49.000Z</news:publication_date>
-      <news:title>Health Insurance Reform: Expert Panel Proposes 66-Point Action Plan </news:title>
-    </news:news>
-  </url>
-
 </urlset>

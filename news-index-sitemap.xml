@@ -63,6 +63,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/cheaper-driving-license-germany-targets-2027-for-sweeping-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-01T06:15:40.000Z</news:publication_date>
+      <news:title>Cheaper Driving License: Germany Targets 2027 for Sweeping Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-commits-177-million-euro-aid-package-for-middle-east-amid-iran-conflict</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-03-31T09:23:10.000Z</news:publication_date>
       <news:title>German Job Market: Unemployment Falls But Stays Above 3 Million in March </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-price-reform-single-daily-increase-at-noon-takes-effect-wednesday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T08:17:33.000Z</news:publication_date>
-      <news:title>Fuel Price Reform: Single Daily Increase at Noon Takes Effect Wednesday </news:title>
     </news:news>
   </url>
 

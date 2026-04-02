@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/diesel-prices-hit-record-high-after-new-fuel-pricing-rule-in-germany</loc>
+    <loc>https://www.newsworm.de/news/fuel-prices-jump-again-today-at-noon-calls-for-consumer-relief-intensify</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-04-02T12:17:02.000Z</news:publication_date>
-      <news:title>Diesel Prices Hit Record High After New Fuel Pricing Rule in Germany </news:title>
+      <news:title>Fuel Prices Jump Again Today at Noon, Calls for Consumer Relief Intensify </news:title>
     </news:news>
   </url>
 

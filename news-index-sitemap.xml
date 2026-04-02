@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-replace-ehegattensplitting-the-joint-taxation-system-with-a-new-model</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-02T18:51:09.000Z</news:publication_date>
+      <news:title>Germany to Replace Ehegattensplitting, the Joint Taxation System, with a New Model </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-prices-jump-again-today-at-noon-calls-for-consumer-relief-intensify</loc>
     <news:news>
       <news:publication>

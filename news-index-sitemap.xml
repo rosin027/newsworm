@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/diesel-prices-hit-record-high-after-new-fuel-pricing-rule-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-02T12:17:02.000Z</news:publication_date>
+      <news:title>Diesel Prices Hit Record High After New Fuel Pricing Rule in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/israeli-ambassador-criticizes-german-president-over-iran-war-comments</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-04-01T06:04:56.000Z</news:publication_date>
       <news:title>Germany Pledges ?177 Million Aid Package for Middle East Amid Iran Conflict </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/wolf-bites-woman-in-hamburg-first-unprovoked-incident-in-30-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-31T11:35:49.000Z</news:publication_date>
-      <news:title>Wolf Bites Woman in Hamburg: First Unprovoked Incident in 30 years </news:title>
     </news:news>
   </url>
 

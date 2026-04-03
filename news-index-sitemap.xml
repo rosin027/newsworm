@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/klingbeil-calls-for-further-relief-measures-over-surging-fuel-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T07:19:06.000Z</news:publication_date>
+      <news:title>Klingbeil Calls for Further Relief Measures Over Surging Fuel Prices </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/russia-sentences-german-carnival-artist-jacques-tilly-over-satirical-putin-floats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-03T07:06:16.000Z</news:publication_date>
+      <news:title>Russia Sentences German Carnival Artist Jacques Tilly Over Satirical Putin Floats </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/paratrooper-scandal-59-bundeswehr-soldiers-investigated-over-misconduct</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-04-01T15:23:17.000Z</news:publication_date>
       <news:title>Germany Ends Rescue Mission for Stranded Humpback Whale &quot;Timmy&quot; </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-oil-industry-profits-jump-81-million-euros-per-day-amid-middle-east-conflict</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T07:34:19.000Z</news:publication_date>
-      <news:title>EU Oil Industry Profits Jump ?81 Million Per Day Amid Middle East Conflict </news:title>
     </news:news>
   </url>
 

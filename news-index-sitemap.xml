@@ -110,40 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-faces-backlash-over-80-percent-syrian-return-statement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T06:18:03.000Z</news:publication_date>
-      <news:title>Merz Faces Backlash Over 80% Syrian Return Statement </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cheaper-driving-license-germany-targets-2027-for-sweeping-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T06:15:40.000Z</news:publication_date>
-      <news:title>Cheaper Driving License: Germany Targets 2027 for Sweeping Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-commits-177-million-euro-aid-package-for-middle-east-amid-iran-conflict</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-01T06:04:56.000Z</news:publication_date>
-      <news:title>Germany Pledges ?177 Million Aid Package for Middle East Amid Iran Conflict </news:title>
-    </news:news>
-  </url>
-
 </urlset>

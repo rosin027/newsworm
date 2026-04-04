@@ -86,16 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/paratrooper-scandal-59-bundeswehr-soldiers-investigated-over-misconduct</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T19:06:22.000Z</news:publication_date>
-      <news:title>Paratrooper Scandal: 59 Bundeswehr Soldiers Investigated Over Misconduct </news:title>
-    </news:news>
-  </url>
-
 </urlset>

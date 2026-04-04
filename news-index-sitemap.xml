@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sees-sharp-decline-in-asylum-applications-and-illegal-entries</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T08:44:54.000Z</news:publication_date>
+      <news:title>Germany Sees Sharp Decline in Asylum Applications and Illegal Entries </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-rejects-fuel-tax-cuts-minister-reiche-proposes-commuter-allowance-instead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T08:01:47.000Z</news:publication_date>
+      <news:title>Germany Rejects Fuel Tax Cuts: Minister Reiche Proposes Commuter Allowance Instead </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-allies-irritated-by-trumps-statements-on-nato</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-04-02T09:52:53.000Z</news:publication_date>
       <news:title>Israeli Ambassador Criticizes German President Over Iran War Comments </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/camping-in-germany-is-surging-across-top-destinations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-02T08:38:38.000Z</news:publication_date>
-      <news:title>Camping in Germany Is Surging Across Top Destinations </news:title>
     </news:news>
   </url>
 

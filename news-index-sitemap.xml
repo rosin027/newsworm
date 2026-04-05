@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-men-must-seek-travel-approval-under-new-military-service-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T08:35:24.000Z</news:publication_date>
+      <news:title>German Men Must Seek Travel Approval Under New Military Service Law </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-dax-companies-pay-record-55-3-billion-euros-in-dividends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T07:46:09.000Z</news:publication_date>
+      <news:title>German DAX Companies Pay Record ?55.3 Billion in Dividends </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/easter-marches-demonstrations-for-peace-in-around-70-cities-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-04T17:39:22.000Z</news:publication_date>
+      <news:title>Easter marches: Demonstrations for peace in around 70 cities in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-leads-eu-push-for-windfall-tax-on-oil-companies-as-iran-conflict-drives-energy-prices-higher</loc>
     <news:news>
       <news:publication>
@@ -59,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-04-03T11:27:13.000Z</news:publication_date>
       <news:title>Armed 20-Year-Old Sets Off Explosive Devices on ICE Train in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/klingbeil-calls-for-further-relief-measures-over-surging-fuel-prices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T07:19:06.000Z</news:publication_date>
-      <news:title>Klingbeil Calls for Further Relief Measures Over Surging Fuel Prices </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/russia-sentences-german-carnival-artist-jacques-tilly-over-satirical-putin-floats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-03T07:06:16.000Z</news:publication_date>
-      <news:title>Russia Sentences German Carnival Artist Jacques Tilly Over Satirical Putin Floats </news:title>
     </news:news>
   </url>
 

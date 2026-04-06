@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/easter-marches-demonstrations-for-peace-in-around-70-cities-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-04T17:39:22.000Z</news:publication_date>
-      <news:title>Easter marches: Demonstrations for peace in around 70 cities in Germany </news:title>
-    </news:news>
-  </url>
-
 </urlset>

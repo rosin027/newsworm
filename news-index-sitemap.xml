@@ -86,28 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/humpback-whale-stranded-in-baltic-sea-experts-see-no-hope</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T12:02:51.000Z</news:publication_date>
-      <news:title>Humpback Whale Stranded in Baltic Sea: Experts See No Hope </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-announces-second-us-airman-rescued-in-iran-in-miraculous-operation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-05T11:50:33.000Z</news:publication_date>
-      <news:title>Trump Announces Second US Airman Rescued in Iran in &apos;Miraculous&apos; Operation </news:title>
-    </news:news>
-  </url>
-
 </urlset>

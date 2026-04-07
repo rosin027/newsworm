@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-coalition-divided-over-fuel-price-relief-strategy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T14:16:09.000Z</news:publication_date>
+      <news:title> German Coalition Divided Over Fuel Price Relief Strategy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dgb-chief-fahimi-slams-klingbeil-over-pension-and-working-hours-policy</loc>
     <news:news>
       <news:publication>

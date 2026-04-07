@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/should-traveling-on-public-transport-without-a-ticket-be-a-crime-germany-debates-policy-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-07T16:08:57.000Z</news:publication_date>
+      <news:title>Should Traveling on Public Transport Without a Ticket Be a Crime? Germany Debates Policy Change </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-coalition-divided-over-fuel-price-relief-strategy</loc>
     <news:news>
       <news:publication>

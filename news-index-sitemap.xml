@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-backs-scrapping-vat-on-essential-foods-amid-iran-war-price-surge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-06T04:34:28.000Z</news:publication_date>
-      <news:title>CDU Backs Scrapping VAT on Essential Foods Amid Iran War Price Surge </news:title>
-    </news:news>
-  </url>
-
 </urlset>

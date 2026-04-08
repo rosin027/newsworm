@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-calls-for-lasting-end-to-iran-war-after-ceasefire-agreement-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T13:03:55.000Z</news:publication_date>
+      <news:title>Merz Calls for Lasting End to Iran War After Ceasefire Agreement  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-men-wont-need-government-approval-to-travel-abroad-defense-minister-clarifies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-08T10:51:44.000Z</news:publication_date>
+      <news:title>German Men Won&apos;t Need Government Approval to Travel Abroad, Defense Minister Clarifies </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-punctuality-improves-despite-surge-in-railway-construction-work</loc>
     <news:news>
       <news:publication>

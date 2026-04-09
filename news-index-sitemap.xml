@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-backs-higher-commuter-allowance-electricity-tax-cuts-for-relief-measures</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T12:03:58.000Z</news:publication_date>
+      <news:title>Merz Backs Higher Commuter Allowance, Electricity Tax Cuts for Relief Measures </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/business-bankruptcies-surge-to-20-year-high-in-germany</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-04-07T16:08:57.000Z</news:publication_date>
       <news:title>Should Traveling on Public Transport Without a Ticket Be a Crime? Germany Debates Policy Change </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-coalition-divided-over-fuel-price-relief-strategy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-07T14:16:09.000Z</news:publication_date>
-      <news:title> German Coalition Divided Over Fuel Price Relief Strategy </news:title>
     </news:news>
   </url>
 

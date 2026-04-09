@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/business-bankruptcies-surge-to-20-year-high-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T11:14:33.000Z</news:publication_date>
+      <news:title>Business Bankruptcies Surge to 20-Year High in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-shipowners-demands-security-guarantees-before-resuming-strait-of-hormuz-transit</loc>
     <news:news>
       <news:publication>

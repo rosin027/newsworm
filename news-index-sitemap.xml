@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/chancellor-merz-calls-on-citizens-to-embrace-upcoming-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T08:15:07.000Z</news:publication_date>
+      <news:title>Chancellor Merz Calls on Citizens to Embrace Upcoming Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-public-debt-jumps-eu50-8-billion-in-q4-2025-whats-driving-the-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T08:06:27.000Z</news:publication_date>
+      <news:title>Germany&apos;s Public Debt Jumps ?50.8 Billion in Q4 2025: What&apos;s Driving the Rise? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/lufthansa-strike-frankfurt-and-munich-airports-face-friday-flight-disruptions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T08:03:22.000Z</news:publication_date>
+      <news:title>Lufthansa Strike: Frankfurt and Munich Airports Face Friday Flight Disruptions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/economic-impact-of-iran-war-to-last-months-despite-ceasefire</loc>
     <news:news>
       <news:publication>

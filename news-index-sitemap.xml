@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/coalition-clash-over-relief-merz-rebukes-economy-minister-reiche</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-10T15:25:44.000Z</news:publication_date>
+      <news:title>Coalition Clash Over Relief: Merz Rebukes Economy Minister Reiche </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-cabin-crew-strike-grounds-90-percent-of-flights-at-major-hubs</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-09T08:03:22.000Z</news:publication_date>
       <news:title>Lufthansa Cabin Crew Strike: Expect Flight Disruptions on Friday </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/economic-impact-of-iran-war-to-last-months-despite-ceasefire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T16:37:43.000Z</news:publication_date>
-      <news:title>Economic Impact of Iran War to Last Months Despite Ceasefire </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-prices-wont-drop-immediately-in-germany-despite-iran-ceasefire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-08T16:07:20.000Z</news:publication_date>
-      <news:title>Fuel Prices Won&apos;t Drop Immediately in Germany Despite Iran Ceasefire </news:title>
     </news:news>
   </url>
 

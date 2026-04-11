@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/funny-old-world-this-weeks-offbeat-news-roundup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T06:35:14.000Z</news:publication_date>
+      <news:title>Funny Old World: This Week&apos;s Offbeat News Roundup </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/finance-minister-pushes-market-intervention-for-fuel-prices-despite-chancellors-opposition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T06:24:18.000Z</news:publication_date>
+      <news:title>Finance Minister Pushes Market Intervention for Fuel Prices Despite Chancellor&apos;s Opposition </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/coalition-clash-over-relief-merz-rebukes-economy-minister-reiche</loc>
     <news:news>
       <news:publication>

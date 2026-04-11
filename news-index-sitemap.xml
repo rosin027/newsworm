@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/no-military-permits-required-for-german-men-to-travel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-11T10:57:59.000Z</news:publication_date>
+      <news:title>No Military Permits Required for German Men to Travel </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/funny-old-world-this-weeks-offbeat-news-roundup</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-04-09T11:14:33.000Z</news:publication_date>
       <news:title>Business Bankruptcies Surge to 20-Year High in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-shipowners-demands-security-guarantees-before-resuming-strait-of-hormuz-transit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-09T10:18:48.000Z</news:publication_date>
-      <news:title>German Shipowners Demands Security Guarantees Before Resuming Strait of Hormuz Transit </news:title>
     </news:news>
   </url>
 

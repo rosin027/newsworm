@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-proposes-major-tax-cuts-and-energy-policy-overhaul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T09:32:02.000Z</news:publication_date>
+      <news:title>AfD Proposes Major Tax Cuts and Energy Policy Overhaul </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/china-energy-strategy-pays-off-as-mideast-war-cramps-supplies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T09:09:37.000Z</news:publication_date>
+      <news:title>China&apos;s energy strategy pays off as Mideast war cramps supplies </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bsws-wagenknecht-calls-for-reiche-and-klingbeil-to-resign-over-fuel-crisis</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-10T11:15:44.000Z</news:publication_date>
       <news:title>Merz Faces Criticism as SPD and AWO Demand Immediate Relief Over Energy Prices </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/electricity-subsidy-in-germany-delivers-only-half-of-promised-savings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T09:12:34.000Z</news:publication_date>
-      <news:title>Electricity Subsidy in Germany Delivers Only Half of Promised Savings </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bsws-wagenknecht-calls-for-reiche-and-klingbeil-to-resign-over-fuel-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T08:02:11.000Z</news:publication_date>
+      <news:title>BSW&apos;s Wagenknecht Calls for Reiche and Klingbeil to Resign Over Fuel Crisis </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/auto-industry-lost-60-billion-euros-in-2025-as-electric-vehicle-investments-backfired</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T07:43:48.000Z</news:publication_date>
+      <news:title>Auto Industry Lost ?60 Billion in 2025 as Electric Vehicle Investments Backfired </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/us-iran-talks-fail-vp-vance-issues-final-offer-after-21-hour-negotiations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-12T07:34:13.000Z</news:publication_date>
+      <news:title>US-Iran Talks Fail: VP Vance Issues Final Offer After 21-Hour Negotiations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-strike-pilots-call-48-hour-walkout-over-pension-dispute</loc>
     <news:news>
       <news:publication>
@@ -107,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-10T09:12:34.000Z</news:publication_date>
       <news:title>Electricity Subsidy in Germany Delivers Only Half of Promised Savings </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-reaches-2-7-percent-fueled-by-rising-energy-costs-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-10T07:45:53.000Z</news:publication_date>
-      <news:title>Inflation Reaches 2.7% Fueled by Rising Energy Costs in Germany  </news:title>
     </news:news>
   </url>
 

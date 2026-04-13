@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-pilots-begin-48-hour-strike-over-pension-dispute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T06:03:31.000Z</news:publication_date>
+      <news:title>Lufthansa Pilots Begin 48-Hour Strike Over Pension Dispute </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-debates-sick-pay-cuts-to-tackle-europes-highest-sick-rates</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T05:41:49.000Z</news:publication_date>
+      <news:title>Germany Debates Sick Pay Cuts to Tackle Europe&apos;s Highest Sick Rates </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-proposes-major-tax-cuts-and-energy-policy-overhaul</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-04-11T10:57:59.000Z</news:publication_date>
       <news:title>No Military Permits Required for German Men to Travel </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/funny-old-world-this-weeks-offbeat-news-roundup</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T06:35:14.000Z</news:publication_date>
-      <news:title>Funny Old World: This Week&apos;s Offbeat News Roundup </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/finance-minister-pushes-market-intervention-for-fuel-prices-despite-chancellors-opposition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T06:24:18.000Z</news:publication_date>
-      <news:title>Finance Minister Pushes Market Intervention for Fuel Prices Despite Chancellor&apos;s Opposition </news:title>
     </news:news>
   </url>
 

@@ -158,16 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-strike-pilots-call-48-hour-walkout-over-pension-dispute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T15:32:16.000Z</news:publication_date>
-      <news:title>Lufthansa Strike: Pilots Call 48-Hour Walkout Over Pension Dispute </news:title>
-    </news:news>
-  </url>
-
 </urlset>

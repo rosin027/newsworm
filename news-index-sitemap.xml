@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-price-relief-in-germany-tax-cut-employer-bonus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T08:15:23.000Z</news:publication_date>
+      <news:title>Fuel Price Relief in Germany: Tax Cut &amp; Employer Bonus </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/viktor-orban-ousted-after-16-years-as-hungary-votes-for-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T06:45:02.000Z</news:publication_date>
+      <news:title>Viktor Orban Ousted After 16 Years as Hungary Votes for Change </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-pilots-begin-48-hour-strike-over-pension-dispute</loc>
     <news:news>
       <news:publication>

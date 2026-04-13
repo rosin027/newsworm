@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/statutory-health-insurance-co-payments-rise-to-5-18-billion-euros-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T14:54:50.000Z</news:publication_date>
+      <news:title>Statutory Health Insurance Co-Payments Rise to ?5.18 Billion in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/fatal-stabbing-in-pulheim-city-park-three-suspects-arrested</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T14:21:11.000Z</news:publication_date>
+      <news:title>Fatal Stabbing in Pulheim City Park: Three Suspects Arrested  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/rheinmetall-and-destinus-plan-to-build-ballistic-missiles-in-joint-venture</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T13:06:32.000Z</news:publication_date>
+      <news:title>Rheinmetall to Produce Ballistic Missiles with Destinus </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/immigration-in-germany-one-in-four-people-has-foreign-roots</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/immigration-in-germany-one-in-four-people-has-foreign-roots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T09:44:49.000Z</news:publication_date>
+      <news:title>Immigration in Germany: One in Four People Has Foreign Roots </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-price-relief-in-germany-tax-cut-employer-bonus</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-11T12:01:58.000Z</news:publication_date>
       <news:title>Nudossi Hazelnut Spread Recalled Due to Salmonella Contamination </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/no-military-permits-required-for-german-men-to-travel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-11T10:57:59.000Z</news:publication_date>
-      <news:title>No Military Permits Required for German Men to Travel </news:title>
     </news:news>
   </url>
 

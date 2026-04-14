@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/doctors-in-germany-report-widespread-abuse-of-power-and-sexual-harassment-at-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T08:28:23.000Z</news:publication_date>
+      <news:title>Doctors in Germany Report Widespread Abuse of Power and Sexual Harassment at Work </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-chancellor-merz-urges-netanyahu-end-southern-lebanon-fighting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T07:20:46.000Z</news:publication_date>
+      <news:title>German Chancellor Merz Urges Netanyahu to End Southern Lebanon Fighting </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cabin-crew-strike-hits-lufthansa-two-day-walkout-starts-wednesday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T06:50:30.000Z</news:publication_date>
+      <news:title>Cabin Crew Strike Hits Lufthansa: Two-Day Walkout Starts Wednesday  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/statutory-health-insurance-co-payments-rise-to-5-18-billion-euros-in-germany</loc>
     <news:news>
       <news:publication>
@@ -119,42 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-12T09:09:37.000Z</news:publication_date>
       <news:title>China&apos;s energy strategy pays off as Mideast war cramps supplies </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bsws-wagenknecht-calls-for-reiche-and-klingbeil-to-resign-over-fuel-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T08:02:11.000Z</news:publication_date>
-      <news:title>BSW&apos;s Wagenknecht Calls for Reiche and Klingbeil to Resign Over Fuel Crisis </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/auto-industry-lost-60-billion-euros-in-2025-as-electric-vehicle-investments-backfired</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T07:43:48.000Z</news:publication_date>
-      <news:title>Auto Industry Lost ?60 Billion in 2025 as Electric Vehicle Investments Backfired </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-iran-talks-fail-vp-vance-issues-final-offer-after-21-hour-negotiations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-12T07:34:13.000Z</news:publication_date>
-      <news:title>US-Iran Talks Fail: VP Vance Issues Final Offer After 21-Hour Negotiations </news:title>
     </news:news>
   </url>
 

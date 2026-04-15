@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/phone-scammers-posing-as-police-and-bank-staff-steal-100-000-euros-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T14:09:03.000Z</news:publication_date>
+      <news:title>Phone Scammers Posing as Police and Bank Staff Steal ?100,000 in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-launches-electric-vehicle-charging-subsidy-program-for-apartment-buildings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T13:08:57.000Z</news:publication_date>
+      <news:title>Germany Launches Electric Vehicle Charging Subsidy Program for Apartment Buildings </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-age-verification-app-ready-to-protect-children-online</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T12:39:19.000Z</news:publication_date>
+      <news:title>EU Age Verification App Ready to Protect Children Online </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-germanys-civil-servants-receive-the-1000-euro-relief-bonus</loc>
     <news:news>
       <news:publication>
@@ -107,42 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-14T06:50:30.000Z</news:publication_date>
       <news:title>Cabin Crew Strike Hits Lufthansa: Two-Day Walkout Starts Wednesday  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/statutory-health-insurance-co-payments-rise-to-5-18-billion-euros-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T14:54:50.000Z</news:publication_date>
-      <news:title>Statutory Health Insurance Co-Payments Rise to ?5.18 Billion in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fatal-stabbing-in-pulheim-city-park-three-suspects-arrested</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T14:21:11.000Z</news:publication_date>
-      <news:title>Fatal Stabbing in Pulheim City Park: Three Suspects Arrested  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rheinmetall-and-destinus-plan-to-build-ballistic-missiles-in-joint-venture</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T13:06:32.000Z</news:publication_date>
-      <news:title>Rheinmetall to Produce Ballistic Missiles with Destinus </news:title>
     </news:news>
   </url>
 

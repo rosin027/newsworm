@@ -122,40 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/viktor-orban-ousted-after-16-years-as-hungary-votes-for-change</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T06:45:02.000Z</news:publication_date>
-      <news:title>Viktor Orban Ousted After 16 Years as Hungary Votes for Change </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-pilots-begin-48-hour-strike-over-pension-dispute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T06:03:31.000Z</news:publication_date>
-      <news:title>Lufthansa Pilots Begin 48-Hour Strike Over Pension Dispute </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-debates-sick-pay-cuts-to-tackle-europes-highest-sick-rates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T05:41:49.000Z</news:publication_date>
-      <news:title>Germany Debates Sick Pay Cuts to Tackle Europe&apos;s Highest Sick Rates </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-pilots-to-strike-mass-flight-cancellations-expected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-15T07:25:57.000Z</news:publication_date>
+      <news:title>Lufthansa Pilots to Strike: Mass Flight Cancellations Expected </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-racing-to-cut-fuel-tax-by-may-1-coalition-fast-tracks-relief-package</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-04-13T09:44:49.000Z</news:publication_date>
       <news:title>Immigration in Germany: One in Four People Has Foreign Roots </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-price-relief-in-germany-tax-cut-employer-bonus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T08:15:23.000Z</news:publication_date>
-      <news:title>Fuel Price Relief in Germany: Tax Cut &amp; Employer Bonus </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-rejects-plan-to-end-criminal-penalties-for-fare-dodging</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T15:06:28.000Z</news:publication_date>
+      <news:title>Bundestag Rejects Plan to End Criminal Penalties for Fare Dodging </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-shuts-down-cityline-amid-fuel-crisis-and-strikes</loc>
     <news:news>
       <news:publication>
@@ -191,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-04-15T07:25:57.000Z</news:publication_date>
       <news:title>Lufthansa Pilots to Strike: Mass Flight Cancellations Expected </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-racing-to-cut-fuel-tax-by-may-1-coalition-fast-tracks-relief-package</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T16:30:26.000Z</news:publication_date>
-      <news:title>Germany Racing to Cut Fuel Tax by May 1: Coalition Fast-Tracks Relief Package </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-ukraine-defense-partnership-drone-warfare-cooperation-and-air-defense-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T16:30:13.000Z</news:publication_date>
-      <news:title>Germany Ukraine Defense Partnership: Drone Warfare Cooperation and Air Defense Support </news:title>
     </news:news>
   </url>
 

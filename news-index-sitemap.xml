@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-armed-forces-applications-surge-20-in-q1-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T08:22:26.000Z</news:publication_date>
+      <news:title>German Armed Forces Applications Surge 20% in Q1 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cdu-calls-for-fuel-tax-discount-extension-beyond-two-month-limit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T07:22:13.000Z</news:publication_date>
+      <news:title>CDU Calls for Fuel Tax Discount Extension Beyond Two-Month Limit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fewer-firms-expected-to-pay-1-000-euros-tax-free-relief-bonus-to-employees</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-14T16:30:13.000Z</news:publication_date>
       <news:title>Germany Ukraine Defense Partnership: Drone Warfare Cooperation and Air Defense Support </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/doctors-in-germany-report-widespread-abuse-of-power-and-sexual-harassment-at-work</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T08:28:23.000Z</news:publication_date>
-      <news:title>Doctors in Germany Report Widespread Abuse of Power and Sexual Harassment at Work </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-merz-urges-netanyahu-end-southern-lebanon-fighting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T07:20:46.000Z</news:publication_date>
-      <news:title>German Chancellor Merz Urges Netanyahu to End Southern Lebanon Fighting </news:title>
     </news:news>
   </url>
 

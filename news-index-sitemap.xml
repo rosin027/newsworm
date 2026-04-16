@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fewer-firms-expected-to-pay-1-000-euros-tax-free-relief-bonus-to-employees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T06:39:43.000Z</news:publication_date>
+      <news:title>Fewer Firms Expected to Pay ?1,000 Tax-Free Relief Bonus to Employees </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/stranded-humpback-whale-gets-second-chance-with-new-private-rescue-initiative</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-14T07:20:46.000Z</news:publication_date>
       <news:title>German Chancellor Merz Urges Netanyahu to End Southern Lebanon Fighting </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabin-crew-strike-hits-lufthansa-two-day-walkout-starts-wednesday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-14T06:50:30.000Z</news:publication_date>
-      <news:title>Cabin Crew Strike Hits Lufthansa: Two-Day Walkout Starts Wednesday  </news:title>
     </news:news>
   </url>
 

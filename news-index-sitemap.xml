@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-bundestag-debates-1-6-billion-euros-relief-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T09:22:49.000Z</news:publication_date>
+      <news:title>Germany&apos;s Fuel Tax Cut: Bundestag Debates ?1.6 Billion Relief Plan </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-armed-forces-applications-surge-20-in-q1-2026</loc>
     <news:news>
       <news:publication>

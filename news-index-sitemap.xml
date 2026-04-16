@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/lufthansa-shuts-down-cityline-amid-fuel-crisis-and-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T14:25:54.000Z</news:publication_date>
+      <news:title>Lufthansa Shuts Down Cityline Amid Fuel Crisis and Strikes </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-drafts-70-disability-and-youth-welfare-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T13:50:14.000Z</news:publication_date>
+      <news:title>Germany Drafts 70 Disability and Youth Welfare Cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/do-higher-retirement-age-and-lower-pension-levels-help-young-workers-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T13:12:34.000Z</news:publication_date>
+      <news:title>Do Higher Retirement Age and Lower Pension Levels Help Young Workers in Germany? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-approves-germanys-eu3-8-billion-industrial-electricity-subsidy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T12:47:50.000Z</news:publication_date>
+      <news:title>EU Approves Germany&apos;s ?3.8 Billion Industrial Electricity Subsidy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-bundestag-debates-1-6-billion-euros-relief-plan</loc>
     <news:news>
       <news:publication>

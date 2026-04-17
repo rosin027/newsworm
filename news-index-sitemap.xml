@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/buy-now-pay-later-under-scrutiny-as-germany-tightens-credit-laws</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T12:09:27.000Z</news:publication_date>
+      <news:title>Buy Now Pay Later Under Scrutiny as Germany Tightens Credit Laws </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-launches-new-electric-vehicle-subsidies-with-up-to-6-000-euros-grants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T10:25:32.000Z</news:publication_date>
+      <news:title>Germany Launches New Electric Vehicle Subsidies With Up to ?6,000 Grants </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-overtakes-cdu-csu-for-first-time-in-zdf-politbarometer</loc>
     <news:news>
       <news:publication>
@@ -191,18 +215,6 @@
       </news:publication>
       <news:publication_date>2026-04-15T13:08:57.000Z</news:publication_date>
       <news:title>Germany Launches Electric Vehicle Charging Subsidy Program for Apartment Buildings </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-age-verification-app-ready-to-protect-children-online</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T12:39:19.000Z</news:publication_date>
-      <news:title>EU Age Verification App Ready to Protect Children Online </news:title>
     </news:news>
   </url>
 

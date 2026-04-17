@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-overtakes-cdu-csu-for-first-time-in-zdf-politbarometer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T08:47:55.000Z</news:publication_date>
+      <news:title>AfD Overtakes CDU/CSU for First Time in ZDF Politbarometer </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/10-day-lebanon-israel-ceasefire-begins-amid-violations-returns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T07:40:46.000Z</news:publication_date>
+      <news:title>10-Day Lebanon-Israel Ceasefire Begins Amid Violations &amp; Returns  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-aviation-crisis-airlines-demand-government-aid-amid-kerosene-shortage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-17T07:28:36.000Z</news:publication_date>
+      <news:title>German Aviation Crisis: Airlines Demand Government Aid Amid Kerosene Shortage </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/1-000-euros-tax-free-bonus-merz-extends-relief-to-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-16T19:01:36.000Z</news:publication_date>
+      <news:title>?1,000 Tax-Free Bonus: Merz Extends Relief to 2027 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-rejects-plan-to-end-criminal-penalties-for-fare-dodging</loc>
     <news:news>
       <news:publication>
@@ -179,30 +227,6 @@
       </news:publication>
       <news:publication_date>2026-04-15T09:31:48.000Z</news:publication_date>
       <news:title>Germany&apos;s Fuel Price Taskforce Warns Iran War Challenges Will Intensify </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dobrindt-plans-billions-in-federal-employee-pay-raises</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T08:47:28.000Z</news:publication_date>
-      <news:title>Dobrindt Plans Billions in Federal Employee Pay Raises </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-pilots-to-strike-mass-flight-cancellations-expected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T07:25:57.000Z</news:publication_date>
-      <news:title>Lufthansa Pilots to Strike: Mass Flight Cancellations Expected </news:title>
     </news:news>
   </url>
 

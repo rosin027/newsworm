@@ -206,28 +206,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/will-germanys-civil-servants-receive-the-1000-euro-relief-bonus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T09:58:48.000Z</news:publication_date>
-      <news:title>Will Germany&apos;s Civil Servants Receive the ?1000 Relief Bonus? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-fuel-price-taskforce-warns-iran-war-challenges-will-intensify</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-15T09:31:48.000Z</news:publication_date>
-      <news:title>Germany&apos;s Fuel Price Taskforce Warns Iran War Challenges Will Intensify </news:title>
-    </news:news>
-  </url>
-
 </urlset>

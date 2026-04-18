@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-faces-kerosene-shortage-risk-klingbeil-demands-action</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T08:59:55.000Z</news:publication_date>
+      <news:title>Germany Faces Kerosene Shortage Risk, Klingbeil Demands Action </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues</loc>
     <news:news>
       <news:publication>
@@ -191,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-04-16T12:47:50.000Z</news:publication_date>
       <news:title>EU Approves Germany&apos;s ?3.8 Billion Industrial Electricity Subsidy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-bundestag-debates-1-6-billion-euros-relief-plan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T09:22:49.000Z</news:publication_date>
-      <news:title>Germany&apos;s Fuel Tax Cut: Bundestag Debates ?1.6 Billion Relief Plan </news:title>
     </news:news>
   </url>
 

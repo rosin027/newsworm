@@ -194,16 +194,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/fewer-firms-expected-to-pay-1-000-euros-tax-free-relief-bonus-to-employees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T06:39:43.000Z</news:publication_date>
-      <news:title>Fewer Firms Expected to Pay ?1,000 Tax-Free Relief Bonus to Employees </news:title>
-    </news:news>
-  </url>
-
 </urlset>

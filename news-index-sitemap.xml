@@ -158,16 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/1-000-euros-tax-free-bonus-merz-extends-relief-to-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T19:01:36.000Z</news:publication_date>
-      <news:title>?1,000 Tax-Free Bonus: Merz Extends Relief to 2027 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

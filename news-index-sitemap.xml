@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/leftist-leaders-gather-in-spain-to-rally-against-rise-of-far-right</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T13:53:50.000Z</news:publication_date>
+      <news:title>Leftist leaders gather in Spain to rally against rise of far right </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-to-invest-eu20-billion-in-modernizing-german-train-stations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-18T13:24:23.000Z</news:publication_date>
+      <news:title>Deutsche Bahn to Invest ?20 Billion in Modernizing German Train Stations </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-faces-kerosene-shortage-risk-klingbeil-demands-action</loc>
     <news:news>
       <news:publication>
@@ -155,42 +179,6 @@
       </news:publication>
       <news:publication_date>2026-04-16T15:06:28.000Z</news:publication_date>
       <news:title>Bundestag Rejects Plan to End Criminal Penalties for Fare Dodging </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-shuts-down-cityline-amid-fuel-crisis-and-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T14:25:54.000Z</news:publication_date>
-      <news:title>Lufthansa Shuts Down Cityline Amid Fuel Crisis and Strikes </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-drafts-70-disability-and-youth-welfare-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T13:50:14.000Z</news:publication_date>
-      <news:title>Germany Drafts 70 Disability and Youth Welfare Cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/do-higher-retirement-age-and-lower-pension-levels-help-young-workers-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T13:12:34.000Z</news:publication_date>
-      <news:title>Do Higher Retirement Age and Lower Pension Levels Help Young Workers in Germany? </news:title>
     </news:news>
   </url>
 

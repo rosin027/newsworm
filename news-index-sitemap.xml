@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-deepen-brazil-ties-merz-hosts-lula-for-trade-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T10:32:44.000Z</news:publication_date>
+      <news:title>Germany to Deepen Brazil Ties: Merz Hosts Lula for Trade Talks </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-astronaut-will-be-first-european-to-fly-to-the-moon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T08:57:24.000Z</news:publication_date>
+      <news:title>German Astronaut Will Be First European to Fly to the Moon </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fit-in-fatigues-german-army-presses-recruitment-drive</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-17T12:09:27.000Z</news:publication_date>
       <news:title>Buy Now Pay Later Under Scrutiny as Germany Tightens Credit Laws </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-new-electric-vehicle-subsidies-with-up-to-6-000-euros-grants</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T10:25:32.000Z</news:publication_date>
-      <news:title>Germany Launches New Electric Vehicle Subsidies With Up to ?6,000 Grants </news:title>
     </news:news>
   </url>
 

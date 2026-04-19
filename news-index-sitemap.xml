@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fit-in-fatigues-german-army-presses-recruitment-drive</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-19T08:14:47.000Z</news:publication_date>
+      <news:title>Fit in fatigues: German army presses recruitment drive </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leftist-leaders-gather-in-spain-to-rally-against-rise-of-far-right</loc>
     <news:news>
       <news:publication>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-04-17T10:25:32.000Z</news:publication_date>
       <news:title>Germany Launches New Electric Vehicle Subsidies With Up to ?6,000 Grants </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-overtakes-cdu-csu-for-first-time-in-zdf-politbarometer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T08:47:55.000Z</news:publication_date>
-      <news:title>AfD Overtakes CDU/CSU for First Time in ZDF Politbarometer </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/10-day-lebanon-israel-ceasefire-begins-amid-violations-returns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T07:40:46.000Z</news:publication_date>
-      <news:title>10-Day Lebanon-Israel Ceasefire Begins Amid Violations &amp; Returns  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-aviation-crisis-airlines-demand-government-aid-amid-kerosene-shortage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-17T07:28:36.000Z</news:publication_date>
-      <news:title>German Aviation Crisis: Airlines Demand Government Aid Amid Kerosene Shortage </news:title>
     </news:news>
   </url>
 

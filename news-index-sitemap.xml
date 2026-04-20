@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-health-insurance-reform-plans-face-widespread-opposition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T08:32:55.000Z</news:publication_date>
+      <news:title>German Health Insurance Reform Plans Face Widespread Opposition </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-olympic-2036-bid-wins-strong-backing-in-nrw-and-kiel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T07:35:56.000Z</news:publication_date>
+      <news:title>German Olympic 2036 Bid Wins Strong Backing in NRW and Kiel </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/stranded-humpback-whale-swims-free-after-3-weeks-in-baltic-sea</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T07:02:10.000Z</news:publication_date>
+      <news:title>Stranded Humpback Whale Swims Free After 3 Weeks in Baltic Sea </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/digital-world-present-both-risks-and-opportunities-for-youth-experts-say</loc>
     <news:news>
       <news:publication>
@@ -83,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-04-18T08:59:55.000Z</news:publication_date>
       <news:title>Germany Faces Kerosene Shortage Risk, Klingbeil Demands Action </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iran-threatens-to-close-strait-of-hormuz-again-if-us-blockade-continues</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T07:49:08.000Z</news:publication_date>
-      <news:title>Iran Threatens to Close Strait of Hormuz Again if US blockade continues </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/environmental-groups-stage-nationwide-protests-for-renewable-energy-expansion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T07:05:53.000Z</news:publication_date>
-      <news:title>Environmental Groups Stage Nationwide Protests for Renewable Energy Expansion </news:title>
     </news:news>
   </url>
 

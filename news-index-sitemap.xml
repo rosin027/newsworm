@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-crime-statistics-2025-overall-crime-falls-sexual-assaults-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T11:04:22.000Z</news:publication_date>
+      <news:title>Germany Crime Statistics 2025: Overall Crime Falls, Sexual Assaults Rise </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/essen-knife-attacks-kosovo-teen-charged-over-islamist-motivated-stabbings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T10:23:56.000Z</news:publication_date>
+      <news:title>Essen Knife Attacks: Kosovo Teen Charged Over Islamist-Motivated Stabbings </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lindt-cuts-christmas-santa-and-classic-chocolate-bar-prices-in-germany</loc>
     <news:news>
       <news:publication>

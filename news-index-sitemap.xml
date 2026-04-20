@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/digital-world-present-both-risks-and-opportunities-for-youth-experts-say</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-20T06:36:25.000Z</news:publication_date>
+      <news:title>Digital World Present Both Risks and Opportunities for Youth, Experts Say </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-deepen-brazil-ties-merz-hosts-lula-for-trade-talks</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-04-18T07:05:53.000Z</news:publication_date>
       <news:title>Environmental Groups Stage Nationwide Protests for Renewable Energy Expansion </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-strikes-unions-signal-temporary-pause-after-week-of-flight-cancellations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T06:56:20.000Z</news:publication_date>
-      <news:title>Lufthansa Strikes: Unions Signal Temporary Pause After Week of Flight Cancellations </news:title>
     </news:news>
   </url>
 

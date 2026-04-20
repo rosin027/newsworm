@@ -122,28 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/leftist-leaders-gather-in-spain-to-rally-against-rise-of-far-right</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T13:53:50.000Z</news:publication_date>
-      <news:title>Leftist leaders gather in Spain to rally against rise of far right </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-to-invest-eu20-billion-in-modernizing-german-train-stations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-18T13:24:23.000Z</news:publication_date>
-      <news:title>Deutsche Bahn to Invest ?20 Billion in Modernizing German Train Stations </news:title>
-    </news:news>
-  </url>
-
 </urlset>

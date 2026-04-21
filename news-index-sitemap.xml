@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/federal-police-launch-mass-raid-on-syrian-immigration-fraud-network-in-saxony</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T14:03:45.000Z</news:publication_date>
+      <news:title>Federal Police Launch Mass Raid on Syrian Immigration Fraud Network in Saxony </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/broadcasting-fee-in-germany-court-rules-fee-legal-despite-bias-claims</loc>
     <news:news>
       <news:publication>

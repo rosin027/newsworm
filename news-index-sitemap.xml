@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/commerzbank-accuses-unicredit-of-hostile-tactics-in-takeover-bid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T06:46:32.000Z</news:publication_date>
+      <news:title>Commerzbank Accuses Unicredit of &quot;Hostile Tactics&quot; in Takeover Bid </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-warns-statutory-pension-alone-wont-secure-living-standards-in-germany</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-19T10:32:44.000Z</news:publication_date>
       <news:title>Germany to Deepen Brazil Ties: Merz Hosts Lula for Trade Talks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-astronaut-will-be-first-european-to-fly-to-the-moon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T08:57:24.000Z</news:publication_date>
-      <news:title>German Astronaut Will Be First European to Fly to the Moon </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fit-in-fatigues-german-army-presses-recruitment-drive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-19T08:14:47.000Z</news:publication_date>
-      <news:title>Fit in fatigues: German army presses recruitment drive </news:title>
     </news:news>
   </url>
 

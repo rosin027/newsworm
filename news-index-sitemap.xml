@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/broadcasting-fee-in-germany-court-rules-fee-legal-despite-bias-claims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-21T10:41:36.000Z</news:publication_date>
+      <news:title>Broadcasting Fee in Germany: Court Rules Fee Legal Despite Bias Claims </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/1-000-euro-relief-bonus-for-emplyoees-extended-to-2027</loc>
     <news:news>
       <news:publication>

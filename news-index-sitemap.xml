@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/russia-halts-kazakh-oil-flow-to-germany-via-druzhba-pipeline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T15:11:58.000Z</news:publication_date>
+      <news:title>Russia Halts Kazakh Oil Flow to Germany via Druzhba Pipeline  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/frankfurt-airports-terminal-3-now-open</loc>
     <news:news>
       <news:publication>
@@ -179,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-04-21T06:27:42.000Z</news:publication_date>
       <news:title>Tim Cook Steps Down as Apple CEO, John Ternus to Take Over in September </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-rejects-us-intervention-in-cuba-urges-diplomatic-solution</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T15:18:59.000Z</news:publication_date>
-      <news:title>Merz Rejects US Intervention in Cuba, Urges Diplomatic Solution </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-ip-address-storage-law-to-combat-online-crime</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T09:49:21.000Z</news:publication_date>
+      <news:title>German Cabinet Approves IP Address Storage Law to Combat Online Crime </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/nasas-roman-space-telescope-opening-a-new-window-to-the-universe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T09:14:35.000Z</news:publication_date>
+      <news:title>NASA&apos;s Roman Space Telescope: Opening a New Window to the Universe </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-extends-iran-ceasefire-maintains-hormuz-blockade</loc>
     <news:news>
       <news:publication>
@@ -143,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-04-20T11:04:22.000Z</news:publication_date>
       <news:title>Germany Crime Statistics 2025: Overall Crime Falls, Sexual Assaults Rise </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/essen-knife-attacks-kosovo-teen-charged-over-islamist-motivated-stabbings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T10:23:56.000Z</news:publication_date>
-      <news:title>Essen Knife Attacks: Kosovo Teen Charged Over Islamist-Motivated Stabbings </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lindt-cuts-christmas-santa-and-classic-chocolate-bar-prices-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T09:35:24.000Z</news:publication_date>
-      <news:title>Lindt Cuts Christmas Santa and Classic Chocolate Bar Prices in Germany </news:title>
     </news:news>
   </url>
 

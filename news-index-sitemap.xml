@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-approves-90-billion-euros-loan-to-ukraine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T12:13:30.000Z</news:publication_date>
+      <news:title>EU Approves ?90 Billion Loan to Ukraine </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-approves-ip-address-storage-law-to-combat-online-crime</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-04-20T15:18:59.000Z</news:publication_date>
       <news:title>Merz Rejects US Intervention in Cuba, Urges Diplomatic Solution </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-crime-statistics-2025-overall-crime-falls-sexual-assaults-rise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T11:04:22.000Z</news:publication_date>
-      <news:title>Germany Crime Statistics 2025: Overall Crime Falls, Sexual Assaults Rise </news:title>
     </news:news>
   </url>
 

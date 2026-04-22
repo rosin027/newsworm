@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/end-of-cityline-lufthansa-cancels-20-000-short-haul-flights-by-october</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T06:42:15.000Z</news:publication_date>
+      <news:title>End of Cityline: Lufthansa cancels 20,000 short-haul flights by October </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/warken-wants-to-save-more-than-one-billion-euros-in-emergency-care</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-22T06:35:37.000Z</news:publication_date>
+      <news:title>Warken Wants to Save More Than One Billion Euros in Emergency Care </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/federal-police-launch-mass-raid-on-syrian-immigration-fraud-network-in-saxony</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-04-20T07:02:10.000Z</news:publication_date>
       <news:title>Stranded Humpback Whale Swims Free After 3 Weeks in Baltic Sea </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/digital-world-present-both-risks-and-opportunities-for-youth-experts-say</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-20T06:36:25.000Z</news:publication_date>
-      <news:title>Digital World Present Both Risks and Opportunities for Youth, Experts Say </news:title>
     </news:news>
   </url>
 

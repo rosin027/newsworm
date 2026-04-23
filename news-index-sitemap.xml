@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/uk-and-france-sign-3-year-deal-to-stop-migrant-crossings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T07:29:11.000Z</news:publication_date>
+      <news:title>UK and France Sign 3-Year Deal to Stop Migrant Crossings </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cdus-social-wing-urges-merz-to-stop-scaring-citizens-over-social-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T07:18:42.000Z</news:publication_date>
+      <news:title>CDU&apos;s Social Wing Urges Merz to Stop Scaring Citizens Over Social Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germans-willing-to-pay-more-for-pension-security</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-23T06:56:46.000Z</news:publication_date>
+      <news:title>Germans Willing to Pay More for Pension Security </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/russia-halts-kazakh-oil-flow-to-germany-via-druzhba-pipeline</loc>
     <news:news>
       <news:publication>

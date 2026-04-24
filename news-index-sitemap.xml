@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-17-cent-fuel-tax-cut-effective-may-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T10:39:55.000Z</news:publication_date>
+      <news:title>Bundestag Approves 17-Cent Fuel Tax Cut Effective May 1 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-1-000-euro-tax-free-relief-bonus-for-employees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T09:38:43.000Z</news:publication_date>
+      <news:title>Bundestag Approves ?1,000 Tax-Free Relief Bonus for Employees </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/doctors-warn-warkens-budget-cuts-will-collapse-healthcare-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T09:05:36.000Z</news:publication_date>
+      <news:title> Doctors Warn Warken&apos;s Budget Cuts Will Collapse Healthcare in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-rejects-higher-eu-budget-and-new-joint-debt</loc>
     <news:news>
       <news:publication>
@@ -143,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-04-22T12:13:30.000Z</news:publication_date>
       <news:title>EU Approves ?90 Billion Loan to Ukraine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-ip-address-storage-law-to-combat-online-crime</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T09:49:21.000Z</news:publication_date>
-      <news:title>German Cabinet Approves IP Address Storage Law to Combat Online Crime </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/nasas-roman-space-telescope-opening-a-new-window-to-the-universe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T09:14:35.000Z</news:publication_date>
-      <news:title>NASA&apos;s Roman Space Telescope: Opening a New Window to the Universe </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-rejects-higher-eu-budget-and-new-joint-debt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T08:38:15.000Z</news:publication_date>
+      <news:title>Merz Rejects Higher EU Budget and New Joint Debt </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-approves-90-billion-euros-loan-to-ukraine-zelensky-eyes-membership</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-24T08:20:55.000Z</news:publication_date>
+      <news:title>EU Approves ?90 Billion Loan to Ukraine, Zelensky Eyes Membership </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/integration-ministers-call-for-language-and-integration-course-restoration</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-04-22T09:14:35.000Z</news:publication_date>
       <news:title>NASA&apos;s Roman Space Telescope: Opening a New Window to the Universe </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-extends-iran-ceasefire-maintains-hormuz-blockade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T07:00:16.000Z</news:publication_date>
-      <news:title>Trump Extends Iran Ceasefire, Maintains Hormuz Blockade </news:title>
     </news:news>
   </url>
 

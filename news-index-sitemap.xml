@@ -158,28 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/end-of-cityline-lufthansa-cancels-20-000-short-haul-flights-by-october</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T06:42:15.000Z</news:publication_date>
-      <news:title>End of Cityline: Lufthansa cancels 20,000 short-haul flights by October </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/warken-wants-to-save-more-than-one-billion-euros-in-emergency-care</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T06:35:37.000Z</news:publication_date>
-      <news:title>Warken Wants to Save More Than One Billion Euros in Emergency Care </news:title>
-    </news:news>
-  </url>
-
 </urlset>

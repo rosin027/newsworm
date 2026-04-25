@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germans-willing-to-pay-more-for-pension-security</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T06:56:46.000Z</news:publication_date>
-      <news:title>Germans Willing to Pay More for Pension Security </news:title>
-    </news:news>
-  </url>
-
 </urlset>

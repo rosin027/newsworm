@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-spying-probe-into-signal-attacks-targeting-mps-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T07:14:35.000Z</news:publication_date>
+      <news:title>Germany Launches Spying Probe Into Signal Attacks Targeting MPs  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/business-leaders-rate-coalition-policies-worse-than-traffic-light-era</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T07:11:44.000Z</news:publication_date>
+      <news:title>Business Leaders Rate Coalition Policies Worse Than Traffic Light Era </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-germany-bring-back-the-9-euro-ticket</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-23T10:06:52.000Z</news:publication_date>
       <news:title>Steinmeier Launches &apos;Ehrentag&apos; Campaign: National Volunteer Day </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/uk-and-france-sign-3-year-deal-to-stop-migrant-crossings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T07:29:11.000Z</news:publication_date>
-      <news:title>UK and France Sign 3-Year Deal to Stop Migrant Crossings </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdus-social-wing-urges-merz-to-stop-scaring-citizens-over-social-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T07:18:42.000Z</news:publication_date>
-      <news:title>CDU&apos;s Social Wing Urges Merz to Stop Scaring Citizens Over Reforms </news:title>
     </news:news>
   </url>
 

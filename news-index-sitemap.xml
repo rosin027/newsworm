@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-deploys-minesweeper-to-mediterranean-for-potential-hormuz-mission</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-25T09:35:05.000Z</news:publication_date>
+      <news:title>Germany Deploys Minesweeper to Mediterranean for Potential Hormuz Mission </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-launches-spying-probe-into-signal-attacks-targeting-mps-</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-23T14:22:47.000Z</news:publication_date>
       <news:title>Disability Representatives Oppose ?8.6 Billion Integration Aid Cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/steinmeier-launches-ehrentag-campaign-national-volunteer-day</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T10:06:52.000Z</news:publication_date>
-      <news:title>Steinmeier Launches &apos;Ehrentag&apos; Campaign: National Volunteer Day </news:title>
     </news:news>
   </url>
 

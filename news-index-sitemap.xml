@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/should-germany-bring-back-car-free-sundays-amid-energy-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-26T11:58:41.000Z</news:publication_date>
+      <news:title> Should Germany Bring Back Car-Free Sundays Amid Energy Crisis? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/82-of-germans-doubt-pension-will-cover-retirement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-26T11:54:16.000Z</news:publication_date>
+      <news:title>82% of Germans Doubt Pension Will Cover Retirement </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/washington-gala-shooting-trump-escapes-armed-attack-at-annual-dinner</loc>
     <news:news>
       <news:publication>
@@ -83,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-04-24T13:33:21.000Z</news:publication_date>
       <news:title>Will Germany Bring Back the 9-Euro Ticket? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ryanair-cuts-flights-to-and-from-berlin-by-half</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-24T12:30:03.000Z</news:publication_date>
-      <news:title>Ryanair Cuts Flights to and from Berlin by Half </news:title>
     </news:news>
   </url>
 

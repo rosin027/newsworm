@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-tougher-action-against-tax-evaders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T07:08:18.000Z</news:publication_date>
+      <news:title>Germany Plans Tougher Action Against Tax Evaders </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/russia-suspected-in-signal-phishing-attack-on-german-officials</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-04-25T09:35:05.000Z</news:publication_date>
       <news:title>Germany Deploys Minesweeper to Mediterranean for Potential Hormuz Mission </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-spying-probe-into-signal-attacks-targeting-mps-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T07:14:35.000Z</news:publication_date>
-      <news:title>Germany Launches Spying Probe Into Signal Attacks Targeting MPs  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/business-leaders-rate-coalition-policies-worse-than-traffic-light-era</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T07:11:44.000Z</news:publication_date>
-      <news:title>Business Leaders Rate Coalition Policies Worse Than Traffic Light Era </news:title>
     </news:news>
   </url>
 

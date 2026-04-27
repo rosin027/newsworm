@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-defense-companies-more-than-double-since-ukraine-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T09:34:03.000Z</news:publication_date>
+      <news:title>German Defense Companies More Than Double Since Ukraine War </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-midday-fuel-pricing-reform-backfires-on-consumers</loc>
     <news:news>
       <news:publication>

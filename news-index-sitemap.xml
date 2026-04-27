@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-midday-fuel-pricing-reform-backfires-on-consumers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-27T08:44:30.000Z</news:publication_date>
+      <news:title>Germany&apos;s Midday Fuel Pricing Reform Backfires on Consumers </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-tougher-action-against-tax-evaders</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-04-26T07:44:07.000Z</news:publication_date>
       <news:title>Deutsche Bahn Announces Stable ICE Ticket Prices for 12 Months </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-deploys-minesweeper-to-mediterranean-for-potential-hormuz-mission</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-25T09:35:05.000Z</news:publication_date>
-      <news:title>Germany Deploys Minesweeper to Mediterranean for Potential Hormuz Mission </news:title>
     </news:news>
   </url>
 

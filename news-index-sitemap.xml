@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/educational-opportunities-in-germany-tied-to-parental-income-and-eductaion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T14:07:03.000Z</news:publication_date>
+      <news:title>Educational Opportunities in Germany Tied to Parental Income and Eductaion </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-coalition-agrees-on-revised-healthcare-reform</loc>
     <news:news>
       <news:publication>

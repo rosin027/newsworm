@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gelsenkirchen-bank-heist-evidence-return</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T10:11:41.000Z</news:publication_date>
+      <news:title>Gelsenkirchen Bank Heist: Police Return Confiscated Evidence to Victims </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-declining-prosperity-sparks-calls-for-major-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T09:16:05.000Z</news:publication_date>
+      <news:title>Germany&apos;s Declining Prosperity Sparks Calls for Major Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-healthcare-reform-faces-spd-opposition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T08:37:04.000Z</news:publication_date>
+      <news:title>Germany&apos;s Healthcare Reform Faces SPD Opposition </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-records-lowest-birth-rate-since-1946</loc>
     <news:news>
       <news:publication>

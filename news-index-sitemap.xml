@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-key-points-of-2027-budget</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T12:22:45.000Z</news:publication_date>
+      <news:title>German Cabinet Approves Key Points of 2027 Budget </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-new-tenant-protection-regulations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T11:20:26.000Z</news:publication_date>
+      <news:title>German Cabinet Approves New Tenant Protection Regulations </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cabinet-approves-4-24-pension-increase-starting-july-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T10:49:27.000Z</news:publication_date>
+      <news:title>Cabinet Approves 4.24% Pension Increase Starting July 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cabinet-approves-health-insurance-reform-amid-growing-criticism</loc>
     <news:news>
       <news:publication>
@@ -143,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-04-28T07:50:39.000Z</news:publication_date>
       <news:title>Germany Records Lowest Birth Rate Since 1946 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fewer-welfare-recipients-moving-from-mini-jobs-to-regular-work-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T12:57:28.000Z</news:publication_date>
-      <news:title>Fewer  Welfare Recipients Moving from Mini-Jobs to Regular Work in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/car-free-sundays-germany-history-1973-oil-crisis-current-debate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T12:53:42.000Z</news:publication_date>
-      <news:title>Car-Free Sundays in Germany: A History from 1973 Crisis to Today&apos;s Debate </news:title>
     </news:news>
   </url>
 

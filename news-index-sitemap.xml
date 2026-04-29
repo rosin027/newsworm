@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-digital-airport-check-in-from-summer-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T07:29:56.000Z</news:publication_date>
+      <news:title>Germany Plans Digital Airport Check-In From Summer 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/mercedes-benz-profit-falls-as-china-competition-intensifies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T07:14:00.000Z</news:publication_date>
+      <news:title>Mercedes-Benz Profit Falls as China Competition Intensifies </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/educational-opportunities-in-germany-tied-to-parental-income-and-eductaion</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-27T09:34:03.000Z</news:publication_date>
       <news:title>German Defense Companies More Than Double Since Ukraine War </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-midday-fuel-pricing-reform-backfires-on-consumers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T08:44:30.000Z</news:publication_date>
-      <news:title>Germany&apos;s Midday Fuel Pricing Reform Backfires on Consumers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-tougher-action-against-tax-evaders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T07:08:18.000Z</news:publication_date>
-      <news:title>Germany Plans Tougher Action Against Tax Evaders </news:title>
     </news:news>
   </url>
 

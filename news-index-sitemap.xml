@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/torschlusspanik-the-german-word-that-perfectly-describes-your-fear-of-running-out-of-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T17:59:17.000Z</news:publication_date>
+      <news:title>Torschlusspanik: The German Word That Perfectly Describes Your Fear of Running Out of Time </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/inflation-in-germany-hits-2-9-percent-as-energy-prices-surge</loc>
     <news:news>
       <news:publication>

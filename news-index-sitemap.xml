@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/cabinet-approves-health-insurance-reform-amid-growing-criticism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T09:44:01.000Z</news:publication_date>
+      <news:title>Cabinet Approves Health Insurance Reform Amid Growing Criticism </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-open-to-income-tax-increase-urges-struggling-coalition-to-unite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-29T08:39:39.000Z</news:publication_date>
+      <news:title>Merz Open to Income Tax Increase, Urges Struggling Coalition to Unite </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-digital-airport-check-in-from-summer-2026</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-04-27T12:53:42.000Z</news:publication_date>
       <news:title>Car-Free Sundays in Germany: A History from 1973 Crisis to Today&apos;s Debate </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-defense-companies-more-than-double-since-ukraine-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T09:34:03.000Z</news:publication_date>
-      <news:title>German Defense Companies More Than Double Since Ukraine War </news:title>
     </news:news>
   </url>
 

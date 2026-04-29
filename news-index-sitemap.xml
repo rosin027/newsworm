@@ -158,28 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/russia-suspected-in-signal-phishing-attack-on-german-officials</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T05:10:23.000Z</news:publication_date>
-      <news:title>Russia Suspected in Signal Phishing Attack on German Officials </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-denies-pension-cuts-after-basic-security-comment-backlash</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-27T05:08:45.000Z</news:publication_date>
-      <news:title>Merz Denies Pension Cuts After &quot;Basic Security&quot; Comment Backlash </news:title>
-    </news:news>
-  </url>
-
 </urlset>

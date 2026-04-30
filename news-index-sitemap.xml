@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/www-newsworm-de-news-deportations-from-germany-decrease-in-first-quarter-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T07:56:15.000Z</news:publication_date>
+      <news:title>Deportations from Germany Decrease in First Quarter of 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/dgb-leader-fahimi-threatens-protests-against-social-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T07:55:22.000Z</news:publication_date>
+      <news:title>DGB Leader Fahimi Threatens Protests Against Social Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/torschlusspanik-the-german-word-that-perfectly-describes-your-fear-of-running-out-of-time</loc>
     <news:news>
       <news:publication>
@@ -179,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-04-28T09:16:05.000Z</news:publication_date>
       <news:title>Germany&apos;s Declining Prosperity Sparks Calls for Major Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-healthcare-reform-faces-spd-opposition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T08:37:04.000Z</news:publication_date>
-      <news:title>Germany&apos;s Healthcare Reform Faces SPD Opposition </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-lowest-birth-rate-since-1946</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T07:50:39.000Z</news:publication_date>
-      <news:title>Germany Records Lowest Birth Rate Since 1946 </news:title>
     </news:news>
   </url>
 

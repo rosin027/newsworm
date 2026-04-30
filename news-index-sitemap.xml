@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-warns-of-military-withdrawal-from-germany-merz-defends-transatlantic-ties</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T14:08:38.000Z</news:publication_date>
+      <news:title>Trump Warns of Military Withdrawal from Germany: Merz Defends Transatlantic Ties </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-labor-market-shows-weak-spring-recovery-in-april-2026</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       </news:publication>
       <news:publication_date>2026-04-30T09:52:26.000Z</news:publication_date>
       <news:title>German Labor Market Shows Weak Spring Recovery in April 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/volkswagen-profit-drops-28-percent-in-first-quarter-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30T09:51:19.000Z</news:publication_date>
+      <news:title>Volkswagen Profit Drops 28% in First Quarter 2026 </news:title>
     </news:news>
   </url>
 
@@ -143,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-04-29T07:14:00.000Z</news:publication_date>
       <news:title>Mercedes-Benz Profit Falls as China Competition Intensifies </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/educational-opportunities-in-germany-tied-to-parental-income-and-eductaion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T14:07:03.000Z</news:publication_date>
-      <news:title>Educational Opportunities in Germany Tied to Parental Income and Eductaion </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-coalition-agrees-on-revised-healthcare-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T14:00:42.000Z</news:publication_date>
-      <news:title>German Coalition Agrees on Revised Healthcare Reform </news:title>
     </news:news>
   </url>
 

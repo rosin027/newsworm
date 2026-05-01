@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-slams-merz-fix-your-ailing-country-first</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T12:14:53.000Z</news:publication_date>
+      <news:title>Trump Slams Merz: Fix Your &quot;Ailing Country&quot; First </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/landlords-to-share-costs-of-new-fossil-heating-systems-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T11:33:58.000Z</news:publication_date>
+      <news:title>Landlords To Share Costs of New Fossil Heating Systems in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/blockbuster-eu-mercosur-trade-deal-enters-into-force</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-29T14:06:56.000Z</news:publication_date>
       <news:title>Inflation in Germany Hits 2.9% as Energy Prices Surge </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-key-points-of-2027-budget</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T12:22:45.000Z</news:publication_date>
-      <news:title>German Cabinet Approves Key Points of 2027 Budget </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-new-tenant-protection-regulations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T11:20:26.000Z</news:publication_date>
-      <news:title>German Cabinet Approves New Tenant Protection Regulations </news:title>
     </news:news>
   </url>
 

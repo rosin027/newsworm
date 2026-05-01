@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-launches-last-minute-tickets-fares-from-eu6-99-for-flexible-travellers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T08:20:17.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Launches Last-Minute Tickets: Fares From ?6.99 for Flexible Travellers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/fuel-tax-cut-takes-effect-in-germany-prices-set-to-fall-gradually</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T08:06:01.000Z</news:publication_date>
+      <news:title>Fuel Tax Cut Takes Effect in Germany ? Prices Set to Fall Gradually </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/may-2026-in-germany-important-changes-you-need-to-know</loc>
     <news:news>
       <news:publication>
@@ -143,42 +167,6 @@
       </news:publication>
       <news:publication_date>2026-04-29T09:44:01.000Z</news:publication_date>
       <news:title>Cabinet Approves Health Insurance Reform Amid Growing Criticism </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-open-to-income-tax-increase-urges-struggling-coalition-to-unite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T08:39:39.000Z</news:publication_date>
-      <news:title>Merz Open to Income Tax Increase, Urges Struggling Coalition to Unite </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-digital-airport-check-in-from-summer-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T07:29:56.000Z</news:publication_date>
-      <news:title>Germany Plans Digital Airport Check-In From Summer 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mercedes-benz-profit-falls-as-china-competition-intensifies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T07:14:00.000Z</news:publication_date>
-      <news:title>Mercedes-Benz Profit Falls as China Competition Intensifies </news:title>
     </news:news>
   </url>
 

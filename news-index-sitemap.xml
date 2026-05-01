@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/blockbuster-eu-mercosur-trade-deal-enters-into-force</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01T09:58:58.000Z</news:publication_date>
+      <news:title>Blockbuster EU-Mercosur trade deal enters into force </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-launches-last-minute-tickets-fares-from-eu6-99-for-flexible-travellers</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-29T11:20:26.000Z</news:publication_date>
       <news:title>German Cabinet Approves New Tenant Protection Regulations </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabinet-approves-4-24-pension-increase-starting-july-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T10:49:27.000Z</news:publication_date>
-      <news:title>Cabinet Approves 4.24% Pension Increase Starting July 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabinet-approves-health-insurance-reform-amid-growing-criticism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T09:44:01.000Z</news:publication_date>
-      <news:title>Cabinet Approves Health Insurance Reform Amid Growing Criticism </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stranded-humpback-whale-timmy-swims-freely-in-north-sea</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T09:45:49.000Z</news:publication_date>
+      <news:title>Stranded Humpback Whale &apos;Timmy&apos; Swims Freely in North Sea </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-prices-fall-in-germany-as-tax-cut-takes-effect</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-04-30T14:08:38.000Z</news:publication_date>
       <news:title>Trump Warns of Military Withdrawal from Germany: Merz Defends Transatlantic Ties </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-labor-market-shows-weak-spring-recovery-in-april-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T09:52:26.000Z</news:publication_date>
-      <news:title>German Labor Market Shows Weak Spring Recovery in April 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-profit-drops-28-percent-in-first-quarter-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T09:51:19.000Z</news:publication_date>
-      <news:title>Volkswagen Profit Drops 28% in First Quarter 2026 </news:title>
     </news:news>
   </url>
 

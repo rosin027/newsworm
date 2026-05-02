@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/trumps-25-percent-tariff-on-eu-cars-hits-germany-hardest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T14:27:15.000Z</news:publication_date>
+      <news:title>Trump&apos;s 25% Tariff on EU Cars Hits Germany Hardest </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/us-troops-in-germany-serve-mutual-interests-says-pistorius</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T13:00:11.000Z</news:publication_date>
+      <news:title>US Troops in Germany Serve Mutual Interests Says Pistorius  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/stranded-humpback-whale-timmy-swims-freely-in-north-sea</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-30T15:17:33.000Z</news:publication_date>
       <news:title>May 2026 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-warns-of-military-withdrawal-from-germany-merz-defends-transatlantic-ties</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T14:08:38.000Z</news:publication_date>
-      <news:title>Trump Warns of Military Withdrawal from Germany: Merz Defends Transatlantic Ties </news:title>
     </news:news>
   </url>
 

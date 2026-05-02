@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-prices-fall-in-germany-as-tax-cut-takes-effect</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T07:47:19.000Z</news:publication_date>
+      <news:title>Fuel Prices Fall in Germany as Tax Cut Takes Effect </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/us-to-withdraw-5-000-troops-from-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02T07:28:37.000Z</news:publication_date>
+      <news:title>US to withdraw 5,000 troops from Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/wildfires-rage-across-the-netherlands-destroying-dozens-of-hectares-of-vegetation</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-04-30T09:51:19.000Z</news:publication_date>
       <news:title>Volkswagen Profit Drops 28% in First Quarter 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/www-newsworm-de-news-deportations-from-germany-decrease-in-first-quarter-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T07:56:15.000Z</news:publication_date>
-      <news:title>Deportations from Germany Decrease in First Quarter of 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dgb-leader-fahimi-threatens-protests-against-social-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-30T07:55:22.000Z</news:publication_date>
-      <news:title>DGB Leader Fahimi Threatens Protests Against Social Reforms </news:title>
     </news:news>
   </url>
 

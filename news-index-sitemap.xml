@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/solar-installations-fall-6-in-germany-as-subsidy-cuts-loom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03T09:38:57.000Z</news:publication_date>
+      <news:title>Solar Installations Fall 6% in Germany as Subsidy Cuts Loom </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-coalition-in-crisis-union-slams-spd-blockades</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-05-01T11:33:58.000Z</news:publication_date>
       <news:title>Landlords To Share Costs of New Fossil Heating Systems in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/blockbuster-eu-mercosur-trade-deal-enters-into-force</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-01T09:58:58.000Z</news:publication_date>
-      <news:title>Blockbuster EU-Mercosur trade deal enters into force </news:title>
     </news:news>
   </url>
 

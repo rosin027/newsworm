@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-warns-jewish-life-in-germany-under-unprecedented-threat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T11:40:15.000Z</news:publication_date>
+      <news:title>Merz Warns Jewish Life in Germany Under Unprecedented Threat </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/fuel-tax-cut-not-fully-passed-on-to-drivers-adac-reports</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T11:29:48.000Z</news:publication_date>
+      <news:title>Fuel Tax Cut Not Fully Passed On to Drivers, ADAC Reports </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/16-year-old-dies-in-e-scooter-accident-in-wolfsburg</loc>
     <news:news>
       <news:publication>

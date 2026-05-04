@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/no-us-cruise-missiles-push-germany-to-accelerate-own-defense</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T15:39:44.000Z</news:publication_date>
+      <news:title>No US Cruise Missiles Push Germany to Accelerate Own Defense </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-minesweeper-fulda-sails-to-mediterranean-for-possible-hormuz-mission</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T14:43:18.000Z</news:publication_date>
+      <news:title>German Minesweeper Fulda Sails to Mediterranean for Possible Hormuz Mission </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-warns-jewish-life-in-germany-under-unprecedented-threat</loc>
     <news:news>
       <news:publication>

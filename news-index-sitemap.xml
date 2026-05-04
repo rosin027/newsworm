@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-party-leader-slams-one-year-of-chaos-under-black-red-coalition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T06:42:23.000Z</news:publication_date>
+      <news:title>Left Party Leader Slams One Year of Chaos Under Black-Red Coalition </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-refuses-to-give-up-on-trump-despite-us-criticism-and-troop-withdrawal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T06:29:50.000Z</news:publication_date>
+      <news:title>Merz Refuses to Give Up on Trump Despite US Criticism and Troop Withdrawal </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/solar-installations-fall-6-percent-in-germany-as-subsidy-cuts-loom</loc>
     <news:news>
       <news:publication>

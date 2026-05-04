@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/16-year-old-dies-in-e-scooter-accident-in-wolfsburg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T09:37:07.000Z</news:publication_date>
+      <news:title>16-Year-Old Dies in E-Scooter Accident in Wolfsburg </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/caesarean-births-reach-all-time-high-in-germany</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-02T13:00:11.000Z</news:publication_date>
       <news:title>US Troops in Germany Serve Mutual Interests Says Pistorius  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/stranded-humpback-whale-timmy-swims-freely-in-north-sea</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T09:45:49.000Z</news:publication_date>
-      <news:title>Stranded Humpback Whale &apos;Timmy&apos; Swims Freely in North Sea </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/caesarean-births-reach-all-time-high-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T08:26:44.000Z</news:publication_date>
+      <news:title>Caesarean Births Reach All-Time High in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-warns-of-further-coalition-conflict-demands-spd-compromise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T07:19:47.000Z</news:publication_date>
+      <news:title>Merz Warns of Further Coalition Conflict, Demands SPD Compromise </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-party-leader-slams-one-year-of-chaos-under-black-red-coalition</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-02T09:45:49.000Z</news:publication_date>
       <news:title>Stranded Humpback Whale &apos;Timmy&apos; Swims Freely in North Sea </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-prices-fall-in-germany-as-tax-cut-takes-effect</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T07:47:19.000Z</news:publication_date>
-      <news:title>Fuel Prices Fall in Germany as Tax Cut Takes Effect </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-to-withdraw-5-000-troops-from-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T07:28:37.000Z</news:publication_date>
-      <news:title>US to withdraw 5,000 troops from Germany </news:title>
     </news:news>
   </url>
 

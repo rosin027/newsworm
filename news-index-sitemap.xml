@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-the-rescued-baltic-humpback-whale-dead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T15:54:30.000Z</news:publication_date>
+      <news:title>Is the Rescued Baltic Humpback Whale Dead?  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/hantavirus-outbreak-on-cruise-ship-3-dead-including-german-passenger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T15:49:08.000Z</news:publication_date>
+      <news:title>Hantavirus Outbreak on Cruise Ship: 3 Dead Including German Passenger </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-coalition-marks-turbulent-first-year-under-merz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T14:35:12.000Z</news:publication_date>
+      <news:title>Germany&apos;s Coalition Marks Turbulent First Year Under Merz </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leipzig-car-attack-suspect-had-been-under-psychiatric-care</loc>
     <news:news>
       <news:publication>

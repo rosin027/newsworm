@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pistorius-warns-us-tomahawk-cancellation-worse-for-germany-than-troop-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T07:31:37.000Z</news:publication_date>
+      <news:title>Pistorius Warns US Scrapping Tomahawk Deployment Worse Than Troop Cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/car-hits-crowd-in-leipzig-two-dead-dozens-injured</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-05-03T09:38:57.000Z</news:publication_date>
       <news:title>Solar Installations Fall 6% in Germany as Subsidy Cuts Loom </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-coalition-in-crisis-union-slams-spd-blockades</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:48:43.000Z</news:publication_date>
-      <news:title>German Coalition in Crisis: Union Slams SPD Blockades </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-battles-fertiliser-shortage-amid-strait-of-hormuz-closure-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:33:52.000Z</news:publication_date>
-      <news:title>Germany Battles Fertiliser Shortage Amid Strait of Hormuz Closure  </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/leipzig-car-ramming-suspect-sent-to-psychiatric-hospital</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T17:44:42.000Z</news:publication_date>
+      <news:title>Leipzig Car Ramming Suspect Sent to Psychiatric Hospital </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-the-rescued-baltic-humpback-whale-dead</loc>
     <news:news>
       <news:publication>

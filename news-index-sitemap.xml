@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/leipzig-car-attack-suspect-had-been-under-psychiatric-care</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T11:34:21.000Z</news:publication_date>
+      <news:title>Leipzig Car Attack Suspect Had Been Under Psychiatric Care </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tram-collides-with-bus-in-dresden-30-injured</loc>
     <news:news>
       <news:publication>

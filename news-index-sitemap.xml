@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sees-massive-air-travel-drop-in-april-from-strikes-and-iran-conflict</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T07:54:08.000Z</news:publication_date>
+      <news:title>Germany Sees Massive Air Travel Drop in April From Strikes and Iran Conflict </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-border-controls-14000-police-officers-legal-challenges</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T07:29:15.000Z</news:publication_date>
+      <news:title>Germany Deploys 14,000 Police for Border Controls </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-warns-us-to-honor-trade-deal-amid-trump-tariff-threats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T07:08:50.000Z</news:publication_date>
+      <news:title>EU Warns US to Honor Trade Deal Amid Trump Tariff Threats </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/italian-unicredit-submits-official-bid-to-acquire-commerzbank</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-06T06:58:41.000Z</news:publication_date>
+      <news:title>Italian Unicredit Submits Official Bid to Acquire Commerzbank </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leipzig-car-ramming-suspect-sent-to-psychiatric-hospital</loc>
     <news:news>
       <news:publication>
@@ -191,30 +239,6 @@
       </news:publication>
       <news:publication_date>2026-05-04T09:37:07.000Z</news:publication_date>
       <news:title>16-Year-Old Dies in E-Scooter Accident in Wolfsburg </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/caesarean-births-reach-all-time-high-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T08:26:44.000Z</news:publication_date>
-      <news:title>Caesarean Births Reach All-Time High in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-warns-of-further-coalition-conflict-demands-spd-compromise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-04T07:19:47.000Z</news:publication_date>
-      <news:title>Merz Warns of Further Coalition Conflict, Demands SPD Compromise </news:title>
     </news:news>
   </url>
 

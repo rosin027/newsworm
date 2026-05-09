@@ -63,6 +63,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/worlds-most-premium-train-stations-germany-ranking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-08T15:04:24.000Z</news:publication_date>
+      <news:title>The World&apos;s Most Premium Train Stations: Where Does Germany Rank? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deadly-hantavirus-cruise-ship-outbreak-german-evacuee-shows-no-symptoms</loc>
     <news:news>
       <news:publication>
@@ -215,30 +227,6 @@
       </news:publication>
       <news:publication_date>2026-05-07T13:43:02.000Z</news:publication_date>
       <news:title>Berlin Honours Holocaust Survivor Margot Friedl?nder With Memorial Square </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-will-barely-grow-in-2026-due-to-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T11:32:55.000Z</news:publication_date>
-      <news:title>German Economy Will Barely Grow in 2026 Due to Iran War </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/parental-allowance-reform-faces-widespread-opposition-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T11:05:28.000Z</news:publication_date>
-      <news:title>Parental Allowance Reform Faces Widespread Opposition in Germany </news:title>
     </news:news>
   </url>
 

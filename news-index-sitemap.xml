@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/peter-magyar-sworn-in-as-hungarys-new-prime-minister-after-landslide-election-victory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-09T15:57:18.000Z</news:publication_date>
+      <news:title>Peter Magyar Sworn In as Hungary&apos;s New Prime Minister After Landslide Election Victory </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/porsche-to-close-three-subsidiaries-cut-over-500-jobs</loc>
     <news:news>
       <news:publication>
@@ -191,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-05-08T07:07:14.000Z</news:publication_date>
       <news:title>Leipzig Car Ramming: Suspect Signaled Intent Before Incident </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mv-hondius-hantavirus-outbreak-german-woman-under-observation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T16:28:40.000Z</news:publication_date>
-      <news:title>MV Hondius Hantavirus Outbreak: German Woman Under Observation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-tax-revenue-projected-to-drop-17-8-billion-euros-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T15:30:32.000Z</news:publication_date>
-      <news:title>German Tax Revenue Projected to Drop ?17.8 Billion in 2026 </news:title>
     </news:news>
   </url>
 

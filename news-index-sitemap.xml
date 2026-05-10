@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/hantavirus-cruise-ship-arrives-in-canary-islands-passengers-to-be-evacuated-after-three-deaths</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T09:46:52.000Z</news:publication_date>
+      <news:title>Hantavirus Cruise Ship Arrives in Canary Islands: Passengers to Be Evacuated After Three Deaths </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/survey-nearly-half-of-germans-driving-less-due-to-fuel-price-surge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T08:58:10.000Z</news:publication_date>
+      <news:title>Survey: Nearly Half of Germans Driving Less Due to Fuel Price Surge </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/peter-magyar-sworn-in-as-hungarys-new-prime-minister-after-landslide-election-victory</loc>
     <news:news>
       <news:publication>
@@ -143,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-05-08T11:07:23.000Z</news:publication_date>
       <news:title>Bundestag Approves Ankle Monitors for Domestic Violence Offenders </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/multiple-hostages-held-at-bank-in-sinzig-rhineland-palatinate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T10:18:27.000Z</news:publication_date>
-      <news:title>Multiple Hostages Held at Bank in Sinzig, Rhineland-Palatinate </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundesrat-rejects-1-000-euro-tax-free-bonus-for-employees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T09:18:27.000Z</news:publication_date>
-      <news:title>Bundesrat Rejects ?1,000 Tax Free Bonus For Employees </news:title>
     </news:news>
   </url>
 

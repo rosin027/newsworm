@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-gas-storage-levels-head-of-the-federal-agency-says-there-is-no-reason-to-panic</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T11:41:45.000Z</news:publication_date>
+      <news:title>Germany&apos;s Gas Storage Levels: Head of the Federal Agency Says There Is No Reason to Panic </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hantavirus-cruise-ship-arrives-in-canary-islands-passengers-to-be-evacuated-after-three-deaths</loc>
     <news:news>
       <news:publication>
@@ -131,42 +143,6 @@
       </news:publication>
       <news:publication_date>2026-05-08T13:27:29.000Z</news:publication_date>
       <news:title>Hostage Crisis at Sinzig Bank Ends But Suspects Still at Large </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-new-law-to-facilitate-living-kidney-donations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T12:32:30.000Z</news:publication_date>
-      <news:title>Germany Approves New Law to Facilitate Living Kidney Donations </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-replaces-riester-pension-with-new-state-subsidized-model</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T11:43:25.000Z</news:publication_date>
-      <news:title>Germany Replaces Riester Pension with New State Subsidized Model </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-ankle-monitors-for-domestic-violence-offenders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T11:07:23.000Z</news:publication_date>
-      <news:title>Bundestag Approves Ankle Monitors for Domestic Violence Offenders </news:title>
     </news:news>
   </url>
 

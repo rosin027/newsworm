@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ukraine-war-nearing-its-end-putin-names-former-german-chancellor-schroder-as-preferred-mediator</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-10T12:48:55.000Z</news:publication_date>
+      <news:title>Ukraine War &apos;Nearing Its End&apos;: Putin Names Former German Chancellor Schr?der as Preferred Mediator </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-gas-storage-levels-head-of-the-federal-agency-says-there-is-no-reason-to-panic</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-05-08T15:04:24.000Z</news:publication_date>
       <news:title>The World&apos;s Most Premium Train Stations: Where Does Germany Rank? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deadly-hantavirus-cruise-ship-outbreak-german-evacuee-shows-no-symptoms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T14:52:07.000Z</news:publication_date>
-      <news:title>Deadly Hantavirus Cruise Ship Outbreak: German Evacuee Shows No Symptoms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hostage-crisis-at-sinzig-bank-ends-but-suspects-still-at-large</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T13:27:29.000Z</news:publication_date>
-      <news:title>Hostage Crisis at Sinzig Bank Ends But Suspects Still at Large </news:title>
     </news:news>
   </url>
 

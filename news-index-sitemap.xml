@@ -170,40 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/trump-gives-eu-until-july-4-to-ratify-trade-deal-or-face-tariff-hike</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T08:43:03.000Z</news:publication_date>
-      <news:title>Trump Gives EU Until July 4 to Ratify Trade Deal or Face Tariff Hike </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/commerzbank-fights-unicredit-takeover-with-job-cuts-and-profit-targets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T07:08:28.000Z</news:publication_date>
-      <news:title>Commerzbank Fights UniCredit Takeover with Job Cuts and Profit Targets </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/leipzig-car-ramming-suspect-signaled-intent-before-incident</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T07:07:14.000Z</news:publication_date>
-      <news:title>Leipzig Car Ramming: Suspect Signaled Intent Before Incident </news:title>
-    </news:news>
-  </url>
-
 </urlset>

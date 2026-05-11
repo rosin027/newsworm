@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/csu-distances-itself-from-warkens-long-term-care-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T08:26:21.000Z</news:publication_date>
+      <news:title>CSU Distances Itself from Warken&apos;s Long-Term Care Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ig-metall-chief-benner-accuses-government-of-policy-of-uncertainty</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T07:38:18.000Z</news:publication_date>
+      <news:title>IG Metall Chief Benner Accuses Government of &quot;Policy of Uncertainty&quot; </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/coalition-seeks-new-relief-measures-after-1000-euros-employee-bonus-rejection</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T07:20:38.000Z</news:publication_date>
+      <news:title>Coalition Seeks New Relief Measures After ?1000 Employee Bonus Rejection </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ukraine-war-nearing-its-end-putin-names-former-german-chancellor-schroder-as-preferred-mediator</loc>
     <news:news>
       <news:publication>
@@ -83,42 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-09T09:12:58.000Z</news:publication_date>
       <news:title>Rubio Urges Europeans to Share the Iran Burden </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-plans-14-hour-direct-train-from-berlin-to-oslo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T08:32:48.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Plans 14-Hour Direct Train from Berlin to Oslo </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-reopens-iconic-eisbach-river-wave-for-surfers-with-new-safety-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T08:23:52.000Z</news:publication_date>
-      <news:title>Munich Reopens Iconic Eisbach River Wave for Surfers With New Safety Rules </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-car-free-initiative-falls-short-of-required-signatures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T08:20:04.000Z</news:publication_date>
-      <news:title>&quot;Berlin Car-Free&quot; Initiative Falls Short of Required Signatures </news:title>
     </news:news>
   </url>
 

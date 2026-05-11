@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-passengers-from-hantavirus-cruise-ship-face-45-day-quarantine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T09:59:59.000Z</news:publication_date>
+      <news:title>German Passengers From Hantavirus Cruise Ship Face 45-Day Quarantine </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/switzerland-leads-as-top-european-country-for-germans-to-live-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-11T08:50:49.000Z</news:publication_date>
+      <news:title>Switzerland Leads as Top European Country for Germans to Live In </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/csu-distances-itself-from-warkens-long-term-care-reform</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-09T15:57:18.000Z</news:publication_date>
       <news:title>Peter Magyar Sworn In as Hungary&apos;s New Prime Minister After Landslide Election Victory </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/porsche-to-close-three-subsidiaries-cut-over-500-jobs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T09:45:34.000Z</news:publication_date>
-      <news:title>Porsche to Close Three Subsidiaries, Cut Over 500 Jobs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rubio-urges-europeans-to-share-the-iran-burden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-09T09:12:58.000Z</news:publication_date>
-      <news:title>Rubio Urges Europeans to Share the Iran Burden </news:title>
     </news:news>
   </url>
 

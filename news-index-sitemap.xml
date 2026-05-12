@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-booed-at-german-trade-union-congress-over-sweeping-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T10:39:33.000Z</news:publication_date>
+      <news:title>Merz Booed at German Trade Union Congress Over Sweeping Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-launches-99-99-euros-family-ticket-for-summer-travel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T09:02:52.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Launches ?99.99 Family Ticket for Summer Travel </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/at-what-age-do-german-men-and-women-become-parents</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-10T11:41:45.000Z</news:publication_date>
       <news:title>Germany&apos;s Gas Storage Levels: Head of the Federal Agency Says There Is No Reason to Panic </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hantavirus-cruise-ship-arrives-in-canary-islands-passengers-to-be-evacuated-after-three-deaths</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T09:46:52.000Z</news:publication_date>
-      <news:title>Hantavirus Cruise Ship Arrives in Canary Islands: Passengers to Be Evacuated After Three Deaths </news:title>
     </news:news>
   </url>
 

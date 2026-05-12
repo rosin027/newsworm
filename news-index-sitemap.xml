@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/why-mosquitoes-find-you-irresistible-science-behind-bite</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T12:08:48.000Z</news:publication_date>
+      <news:title>Why Mosquitoes Find You Irresistible: The Science Behind the Bite </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-and-interior-ministry-strike-quota-based-integration-course-deal</loc>
     <news:news>
       <news:publication>

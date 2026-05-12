@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/at-what-age-do-german-men-and-women-become-parents</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T08:27:41.000Z</news:publication_date>
+      <news:title>At What Age Do German Men and Women Become Parents? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/inflation-in-germany-climbs-again-in-april-amid-rising-fuel-costs-from-iran-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T07:25:30.000Z</news:publication_date>
+      <news:title>Inflation in Germany Climbs Again in April Amid Rising Fuel Costs From Iran War </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/syrian-teen-arrested-in-hamburg-for-planning-islamist-bomb-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T07:01:51.000Z</news:publication_date>
+      <news:title>Syrian Teen Arrested in Hamburg for Planning Islamist Bomb Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/greens-push-for-lower-electricity-tax-as-relief-bonus-collapses-in-bundesrat</loc>
     <news:news>
       <news:publication>
@@ -107,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-05-10T09:46:52.000Z</news:publication_date>
       <news:title>Hantavirus Cruise Ship Arrives in Canary Islands: Passengers to Be Evacuated After Three Deaths </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/survey-nearly-half-of-germans-driving-less-due-to-fuel-price-surge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T08:58:10.000Z</news:publication_date>
-      <news:title>Survey: Nearly Half of Germans Driving Less Due to Fuel Price Surge </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-and-interior-ministry-strike-quota-based-integration-course-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T10:40:27.000Z</news:publication_date>
+      <news:title>SPD and Interior Ministry Strike Quota-Based Integration Course Deal </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-booed-at-german-trade-union-congress-over-sweeping-reforms</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-05-11T07:20:38.000Z</news:publication_date>
       <news:title>Coalition Seeks New Relief Measures After ?1000 Employee Bonus Rejection </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ukraine-war-nearing-its-end-putin-names-former-german-chancellor-schroder-as-preferred-mediator</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T12:48:55.000Z</news:publication_date>
-      <news:title>Ukraine War &apos;Nearing Its End&apos;: Putin Names Former German Chancellor Schr?der as Preferred Mediator </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-gas-storage-levels-head-of-the-federal-agency-says-there-is-no-reason-to-panic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-10T11:41:45.000Z</news:publication_date>
-      <news:title>Germany&apos;s Gas Storage Levels: Head of the Federal Agency Says There Is No Reason to Panic </news:title>
     </news:news>
   </url>
 

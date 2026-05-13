@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-trip-one-ticket-eu-proposes-rules-to-make-cross-border-train-travel-easier</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T11:14:44.000Z</news:publication_date>
+      <news:title>One Trip One Ticket: EU Proposes Rules to Make Cross-Border Train Travel Easier </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-woman-from-hondius-cruise-shows-no-signs-of-hantavirus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T11:00:19.000Z</news:publication_date>
+      <news:title>German Woman From Hondius Cruise Shows No Signs of Hantavirus  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cabinet-approves-harsher-penalties-for-crimes-using-date-rape-drugs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T09:39:28.000Z</news:publication_date>
+      <news:title>Cabinet Approves Harsher Penalties for Crimes Using Date-Rape Drugs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/coalition-scraps-1-000-euro-employee-relief-bonus-after-bundesrat-defeat</loc>
     <news:news>
       <news:publication>

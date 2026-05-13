@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/coalition-scraps-1-000-euro-employee-relief-bonus-after-bundesrat-defeat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T09:38:53.000Z</news:publication_date>
+      <news:title>Coalition Scraps ?1,000 Employee Relief Bonus After Bundesrat Defeat  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/automotive-industry-in-germany-faces-225-000-job-losses-by-2035</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-05-11T13:12:57.000Z</news:publication_date>
       <news:title>Greens Push for Lower Electricity Tax as Relief Bonus Collapses in Bundesrat </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-passengers-from-hantavirus-cruise-ship-face-45-day-quarantine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T09:59:59.000Z</news:publication_date>
-      <news:title>German Passengers From Hantavirus Cruise Ship Face 45-Day Quarantine </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/automotive-industry-in-germany-faces-225-000-job-losses-by-2035</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T08:08:43.000Z</news:publication_date>
+      <news:title>Automotive Industry in Germany Faces 225,000 Job Losses by 2035 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/coalition-leaders-meet-to-discuss-reform-roadmap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T07:54:20.000Z</news:publication_date>
+      <news:title>Coalition Leaders Meet to Discuss Reform Roadmap </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/magdeburg-christmas-market-attack-investigation-reveals-security-lapses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T07:38:15.000Z</news:publication_date>
+      <news:title>Magdeburg Christmas Market Attack: Investigation Reveals Security Lapses </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-wants-to-put-tiktok-in-european-hands</loc>
     <news:news>
       <news:publication>
@@ -131,54 +167,6 @@
       </news:publication>
       <news:publication_date>2026-05-11T09:59:59.000Z</news:publication_date>
       <news:title>German Passengers From Hantavirus Cruise Ship Face 45-Day Quarantine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/switzerland-leads-as-top-european-country-for-germans-to-live-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T08:50:49.000Z</news:publication_date>
-      <news:title>Switzerland Leads as Top European Country for Germans to Live In </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/csu-distances-itself-from-warkens-long-term-care-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T08:26:21.000Z</news:publication_date>
-      <news:title>CSU Distances Itself from Warken&apos;s Long-Term Care Reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ig-metall-chief-benner-accuses-government-of-policy-of-uncertainty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T07:38:18.000Z</news:publication_date>
-      <news:title>IG Metall Chief Benner Accuses Government of &quot;Policy of Uncertainty&quot; </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/coalition-seeks-new-relief-measures-after-1000-euros-employee-bonus-rejection</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T07:20:38.000Z</news:publication_date>
-      <news:title>Coalition Seeks New Relief Measures After ?1000 Employee Bonus Rejection </news:title>
     </news:news>
   </url>
 

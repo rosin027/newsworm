@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/train-conductor-killed-over-ticket-suspect-denies-intent-to-kill</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T13:42:10.000Z</news:publication_date>
+      <news:title>Train Conductor Killed Over Ticket: Suspect Denies Intent to Kill </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-trip-one-ticket-eu-proposes-rules-to-make-cross-border-train-travel-easier</loc>
     <news:news>
       <news:publication>
@@ -191,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-05-12T07:01:51.000Z</news:publication_date>
       <news:title>Syrian Teen Arrested in Hamburg for Planning Islamist Bomb Attack </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greens-push-for-lower-electricity-tax-as-relief-bonus-collapses-in-bundesrat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T13:12:57.000Z</news:publication_date>
-      <news:title>Greens Push for Lower Electricity Tax as Relief Bonus Collapses in Bundesrat </news:title>
     </news:news>
   </url>
 

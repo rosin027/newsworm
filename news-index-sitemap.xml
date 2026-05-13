@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tesla-to-create-1-500-jobs-in-berlin-battery-plant-expansion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-13T16:07:26.000Z</news:publication_date>
+      <news:title>Tesla to Create 1,500 Jobs in Berlin Battery Plant Expansion </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/train-conductor-killed-over-ticket-suspect-denies-intent-to-kill</loc>
     <news:news>
       <news:publication>

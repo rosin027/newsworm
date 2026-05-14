@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merkel-defends-coalition-debates-urges-merz-to-keep-open-mind</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T06:37:43.000Z</news:publication_date>
+      <news:title>Merkel Defends Coalition Debates, Urges Merz to Keep Open Mind </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-launches-berlinpay-to-swap-trash-for-treats</loc>
     <news:news>
       <news:publication>
@@ -191,42 +203,6 @@
       </news:publication>
       <news:publication_date>2026-05-12T09:02:52.000Z</news:publication_date>
       <news:title>Deutsche Bahn Launches ?99.99 Family Ticket for Summer Travel </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/at-what-age-do-german-men-and-women-become-parents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T08:27:41.000Z</news:publication_date>
-      <news:title>At What Age Do German Men and Women Become Parents? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-in-germany-climbs-again-in-april-amid-rising-fuel-costs-from-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T07:25:30.000Z</news:publication_date>
-      <news:title>Inflation in Germany Climbs Again in April Amid Rising Fuel Costs From Iran War </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/syrian-teen-arrested-in-hamburg-for-planning-islamist-bomb-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T07:01:51.000Z</news:publication_date>
-      <news:title>Syrian Teen Arrested in Hamburg for Planning Islamist Bomb Attack </news:title>
     </news:news>
   </url>
 

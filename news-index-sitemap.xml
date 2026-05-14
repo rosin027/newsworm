@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/milka-shrinkflation-ruled-illegal-court-sides-with-german-consumers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T08:18:44.000Z</news:publication_date>
+      <news:title>Milka Shrinkflation Ruled Illegal: Court Sides With German Consumers </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merkel-defends-coalition-debates-urges-merz-to-keep-open-mind</loc>
     <news:news>
       <news:publication>
@@ -167,42 +179,6 @@
       </news:publication>
       <news:publication_date>2026-05-12T12:08:48.000Z</news:publication_date>
       <news:title>Why Mosquitoes Find You Irresistible: The Science Behind the Bite </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-and-interior-ministry-strike-quota-based-integration-course-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T10:40:27.000Z</news:publication_date>
-      <news:title>SPD and Interior Ministry Strike Quota-Based Integration Course Deal </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-booed-at-german-trade-union-congress-over-sweeping-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T10:39:33.000Z</news:publication_date>
-      <news:title>Merz Booed at German Trade Union Congress Over Sweeping Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-launches-99-99-euros-family-ticket-for-summer-travel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T09:02:52.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Launches ?99.99 Family Ticket for Summer Travel </news:title>
     </news:news>
   </url>
 

@@ -134,28 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/one-trip-one-ticket-eu-proposes-rules-to-make-cross-border-train-travel-easier</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T11:14:44.000Z</news:publication_date>
-      <news:title>One Trip One Ticket: EU Proposes Rules to Make Cross-Border Train Travel Easier </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-woman-from-hondius-cruise-shows-no-signs-of-hantavirus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T11:00:19.000Z</news:publication_date>
-      <news:title>German Woman From Hondius Cruise Shows No Signs of Hantavirus  </news:title>
-    </news:news>
-  </url>
-
 </urlset>

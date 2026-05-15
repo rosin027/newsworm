@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-payment-card-for-asylum-seekers-faces-sharp-criticism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T10:06:34.000Z</news:publication_date>
+      <news:title>Germany&apos;s Payment Card for Asylum Seekers Faces Sharp Criticism </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/energy-intensive-industries-see-sharp-production-decline-job-cuts-in-germany</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-13T11:00:19.000Z</news:publication_date>
       <news:title>German Woman From Hondius Cruise Shows No Signs of Hantavirus  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabinet-approves-harsher-penalties-for-crimes-using-date-rape-drugs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T09:39:28.000Z</news:publication_date>
-      <news:title>Cabinet Approves Harsher Penalties for Crimes Using Date-Rape Drugs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/coalition-scraps-1-000-euro-employee-relief-bonus-after-bundesrat-defeat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-13T09:38:53.000Z</news:publication_date>
-      <news:title>Coalition Scraps ?1,000 Employee Relief Bonus After Bundesrat Defeat  </news:title>
     </news:news>
   </url>
 

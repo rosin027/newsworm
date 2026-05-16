@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dax-profits-rise-4-4-percent-in-q1-2026-despite-revenue-drop-and-job-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T08:10:26.000Z</news:publication_date>
+      <news:title>DAX Profits Rise 4.4% in Q1 2026 Despite Revenue Drop and Job Cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eurovision-2026-final-in-vienna-how-it-works</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T07:43:33.000Z</news:publication_date>
+      <news:title>Eurovision 2026 Final in Vienna: How It Works </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/chancellor-merz-says-he-wouldnt-recommend-young-germans-move-to-the-us</loc>
     <news:news>
       <news:publication>
@@ -11,6 +35,18 @@
       </news:publication>
       <news:publication_date>2026-05-15T13:32:43.000Z</news:publication_date>
       <news:title>Chancellor Merz Says He Wouldn&apos;t Recommend Young Germans Move to the US </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/dramatic-rescue-in-germany-officer-saves-drunk-driver-from-neckar-river-at-night</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-15T10:09:33.000Z</news:publication_date>
+      <news:title>Dramatic Rescue in Germany: Officer Saves Drunk Driver from Neckar River at Night </news:title>
     </news:news>
   </url>
 
@@ -83,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-14T12:40:04.000Z</news:publication_date>
       <news:title>Germany Records 3.2 Million Asylum Seekers in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/milka-shrinkflation-ruled-illegal-court-sides-with-german-consumers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T08:18:44.000Z</news:publication_date>
-      <news:title>Milka Shrinkflation Ruled Illegal: Court Sides With German Consumers </news:title>
     </news:news>
   </url>
 

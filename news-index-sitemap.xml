@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-records-sharp-rise-in-new-businesses-in-q1-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T11:52:39.000Z</news:publication_date>
+      <news:title>Germany Records Sharp Rise in New Businesses in Q1 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dax-profits-rise-4-4-percent-in-q1-2026-despite-revenue-drop-and-job-cuts</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-15T06:43:09.000Z</news:publication_date>
       <news:title>Crafts Association Head Criticizes Government&apos;s Hollow Reform Agenda </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-3-2-million-asylum-seekers-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-14T12:40:04.000Z</news:publication_date>
-      <news:title>Germany Records 3.2 Million Asylum Seekers in 2025 </news:title>
     </news:news>
   </url>
 

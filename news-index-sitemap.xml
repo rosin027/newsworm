@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/mercedes-benz-eyes-diversification-into-defence-amid-europes-military-push</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-16T14:29:21.000Z</news:publication_date>
+      <news:title>Mercedes-Benz Eyes Diversification Into Defence Amid Europe&apos;s Military Push </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-records-sharp-rise-in-new-businesses-in-q1-2026</loc>
     <news:news>
       <news:publication>

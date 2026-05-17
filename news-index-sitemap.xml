@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-soldiers-insulted-and-filmed-by-kazakh-man-in-munich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T13:23:11.000Z</news:publication_date>
+      <news:title>Bundeswehr Soldiers Insulted and Filmed by Kazakh Man in Munich </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leading-economists-doubt-german-governments-will-to-reform</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-05-16T07:43:33.000Z</news:publication_date>
       <news:title>Eurovision 2026 Final in Vienna: How It Works </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/chancellor-merz-says-he-wouldnt-recommend-young-germans-move-to-the-us</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T13:32:43.000Z</news:publication_date>
-      <news:title>Chancellor Merz Says He Wouldn&apos;t Recommend Young Germans Move to the US </news:title>
     </news:news>
   </url>
 

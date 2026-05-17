@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/leading-economists-doubt-german-governments-will-to-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T11:09:21.000Z</news:publication_date>
+      <news:title>Leading Economists Doubt German Government&apos;s Will to Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ebola-kills-88-in-drc-uganda-who-declares-health-emergency</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T11:07:00.000Z</news:publication_date>
+      <news:title>Ebola Kills 88 in DRC &amp; Uganda: WHO Declares Health Emergency </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/humpback-whale-timmy-found-dead-off-denmark-after-rescue-attempt</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/chancellor-merz-under-fire-two-thirds-of-germans-demand-leadership-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-17T06:48:09.000Z</news:publication_date>
+      <news:title>Chancellor Merz Under Fire: Two-Thirds of Germans Demand Leadership Change </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mercedes-benz-eyes-diversification-into-defence-amid-europes-military-push</loc>
     <news:news>
       <news:publication>
@@ -83,30 +95,6 @@
       </news:publication>
       <news:publication_date>2026-05-15T10:06:34.000Z</news:publication_date>
       <news:title>Germany&apos;s Payment Card for Asylum Seekers Faces Sharp Criticism </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/energy-intensive-industries-see-sharp-production-decline-job-cuts-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T08:54:02.000Z</news:publication_date>
-      <news:title>Energy-Intensive Industries See Sharp Production Decline, Job Cuts in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-backs-more-investment-over-subsidies-in-eu-budget-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-15T07:22:49.000Z</news:publication_date>
-      <news:title>Merz Backs More Investment Over Subsidies in EU Budget Reform </news:title>
     </news:news>
   </url>
 

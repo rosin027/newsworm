@@ -3,7 +3,19 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/eu20-000-reward-to-recover-celtic-gold-stolen-from-manching-museum-in-germany</loc>
+    <loc>https://www.newsworm.de/news/police-shoot-escaped-tiger-near-leipzig-after-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T16:14:38.000Z</news:publication_date>
+      <news:title>Police Shoot Escaped Tiger Near Leipzig After Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/20-000-euros-reward-to-recover-celtic-gold-stolen-from-manching-museum-in-germany</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>

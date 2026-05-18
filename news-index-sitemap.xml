@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-ready-to-support-congo-in-fight-against-ebola-outbreak</loc>
+    <loc>https://www.newsworm.de/news/klingbeil-urges-swift-iran-crisis-resolution-at-g7-paris-summit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-18T09:38:57.000Z</news:publication_date>
+      <news:title>Klingbeil Urges Swift Iran Crisis Resolution at G7 Paris Summit </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-stands-ready-to-help-fight-ebola-outbreak</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-18T08:03:38.000Z</news:publication_date>
-      <news:title>Germany Ready to Support Congo in Fight Against Ebola Outbreak </news:title>
+      <news:title>Germany Stands Ready to Help Fight Ebola Outbreak </news:title>
     </news:news>
   </url>
 

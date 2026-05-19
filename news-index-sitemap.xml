@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gorlitz-building-collapse-search-continues-for-three-missing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T08:08:31.000Z</news:publication_date>
+      <news:title>G?rlitz Building Collapse: Search Continues for Three Missing </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-launches-6-000-euros-electric-vehicle-subsidy-program</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T07:14:05.000Z</news:publication_date>
+      <news:title>Germany Launches ?6,000 Electric Vehicle Subsidy Program </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/police-shoot-escaped-tiger-near-leipzig-after-attack</loc>
     <news:news>
       <news:publication>

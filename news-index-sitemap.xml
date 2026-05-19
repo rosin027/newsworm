@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-urges-coalition-partners-to-stop-drawing-red-lines-against-each-other</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T13:36:08.000Z</news:publication_date>
+      <news:title>Merz Urges Coalition Partners to Stop Drawing Red Lines Against Each Other </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ebola-epidemic-in-dr-congo-kills-130-germany-to-treat-us-patient</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-19T12:59:51.000Z</news:publication_date>
+      <news:title>Ebola Epidemic in DR Congo Kills 130, Germany to Treat US Patient </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/summer-train-travel-germany-2026-deutsche-bahn-deals</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-18T06:16:47.000Z</news:publication_date>
       <news:title>Spahn Agrees to Parliamentary Allowance Freeze Amid Calls for Shared Sacrifice </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-soldiers-insulted-and-filmed-by-kazakh-man-in-munich</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-17T13:23:11.000Z</news:publication_date>
-      <news:title>Bundeswehr Soldiers Insulted and Filmed by Kazakh Man in Munich </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-begins-digitalization-of-social-welfare-system-with-unified-portal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T13:53:06.000Z</news:publication_date>
+      <news:title>Germany Begins Digitalization of Social Welfare System with Unified Portal </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-paves-the-way-for-digital-identity-wallet-eudi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T12:57:21.000Z</news:publication_date>
+      <news:title>Germany Paves the Way for Digital Identity Wallet EUDI </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/couple-arrested-in-munich-spying-for-chinese-intelligence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T11:51:59.000Z</news:publication_date>
+      <news:title>Couple Arrested in Munich Spying for Chinese Intelligence </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cheaper-driving-license-in-germany-cabinet-approves-major-reform</loc>
     <news:news>
       <news:publication>
@@ -143,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-05-18T16:14:38.000Z</news:publication_date>
       <news:title>Police Shoot Escaped Tiger Near Leipzig After Attack </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/20-000-euros-reward-to-recover-celtic-gold-stolen-from-manching-museum-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T14:07:32.000Z</news:publication_date>
-      <news:title>?20,000 Reward to Recover Celtic Gold Stolen from Manching Museum in Germany </news:title>
     </news:news>
   </url>
 

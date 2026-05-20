@@ -15,6 +15,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/pro-asyl-demands-germany-halt-deportations-to-afghanistan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T10:02:56.000Z</news:publication_date>
+      <news:title>Pro Asyl Demands Germany Halt Deportations to Afghanistan </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/driving-license-scam-in-germany-everything-you-must-know</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-18T14:07:32.000Z</news:publication_date>
       <news:title>?20,000 Reward to Recover Celtic Gold Stolen from Manching Museum in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dobrindt-announces-eu10-billion-to-strengthen-german-civil-protection</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T12:29:46.000Z</news:publication_date>
-      <news:title>Dobrindt Announces ?10 Billion to Strengthen German Civil Protection </news:title>
     </news:news>
   </url>
 

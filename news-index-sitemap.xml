@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/life-in-germanys-chemical-town-upended-by-thousands-of-job-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T07:14:41.000Z</news:publication_date>
+      <news:title>Life in Germany&apos;s &apos;Chemical Town&apos; Upended by Thousands of Job Cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/long-term-care-reform-faces-backlash-over-cost-increases-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T07:05:38.000Z</news:publication_date>
+      <news:title>Long-Term Care Reform Faces Backlash Over Cost Increases in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-agrees-to-implement-us-trade-pact-after-trump-threats</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-18T09:38:57.000Z</news:publication_date>
       <news:title>Klingbeil Urges Swift Iran Crisis Resolution at G7 Paris Summit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-stands-ready-to-help-fight-ebola-outbreak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T08:03:38.000Z</news:publication_date>
-      <news:title>Germany Stands Ready to Help Fight Ebola Outbreak </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/verdi-union-threatens-protests-over-labor-rights-and-pension-cuts-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T06:59:35.000Z</news:publication_date>
-      <news:title>Verdi Union Threatens Protests Over Labor Rights and Pension Cuts in Germany </news:title>
     </news:news>
   </url>
 

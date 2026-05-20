@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/cheaper-driving-license-in-germany-cabinet-approves-major-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T10:37:01.000Z</news:publication_date>
+      <news:title>Cheaper Driving License in Germany: Cabinet Approves Major Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/driving-license-scam-in-germany-everything-you-must-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T08:53:41.000Z</news:publication_date>
+      <news:title>Driving License Scam in Germany - Everything You Must Know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/life-in-germanys-chemical-town-upended-by-thousands-of-job-cuts</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-18T12:29:46.000Z</news:publication_date>
       <news:title>Dobrindt Announces ?10 Billion to Strengthen German Civil Protection </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/daughter-murdered-thrown-in-main-river-father-arrested-after-25-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T10:36:58.000Z</news:publication_date>
-      <news:title>Daughter Murdered, Thrown in Main River: Father Arrested After 25 Years  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/klingbeil-urges-swift-iran-crisis-resolution-at-g7-paris-summit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T09:38:57.000Z</news:publication_date>
-      <news:title>Klingbeil Urges Swift Iran Crisis Resolution at G7 Paris Summit </news:title>
     </news:news>
   </url>
 

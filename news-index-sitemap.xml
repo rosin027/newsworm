@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-agrees-to-implement-us-trade-pact-after-trump-threats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-20T06:44:38.000Z</news:publication_date>
+      <news:title>EU agrees to implement US trade pact after Trump threats </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-urges-coalition-partners-to-stop-drawing-red-lines-against-each-other</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-18T06:59:35.000Z</news:publication_date>
       <news:title>Verdi Union Threatens Protests Over Labor Rights and Pension Cuts in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spahn-agrees-to-parliamentary-allowance-freeze-amid-calls-for-shared-sacrifice</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-18T06:16:47.000Z</news:publication_date>
-      <news:title>Spahn Agrees to Parliamentary Allowance Freeze Amid Calls for Shared Sacrifice </news:title>
     </news:news>
   </url>
 

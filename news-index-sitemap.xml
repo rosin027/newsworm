@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gorlitz-building-collapse-womans-body-found-in-rubble</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T07:36:16.000Z</news:publication_date>
+      <news:title>G?rlitz Building Collapse: Woman&apos;s body found in rubble </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/retirement-at-70-in-germany-is-it-really-happening</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T07:23:46.000Z</news:publication_date>
+      <news:title>Retirement at 70 in Germany - Is It Really Happening? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-proposes-associate-eu-membership-for-ukraine-with-no-voting-rights</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T07:15:27.000Z</news:publication_date>
+      <news:title>Merz Proposes Associate EU Membership for Ukraine With No Voting Rights </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-8-000-euros-payment-for-syrians-to-return-home</loc>
     <news:news>
       <news:publication>
@@ -155,30 +191,6 @@
       </news:publication>
       <news:publication_date>2026-05-19T10:16:18.000Z</news:publication_date>
       <news:title>Summer Train Travel 2026: Affordable German Rail Deals &amp; European Connections </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gorlitz-building-collapse-search-continues-for-three-missing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T08:08:31.000Z</news:publication_date>
-      <news:title>G?rlitz Building Collapse: Search Continues for Three Missing </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-6-000-euros-electric-vehicle-subsidy-program</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T07:14:05.000Z</news:publication_date>
-      <news:title>Germany Launches ?6,000 Electric Vehicle Subsidy Program </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/international-students-in-germany-trapped-in-debt-and-unstable-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T12:23:35.000Z</news:publication_date>
+      <news:title>International Students in Germany Trapped in Debt and Unstable Jobs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-slashes-germanys-2026-growth-forecast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T10:45:30.000Z</news:publication_date>
+      <news:title>EU Slashes Germany&apos;s 2026 Growth Forecast </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/should-asylum-seekers-get-the-same-welfare-benefits-in-germany</loc>
     <news:news>
       <news:publication>

@@ -194,28 +194,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-urges-coalition-partners-to-stop-drawing-red-lines-against-each-other</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T13:36:08.000Z</news:publication_date>
-      <news:title>Merz Urges Coalition Partners to Stop Drawing Red Lines Against Each Other </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ebola-epidemic-in-dr-congo-kills-130-germany-to-treat-us-patient</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T12:59:51.000Z</news:publication_date>
-      <news:title>Ebola Epidemic in DR Congo Kills 130, Germany to Treat US Patient </news:title>
-    </news:news>
-  </url>
-
 </urlset>

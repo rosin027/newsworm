@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/should-asylum-seekers-get-the-same-welfare-benefits-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T10:39:38.000Z</news:publication_date>
+      <news:title>Should Asylum Seekers Get the Same Welfare Benefits in Germany? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gorlitz-building-collapse-womans-body-found-in-rubble</loc>
     <news:news>
       <news:publication>
@@ -179,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-05-19T12:59:51.000Z</news:publication_date>
       <news:title>Ebola Epidemic in DR Congo Kills 130, Germany to Treat US Patient </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/summer-train-travel-germany-2026-deutsche-bahn-deals</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T10:16:18.000Z</news:publication_date>
-      <news:title>Summer Train Travel 2026: Affordable German Rail Deals &amp; European Connections </news:title>
     </news:news>
   </url>
 

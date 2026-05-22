@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/how-will-germanys-new-pharmacy-reform-affect-you</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T11:50:07.000Z</news:publication_date>
+      <news:title>How Will Germany&apos;s New Pharmacy Reform Affect You? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/housing-crisis-in-germany-construction-drops-to-lowest-level-since-2012</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-05-20T16:11:35.000Z</news:publication_date>
       <news:title>Germany Plans ?8,000 Payment for Syrians To Return Home </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-begins-digitalization-of-social-welfare-system-with-unified-portal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T13:53:06.000Z</news:publication_date>
-      <news:title>Germany Begins Digitalization of Social Welfare System with Unified Portal </news:title>
     </news:news>
   </url>
 

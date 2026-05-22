@@ -206,16 +206,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/eu-agrees-to-implement-us-trade-pact-after-trump-threats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T06:44:38.000Z</news:publication_date>
-      <news:title>EU agrees to implement US trade pact after Trump threats </news:title>
-    </news:news>
-  </url>
-
 </urlset>

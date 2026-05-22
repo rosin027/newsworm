@@ -170,28 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-paves-the-way-for-digital-identity-wallet-eudi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T12:57:21.000Z</news:publication_date>
-      <news:title>Germany Paves the Way for Digital Identity Wallet EUDI </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/couple-arrested-in-munich-spying-for-chinese-intelligence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T11:51:59.000Z</news:publication_date>
-      <news:title>Couple Arrested in Munich Spying for Chinese Intelligence </news:title>
-    </news:news>
-  </url>
-
 </urlset>

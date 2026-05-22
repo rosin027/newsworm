@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/gorlitz-building-collapse-bodies-of-all-three-missing-recovered-from-rubble</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T07:13:18.000Z</news:publication_date>
+      <news:title>G?rlitz Building Collapse: Bodies of All Three Missing Recovered From Rubble </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/passengers-to-save-on-flights-bundestag-approves-aviation-tax-cut</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T06:55:37.000Z</news:publication_date>
+      <news:title>Passengers to Save on Flights: Bundestag Approves Aviation Tax Cut </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/elterngeld-cuts-in-germany-what-could-change-for-parents</loc>
     <news:news>
       <news:publication>
@@ -167,42 +191,6 @@
       </news:publication>
       <news:publication_date>2026-05-20T10:02:56.000Z</news:publication_date>
       <news:title>Pro Asyl Demands Germany Halt Deportations to Afghanistan </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/driving-license-scam-in-germany-everything-you-must-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T08:53:41.000Z</news:publication_date>
-      <news:title>Driving License Scam in Germany - Everything You Must Know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/life-in-germanys-chemical-town-upended-by-thousands-of-job-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T07:14:41.000Z</news:publication_date>
-      <news:title>Life in Germany&apos;s &apos;Chemical Town&apos; Upended by Thousands of Job Cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/long-term-care-reform-faces-backlash-over-cost-increases-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T07:05:38.000Z</news:publication_date>
-      <news:title>Long-Term Care Reform Faces Backlash Over Cost Increases in Germany </news:title>
     </news:news>
   </url>
 

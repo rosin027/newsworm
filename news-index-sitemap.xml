@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/housing-crisis-in-germany-construction-drops-to-lowest-level-since-2012</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T10:16:21.000Z</news:publication_date>
+      <news:title>Housing Crisis in Germany: Construction Drops to Lowest Level Since 2012 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-to-make-kindergeld-application-free-from-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-22T09:25:29.000Z</news:publication_date>
+      <news:title>Germany to Make Kindergeld Application-Free From 2027 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gorlitz-building-collapse-bodies-of-all-three-missing-recovered-from-rubble</loc>
     <news:news>
       <news:publication>
@@ -15,14 +39,14 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/passengers-to-save-on-flights-bundestag-approves-aviation-tax-cut</loc>
+    <loc>https://www.newsworm.de/news/bundestag-voted-to-cut-aviation-tax-on-flights-but-will-fares-drop</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-22T06:55:37.000Z</news:publication_date>
-      <news:title>Passengers to Save on Flights: Bundestag Approves Aviation Tax Cut </news:title>
+      <news:title>Bundestag Voted to Cut Aviation Tax on Flights - But Will Fares Drop? </news:title>
     </news:news>
   </url>
 
@@ -167,30 +191,6 @@
       </news:publication>
       <news:publication_date>2026-05-20T11:51:59.000Z</news:publication_date>
       <news:title>Couple Arrested in Munich Spying for Chinese Intelligence </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cheaper-driving-license-in-germany-cabinet-approves-major-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T10:37:01.000Z</news:publication_date>
-      <news:title>Cheaper Driving License in Germany: Cabinet Approves Major Reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pro-asyl-demands-germany-halt-deportations-to-afghanistan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T10:02:56.000Z</news:publication_date>
-      <news:title>Pro Asyl Demands Germany Halt Deportations to Afghanistan </news:title>
     </news:news>
   </url>
 

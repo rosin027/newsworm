@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ebola-risk-now-at-highest-level-in-dr-congo-says-who</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-23T08:33:43.000Z</news:publication_date>
+      <news:title>Ebola risk now at highest level in DR Congo, says WHO </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-dihk-slashes-2026-gdp-growth-forecast-amid-middle-east-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-23T08:24:02.000Z</news:publication_date>
+      <news:title>Germany&apos;s DIHK Slashes 2026 GDP Growth Forecast Amid Middle East War </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germans-demand-reform-but-doubt-government-can-deliver</loc>
     <news:news>
       <news:publication>
@@ -131,42 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-21T10:39:38.000Z</news:publication_date>
       <news:title>Should Asylum Seekers Get the Same Welfare Benefits in Germany? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gorlitz-building-collapse-womans-body-found-in-rubble</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T07:36:16.000Z</news:publication_date>
-      <news:title>G?rlitz Building Collapse: Woman&apos;s body found in rubble </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/retirement-at-70-in-germany-is-it-really-happening</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T07:23:46.000Z</news:publication_date>
-      <news:title>Retirement at 70 in Germany - Is It Really Happening? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-proposes-associate-eu-membership-for-ukraine-with-no-voting-rights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-21T07:15:27.000Z</news:publication_date>
-      <news:title>Merz Proposes Associate EU Membership for Ukraine With No Voting Rights </news:title>
     </news:news>
   </url>
 

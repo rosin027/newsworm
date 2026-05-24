@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-east-west-pension-gap-widens-bsw-threatens-protests</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-24T07:38:19.000Z</news:publication_date>
+      <news:title>Germany&apos;s East-West Pension Gap Widens, BSW Threatens Protests </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/white-house-shooting-gunman-killed-by-us-secret-service-after-opening-fire</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-24T07:36:20.000Z</news:publication_date>
+      <news:title>White House Shooting: Gunman Killed by US Secret Service After Opening Fire </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dusseldorf-tram-crash-dozens-hurt-as-two-trains-smash-into-each-other</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-05-22T09:25:29.000Z</news:publication_date>
       <news:title>Germany to Make Kindergeld Application-Free From 2027 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gorlitz-building-collapse-bodies-of-all-three-missing-recovered-from-rubble</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T07:13:18.000Z</news:publication_date>
-      <news:title>G?rlitz Building Collapse: Bodies of All Three Missing Recovered From Rubble </news:title>
     </news:news>
   </url>
 

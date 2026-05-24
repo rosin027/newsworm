@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-bafoeg-debate-students-hit-back-after-jens-spahn-rules-out-funding-increase</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-24T09:03:07.000Z</news:publication_date>
+      <news:title>Germany&apos;s BAf?G Debate: Students Hit Back After Jens Spahn Rules Out Funding Increase </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-east-west-pension-gap-widens-bsw-threatens-protests</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-22T11:50:07.000Z</news:publication_date>
       <news:title>How Will Germany&apos;s New Pharmacy Reform Affect You? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/housing-crisis-in-germany-construction-drops-to-lowest-level-since-2012</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T10:16:21.000Z</news:publication_date>
-      <news:title>Housing Crisis in Germany: Construction Drops to Lowest Level Since 2012 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-make-kindergeld-application-free-from-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-22T09:25:29.000Z</news:publication_date>
-      <news:title>Germany to Make Kindergeld Application-Free From 2027 </news:title>
     </news:news>
   </url>
 

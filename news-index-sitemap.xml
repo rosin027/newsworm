@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/dusseldorf-tram-crash-dozens-hurt-as-two-trains-smash-into-each-other</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T14:40:49.000Z</news:publication_date>
-      <news:title>D?sseldorf Tram Crash: Dozens Hurt as Two Trains Smash Into Each Other </news:title>
-    </news:news>
-  </url>
-
 </urlset>

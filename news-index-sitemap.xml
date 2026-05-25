@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-germanys-healthcare-system-failing-contributors-while-protecting-civil-servants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-25T08:20:28.000Z</news:publication_date>
+      <news:title>Is Germany&apos;s Healthcare System Failing Contributors While Protecting Civil Servants?  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-sheds-341-500-industrial-jobs-since-2019-as-crisis-deepens</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-23T11:48:39.000Z</news:publication_date>
       <news:title>Massive Protests Across Germany Demand an AfD Ban Now  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-is-the-ehrentag-germanys-first-day-of-honor-explained</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T09:44:31.000Z</news:publication_date>
-      <news:title>What Is the Ehrentag? Germany&apos;s First Day of Honor Explained </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sheds-341-500-industrial-jobs-since-2019-as-crisis-deepens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-25T08:00:00.000Z</news:publication_date>
+      <news:title>Germany Sheds 341,500 Industrial Jobs Since 2019 as Crisis Deepens </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/berlins-carnival-of-cultures-draws-record-770-000-visitors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-25T07:48:26.000Z</news:publication_date>
+      <news:title>Berlin&apos;s Carnival of Cultures Draws Record 770,000 Visitors </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-germany-about-to-scrap-the-eight-hour-working-day</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-05-23T09:44:31.000Z</news:publication_date>
       <news:title>What Is the Ehrentag? Germany&apos;s First Day of Honor Explained </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ebola-risk-now-at-highest-level-in-dr-congo-says-who</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T08:33:43.000Z</news:publication_date>
-      <news:title>Ebola risk now at highest level in DR Congo, says WHO </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-dihk-slashes-2026-gdp-growth-forecast-amid-middle-east-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-23T08:24:02.000Z</news:publication_date>
-      <news:title>Germany&apos;s DIHK Slashes 2026 GDP Growth Forecast Amid Middle East War </news:title>
     </news:news>
   </url>
 

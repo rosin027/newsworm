@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-broadcasting-fee-why-the-afd-wants-it-abolished</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-25T14:19:28.000Z</news:publication_date>
+      <news:title>Germany Broadcasting Fee: Why the AfD Wants It Abolished  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-germanys-healthcare-system-failing-its-contributors</loc>
     <news:news>
       <news:publication>

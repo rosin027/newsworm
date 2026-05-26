@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/long-term-care-contributions-to-rise-for-people-without-children</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T07:42:47.000Z</news:publication_date>
+      <news:title>Long-Term Care Contributions to Rise for People Without Children </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/smoking-in-germany-2025-nearly-one-in-five-adults-light-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-26T07:26:22.000Z</news:publication_date>
+      <news:title>Smoking in Germany 2025: Nearly One in Five Adults Light Up </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-broadcasting-fee-why-the-afd-wants-it-abolished</loc>
     <news:news>
       <news:publication>
@@ -83,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-05-24T09:03:07.000Z</news:publication_date>
       <news:title>Germany&apos;s BAf?G Debate: Students Hit Back After Jens Spahn Rules Out Funding Increase </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-east-west-pension-gap-widens-bsw-threatens-protests</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-24T07:38:19.000Z</news:publication_date>
-      <news:title>Germany&apos;s East-West Pension Gap Widens, BSW Threatens Protests </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/white-house-shooting-gunman-killed-by-us-secret-service-after-opening-fire</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-24T07:36:20.000Z</news:publication_date>
-      <news:title>White House Shooting: Gunman Killed by US Secret Service After Opening Fire </news:title>
     </news:news>
   </url>
 

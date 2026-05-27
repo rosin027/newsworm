@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-germanys-administrative-court-reform-means-for-citizens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T12:06:09.000Z</news:publication_date>
+      <news:title>What Germany&apos;s Administrative Court Reform Means for Citizens </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-overhauls-laws-against-human-trafficking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T10:15:14.000Z</news:publication_date>
+      <news:title>German Cabinet Overhauls Laws Against Human Trafficking  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-2026-growth-forecast-nearly-cut-in-half</loc>
     <news:news>
       <news:publication>

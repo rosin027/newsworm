@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/naturalisation-in-germany-hits-all-time-high-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T08:25:24.000Z</news:publication_date>
+      <news:title>Naturalisation in Germany Hits All-Time High in 2025 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-enter-world-cup-group-e-with-score-to-settle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T07:37:37.000Z</news:publication_date>
+      <news:title>Germany enter World Cup Group E with score to settle </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-germany-finally-raise-elterngeld-but-at-what-cost</loc>
     <news:news>
       <news:publication>
@@ -107,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-05-25T14:19:28.000Z</news:publication_date>
       <news:title>Germany Broadcasting Fee: Why the AfD Wants It Abolished  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/is-germanys-healthcare-system-failing-its-contributors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-25T08:20:28.000Z</news:publication_date>
-      <news:title>Is Germany&apos;s Healthcare System Failing its Contributors?  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sheds-341-500-industrial-jobs-since-2019-as-crisis-deepens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-25T08:00:00.000Z</news:publication_date>
-      <news:title>Germany Sheds 341,500 Industrial Jobs Since 2019 as Crisis Deepens </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlins-carnival-of-cultures-draws-record-770-000-visitors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-25T07:48:26.000Z</news:publication_date>
-      <news:title>Berlin&apos;s Carnival of Cultures Draws Record 770,000 Visitors </news:title>
     </news:news>
   </url>
 

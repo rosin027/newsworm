@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/switzerland-knife-attack-man-stabs-three-at-winterthur-station</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T17:32:53.000Z</news:publication_date>
+      <news:title>Switzerland Knife Attack: Man Stabs Three at Winterthur Station </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mandatory-bundeswehr-reserve-duty-in-germany-who-is-affected-and-how</loc>
     <news:news>
       <news:publication>
@@ -23,6 +35,18 @@
       </news:publication>
       <news:publication_date>2026-05-28T14:52:29.000Z</news:publication_date>
       <news:title>CDU Demands Stronger Use of Home Assets to Cover Long term Care Costs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/train-conductor-killed-after-ticket-check-26-year-old-charged-with-murder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T13:16:32.000Z</news:publication_date>
+      <news:title>Train Conductor Killed After Ticket Check: 26-Year-Old Charged With Murder </news:title>
     </news:news>
   </url>
 

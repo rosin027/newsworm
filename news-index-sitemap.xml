@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/two-trams-crash-in-hanover-twelve-injured-six-hospitalised</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T12:42:47.000Z</news:publication_date>
+      <news:title>Two Trams Crash in Hanover: Twelve Injured, Six Hospitalised </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/how-much-did-wages-rise-in-germany-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T10:12:43.000Z</news:publication_date>
+      <news:title>How Much Did Wages Rise in Germany in 2026? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-expires-soon-is-an-extension-coming</loc>
     <news:news>
       <news:publication>
@@ -179,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-05-26T13:05:38.000Z</news:publication_date>
       <news:title>Minister Reiche Heads to China Amid Trade Tensions and Import Dependency </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-in-crisis-iran-war-and-years-of-stagnation-crush-business-confidence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T12:52:25.000Z</news:publication_date>
-      <news:title>German Economy in Crisis: Iran War and Years of Stagnation Crush Business Confidence </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/safest-child-car-seats-top-rated-models-best-value-and-budget-friendly-picks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T11:55:04.000Z</news:publication_date>
-      <news:title>Safest Child Car Seats: Top Rated Models, Best Value, and Budget-Friendly Picks </news:title>
     </news:news>
   </url>
 

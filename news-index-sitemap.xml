@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/working-hours-in-germany-full-time-and-part-time-trends</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-28T08:04:05.000Z</news:publication_date>
+      <news:title>Working Hours in Germany: Full-Time and  Part-Time Trends </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-5-000-super-rich-own-over-a-quarter-of-its-wealth</loc>
     <news:news>
       <news:publication>
@@ -167,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-05-26T09:53:26.000Z</news:publication_date>
       <news:title>Heatwave in Germany Reaches Its Peak With 34?C  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/long-term-care-contributions-to-rise-for-people-without-children</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T07:42:47.000Z</news:publication_date>
-      <news:title>Long-Term Care Contributions to Rise for People Without Children </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/smoking-in-germany-2025-nearly-one-in-five-adults-light-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T07:26:22.000Z</news:publication_date>
-      <news:title>Smoking in Germany 2025: Nearly One in Five Adults Light Up </news:title>
     </news:news>
   </url>
 

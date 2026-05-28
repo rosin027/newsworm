@@ -170,40 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/will-germany-finally-raise-elterngeld-but-at-what-cost</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T13:33:54.000Z</news:publication_date>
-      <news:title>Will Germany Finally Raise Elterngeld, but at What Cost? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/education-in-germany-the-growing-demand-for-equal-standards-and-free-schooling</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T13:32:10.000Z</news:publication_date>
-      <news:title>Education in Germany: The Growing Demand for Equal Standards and Free Schooling </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/minister-reiche-heads-to-china-amid-trade-tensions-and-import-dependency</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-26T13:05:38.000Z</news:publication_date>
-      <news:title>Minister Reiche Heads to China Amid Trade Tensions and Import Dependency </news:title>
-    </news:news>
-  </url>
-
 </urlset>

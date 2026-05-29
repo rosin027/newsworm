@@ -206,28 +206,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-overhauls-laws-against-human-trafficking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-27T10:15:14.000Z</news:publication_date>
-      <news:title>German Cabinet Overhauls Laws Against Human Trafficking  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-2026-growth-forecast-nearly-cut-in-half</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-27T09:31:11.000Z</news:publication_date>
-      <news:title>Germany&apos;s 2026 Growth Forecast Nearly Cut in Half </news:title>
-    </news:news>
-  </url>
-
 </urlset>

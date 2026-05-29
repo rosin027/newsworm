@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-records-2-95-million-unemployed-in-may-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T08:49:20.000Z</news:publication_date>
+      <news:title>Germany Records 2.95 Million Unemployed in May 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-fines-temu-200-million-euros-over-illegal-products</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T07:48:44.000Z</news:publication_date>
+      <news:title>EU Fines Temu ?200 Million Over Illegal Products  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/unions-warn-scrapping-eight-hour-day-puts-worker-health-at-risk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T07:42:48.000Z</news:publication_date>
+      <news:title>Unions Warn Scrapping Eight-Hour Day Puts Worker Health at Risk </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/switzerland-knife-attack-man-stabs-three-at-winterthur-station</loc>
     <news:news>
       <news:publication>
@@ -191,30 +227,6 @@
       </news:publication>
       <news:publication_date>2026-05-27T09:31:11.000Z</news:publication_date>
       <news:title>Germany&apos;s 2026 Growth Forecast Nearly Cut in Half </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/naturalisation-in-germany-hits-all-time-high-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-27T08:25:24.000Z</news:publication_date>
-      <news:title>Naturalisation in Germany Hits All-Time High in 2025 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-enter-world-cup-group-e-with-score-to-settle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-27T07:37:37.000Z</news:publication_date>
-      <news:title>Germany enter World Cup Group E with score to settle </news:title>
     </news:news>
   </url>
 

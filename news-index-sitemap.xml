@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/brenner-motorway-closed-what-travellers-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T11:03:22.000Z</news:publication_date>
+      <news:title>Brenner Motorway Closed: What Travellers Need to Know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-records-2-95-million-unemployed-in-may-2026</loc>
     <news:news>
       <news:publication>
@@ -191,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-05-27T13:29:25.000Z</news:publication_date>
       <news:title>FIFA World Cup 2026: What German Businesses Expect From the Tournament </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-germanys-administrative-court-reform-means-for-citizens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-27T12:06:09.000Z</news:publication_date>
-      <news:title>What Germany&apos;s Administrative Court Reform Means for Citizens </news:title>
     </news:news>
   </url>
 

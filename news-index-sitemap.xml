@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/how-much-did-germany-spend-on-social-benefits-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-30T13:08:05.000Z</news:publication_date>
+      <news:title>How Much Did Germany Spend on Social Benefits in 2025? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/munich-airport-reopens-after-one-hour-closure-over-suspected-drone-sighting</loc>
     <news:news>
       <news:publication>
@@ -46,7 +58,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-30T08:05:01.000Z</news:publication_date>
-      <news:title>Digital Devices, Daycare and Education: Why German Parents Should Pay Attention </news:title>
+      <news:title>Digital Devices, Daycare and Education: Why Parents Should Pay Attention </news:title>
     </news:news>
   </url>
 
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-05-28T15:19:46.000Z</news:publication_date>
       <news:title>Mandatory Bundeswehr Reserve Duty in Germany: Who Is Affected and How </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-demands-stronger-use-of-home-assets-to-cover-long-term-care-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T14:52:29.000Z</news:publication_date>
-      <news:title>CDU Demands Stronger Use of Home Assets to Cover Long term Care Costs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/train-conductor-killed-after-ticket-check-26-year-old-charged-with-murder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T13:16:32.000Z</news:publication_date>
-      <news:title>Train Conductor Killed After Ticket Check: 26-Year-Old Charged With Murder </news:title>
     </news:news>
   </url>
 

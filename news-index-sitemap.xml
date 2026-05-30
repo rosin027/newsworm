@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/mandatory-bundeswehr-reserve-duty-in-germany-who-is-affected-and-how</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T15:19:46.000Z</news:publication_date>
-      <news:title>Mandatory Bundeswehr Reserve Duty in Germany: Who Is Affected and How </news:title>
-    </news:news>
-  </url>
-
 </urlset>

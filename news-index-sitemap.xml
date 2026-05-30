@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-wants-to-break-up-with-us-and-chinese-tech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-30T08:43:40.000Z</news:publication_date>
+      <news:title>EU Wants to Break Up With US and Chinese Tech </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/digital-devices-daycare-and-literacy-why-german-parents-should-pay-attention-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-30T08:05:01.000Z</news:publication_date>
+      <news:title>Digital Devices, Daycare and Literacy: Why German Parents Should Pay Attention  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/chancellor-swap-rumours-swirl-about-german-leader-merzs-future</loc>
     <news:news>
       <news:publication>
@@ -167,30 +191,6 @@
       </news:publication>
       <news:publication_date>2026-05-28T09:15:56.000Z</news:publication_date>
       <news:title>Germany Sees Biggest Ever Shift to Electric Cars Amid New EV Subsidies </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-in-power-sparks-fears-of-sensitive-intelligence-leaks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T08:11:41.000Z</news:publication_date>
-      <news:title>AfD in Power Sparks Fears of Sensitive Intelligence Leaks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/working-hours-in-germany-full-time-and-part-time-trends</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T08:04:05.000Z</news:publication_date>
-      <news:title>Working Hours in Germany: Full-Time and  Part-Time Trends </news:title>
     </news:news>
   </url>
 

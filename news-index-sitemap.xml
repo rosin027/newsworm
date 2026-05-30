@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/munich-airport-reopens-after-one-hour-closure-over-suspected-drone-sighting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-30T09:21:08.000Z</news:publication_date>
+      <news:title>Munich Airport Reopens After One-Hour Closure Over Suspected Drone Sighting </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-wants-to-break-up-with-us-and-chinese-tech</loc>
     <news:news>
       <news:publication>
@@ -15,14 +27,14 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/digital-devices-daycare-and-literacy-why-german-parents-should-pay-attention-</loc>
+    <loc>https://www.newsworm.de/news/digital-devices-daycare-and-literacy-why-german-parents-should-pay-attention</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-05-30T08:05:01.000Z</news:publication_date>
-      <news:title>Digital Devices, Daycare and Literacy: Why German Parents Should Pay Attention  </news:title>
+      <news:title>Digital Devices, Daycare and Education: Why German Parents Should Pay Attention </news:title>
     </news:news>
   </url>
 
@@ -155,42 +167,6 @@
       </news:publication>
       <news:publication_date>2026-05-28T12:42:47.000Z</news:publication_date>
       <news:title>Two Trams Crash in Hanover: Twelve Injured, Six Hospitalised </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/how-much-did-wages-rise-in-germany-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T10:12:43.000Z</news:publication_date>
-      <news:title>How Much Did Wages Rise in Germany in 2026? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-expires-soon-is-an-extension-coming</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T09:30:50.000Z</news:publication_date>
-      <news:title>Germany&apos;s Fuel Tax Cut Expires Soon ? Is an Extension Coming? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sees-biggest-ever-shift-to-electric-cars-amid-new-ev-subsidies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T09:15:56.000Z</news:publication_date>
-      <news:title>Germany Sees Biggest Ever Shift to Electric Cars Amid New EV Subsidies </news:title>
     </news:news>
   </url>
 

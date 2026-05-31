@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tk-health-insurance-records-highest-ever-suspected-treatment-errors-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T08:11:24.000Z</news:publication_date>
+      <news:title>TK Health Insurance Records Highest Ever Suspected Treatment Errors in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/world-no-tobacco-day-calls-grow-for-costlier-cigarettes-and-vapes-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T07:36:27.000Z</news:publication_date>
+      <news:title>World No Tobacco Day: Calls Grow for Costlier Cigarettes and Vapes in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/thousands-protest-in-hamm-against-new-gas-power-plant-construction</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-31T07:26:24.000Z</news:publication_date>
+      <news:title>Thousands Protest in Hamm Against New Gas Power Plant Construction </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-much-did-germany-spend-on-social-benefits-in-2025</loc>
     <news:news>
       <news:publication>
@@ -95,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-05-29T11:03:22.000Z</news:publication_date>
       <news:title>Brenner Motorway Closed: What Travellers Need to Know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-2-95-million-unemployed-in-may-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T08:49:20.000Z</news:publication_date>
-      <news:title>Germany Records 2.95 Million Unemployed in May 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-fines-temu-200-million-euros-over-illegal-products</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T07:48:44.000Z</news:publication_date>
-      <news:title>EU Fines Temu ?200 Million Over Illegal Products  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unions-warn-scrapping-eight-hour-day-puts-worker-health-at-risk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T07:42:48.000Z</news:publication_date>
-      <news:title>Unions Warn Scrapping Eight-Hour Day Puts Worker Health at Risk </news:title>
     </news:news>
   </url>
 

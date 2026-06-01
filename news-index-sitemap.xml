@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/net-immigration-to-germany-falls-sharply-again</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T07:30:44.000Z</news:publication_date>
+      <news:title>Net Immigration to Germany Falls Sharply Again </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bafog-reform-stalled-minister-bar-and-spd-clash-over-student-aid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T06:52:29.000Z</news:publication_date>
+      <news:title>BAf?G Reform Stalled? Minister B?r and SPD Clash Over Student Aid </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tk-health-insurance-records-highest-ever-suspected-treatment-errors-in-germany</loc>
     <news:news>
       <news:publication>
@@ -59,42 +83,6 @@
       </news:publication>
       <news:publication_date>2026-05-30T09:21:08.000Z</news:publication_date>
       <news:title>Munich Airport Reopens After One-Hour Closure Over Suspected Drone Sighting </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/in-die-sonne-schauen-wins-golden-lola-at-german-film-awards</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T08:47:03.000Z</news:publication_date>
-      <news:title>&quot;In die Sonne schauen&quot; Wins Golden Lola at German Film Awards </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-wants-to-break-up-with-us-and-chinese-tech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T08:43:40.000Z</news:publication_date>
-      <news:title>EU Wants to Break Up With US and Chinese Tech </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/digital-devices-daycare-and-literacy-why-german-parents-should-pay-attention</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T08:05:01.000Z</news:publication_date>
-      <news:title>Digital Devices, Daycare and Education: Why Parents Should Pay Attention </news:title>
     </news:news>
   </url>
 

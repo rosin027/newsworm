@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/best-countries-for-immigrants-germany-hits-top-5</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T15:10:12.000Z</news:publication_date>
+      <news:title>Best Countries for Immigrants: Germany Hits Top 5  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/undav-eases-germany-past-finland-in-world-cup-tune-up</loc>
     <news:news>
       <news:publication>

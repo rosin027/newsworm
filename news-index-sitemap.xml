@@ -98,16 +98,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/how-much-did-germany-spend-on-social-benefits-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T13:08:05.000Z</news:publication_date>
-      <news:title>How Much Did Germany Spend on Social Benefits in 2025? </news:title>
-    </news:news>
-  </url>
-
 </urlset>

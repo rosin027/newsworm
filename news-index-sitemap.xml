@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/travel-permit-exemption-for-military-age-men-may-be-unlawful</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T09:20:45.000Z</news:publication_date>
+      <news:title>Travel-Permit Exemption for Military-Age Men May Be Unlawful  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/europes-green-jet-fuels-see-upside-in-iran-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-01T08:46:12.000Z</news:publication_date>
+      <news:title>Europe&apos;s green jet fuels see upside in Iran war </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/net-immigration-to-germany-falls-sharply-again</loc>
     <news:news>
       <news:publication>
@@ -71,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-05-30T13:08:05.000Z</news:publication_date>
       <news:title>How Much Did Germany Spend on Social Benefits in 2025? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-airport-reopens-after-one-hour-closure-over-suspected-drone-sighting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-30T09:21:08.000Z</news:publication_date>
-      <news:title>Munich Airport Reopens After One-Hour Closure Over Suspected Drone Sighting </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/mette-frederiksen-secures-third-term-as-denmarks-pm-in-coalition-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T06:47:05.000Z</news:publication_date>
+      <news:title>Mette Frederiksen Secures Third Term as Denmark&apos;s PM in Coalition Deal </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/nursing-home-residents-in-germany-often-dont-get-dental-care</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T06:06:01.000Z</news:publication_date>
+      <news:title>Nursing Home Residents in Germany Often Don&apos;t Get Dental Care  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/best-countries-for-immigrants-germany-hits-top-5</loc>
     <news:news>
       <news:publication>

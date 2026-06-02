@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/entry-to-cologne-cathedral-to-cost-eu12-from-july</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T10:40:30.000Z</news:publication_date>
+      <news:title>Entry to Cologne Cathedral to Cost ?12 From July </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/more-than-half-of-adults-in-germany-are-overweight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T09:37:34.000Z</news:publication_date>
+      <news:title>More Than Half of Adults in Germany Are Overweight  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-launches-digital-tool-to-help-truck-drivers-find-parking-spaces</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-02T09:24:20.000Z</news:publication_date>
+      <news:title>Germany Launches Digital Tool to Help Truck Drivers Find Parking Spaces </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/asylum-applications-hit-lowest-may-level-since-2013-in-germany</loc>
     <news:news>
       <news:publication>
@@ -10,7 +46,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-02T08:14:46.000Z</news:publication_date>
-      <news:title>Asylum Applications Hit Lowest May Level Since 2013 in Germany </news:title>
+      <news:title>Asylum Applications Hit Lowest May Level Since 2012 in Germany </news:title>
     </news:news>
   </url>
 

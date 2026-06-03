@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dual-citizenship-is-the-default-choice-for-new-germans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T07:39:29.000Z</news:publication_date>
+      <news:title>Dual Citizenship Is the Default Choice for New Germans  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/man-opens-fire-on-police-in-dortmund-barricades-self-with-three-children</loc>
     <news:news>
       <news:publication>
@@ -167,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-06-01T09:20:45.000Z</news:publication_date>
       <news:title>Travel-Permit Exemption for Military-Age Men May Be Unlawful  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europes-green-jet-fuels-see-upside-in-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T08:46:12.000Z</news:publication_date>
-      <news:title>Europe&apos;s green jet fuels see upside in Iran war </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/net-immigration-to-germany-falls-sharply-again</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T07:30:44.000Z</news:publication_date>
-      <news:title>Net Immigration to Germany Falls Sharply Again </news:title>
     </news:news>
   </url>
 

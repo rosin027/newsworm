@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/hamburg-berlin-railway-line-reopens-on-june-14</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T09:58:22.000Z</news:publication_date>
+      <news:title>Hamburg-Berlin Railway Line Reopens on June 14 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dual-citizenship-is-the-default-choice-for-new-germans</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       </news:publication>
       <news:publication_date>2026-06-03T07:39:29.000Z</news:publication_date>
       <news:title>Dual Citizenship Is the Default Choice for New Germans  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/scrapping-germanys-pension-at-63-could-save-eu9-5-billion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T07:03:43.000Z</news:publication_date>
+      <news:title>Scrapping Germany&apos;s &apos;Pension at 63&apos; Could Save ?9.5 Billion </news:title>
     </news:news>
   </url>
 
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-01T11:52:25.000Z</news:publication_date>
       <news:title>Undav eases Germany past Finland in World Cup tune-up </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/travel-permit-exemption-for-military-age-men-may-be-unlawful</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T09:20:45.000Z</news:publication_date>
-      <news:title>Travel-Permit Exemption for Military-Age Men May Be Unlawful  </news:title>
     </news:news>
   </url>
 

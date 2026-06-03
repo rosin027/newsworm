@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/sustainability-must-be-built-into-germanys-healthcare-reforms-alliance-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T12:05:50.000Z</news:publication_date>
+      <news:title>Sustainability Must Be Built Into Germany&apos;s Healthcare Reforms, Alliance Says </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ehegattensplitting-in-germany-economists-propose-new-model-for-joint-taxation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-03T11:58:00.000Z</news:publication_date>
+      <news:title>Ehegattensplitting in Germany: Economists Propose New Model for Joint Taxation </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hamburg-berlin-railway-line-reopens-on-june-14</loc>
     <news:news>
       <news:publication>
@@ -179,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-01T15:10:12.000Z</news:publication_date>
       <news:title>Best Countries for Immigrants: Germany Hits Top 5  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/undav-eases-germany-past-finland-in-world-cup-tune-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T11:52:25.000Z</news:publication_date>
-      <news:title>Undav eases Germany past Finland in World Cup tune-up </news:title>
     </news:news>
   </url>
 

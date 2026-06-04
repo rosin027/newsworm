@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-has-a-growing-racism-problem-and-its-getting-worse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T12:51:14.000Z</news:publication_date>
+      <news:title>Germany Has a Growing Racism Problem, and It&apos;s Getting Worse  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-court-rules-germanys-asylum-benefit-cuts-unlawful</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T11:54:27.000Z</news:publication_date>
+      <news:title>EU Court Rules Germany&apos;s Asylum Benefit Cuts Unlawful </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/severe-storms-and-heavy-rain-to-hit-germany-dwd-warns</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-06-03T06:17:44.000Z</news:publication_date>
       <news:title>Man Opens Fire on Police in Dortmund, Barricades Self With Three Children </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spds-bas-pushes-to-bring-civil-servants-into-statutory-pension</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T12:24:52.000Z</news:publication_date>
-      <news:title>SPD&apos;s Bas Pushes to Bring Civil Servants Into Statutory Pension </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-tram-derailed-20-people-injured-three-seriously-hurt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T11:24:36.000Z</news:publication_date>
-      <news:title>Berlin Tram Derailed: 20 People Injured, Three Seriously Hurt </news:title>
     </news:news>
   </url>
 

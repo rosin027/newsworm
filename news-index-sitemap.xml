@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dobrindt-rejects-calls-to-lift-germanys-border-checks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T15:11:02.000Z</news:publication_date>
+      <news:title>Dobrindt Rejects Calls to Lift Germany&apos;s Border Checks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-has-a-growing-racism-problem-and-its-getting-worse</loc>
     <news:news>
       <news:publication>

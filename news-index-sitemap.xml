@@ -22,7 +22,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-03T19:32:11.000Z</news:publication_date>
-      <news:title>Germany Loses UN Security Council Seat for First Time </news:title>
+      <news:title>Germany Fails to Win UN Security Council Seat for the First Time </news:title>
     </news:news>
   </url>
 
@@ -167,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-02T09:24:20.000Z</news:publication_date>
       <news:title>Germany Launches Digital Tool to Help Truck Drivers Find Parking Spaces </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/asylum-applications-hit-lowest-may-level-since-2013-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-02T08:14:46.000Z</news:publication_date>
-      <news:title>Asylum Applications Hit Lowest May Level Since 2012 in Germany </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fears-of-economic-decline-are-growing-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T08:29:22.000Z</news:publication_date>
+      <news:title>Fears of Economic Decline Are Growing in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/long-term-care-insurance-in-germany-faces-radical-overhaul-and-a-storm-of-criticism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T07:41:25.000Z</news:publication_date>
+      <news:title>Long-Term Care Insurance in Germany Faces Radical Overhaul and a Storm of Criticism </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-dreamliner-suffers-nose-gear-collapse-in-frankfurt</loc>
     <news:news>
       <news:publication>
@@ -143,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-03T09:58:22.000Z</news:publication_date>
       <news:title>Hamburg-Berlin Railway Line Reopens on June 14 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dual-citizenship-is-the-default-choice-for-new-germans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T07:39:29.000Z</news:publication_date>
-      <news:title>Dual Citizenship Is the Default Choice for New Germans  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/scrapping-germanys-pension-at-63-could-save-eu9-5-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T07:03:43.000Z</news:publication_date>
-      <news:title>Scrapping Germany&apos;s &apos;Pension at 63&apos; Could Save ?9.5 Billion </news:title>
     </news:news>
   </url>
 

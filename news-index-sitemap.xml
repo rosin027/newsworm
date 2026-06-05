@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/rivals-are-taking-on-deutsche-bahn-smaller-cities-could-pay-the-price</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T10:55:01.000Z</news:publication_date>
+      <news:title>Rivals Are Taking On Deutsche Bahn, Smaller Cities Could Pay the Price </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/was-grandpa-a-nazi-digitised-records-shatter-german-family-myths</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-03T19:32:11.000Z</news:publication_date>
       <news:title>Germany Fails to Win UN Security Council Seat for the First Time </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/subsidy-fuel-prices-drive-electric-car-sales-surge-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T14:05:13.000Z</news:publication_date>
-      <news:title> Subsidy, High Fuel Prices Drive Electric Car Sales Surge in Germany </news:title>
     </news:news>
   </url>
 

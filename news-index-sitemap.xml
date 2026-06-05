@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/was-grandpa-a-nazi-digitised-records-shatter-german-family-myths</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-05T09:27:34.000Z</news:publication_date>
+      <news:title>Was Grandpa a Nazi?&apos; Digitised Records Shatter German Family Myths </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fears-of-economic-decline-are-growing-in-germany</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-03T11:58:00.000Z</news:publication_date>
       <news:title>Ehegattensplitting in Germany: Economists Propose New Model for Joint Taxation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hamburg-berlin-railway-line-reopens-on-june-14</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-03T09:58:22.000Z</news:publication_date>
-      <news:title>Hamburg-Berlin Railway Line Reopens on June 14 </news:title>
     </news:news>
   </url>
 

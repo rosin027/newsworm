@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/a-german-mp-earns-in-4-years-what-an-average-worker-builds-in-28</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T09:12:32.000Z</news:publication_date>
+      <news:title>A German MP Earns in 4 Years What an Average Worker Builds in 28 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/drone-incidents-at-german-airports-more-than-double-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-06T08:43:22.000Z</news:publication_date>
+      <news:title>Drone Incidents at German Airports More Than Double in 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/politically-motivated-crime-in-germany-hits-new-peak</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-04T11:54:27.000Z</news:publication_date>
       <news:title>EU Court Rules Germany&apos;s Asylum Benefit Cuts Unlawful </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/severe-storms-and-heavy-rain-to-hit-germany-dwd-warns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T09:42:20.000Z</news:publication_date>
-      <news:title>Severe Storms and Heavy Rain to Hit Germany, DWD Warns </news:title>
     </news:news>
   </url>
 

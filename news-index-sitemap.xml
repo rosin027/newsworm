@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-net-immigration-falls-45-in-2025-key-trends-behind-the-decline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-07T11:38:22.000Z</news:publication_date>
+      <news:title>Germany&apos;s Net Immigration Falls 45% in 2025: Key Trends Behind the Decline </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/euro-office-europe-launches-its-own-microsoft-compatible-office-suite</loc>
     <news:news>
       <news:publication>

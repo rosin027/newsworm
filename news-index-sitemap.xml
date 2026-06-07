@@ -74,28 +74,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/rivals-are-taking-on-deutsche-bahn-smaller-cities-could-pay-the-price</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T10:55:01.000Z</news:publication_date>
-      <news:title>Rivals Are Taking On Deutsche Bahn, Smaller Cities Could Pay the Price </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/was-grandpa-a-nazi-digitised-records-shatter-german-family-myths</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-05T09:27:34.000Z</news:publication_date>
-      <news:title>Was Grandpa a Nazi? Digitised Records Shatter German Family Myths </news:title>
-    </news:news>
-  </url>
-
 </urlset>

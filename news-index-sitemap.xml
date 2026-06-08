@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/greenpeace-puts-speed-limit-100-on-german-autobahns</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T07:53:38.000Z</news:publication_date>
+      <news:title>Greenpeace Puts Speed Limit 100 on German Autobahns </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/major-power-outage-in-reutlingen-arson-under-investigation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T07:27:20.000Z</news:publication_date>
+      <news:title>Major Power Outage in Reutlingen: Arson Under Investigation </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ecb-to-raise-interest-rates-as-mideast-war-pushes-up-inflation</loc>
     <news:news>
       <news:publication>
@@ -107,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-06T09:12:32.000Z</news:publication_date>
       <news:title>A German MP Earns in 4 Years What an Average Worker Builds in 28 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/drone-incidents-at-german-airports-more-than-double-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T08:43:22.000Z</news:publication_date>
-      <news:title>Drone Incidents at German Airports More Than Double in 2026 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/politically-motivated-crime-in-germany-hits-new-peak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T08:38:05.000Z</news:publication_date>
-      <news:title>Politically Motivated Crime in Germany Hits New Peak </news:title>
     </news:news>
   </url>
 

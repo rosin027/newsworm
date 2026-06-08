@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/war-mongering-leaders-and-the-death-of-international-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T11:42:01.000Z</news:publication_date>
+      <news:title>War-Mongering Leaders and the Death of International Law </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/switzerlands-10-million-population-cap-vote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T11:36:19.000Z</news:publication_date>
+      <news:title>Switzerland&apos;s 10 Million Population Cap Vote </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/uk-france-and-germany-back-zelenskys-call-for-direct-putin-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T11:10:34.000Z</news:publication_date>
+      <news:title>UK, France and Germany back Zelensky&apos;s call for direct Putin talks </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/could-germanys-tax-reform-put-eu500-extra-in-your-wallet</loc>
     <news:news>
       <news:publication>
@@ -107,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-07T06:35:35.000Z</news:publication_date>
       <news:title>German carmakers weigh China, defence tie-ups for idle plants </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-warns-of-afd-successes-in-state-elections</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T12:20:34.000Z</news:publication_date>
-      <news:title>Merz warns of AfD successes in state elections </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-vows-social-reform-we-can-do-this</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-06T11:03:06.000Z</news:publication_date>
-      <news:title>Merz Vows Social Reform: &quot;We Can Do This&quot;  </news:title>
     </news:news>
   </url>
 

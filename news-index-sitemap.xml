@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ecb-to-raise-interest-rates-as-mideast-war-pushes-up-inflation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T06:58:55.000Z</news:publication_date>
+      <news:title>ECB to Raise Interest Rates as Mideast War Pushes Up Inflation </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/long-term-care-reform-spd-distances-itself-from-warkens-plans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T06:30:00.000Z</news:publication_date>
+      <news:title>Long-Term Care Reform: SPD Distances Itself from Warken&apos;s Plans </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/pension-reform-germany-dgb-calls-for-mandatory-occupational-pensions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-08T06:12:45.000Z</news:publication_date>
+      <news:title>Pension Reform Germany: DGB Calls for Mandatory Occupational Pensions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-net-immigration-falls-45-in-2025-key-trends-behind-the-decline</loc>
     <news:news>
       <news:publication>

@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/emirates-eyes-daily-flights-from-dubai-to-berlin-and-stuttgart</loc>
+    <loc>https://www.newsworm.de/news/electricity-restored-in-reutlingen-following-suspected-arson-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T14:37:57.000Z</news:publication_date>
+      <news:title>Electricity Restored in Reutlingen Following Suspected Arson Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/emirates-eyes-daily-flights-between-dubai-berlin-and-stuttgart</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-09T12:23:43.000Z</news:publication_date>
-      <news:title>Emirates Eyes Daily Flights from Dubai to Berlin and Stuttgart </news:title>
+      <news:title>Emirates Eyes Daily Flights Between Dubai - Berlin and Stuttgart </news:title>
     </news:news>
   </url>
 

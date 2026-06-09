@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-most-popular-baby-names-2025-sophia-and-noah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T10:56:10.000Z</news:publication_date>
+      <news:title>Germany&apos;s Most Popular Baby Names 2025: Sophia and Noah </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/politically-motivated-crime-in-germany-hits-all-time-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T08:31:17.000Z</news:publication_date>
+      <news:title>Politically Motivated Crime in Germany Hits All-Time High </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/happiest-cities-in-germany-2026-erfurt-takes-the-top-spot</loc>
     <news:news>
       <news:publication>
@@ -179,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-07T11:38:22.000Z</news:publication_date>
       <news:title>Germany&apos;s Net Immigration Falls 45% in 2025: Key Trends Behind the Decline </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/euro-office-europe-launches-its-own-microsoft-compatible-office-suite</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T10:07:57.000Z</news:publication_date>
-      <news:title>Euro-Office: Europe Launches Its Own Microsoft-Compatible Office Suite </news:title>
     </news:news>
   </url>
 

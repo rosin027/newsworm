@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-demands-border-control-rollback-as-eu-asylum-law-kicks-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T04:23:18.000Z</news:publication_date>
+      <news:title>SPD Demands Border Control Rollback as EU Asylum Law Kicks In </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/reutlingen-power-outage-investigators-suspect-arson</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-06-07T10:07:57.000Z</news:publication_date>
       <news:title>Euro-Office: Europe Launches Its Own Microsoft-Compatible Office Suite </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-carmakers-weigh-china-defence-tie-ups-for-idle-plants</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-07T06:35:35.000Z</news:publication_date>
-      <news:title>German carmakers weigh China, defence tie-ups for idle plants </news:title>
     </news:news>
   </url>
 

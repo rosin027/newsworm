@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/reutlingen-power-outage-investigators-suspect-arson</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T04:06:51.000Z</news:publication_date>
+      <news:title>Reutlingen Power Outage: Investigators Suspect Arson </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/france-germany-abandon-fcas-joint-fighter-jet-project</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T04:03:35.000Z</news:publication_date>
+      <news:title>France, Germany abandon FCAS joint fighter jet project </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-commission-awards-40-912-free-rail-passes-to-young-europeans</loc>
     <news:news>
       <news:publication>

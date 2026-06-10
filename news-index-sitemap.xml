@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-health-insurance-finances-worse-than-expected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T14:07:50.000Z</news:publication_date>
+      <news:title>Germany&apos;s Health Insurance Finances Worse Than Expected </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/team-gen-6-unveils-new-fighter-jet-vision-after-fcas-collapse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T12:54:02.000Z</news:publication_date>
+      <news:title>Team Gen 6 Unveils New Fighter Jet Vision After FCAS Collapse </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-overhauls-arbitration-law-with-digital-reforms</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-09T04:03:35.000Z</news:publication_date>
       <news:title>France, Germany abandon FCAS joint fighter jet project </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-commission-awards-40-912-free-rail-passes-to-young-europeans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T13:47:59.000Z</news:publication_date>
-      <news:title>EU Commission Awards 40,912 Free Rail Passes to Young Europeans </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/reform-germanys-hollow-word-of-the-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T08:08:47.000Z</news:publication_date>
+      <news:title>&apos;Reform&apos; ? Germany&apos;s Hollow Word of the Year? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-loses-first-european-artemis-seat-to-italys-parmitano</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T06:07:41.000Z</news:publication_date>
+      <news:title>Germany Loses First European Artemis Seat to Italy&apos;s Parmitano </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-accuses-spd-of-blocking-reforms-ahead-of-key-economic-summit</loc>
     <news:news>
       <news:publication>
@@ -179,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-08T10:02:15.000Z</news:publication_date>
       <news:title>Could Germany&apos;s Tax Reform Put ?500 Extra in Your Wallet? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greenpeace-puts-speed-limit-100-on-german-autobahns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T07:53:38.000Z</news:publication_date>
-      <news:title>Greenpeace Puts Speed Limit 100 on German Autobahns </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/major-power-outage-in-reutlingen-arson-under-investigation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T07:27:20.000Z</news:publication_date>
-      <news:title>Major Power Outage in Reutlingen: Arson Under Investigation </news:title>
     </news:news>
   </url>
 

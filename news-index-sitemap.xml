@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-unveils-aviation-strategy-to-boost-air-travel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T10:26:11.000Z</news:publication_date>
+      <news:title>Germany Unveils Aviation Strategy to Boost Air Travel </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/reform-germanys-hollow-word-of-the-year</loc>
     <news:news>
       <news:publication>
@@ -191,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-08T11:10:34.000Z</news:publication_date>
       <news:title>UK, France and Germany back Zelensky&apos;s call for direct Putin talks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/could-germanys-tax-reform-put-eu500-extra-in-your-wallet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-08T10:02:15.000Z</news:publication_date>
-      <news:title>Could Germany&apos;s Tax Reform Put ?500 Extra in Your Wallet? </news:title>
     </news:news>
   </url>
 

@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/ecb-makes-first-rate-hike-since-2023-to-tame-iran-war-inflation</loc>
+    <loc>https://www.newsworm.de/news/revised-heating-law-draws-fire-from-all-sides-in-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T14:19:13.000Z</news:publication_date>
+      <news:title>Revised Heating Law Draws Fire from All Sides in Bundestag </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ecb-hikes-rates-for-the-first-time-since-2023</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-11T12:54:12.000Z</news:publication_date>
-      <news:title>ECB makes first rate hike since 2023 to tame Iran war inflation </news:title>
+      <news:title>ECB Hikes Rates for the First Time Since 2023  </news:title>
     </news:news>
   </url>
 
@@ -191,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-10T05:06:26.000Z</news:publication_date>
       <news:title>Number of Pensioners in Germany Reaches a Record High </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/electricity-restored-in-reutlingen-following-suspected-arson-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T14:37:57.000Z</news:publication_date>
-      <news:title>Electricity Restored in Reutlingen Following Suspected Arson Attack </news:title>
     </news:news>
   </url>
 

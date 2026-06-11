@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ecb-makes-first-rate-hike-since-2023-to-tame-iran-war-inflation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T12:54:12.000Z</news:publication_date>
+      <news:title>ECB makes first rate hike since 2023 to tame Iran war inflation </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/g7-allies-seek-to-bridge-divide-with-trump-at-france-summit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T12:45:43.000Z</news:publication_date>
+      <news:title>G7 allies seek to bridge divide with Trump at France summit </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/midday-price-hike-rule-drives-fuel-price-fluctuations-to-record-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T11:12:45.000Z</news:publication_date>
+      <news:title>Midday Price Hike Rule Drives Fuel Price Fluctuations to Record in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-acknowledges-reform-progress-but-warns-germany-must-do-more</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T10:18:29.000Z</news:publication_date>
+      <news:title>Merz Acknowledges Reform Progress But Warns Germany Must Do More </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/weidels-ultimatum-to-merz-ditch-spd-or-face-afd-victory</loc>
     <news:news>
       <news:publication>
@@ -155,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-09T14:37:57.000Z</news:publication_date>
       <news:title>Electricity Restored in Reutlingen Following Suspected Arson Attack </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/emirates-eyes-daily-flights-between-dubai-berlin-and-stuttgart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T12:23:43.000Z</news:publication_date>
-      <news:title>Emirates Eyes Daily Flights Between Dubai - Berlin and Stuttgart </news:title>
     </news:news>
   </url>
 

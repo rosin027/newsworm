@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-meets-unions-and-employers-to-map-out-germanys-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T04:40:33.000Z</news:publication_date>
+      <news:title>Merz Meets Unions and Employers to Map Out Germany&apos;s Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/no-extension-for-germanys-fuel-tax-discount-beyond-june-30</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T04:40:15.000Z</news:publication_date>
+      <news:title>No Extension for Germany&apos;s Fuel Tax Discount Beyond June 30 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-health-insurance-finances-worse-than-expected</loc>
     <news:news>
       <news:publication>
@@ -155,42 +179,6 @@
       </news:publication>
       <news:publication_date>2026-06-09T07:45:09.000Z</news:publication_date>
       <news:title>Happiest Cities in Germany 2026: Erfurt Takes the Top Spot </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-demands-border-control-rollback-as-eu-asylum-law-kicks-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T04:23:18.000Z</news:publication_date>
-      <news:title>SPD Demands Border Control Rollback as EU Asylum Law Kicks In </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/reutlingen-power-outage-investigators-suspect-arson</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T04:06:51.000Z</news:publication_date>
-      <news:title>Reutlingen Power Outage: Investigators Suspect Arson </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/france-germany-abandon-fcas-joint-fighter-jet-project</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-09T04:03:35.000Z</news:publication_date>
-      <news:title>France, Germany abandon FCAS joint fighter jet project </news:title>
     </news:news>
   </url>
 

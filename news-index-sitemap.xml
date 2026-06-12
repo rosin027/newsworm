@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/opposition-declares-war-on-healthcare-reform-in-bundestag</loc>
+    <loc>https://www.newsworm.de/news/opposition-declares-war-on-health-insurance-reform-in-bundestag</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-12T08:37:26.000Z</news:publication_date>
-      <news:title>Opposition Declares War on Healthcare Reform in Bundestag </news:title>
+      <news:title>Opposition Declares War on Health Insurance Reform in Bundestag </news:title>
     </news:news>
   </url>
 
@@ -191,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-10T11:03:38.000Z</news:publication_date>
       <news:title>Germany Overhauls Arbitration Law with Digital Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-unveils-aviation-strategy-to-boost-air-travel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T10:26:11.000Z</news:publication_date>
-      <news:title>Germany Unveils Aviation Strategy to Boost Air Travel </news:title>
     </news:news>
   </url>
 

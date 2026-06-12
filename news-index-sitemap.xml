@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/opposition-declares-war-on-healthcare-reform-in-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T08:37:26.000Z</news:publication_date>
+      <news:title>Opposition Declares War on Healthcare Reform in Bundestag </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-makes-summer-2026-travel-more-affordable</loc>
     <news:news>
       <news:publication>
@@ -51,6 +63,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/statutory-pension-rate-heading-to-19-9-as-german-reserves-deplete</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T12:25:07.000Z</news:publication_date>
+      <news:title>Statutory Pension Rate Heading to 19.9% as German Reserves Deplete </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/midday-price-hike-rule-drives-fuel-price-fluctuations-to-record-in-germany</loc>
     <news:news>
       <news:publication>
@@ -95,6 +119,18 @@
       </news:publication>
       <news:publication_date>2026-06-11T08:14:47.000Z</news:publication_date>
       <news:title>Merz Criticises EU Commission Budget Plans </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/afds-three-bills-to-cut-energy-costs-divide-the-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T07:52:59.000Z</news:publication_date>
+      <news:title>AfD&apos;s Three Bills to Cut Energy Costs Divide the Bundestag </news:title>
     </news:news>
   </url>
 
@@ -167,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-06-10T10:26:11.000Z</news:publication_date>
       <news:title>Germany Unveils Aviation Strategy to Boost Air Travel </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/reform-germanys-hollow-word-of-the-year</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T08:08:47.000Z</news:publication_date>
-      <news:title>&apos;Reform&apos; ? Germany&apos;s Hollow Word of the Year? </news:title>
     </news:news>
   </url>
 

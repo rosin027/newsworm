@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-approves-pension-rise-pharmacy-reform-ankle-monitors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T11:33:55.000Z</news:publication_date>
+      <news:title>Germany Approves Pension Rise, Pharmacy Reform &amp; Ankle Monitors </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/opposition-declares-war-on-health-insurance-reform-in-bundestag</loc>
     <news:news>
       <news:publication>
@@ -167,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-06-10T14:07:50.000Z</news:publication_date>
       <news:title>Germany&apos;s Health Insurance Finances Worse Than Expected </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/team-gen-6-unveils-new-fighter-jet-vision-after-fcas-collapse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T12:54:02.000Z</news:publication_date>
-      <news:title>Team Gen 6 Unveils New Fighter Jet Vision After FCAS Collapse </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-overhauls-arbitration-law-with-digital-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T11:03:38.000Z</news:publication_date>
-      <news:title>Germany Overhauls Arbitration Law with Digital Reforms </news:title>
     </news:news>
   </url>
 

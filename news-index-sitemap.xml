@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-closes-paternity-loophole-exploited-for-residency</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T14:49:29.000Z</news:publication_date>
+      <news:title>Bundestag Closes Paternity Loophole Exploited for Residency </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/whats-in-the-eus-landmark-asylum-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T13:10:59.000Z</news:publication_date>
+      <news:title>What&apos;s in the EU&apos;s landmark asylum reform? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-approves-pension-rise-pharmacy-reform-ankle-monitors</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-11T04:40:15.000Z</news:publication_date>
       <news:title>No Extension for Germany&apos;s Fuel Tax Discount Beyond June 30 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-health-insurance-finances-worse-than-expected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T14:07:50.000Z</news:publication_date>
-      <news:title>Germany&apos;s Health Insurance Finances Worse Than Expected </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-zoo-names-baby-pygmy-hippo-brotchen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T09:45:47.000Z</news:publication_date>
+      <news:title>Berlin Zoo Names Baby Pygmy Hippo &apos;Br?tchen&apos;  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-reopens-hamburg-berlin-railway-line</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T09:19:36.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Reopens Hamburg-Berlin Railway Line </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/after-fcas-could-france-exit-the-mgcs-tank-programme-too</loc>
     <news:news>
       <news:publication>
@@ -143,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-11T11:12:45.000Z</news:publication_date>
       <news:title>Midday Price Hike Rule Drives Fuel Price Fluctuations to Record in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-acknowledges-reform-progress-but-warns-germany-must-do-more</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T10:18:29.000Z</news:publication_date>
-      <news:title>Merz Acknowledges Reform Progress But Warns Germany Must Do More </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/weidels-ultimatum-to-merz-ditch-spd-or-face-afd-victory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T09:07:25.000Z</news:publication_date>
-      <news:title>Weidel&apos;s Ultimatum to Merz: Ditch SPD or Face AfD Victory </news:title>
     </news:news>
   </url>
 

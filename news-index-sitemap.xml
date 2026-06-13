@@ -170,28 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-eu-budget-reform-brussels-summit-2028</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T08:14:47.000Z</news:publication_date>
-      <news:title>Merz Criticises EU Commission Budget Plans </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afds-three-bills-to-cut-energy-costs-divide-the-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T07:52:59.000Z</news:publication_date>
-      <news:title>AfD&apos;s Three Bills to Cut Energy Costs Divide the Bundestag </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/after-fcas-could-france-exit-the-mgcs-tank-programme-too</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T06:33:51.000Z</news:publication_date>
+      <news:title>After FCAS, Could France Exit the MGCS Tank Programme Too? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/dobrindt-warns-of-growing-drone-threat-to-germanys-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-13T06:15:21.000Z</news:publication_date>
+      <news:title>Dobrindt Warns of Growing Drone Threat to Germany&apos;s Bundestag </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-closes-paternity-loophole-exploited-for-residency</loc>
     <news:news>
       <news:publication>

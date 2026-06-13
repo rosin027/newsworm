@@ -170,28 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-meets-unions-and-employers-to-map-out-germanys-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T04:40:33.000Z</news:publication_date>
-      <news:title>Merz Meets Unions and Employers to Map Out Germany&apos;s Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/no-extension-for-germanys-fuel-tax-discount-beyond-june-30</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11T04:40:15.000Z</news:publication_date>
-      <news:title>No Extension for Germany&apos;s Fuel Tax Discount Beyond June 30 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

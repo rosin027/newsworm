@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-and-csu-clash-over-mutterrente-reform-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-14T10:03:38.000Z</news:publication_date>
+      <news:title>CDU and CSU Clash Over M?tterrente Reform Costs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/swiss-head-to-polls-in-divisive-anti-immigration-vote</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-06-12T13:10:59.000Z</news:publication_date>
       <news:title>What&apos;s in the EU&apos;s landmark asylum reform? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-pension-rise-pharmacy-reform-ankle-monitors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-12T11:33:55.000Z</news:publication_date>
-      <news:title>Germany Approves Pension Rise, Pharmacy Reform &amp; Ankle Monitors </news:title>
     </news:news>
   </url>
 

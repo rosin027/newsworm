@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/labour-shortage-in-germany-worse-than-expected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T12:44:33.000Z</news:publication_date>
+      <news:title>Labour Shortage in Germany Worse Than Expected </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/you-could-soon-be-paying-less-income-tax-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T11:15:18.000Z</news:publication_date>
+      <news:title>You Could Soon Be Paying Less Income Tax in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-ceasefire-raises-hopes-of-lower-fuel-prices-across-germany</loc>
     <news:news>
       <news:publication>

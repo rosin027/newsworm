@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/working-hours-reform-spd-confident-coalition-deal-is-close</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T08:20:49.000Z</news:publication_date>
+      <news:title>Working Hours Reform: SPD Confident Coalition Deal Is Close </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/g7-summit-opens-in-evian-iran-war-deal-ukraine-crisis-and-ai-policy-in-focus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T05:51:17.000Z</news:publication_date>
+      <news:title>G7 Summit Opens in Evian: Iran War Deal, Ukraine Crisis and AI Policy in Focus </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-germanys-female-workforce-the-answer-to-its-pension-crisis</loc>
     <news:news>
       <news:publication>

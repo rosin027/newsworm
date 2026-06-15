@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/iran-ceasefire-raises-hopes-of-lower-fuel-prices-across-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T08:39:55.000Z</news:publication_date>
+      <news:title>Iran Ceasefire Raises Hopes of Lower Fuel Prices Across Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/working-hours-reform-spd-confident-coalition-deal-is-close</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-14T07:53:08.000Z</news:publication_date>
       <news:title>90+ German Rail Projects at Risk Over Funding Shortfall </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-zoo-names-baby-pygmy-hippo-brotchen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T09:45:47.000Z</news:publication_date>
-      <news:title>Berlin Zoo Names Baby Pygmy Hippo &apos;Br?tchen&apos;  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-reopens-hamburg-berlin-railway-line</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T09:19:36.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Reopens Hamburg-Berlin Railway Line </news:title>
     </news:news>
   </url>
 

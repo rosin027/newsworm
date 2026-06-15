@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-germanys-female-workforce-the-answer-to-its-pension-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T05:47:06.000Z</news:publication_date>
+      <news:title>Is Germany&apos;s Female Workforce the Answer to Its Pension Crisis? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/us-and-iran-agree-to-end-war-ceasefire-declared-strait-of-hormuz-to-reopen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T05:35:53.000Z</news:publication_date>
+      <news:title>US and Iran Agree To End War: Ceasefire Declared, Strait of Hormuz to Reopen </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-thrash-curacao-7-1-in-dominant-world-cup-opener</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T05:22:03.000Z</news:publication_date>
+      <news:title>Germany Thrash Curacao 7-1 in Dominant World Cup Opener </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/switzerland-votes-no-to-capping-population-at-10-million</loc>
     <news:news>
       <news:publication>
@@ -83,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-06-13T09:19:36.000Z</news:publication_date>
       <news:title>Deutsche Bahn Reopens Hamburg-Berlin Railway Line </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/after-fcas-could-france-exit-the-mgcs-tank-programme-too</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T06:33:51.000Z</news:publication_date>
-      <news:title>After FCAS, Could France Exit the MGCS Tank Programme Too? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dobrindt-warns-of-growing-drone-threat-to-germanys-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-13T06:15:21.000Z</news:publication_date>
-      <news:title>Dobrindt Warns of Growing Drone Threat to Germany&apos;s Bundestag </news:title>
     </news:news>
   </url>
 

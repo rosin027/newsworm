@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/skilled-worker-shortage-in-germany-eases-amid-economic-turmoil</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T08:50:34.000Z</news:publication_date>
+      <news:title>Skilled Worker Shortage in Germany Eases Amid Economic Turmoil </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-population-falls-for-the-first-time-since-2020</loc>
     <news:news>
       <news:publication>
@@ -179,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-14T17:54:30.000Z</news:publication_date>
       <news:title>Switzerland Votes No to Capping Population at 10 Million </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-and-csu-clash-over-mutterrente-reform-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-14T10:03:38.000Z</news:publication_date>
-      <news:title>CDU and CSU Clash Over M?tterrente Reform Costs </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-kicks-off-first-phase-of-membership-negotiations-with-ukraine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T05:50:25.000Z</news:publication_date>
+      <news:title>EU kicks off first phase of membership negotiations with Ukraine </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/majority-backs-stricter-alcohol-limits-for-drivers-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T05:18:44.000Z</news:publication_date>
+      <news:title>Majority Backs Stricter Alcohol Limits for Drivers in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/health-insurance-in-germany-how-switching-providers-can-save-you-up-to-660-euros-a-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T05:17:58.000Z</news:publication_date>
+      <news:title>Health Insurance in Germany: How Switching Providers Can Save You Up to ?660 a Year </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fake-language-certificate-scam-busted-germany</loc>
     <news:news>
       <news:publication>

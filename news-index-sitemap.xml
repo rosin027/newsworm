@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-population-falls-for-the-first-time-since-2020</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T07:42:37.000Z</news:publication_date>
+      <news:title>Germany&apos;s Population Falls for the First Time Since 2011 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-kicks-off-first-phase-of-membership-negotiations-with-ukraine</loc>
     <news:news>
       <news:publication>
@@ -179,42 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-14T10:03:38.000Z</news:publication_date>
       <news:title>CDU and CSU Clash Over M?tterrente Reform Costs </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/swiss-head-to-polls-in-divisive-anti-immigration-vote</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-14T08:19:31.000Z</news:publication_date>
-      <news:title>Swiss head to polls in divisive anti-immigration vote </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/italos-german-debut-could-cut-16-cities-off-long-distance-trains</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-14T08:17:09.000Z</news:publication_date>
-      <news:title>Italo&apos;s German Debut Could Cut 16 Cities Off Long-Distance Trains </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/90-german-rail-projects-at-risk-over-funding-shortfall</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-14T07:53:08.000Z</news:publication_date>
-      <news:title>90+ German Rail Projects at Risk Over Funding Shortfall </news:title>
     </news:news>
   </url>
 

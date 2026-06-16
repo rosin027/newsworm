@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-gaz-hybrid-to-fight-disinformation-espionage-and-sabotage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T11:53:24.000Z</news:publication_date>
+      <news:title>Germany Launches GAZ Hybrid to Fight Disinformation, Espionage and Sabotage </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-clears-us-tariff-deal-ahead-of-trumps-july-4-deadline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T11:51:43.000Z</news:publication_date>
+      <news:title>EU Clears US Tariff Deal Ahead of Trump&apos;s July 4 Deadline </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/skilled-worker-shortage-in-germany-eases-amid-economic-turmoil</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/32-afghan-men-deported-from-germany-to-kabul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-16T13:19:55.000Z</news:publication_date>
+      <news:title> 32 Afghan Men Deported from Germany to Kabul </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-launches-gaz-hybrid-to-fight-disinformation-espionage-and-sabotage</loc>
     <news:news>
       <news:publication>

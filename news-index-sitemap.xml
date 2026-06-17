@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/over-4-million-refugees-and-displaced-persons-live-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T08:11:34.000Z</news:publication_date>
+      <news:title>Over 4 Million Refugees and Displaced Persons Live in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-bans-mcdonalds-from-making-climate-neutrality-claims</loc>
     <news:news>
       <news:publication>
@@ -179,30 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-15T11:15:18.000Z</news:publication_date>
       <news:title>You Could Soon Be Paying Less Income Tax in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iran-ceasefire-raises-hopes-of-lower-fuel-prices-across-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T08:39:55.000Z</news:publication_date>
-      <news:title>Iran Ceasefire Raises Hopes of Lower Fuel Prices Across Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/working-hours-reform-spd-confident-coalition-deal-is-close</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-15T08:20:49.000Z</news:publication_date>
-      <news:title>Working Hours Reform: SPD Confident Coalition Deal Is Close </news:title>
     </news:news>
   </url>
 

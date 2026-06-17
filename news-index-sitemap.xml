@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-approves-landmark-migration-law-backing-offshore-return-hubs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-17T15:37:36.000Z</news:publication_date>
+      <news:title>EU Approves Landmark Migration Law Backing Offshore Return Hubs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-germany-about-to-cut-burgergeld</loc>
     <news:news>
       <news:publication>

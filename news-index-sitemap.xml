@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-to-close-berlin-hanover-route-for-major-overhaul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T09:35:21.000Z</news:publication_date>
+      <news:title>Deutsche Bahn to Close Berlin-Hanover Route for Major Overhaul </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/air-travellers-set-to-save-money-as-eu-backs-free-cabin-bags</loc>
     <news:news>
       <news:publication>

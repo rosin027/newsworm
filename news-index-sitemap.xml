@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/air-travellers-set-to-save-money-as-eu-backs-free-cabin-bags</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T07:28:24.000Z</news:publication_date>
+      <news:title>Air Travellers Set to Save Money as EU Backs Free Cabin Bags </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/w-marks-the-x-spot-european-social-network-takes-on-musk</loc>
     <news:news>
       <news:publication>
@@ -179,30 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-16T11:51:43.000Z</news:publication_date>
       <news:title>EU Clears US Tariff Deal Ahead of Trump&apos;s July 4 Deadline </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/skilled-worker-shortage-in-germany-eases-amid-economic-turmoil</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T08:50:34.000Z</news:publication_date>
-      <news:title>Skilled Worker Shortage in Germany Eases Amid Economic Turmoil </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-population-falls-for-the-first-time-since-2020</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T07:42:37.000Z</news:publication_date>
-      <news:title>Germany&apos;s Population Falls for the First Time Since 2011 </news:title>
     </news:news>
   </url>
 

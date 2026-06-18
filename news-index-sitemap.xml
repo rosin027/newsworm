@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/working-hours-reform-tied-to-collective-agreements-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-18T10:58:52.000Z</news:publication_date>
+      <news:title>Working Hours Reform Tied to Collective Agreements in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-to-close-berlin-hanover-route-for-major-overhaul</loc>
     <news:news>
       <news:publication>
@@ -179,30 +191,6 @@
       </news:publication>
       <news:publication_date>2026-06-16T13:19:55.000Z</news:publication_date>
       <news:title> 32 Afghan Men Deported from Germany to Kabul </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-gaz-hybrid-to-fight-disinformation-espionage-and-sabotage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T11:53:24.000Z</news:publication_date>
-      <news:title>Germany Launches GAZ Hybrid to Fight Disinformation, Espionage and Sabotage </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-clears-us-tariff-deal-ahead-of-trumps-july-4-deadline</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-16T11:51:43.000Z</news:publication_date>
-      <news:title>EU Clears US Tariff Deal Ahead of Trump&apos;s July 4 Deadline </news:title>
     </news:news>
   </url>
 

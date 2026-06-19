@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pension-commission-agrees-on-30-proposals-not-unanimously</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T05:39:15.000Z</news:publication_date>
+      <news:title>Pension Commission Agrees on 30 Proposals, Not Unanimously </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-new-ev-subsidy-draws-55-000-applications-in-first-month</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T05:12:24.000Z</news:publication_date>
+      <news:title>Germany&apos;s New EV Subsidy Draws 55,000 Applications in First Month </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-navy-strait-hormuz-iran-agreement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T05:11:26.000Z</news:publication_date>
+      <news:title>German Naval Vessels Transit Suez Canal for Possible Hormuz Mission </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/working-hours-reform-tied-to-collective-agreements-in-germany</loc>
     <news:news>
       <news:publication>
@@ -143,42 +179,6 @@
       </news:publication>
       <news:publication_date>2026-06-17T07:47:23.000Z</news:publication_date>
       <news:title>EU Relaxes Rules on Harmful Chemicals in Cosmetics </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-bans-mcdonalds-from-making-climate-neutrality-claims</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T06:23:38.000Z</news:publication_date>
-      <news:title>Germany Bans McDonald&apos;s From Making Climate Neutrality Claims </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-slashes-2026-targets-as-china-falters-and-mideast-war-bites</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T05:50:26.000Z</news:publication_date>
-      <news:title>BMW slashes 2026 targets as China falters and Mideast war bites </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-pension-reform-scrap-basic-pension-and-retirement-at-63</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T05:48:12.000Z</news:publication_date>
-      <news:title>Germany Pension Reform: Scrap Basic Pension and Retirement at 63 </news:title>
     </news:news>
   </url>
 

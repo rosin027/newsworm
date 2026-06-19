@@ -158,28 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/over-4-million-refugees-and-displaced-persons-live-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T08:11:34.000Z</news:publication_date>
-      <news:title>Over 4 Million Refugees and Displaced Persons Live in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-relaxes-rules-harmful-chemicals-cosmetics</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T07:47:23.000Z</news:publication_date>
-      <news:title>EU Relaxes Rules on Harmful Chemicals in Cosmetics </news:title>
-    </news:news>
-  </url>
-
 </urlset>

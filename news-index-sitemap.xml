@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/heat-warning-in-germany-extreme-heat-and-severe-storms-ahead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T09:21:08.000Z</news:publication_date>
+      <news:title>Heat Warning in Germany: Extreme Heat and Severe Storms Ahead </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-coalition-delays-healthcare-reform-vote-to-july-10</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T06:19:14.000Z</news:publication_date>
+      <news:title>German Coalition Delays Healthcare Reform Vote to July 10 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pension-commission-agrees-on-30-proposals-not-unanimously</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-17T11:55:16.000Z</news:publication_date>
       <news:title>Is Germany About to Cut B?rgergeld? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-returns-looted-cultural-treasures-poland-35th-anniversary</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T10:27:36.000Z</news:publication_date>
-      <news:title>Germany Returns WWII-Looted Artefacts to Poland </news:title>
     </news:news>
   </url>
 

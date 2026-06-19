@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/4-3-million-workers-short-germanys-labour-crisis-is-already-here</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-19T15:57:53.000Z</news:publication_date>
+      <news:title>4.3 Million Workers Short: Germany&apos;s Labour Crisis Is Already Here </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/heat-warning-in-germany-extreme-heat-and-severe-storms-ahead</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-06-18T04:54:56.000Z</news:publication_date>
       <news:title>Germany and Poland Renew Defence Pact as Russian Threat Grows </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-approves-landmark-migration-law-backing-offshore-return-hubs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-17T15:37:36.000Z</news:publication_date>
-      <news:title>EU Approves Landmark Migration Law Backing Offshore Return Hubs </news:title>
     </news:news>
   </url>
 

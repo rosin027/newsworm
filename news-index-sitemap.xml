@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-welfare-fraud-crackdown-and-benefit-restrictions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T06:50:40.000Z</news:publication_date>
+      <news:title>Germany Plans Welfare Fraud Crackdown and Benefit Restrictions </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/why-most-germans-are-sceptical-of-new-data-centres</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-18T09:35:21.000Z</news:publication_date>
       <news:title>Deutsche Bahn to Close Berlin-Hanover Route for Major Overhaul </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/air-travellers-set-to-save-money-as-eu-backs-free-cabin-bags</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T07:28:24.000Z</news:publication_date>
-      <news:title>Air Travellers Set to Save Money as EU Backs Free Cabin Bags </news:title>
     </news:news>
   </url>
 

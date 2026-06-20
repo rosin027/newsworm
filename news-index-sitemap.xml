@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/why-most-germans-are-sceptical-of-new-data-centres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T05:55:26.000Z</news:publication_date>
+      <news:title>Why Most Germans Are Sceptical of New Data Centres? </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-targets-high-building-costs-with-13-point-action-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-20T05:42:16.000Z</news:publication_date>
+      <news:title>Germany Targets High Building Costs With 13-Point Action Plan </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/4-3-million-workers-short-germanys-labour-crisis-is-already-here</loc>
     <news:news>
       <news:publication>
@@ -107,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-18T07:28:24.000Z</news:publication_date>
       <news:title>Air Travellers Set to Save Money as EU Backs Free Cabin Bags </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/w-marks-the-x-spot-european-social-network-takes-on-musk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T06:48:45.000Z</news:publication_date>
-      <news:title>W marks the X-spot: European social network takes on Musk </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-irans-president-sign-deal-to-end-mideast-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T05:53:17.000Z</news:publication_date>
-      <news:title>Trump, Iran&apos;s president sign deal to end Mideast war </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/digital-payments-overtake-cash-in-germany-for-the-first-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T05:12:38.000Z</news:publication_date>
-      <news:title>Digital Payments Overtake Cash in Germany for the First Time </news:title>
     </news:news>
   </url>
 

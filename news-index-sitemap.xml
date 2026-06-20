@@ -110,28 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/working-hours-reform-tied-to-collective-agreements-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T10:58:52.000Z</news:publication_date>
-      <news:title>Working Hours Reform Tied to Collective Agreements in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-to-close-berlin-hanover-route-for-major-overhaul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-18T09:35:21.000Z</news:publication_date>
-      <news:title>Deutsche Bahn to Close Berlin-Hanover Route for Major Overhaul </news:title>
-    </news:news>
-  </url>
-
 </urlset>

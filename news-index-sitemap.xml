@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/us-and-iran-set-for-new-talks-after-delay-and-deadly-strikes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T08:35:52.000Z</news:publication_date>
+      <news:title>US and Iran set for new talks after delay and deadly strikes </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-is-not-prepared-for-extreme-heat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T06:35:14.000Z</news:publication_date>
+      <news:title>Germany is Not Prepared for Extreme Heat </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-pension-reform-retirement-age-to-rise-to-70</loc>
     <news:news>
       <news:publication>

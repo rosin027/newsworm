@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/heat-warning-in-germany-extreme-heat-and-severe-storms-ahead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T09:21:08.000Z</news:publication_date>
-      <news:title>Heat Warning in Germany: Extreme Heat and Severe Storms Ahead </news:title>
-    </news:news>
-  </url>
-
 </urlset>

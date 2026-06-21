@@ -110,16 +110,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/4-3-million-workers-short-germanys-labour-crisis-is-already-here</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T15:57:53.000Z</news:publication_date>
-      <news:title>4.3 Million Workers Short: Germany&apos;s Labour Crisis Is Already Here </news:title>
-    </news:news>
-  </url>
-
 </urlset>

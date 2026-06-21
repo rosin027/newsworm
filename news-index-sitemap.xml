@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-pension-reform-retirement-age-to-rise-to-70</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T06:33:08.000Z</news:publication_date>
+      <news:title>Germany&apos;s Pension Reform: Retirement Age to Rise to 70 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-through-to-world-cup-last-32-for-first-time-since-2014</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-21T06:29:30.000Z</news:publication_date>
+      <news:title>Germany through to World Cup last 32 for first time since 2014 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-solar-boom-6-million-installations-reached</loc>
     <news:news>
       <news:publication>
@@ -83,54 +107,6 @@
       </news:publication>
       <news:publication_date>2026-06-19T09:21:08.000Z</news:publication_date>
       <news:title>Heat Warning in Germany: Extreme Heat and Severe Storms Ahead </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-coalition-delays-healthcare-reform-vote-to-july-10</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T06:19:14.000Z</news:publication_date>
-      <news:title>German Coalition Delays Healthcare Reform Vote to July 10 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pension-commission-agrees-on-30-proposals-not-unanimously</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T05:39:15.000Z</news:publication_date>
-      <news:title>Pension Commission Agrees on 30 Proposals, Not Unanimously </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-new-ev-subsidy-draws-55-000-applications-in-first-month</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T05:12:24.000Z</news:publication_date>
-      <news:title>Germany&apos;s New EV Subsidy Draws 55,000 Applications in First Month </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-navy-strait-hormuz-iran-agreement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-19T05:11:26.000Z</news:publication_date>
-      <news:title>German Naval Vessels Transit Suez Canal for Possible Hormuz Mission </news:title>
     </news:news>
   </url>
 

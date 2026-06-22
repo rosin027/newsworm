@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/heatwave-warning-temperatures-set-to-hit-40degc-this-week-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T08:26:20.000Z</news:publication_date>
+      <news:title>Heatwave Warning: Temperatures Set to Hit 40?C This Week in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/jusos-slam-proposal-to-link-retirement-age-to-life-expectancy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T06:09:56.000Z</news:publication_date>
+      <news:title>Jusos Slam Proposal to Link Retirement Age to Life expectancy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/uks-starmer-reportedly-set-to-quit-as-labour-rival-sworn-in-as-mp</loc>
     <news:news>
       <news:publication>

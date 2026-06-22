@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/grenade-explosion-rocks-residential-building-in-berlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T15:12:45.000Z</news:publication_date>
+      <news:title>Grenade Explosion Rocks Residential Building in Berlin </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/most-over-50s-in-germany-want-early-retirement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T14:38:53.000Z</news:publication_date>
+      <news:title>Most Over-50s in Germany Want Early Retirement </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-much-do-german-mps-earn-on-the-side</loc>
     <news:news>
       <news:publication>

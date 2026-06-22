@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/keir-starmer-resigns-as-uk-prime-minister</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T10:36:52.000Z</news:publication_date>
+      <news:title>Keir Starmer Resigns as UK Prime Minister </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/heatwave-warning-temperatures-set-to-hit-40degc-this-week-in-germany</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-06-20T14:18:27.000Z</news:publication_date>
       <news:title>Germany&apos;s Solar Boom: 6 Million Installations Reached </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/over-a-million-working-age-migrants-in-germany-lack-vocational-qualifications</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20T10:09:04.000Z</news:publication_date>
-      <news:title>Over a Million Working-Age Migrants in Germany Lack Vocational Qualifications </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/uks-starmer-reportedly-set-to-quit-as-labour-rival-sworn-in-as-mp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T06:01:23.000Z</news:publication_date>
+      <news:title>UK&apos;s Starmer reportedly set to quit as Labour rival sworn in as MP </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/european-countries-close-schools-cancel-trains-as-heatwave-set-to-intensify</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-22T05:47:39.000Z</news:publication_date>
+      <news:title>European countries close schools, cancel trains as heatwave set to intensify </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-and-iran-set-for-new-talks-after-delay-and-deadly-strikes</loc>
     <news:news>
       <news:publication>
@@ -71,42 +95,6 @@
       </news:publication>
       <news:publication_date>2026-06-20T10:09:04.000Z</news:publication_date>
       <news:title>Over a Million Working-Age Migrants in Germany Lack Vocational Qualifications </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-welfare-fraud-crackdown-and-benefit-restrictions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20T06:50:40.000Z</news:publication_date>
-      <news:title>Germany Plans Welfare Fraud Crackdown and Benefit Restrictions </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/why-most-germans-are-sceptical-of-new-data-centres</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20T05:55:26.000Z</news:publication_date>
-      <news:title>Why Most Germans Are Sceptical of New Data Centres? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-targets-high-building-costs-with-13-point-action-plan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20T05:42:16.000Z</news:publication_date>
-      <news:title>Germany Targets High Building Costs With 13-Point Action Plan </news:title>
     </news:news>
   </url>
 

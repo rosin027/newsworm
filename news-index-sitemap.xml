@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-solar-boom-6-million-installations-reached</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-20T14:18:27.000Z</news:publication_date>
-      <news:title>Germany&apos;s Solar Boom: 6 Million Installations Reached </news:title>
-    </news:news>
-  </url>
-
 </urlset>

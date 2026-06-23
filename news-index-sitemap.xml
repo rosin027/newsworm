@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-bets-on-digital-euro-to-end-reliance-on-us-payment-giants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T06:05:39.000Z</news:publication_date>
+      <news:title>EU Bets on Digital Euro to End Reliance on US Payment Giants </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/organ-donation-reform-germany-debates-presumed-consent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T05:17:32.000Z</news:publication_date>
+      <news:title>Organ Donation Reform: Germany Debates Presumed Consent </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/grenade-explosion-rocks-residential-building-in-berlin</loc>
     <news:news>
       <news:publication>
@@ -107,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-21T08:35:52.000Z</news:publication_date>
       <news:title>US and Iran set for new talks after delay and deadly strikes </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-is-not-prepared-for-extreme-heat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T06:35:14.000Z</news:publication_date>
-      <news:title>Germany is Not Prepared for Extreme Heat Catastrophe </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-pension-reform-retirement-age-to-rise-to-70</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T06:33:08.000Z</news:publication_date>
-      <news:title>Germany&apos;s Pension Reform: Retirement Age to Rise to 70 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-through-to-world-cup-last-32-for-first-time-since-2014</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T06:29:30.000Z</news:publication_date>
-      <news:title>Germany through to World Cup last 32 for first time since 2014 </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-pledges-full-implementation-of-germanys-pension-reform-package</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-23T07:48:21.000Z</news:publication_date>
+      <news:title>Merz Pledges Full Implementation of Germany&apos;s Pension Reform Package </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-bets-on-digital-euro-to-end-reliance-on-us-payment-giants</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-22T05:47:39.000Z</news:publication_date>
       <news:title>European countries close schools, cancel trains as heatwave set to intensify </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-and-iran-set-for-new-talks-after-delay-and-deadly-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-21T08:35:52.000Z</news:publication_date>
-      <news:title>US and Iran set for new talks after delay and deadly strikes </news:title>
     </news:news>
   </url>
 

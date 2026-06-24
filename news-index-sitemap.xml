@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/grenade-explosion-rocks-residential-building-in-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T15:12:45.000Z</news:publication_date>
-      <news:title>Grenade Explosion Rocks Residential Building in Berlin </news:title>
-    </news:news>
-  </url>
-
 </urlset>

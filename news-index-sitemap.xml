@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-rail-network-brought-to-a-standstill-by-radio-failure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-24T06:35:25.000Z</news:publication_date>
+      <news:title>Germany&apos;s Rail Network Brought to a Standstill by Radio Failure </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-sees-coalition-on-reform-course-to-make-viable-changes</loc>
     <news:news>
       <news:publication>
@@ -119,42 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-22T08:26:20.000Z</news:publication_date>
       <news:title>Heatwave Warning: Temperatures Set to Hit 40?C This Week in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/jusos-slam-proposal-to-link-retirement-age-to-life-expectancy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T06:09:56.000Z</news:publication_date>
-      <news:title>Jusos Slam Proposal to Link Retirement Age to Life expectancy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/uks-starmer-reportedly-set-to-quit-as-labour-rival-sworn-in-as-mp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T06:01:23.000Z</news:publication_date>
-      <news:title>UK&apos;s Starmer reportedly set to quit as Labour rival sworn in as MP </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/european-countries-close-schools-cancel-trains-as-heatwave-set-to-intensify</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-22T05:47:39.000Z</news:publication_date>
-      <news:title>European countries close schools, cancel trains as heatwave set to intensify </news:title>
     </news:news>
   </url>
 

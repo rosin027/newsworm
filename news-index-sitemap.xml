@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/e5-leaders-unite-in-berlin-ahead-of-nato-summit-in-ankara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T06:31:42.000Z</news:publication_date>
+      <news:title>E5 Leaders Unite in Berlin Ahead of NATO Summit in Ankara </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/falling-flower-pot-kills-man-in-berlin-woman-charged</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-23T07:48:21.000Z</news:publication_date>
       <news:title>Merz Pledges Full Implementation of Germany&apos;s Pension Reform Package </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-bets-on-digital-euro-to-end-reliance-on-us-payment-giants</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T06:05:39.000Z</news:publication_date>
-      <news:title>EU Bets on Digital Euro to End Reliance on US Payment Giants </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/organ-donation-reform-germany-debates-presumed-consent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T05:17:32.000Z</news:publication_date>
-      <news:title>Organ Donation Reform: Germany Debates Presumed Consent </news:title>
     </news:news>
   </url>
 

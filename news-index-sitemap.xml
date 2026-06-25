@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-new-traffic-laws-every-driver-should-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T08:05:09.000Z</news:publication_date>
+      <news:title>Germany&apos;s New Traffic Laws Every Driver Should Know </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-offers-free-cancellations-amid-extreme-heat-wave</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T06:40:04.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Offers Free Cancellations Amid Extreme Heat Wave </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/e5-leaders-unite-in-berlin-ahead-of-nato-summit-in-ankara</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-23T09:29:03.000Z</news:publication_date>
       <news:title>Student Behaviour Is the Top Challenge for Teachers in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-pledges-full-implementation-of-germanys-pension-reform-package</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T07:48:21.000Z</news:publication_date>
-      <news:title>Merz Pledges Full Implementation of Germany&apos;s Pension Reform Package </news:title>
     </news:news>
   </url>
 

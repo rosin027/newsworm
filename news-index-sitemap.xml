@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-sells-majority-stake-in-marine-engine-unit-everllence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T09:19:58.000Z</news:publication_date>
+      <news:title>Volkswagen Sells Majority Stake in Marine Engine Unit Everllence </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-new-traffic-laws-every-driver-should-know</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-23T11:49:54.000Z</news:publication_date>
       <news:title>Merz Sees Coalition on Reform Course to Make &quot;Viable Changes&quot; </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/student-behaviour-is-the-top-challenge-for-teachers-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T09:29:03.000Z</news:publication_date>
-      <news:title>Student Behaviour Is the Top Challenge for Teachers in Germany </news:title>
     </news:news>
   </url>
 

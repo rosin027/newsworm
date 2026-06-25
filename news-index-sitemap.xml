@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stop-welfare-abuse-afds-six-point-plan-divides-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-25T12:45:03.000Z</news:publication_date>
+      <news:title>Stop Welfare Abuse: AfD&apos;s Six-Point Plan Divides Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-sells-majority-stake-in-marine-engine-unit-everllence</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-24T06:35:25.000Z</news:publication_date>
       <news:title>Germany&apos;s Rail Network Brought to a Standstill by Radio Failure </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-sees-coalition-on-reform-course-to-make-viable-changes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T11:49:54.000Z</news:publication_date>
-      <news:title>Merz Sees Coalition on Reform Course to Make &quot;Viable Changes&quot; </news:title>
     </news:news>
   </url>
 

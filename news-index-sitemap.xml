@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-passes-right-to-repair-law-a-win-for-german-consumers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T07:58:44.000Z</news:publication_date>
+      <news:title>Bundestag Passes Right to Repair Law: A Win for German Consumers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-faces-41degc-heatwave-rail-travel-and-events-hit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T07:06:34.000Z</news:publication_date>
+      <news:title>Germany Faces 41?C Heatwave, Rail Travel and Events Hit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-adopts-whoever-orders-pays-rule-for-municipal-costs</loc>
     <news:news>
       <news:publication>
@@ -143,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-24T10:39:32.000Z</news:publication_date>
       <news:title>Blanket Social Media Ban for Kids Rejected by Experts in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/extreme-heat-hits-germany-as-temperatures-near-41degc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T08:02:24.000Z</news:publication_date>
-      <news:title>Extreme Heat Hits Germany as Temperatures Near 41?C </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/record-number-of-germans-are-now-living-alone</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T07:54:35.000Z</news:publication_date>
-      <news:title>Record Number of Germans Are Now Living Alone </news:title>
     </news:news>
   </url>
 

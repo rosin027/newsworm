@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stuttgart-21-delayed-to-2031-costs-soar-to-eu14-5-billion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T13:20:16.000Z</news:publication_date>
+      <news:title>Stuttgart 21 Delayed to 2031 ? Costs Soar to ?14.5 Billion </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/july-2026-in-germany-important-changes-you-need-to-know</loc>
     <news:news>
       <news:publication>
@@ -155,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-25T06:31:42.000Z</news:publication_date>
       <news:title>E5 Leaders Unite in Berlin Ahead of NATO Summit in Ankara </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/falling-flower-pot-kills-man-in-berlin-woman-charged</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T14:32:26.000Z</news:publication_date>
-      <news:title>Falling Flower Pot Kills Man in Berlin, Woman Charged </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/heatwave-germany-whos-most-at-risk-and-how-to-stay-safe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T13:46:57.000Z</news:publication_date>
-      <news:title>Heatwave Germany: Who&apos;s Most at Risk and How to Stay Safe </news:title>
     </news:news>
   </url>
 

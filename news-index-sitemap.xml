@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-adopts-whoever-orders-pays-rule-for-municipal-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T06:19:45.000Z</news:publication_date>
+      <news:title>Germany Adopts &apos;Whoever Orders, Pays&apos; Rule for Municipal Costs </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-plans-to-make-public-administration-fit-for-the-digital-age</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T06:07:19.000Z</news:publication_date>
+      <news:title>Germany Plans to Make Public Administration Fit for the Digital Age </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-scales-back-growth-and-punctuality-goals</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-24T07:54:35.000Z</news:publication_date>
       <news:title>Record Number of Germans Are Now Living Alone </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-rail-network-brought-to-a-standstill-by-radio-failure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T06:35:25.000Z</news:publication_date>
-      <news:title>Germany&apos;s Rail Network Brought to a Standstill by Radio Failure </news:title>
     </news:news>
   </url>
 

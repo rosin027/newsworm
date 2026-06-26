@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/july-2026-in-germany-important-changes-you-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T11:29:04.000Z</news:publication_date>
+      <news:title>July 2026 in Germany: Important changes you need to know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-plans-100-000-job-cuts-and-factory-closures</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-06-24T13:46:57.000Z</news:publication_date>
       <news:title>Heatwave Germany: Who&apos;s Most at Risk and How to Stay Safe </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-naval-ambitions-suffer-setback-as-warship-order-axed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-24T12:02:23.000Z</news:publication_date>
-      <news:title>German naval ambitions suffer setback as F126 warship order axed </news:title>
     </news:news>
   </url>
 

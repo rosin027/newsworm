@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-records-its-hottest-june-day-ever-as-saarbrucken-hits-41-1degc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-26T15:49:50.000Z</news:publication_date>
+      <news:title>Germany Records Its Hottest June Day Ever as Saarbr?cken Hits 41.1?C </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/stuttgart-21-delayed-to-2031-costs-soar-to-eu14-5-billion</loc>
     <news:news>
       <news:publication>

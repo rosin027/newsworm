@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sets-third-consecutive-heat-record-as-heatwave-peaks-at-41-7degc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T15:04:24.000Z</news:publication_date>
+      <news:title>Germany Sets Third Consecutive Heat Record as Heatwave Peaks at 41.7?C </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-hits-all-time-temperature-record-in-longest-ever-heatwave</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-06-27T06:28:28.000Z</news:publication_date>
       <news:title>Doctors Accuse German Government of Failing on Heat Protection </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-its-hottest-june-day-ever-as-saarbrucken-hits-41-1degc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T15:49:50.000Z</news:publication_date>
-      <news:title>Germany Records Its Hottest June Day Ever as Saarbr?cken Hits 41.1?C </news:title>
     </news:news>
   </url>
 

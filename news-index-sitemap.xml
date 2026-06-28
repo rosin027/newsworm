@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-hits-all-time-temperature-record-in-longest-ever-heatwave</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T12:51:36.000Z</news:publication_date>
+      <news:title>Germany Hits All-Time Temperature Record in Longest-Ever Heatwave </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ai-and-smart-e-bikes-can-tech-revive-the-cycling-industry</loc>
     <news:news>
       <news:publication>
@@ -95,18 +107,6 @@
       </news:publication>
       <news:publication_date>2026-06-26T15:49:50.000Z</news:publication_date>
       <news:title>Germany Records Its Hottest June Day Ever as Saarbr?cken Hits 41.1?C </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/stuttgart-21-delayed-to-2031-costs-soar-to-eu14-5-billion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T13:20:16.000Z</news:publication_date>
-      <news:title>Stuttgart 21 Delayed to 2031 ? Costs Soar to ?14.5 Billion </news:title>
     </news:news>
   </url>
 

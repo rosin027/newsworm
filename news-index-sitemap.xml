@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ai-and-smart-e-bikes-can-tech-revive-the-cycling-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T07:47:36.000Z</news:publication_date>
+      <news:title>AI and Smart E-Bikes: Can Tech Revive the Cycling Industry?  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/tesla-announces-1-000-new-jobs-at-grunheide-gigafactory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-28T06:51:07.000Z</news:publication_date>
+      <news:title>Tesla Announces 1,000 New Jobs at Gr?nheide Gigafactory </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-breaks-its-own-heat-record-41-5degc-recorded-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-26T09:01:15.000Z</news:publication_date>
       <news:title>Magdeburg Christmas Market Attack: Driver Sentenced to Life </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-passes-right-to-repair-law-a-win-for-german-consumers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T07:58:44.000Z</news:publication_date>
-      <news:title>Bundestag Passes Right to Repair Law: A Win for German Consumers </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-faces-41degc-heatwave-rail-travel-and-events-hit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-26T07:06:34.000Z</news:publication_date>
-      <news:title>Germany Faces 41?C Heatwave, Rail Travel and Events Hit </news:title>
     </news:news>
   </url>
 

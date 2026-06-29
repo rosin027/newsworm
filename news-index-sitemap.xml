@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/five-shot-dead-at-youth-welfare-facility-in-stade-lower-saxony</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T13:16:45.000Z</news:publication_date>
+      <news:title>Five Shot Dead at Youth Welfare Facility in Stade, Lower Saxony </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-expects-an-exceptional-cherry-harvest-in-2026</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-06-27T15:17:31.000Z</news:publication_date>
       <news:title>Germany Breaks Its Own Heat Record: 41.5?C Recorded in Saxony-Anhalt </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/1-3-million-sign-afd-ban-petition-after-party-deemed-unconstitutional</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T13:06:49.000Z</news:publication_date>
-      <news:title>1.3 Million Sign AfD Ban Petition After Party Deemed Unconstitutional </news:title>
     </news:news>
   </url>
 

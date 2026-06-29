@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-coalition-bids-to-seal-major-reform-package-before-summer-break</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-29T15:05:28.000Z</news:publication_date>
+      <news:title>Merz Coalition Bids to Seal Major Reform Package Before Summer Break </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/five-shot-dead-at-youth-welfare-facility-in-stade-lower-saxony</loc>
     <news:news>
       <news:publication>
@@ -107,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-06-28T06:51:07.000Z</news:publication_date>
       <news:title>Tesla Announces 1,000 New Jobs at Gr?nheide Gigafactory </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-breaks-its-own-heat-record-41-5degc-recorded-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-27T15:17:31.000Z</news:publication_date>
-      <news:title>Germany Breaks Its Own Heat Record: 41.5?C Recorded in Saxony-Anhalt </news:title>
     </news:news>
   </url>
 

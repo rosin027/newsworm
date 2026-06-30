@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagens-radical-transformation-whats-changing-and-why</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T09:29:38.000Z</news:publication_date>
+      <news:title>Volkswagen&apos;s Radical Transformation: What&apos;s Changing and Why </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-beverage-industry-rejects-planned-sugar-tax-open-letter</loc>
     <news:news>
       <news:publication>

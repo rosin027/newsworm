@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/unemployment-in-germany-dips-slightly-in-june-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T12:11:46.000Z</news:publication_date>
+      <news:title>Unemployment in Germany Dips Slightly in June 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-out-of-2026-fifa-world-cup-after-penalty-defeat-to-paraguay</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T11:04:59.000Z</news:publication_date>
+      <news:title>Germany Out of 2026 FIFA World Cup After Penalty Defeat to Paraguay </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagens-radical-transformation-whats-changing-and-why</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-06-28T15:04:24.000Z</news:publication_date>
       <news:title>Germany Sets Third Consecutive Heat Record as Heatwave Peaks at 41.7?C </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-hits-all-time-temperature-record-in-longest-ever-heatwave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T12:51:36.000Z</news:publication_date>
-      <news:title>Germany Hits All-Time Temperature Record in Longest-Ever Heatwave </news:title>
     </news:news>
   </url>
 

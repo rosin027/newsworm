@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-beverage-industry-rejects-planned-sugar-tax-open-letter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T07:18:52.000Z</news:publication_date>
+      <news:title>German Beverage Industry Rejects Planned Sugar Tax in Open Letter </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-to-expect-as-eu-small-parcel-levy-kicks-in</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-28T12:51:36.000Z</news:publication_date>
       <news:title>Germany Hits All-Time Temperature Record in Longest-Ever Heatwave </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ai-and-smart-e-bikes-can-tech-revive-the-cycling-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T07:47:36.000Z</news:publication_date>
-      <news:title>AI and Smart E-Bikes: Can Tech Revive the Cycling Industry?  </news:title>
     </news:news>
   </url>
 

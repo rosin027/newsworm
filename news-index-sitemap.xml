@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-to-expect-as-eu-small-parcel-levy-kicks-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T06:19:02.000Z</news:publication_date>
+      <news:title>What to expect as EU small parcel levy kicks in </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/gunman-kills-six-at-german-family-shelter-amid-custody-dispute</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T05:49:59.000Z</news:publication_date>
+      <news:title>Gunman Kills Six at German Family Shelter Amid Custody Dispute </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-coalition-bids-to-seal-major-reform-package-before-summer-break</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-06-28T07:47:36.000Z</news:publication_date>
       <news:title>AI and Smart E-Bikes: Can Tech Revive the Cycling Industry?  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tesla-announces-1-000-new-jobs-at-grunheide-gigafactory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T06:51:07.000Z</news:publication_date>
-      <news:title>Tesla Announces 1,000 New Jobs at Gr?nheide Gigafactory </news:title>
     </news:news>
   </url>
 

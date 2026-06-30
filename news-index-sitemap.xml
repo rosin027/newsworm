@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/inflation-in-germany-drops-to-2-3-in-june</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T15:02:06.000Z</news:publication_date>
+      <news:title>Inflation in Germany Drops to 2.3% in June </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-labour-market-dilemma-rising-unemployment-despite-vacancies</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-06-29T06:10:35.000Z</news:publication_date>
       <news:title>Volkswagen to End Autonomous Driving Alliance With Bosch </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sets-third-consecutive-heat-record-as-heatwave-peaks-at-41-7degc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-28T15:04:24.000Z</news:publication_date>
-      <news:title>Germany Sets Third Consecutive Heat Record as Heatwave Peaks at 41.7?C </news:title>
     </news:news>
   </url>
 

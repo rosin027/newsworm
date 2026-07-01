@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stade-shooting-arrest-warrant-issued-for-six-murders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T06:32:11.000Z</news:publication_date>
+      <news:title>Stade Shooting: Arrest Warrant Issued for Six Murders  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/inflation-in-germany-drops-to-2-3-in-june</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-29T08:16:33.000Z</news:publication_date>
       <news:title>Germany&apos;s Historic Heatwave Ends as Storms Sweep In From the West </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/can-brussels-and-beijing-avoid-a-trade-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T06:49:44.000Z</news:publication_date>
-      <news:title>Can Brussels and Beijing Avoid a Trade War? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-to-end-autonomous-driving-alliance-with-bosch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T06:10:35.000Z</news:publication_date>
-      <news:title>Volkswagen to End Autonomous Driving Alliance With Bosch </news:title>
     </news:news>
   </url>
 

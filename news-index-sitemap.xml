@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fertility-rate-in-germany-falls-to-its-lowest-level-since-1997</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T09:14:05.000Z</news:publication_date>
+      <news:title>Fertility Rate in Germany Falls to its Lowest Level Since 1997 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahns-rail-monopoly-takes-a-hit-from-italo</loc>
     <news:news>
       <news:publication>

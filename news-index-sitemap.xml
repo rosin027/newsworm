@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-eyes-leap-forward-in-high-stakes-coalition-reform-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T14:20:58.000Z</news:publication_date>
+      <news:title>Merz Eyes &apos;Leap Forward&apos; in High-Stakes Coalition Reform Talks </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/fuel-prices-in-germany-rose-even-before-the-tax-cut-ended</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T14:08:24.000Z</news:publication_date>
+      <news:title>Fuel Prices in Germany Rose Even Before the Tax Cut Ended </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/renewables-power-a-record-58-of-germanys-electricity-consumption</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-06-29T15:05:28.000Z</news:publication_date>
       <news:title>Merz Coalition Bids to Seal Major Reform Package Before Summer Break </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/five-shot-dead-at-youth-welfare-facility-in-stade-lower-saxony</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T13:16:45.000Z</news:publication_date>
-      <news:title>Five Shot Dead at Youth Welfare Facility in Stade, Lower Saxony </news:title>
     </news:news>
   </url>
 

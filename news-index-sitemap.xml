@@ -87,6 +87,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-mandatory-exercises-for-bundeswehr-reservists</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T15:57:07.000Z</news:publication_date>
+      <news:title>German Cabinet Approves Mandatory Exercises For Bundeswehr Reservists </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-eyes-leap-forward-in-high-stakes-coalition-reform-talks</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-01T06:32:11.000Z</news:publication_date>
       <news:title>Stade Shooting: Arrest Warrant Issued for Six Murders  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-in-germany-drops-to-2-3-in-june</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T15:02:06.000Z</news:publication_date>
-      <news:title>Inflation in Germany Drops to 2.3% in June </news:title>
     </news:news>
   </url>
 

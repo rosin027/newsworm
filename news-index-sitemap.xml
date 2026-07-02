@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/sick-notes-from-day-one-unions-slam-germanys-coalition-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T11:29:10.000Z</news:publication_date>
+      <news:title>Sick Notes From Day One:  Unions Slam Germany&apos;s Coalition Plan </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-top-court-upholds-googles-record-eu4-1-billion-android-antitrust-fine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T11:21:30.000Z</news:publication_date>
+      <news:title>EU Top Court Upholds Google&apos;s Record ?4.1 Billion Android Antitrust Fine </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-coalition-agrees-tax-pension-and-sick-note-reforms</loc>
     <news:news>
       <news:publication>
@@ -119,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-30T15:02:06.000Z</news:publication_date>
       <news:title>Inflation in Germany Drops to 2.3% in June </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-labour-market-dilemma-rising-unemployment-despite-vacancies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T12:11:46.000Z</news:publication_date>
-      <news:title>Germany&apos;s Labour Market Dilemma: Rising Unemployment Despite Vacancies </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-out-of-2026-fifa-world-cup-after-penalty-defeat-to-paraguay</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T11:04:59.000Z</news:publication_date>
-      <news:title>Germany Out of 2026 FIFA World Cup After Penalty Defeat to Paraguay </news:title>
     </news:news>
   </url>
 

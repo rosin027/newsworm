@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/coalition-agrees-on-tax-pension-and-labour-reform-package</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T06:18:16.000Z</news:publication_date>
+      <news:title>Coalition Agrees on Tax, Pension and Labour Reform Package </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-eyes-leap-forward-in-high-stakes-coalition-reform-talks</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-06-30T07:18:52.000Z</news:publication_date>
       <news:title>German Beverage Industry Rejects Planned Sugar Tax in Open Letter </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-to-expect-as-eu-small-parcel-levy-kicks-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T06:19:02.000Z</news:publication_date>
-      <news:title>What to expect as EU small parcel levy kicks in </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gunman-kills-six-at-german-family-shelter-amid-custody-dispute</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T05:49:59.000Z</news:publication_date>
-      <news:title>Gunman Kills Six at German Family Shelter Amid Custody Dispute </news:title>
     </news:news>
   </url>
 

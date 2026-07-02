@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-coalition-agrees-tax-pension-and-sick-note-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T08:38:26.000Z</news:publication_date>
+      <news:title>Merz Coalition Agrees Tax, Pension and Sick-Note Reforms </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/skilled-immigrants-underused-despite-germanys-labor-shortages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T06:25:45.000Z</news:publication_date>
+      <news:title>Skilled Immigrants Underused Despite Germany&apos;s Labor Shortages </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/coalition-agrees-on-tax-pension-and-labour-reform-package</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-06-30T09:29:38.000Z</news:publication_date>
       <news:title>Volkswagen&apos;s Radical Transformation: What&apos;s Changing and Why </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-beverage-industry-rejects-planned-sugar-tax-open-letter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-30T07:18:52.000Z</news:publication_date>
-      <news:title>German Beverage Industry Rejects Planned Sugar Tax in Open Letter </news:title>
     </news:news>
   </url>
 

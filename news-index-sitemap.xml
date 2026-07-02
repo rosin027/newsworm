@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-infineon-opens-smart-power-fab-chip-plant</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T13:32:16.000Z</news:publication_date>
+      <news:title>Germany&apos;s Infineon Opens &apos;Smart Power Fab&apos; Chip Plant </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/ukraine-ordered-nord-stream-pipeline-bombing-german-prosecutors-say</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-02T13:13:48.000Z</news:publication_date>
+      <news:title>Ukraine Ordered Nord Stream Pipeline Bombing German Prosecutors Say  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sick-notes-from-day-one-unions-slam-germanys-coalition-plan</loc>
     <news:news>
       <news:publication>

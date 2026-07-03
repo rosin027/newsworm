@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/nearly-one-in-three-25-year-olds-in-germany-still-lives-with-parents</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T07:06:57.000Z</news:publication_date>
+      <news:title>Nearly One in Three 25-Year-Olds in Germany Still Lives With Parents </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-we-take-reform-plans-seriously-and-implement-them</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-01T09:14:05.000Z</news:publication_date>
       <news:title>Fertility Rate in Germany Falls to its Lowest Level Since 1997 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahns-rail-monopoly-takes-a-hit-from-italo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T07:07:09.000Z</news:publication_date>
-      <news:title>Deutsche Bahn&apos;s Rail Monopoly Takes a Hit From Italo </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/mercedes-benz-employees-protest-against-cost-cutting-plans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T12:46:44.000Z</news:publication_date>
+      <news:title>Mercedes-Benz Employees Protest Against Cost-Cutting Plans </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/electric-car-sales-surge-78-in-germany-this-june</loc>
     <news:news>
       <news:publication>
@@ -94,7 +106,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-02T13:13:48.000Z</news:publication_date>
-      <news:title>Ukraine Ordered Nord Stream Pipeline Bombing German Prosecutors Say  </news:title>
+      <news:title>Ukraine Ordered Nord Stream Pipeline Bombing, German Prosecutors Say  </news:title>
     </news:news>
   </url>
 
@@ -167,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-07-01T15:57:07.000Z</news:publication_date>
       <news:title>German Cabinet Approves Mandatory Exercises For Bundeswehr Reservists </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-eyes-leap-forward-in-high-stakes-coalition-reform-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T14:20:58.000Z</news:publication_date>
-      <news:title>Merz Eyes &apos;Leap Forward&apos; in High-Stakes Coalition Reform Talks </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fuel-prices-in-germany-rose-even-before-the-tax-cut-ended</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T14:08:24.000Z</news:publication_date>
-      <news:title>Fuel Prices in Germany Rose Even Before the Tax Cut Ended </news:title>
     </news:news>
   </url>
 

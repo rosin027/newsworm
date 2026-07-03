@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/nagelsmann-out-as-germany-coach-jurgen-klopp-set-to-take-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T10:50:10.000Z</news:publication_date>
+      <news:title>Nagelsmann Out as Germany Coach, Jurgen Klopp Set to Take Over </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/drivers-in-germany-turn-to-cheaper-e10-petrol-as-fuel-costs-surge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T10:14:43.000Z</news:publication_date>
+      <news:title>Drivers in Germany Turn to Cheaper E10 Petrol as Fuel Costs Surge </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/child-adoptions-in-germany-fall-to-lowest-level-since-reunification</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-03T09:09:22.000Z</news:publication_date>
+      <news:title>Child Adoptions in Germany Fall to Lowest Level Since Reunification </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nearly-one-in-three-25-year-olds-in-germany-still-lives-with-parents</loc>
     <news:news>
       <news:publication>
@@ -155,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-07-01T11:32:30.000Z</news:publication_date>
       <news:title>Renewables Power a record 58% of Germany&apos;s Electricity Consumption </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fertility-rate-in-germany-falls-to-its-lowest-level-since-1997</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T09:14:05.000Z</news:publication_date>
-      <news:title>Fertility Rate in Germany Falls to its Lowest Level Since 1997 </news:title>
     </news:news>
   </url>
 

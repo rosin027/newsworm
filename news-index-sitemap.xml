@@ -170,16 +170,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-mandatory-exercises-for-bundeswehr-reservists</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-01T15:57:07.000Z</news:publication_date>
-      <news:title>German Cabinet Approves Mandatory Exercises For Bundeswehr Reservists </news:title>
-    </news:news>
-  </url>
-
 </urlset>

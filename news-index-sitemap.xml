@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/flight-and-train-disruptions-germany-sees-record-complaints</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T07:01:08.000Z</news:publication_date>
+      <news:title>Flight and Train Disruptions: Germany Sees Record Complaints </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tens-of-thousands-set-to-blockade-afds-erfurt-conference</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-02T11:21:30.000Z</news:publication_date>
       <news:title>EU Top Court Upholds Google&apos;s Record ?4.1 Billion Android Antitrust Fine </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-coalition-agrees-tax-pension-and-sick-note-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T08:38:26.000Z</news:publication_date>
-      <news:title>Merz Coalition Agrees Tax, Pension and Sick-Note Reforms </news:title>
     </news:news>
   </url>
 

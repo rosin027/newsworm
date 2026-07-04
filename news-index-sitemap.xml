@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tens-of-thousands-set-to-blockade-afds-erfurt-conference</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-04T06:51:20.000Z</news:publication_date>
+      <news:title>Tens of Thousands Set to Blockade AfD&apos;s Erfurt Conference </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mercedes-benz-employees-protest-against-cost-cutting-plans</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-02T08:38:26.000Z</news:publication_date>
       <news:title>Merz Coalition Agrees Tax, Pension and Sick-Note Reforms </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/skilled-immigrants-underused-despite-germanys-labor-shortages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T06:25:45.000Z</news:publication_date>
-      <news:title>Skilled Immigrants Underused Despite Germany&apos;s Labor Shortages </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/coalition-agrees-on-tax-pension-and-labour-reform-package</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-02T06:18:16.000Z</news:publication_date>
-      <news:title>Coalition Agrees on Tax, Pension and Labour Reform Package </news:title>
     </news:news>
   </url>
 

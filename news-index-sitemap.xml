@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/health-insurance-reform-germanys-coalition-agrees-64-changes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T14:48:38.000Z</news:publication_date>
+      <news:title>Health Insurance Reform: Germany&apos;s Coalition Agrees 64 Changes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/woman-in-germany-loses-over-eu1-million-in-ai-deepfake-scam</loc>
     <news:news>
       <news:publication>

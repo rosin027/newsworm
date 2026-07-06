@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/wildfires-sweep-southern-europe-19-000-hectares-burned</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-06T07:02:00.000Z</news:publication_date>
+      <news:title>Wildfires Sweep Southern Europe: 19,000+ Hectares Burned </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/a-lot-for-employees-klingbeil-defends-reform-package</loc>
     <news:news>
       <news:publication>
@@ -59,18 +71,6 @@
       </news:publication>
       <news:publication_date>2026-07-04T09:41:36.000Z</news:publication_date>
       <news:title>AfD Opens Erfurt Party Congress: Chrupalla Vows Unity Amid Mass Protests </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/flight-and-train-disruptions-germany-sees-record-complaints</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-04T07:01:08.000Z</news:publication_date>
-      <news:title>Flight and Train Disruptions: Germany Sees Record Complaints </news:title>
     </news:news>
   </url>
 

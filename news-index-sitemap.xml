@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/should-germany-relax-sunday-shop-opening-hours</loc>
+    <loc>https://www.newsworm.de/news/should-germany-allow-shops-to-open-on-sundays</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-07T06:26:06.000Z</news:publication_date>
-      <news:title>Should Germany Relax Sunday Shop Opening Hours? </news:title>
+      <news:title>Should Germany Allow Shops to Open on Sundays? </news:title>
     </news:news>
   </url>
 
@@ -95,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-07-06T06:39:00.000Z</news:publication_date>
       <news:title>&quot;A lot for employees&quot;: Klingbeil defends reform package </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-unveils-action-plan-to-combat-welfare-benefit-abuse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-05T06:59:45.000Z</news:publication_date>
-      <news:title>Merz Unveils Action Plan to Combat Welfare Benefit Abuse </news:title>
     </news:news>
   </url>
 

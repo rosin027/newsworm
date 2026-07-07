@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/smoking-to-get-more-expensive-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T09:45:22.000Z</news:publication_date>
+      <news:title>Smoking to Get More Expensive in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/parental-allowance-reform-in-germany-sparks-backlash-from-opposition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-07T08:04:24.000Z</news:publication_date>
+      <news:title>Parental Allowance Reform in Germany Sparks Backlash From Opposition </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/should-germany-allow-shops-to-open-on-sundays</loc>
     <news:news>
       <news:publication>

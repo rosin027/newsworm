@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/eight-deaths-a-day-germanys-2025-road-traffic-accident</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T06:49:31.000Z</news:publication_date>
+      <news:title>Eight Deaths a Day: Germany&apos;s 2025 Road Traffic Accident  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/drug-deaths-among-young-people-in-germany-are-on-the-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T06:33:49.000Z</news:publication_date>
+      <news:title>Drug Deaths Among Young People in Germany Are on the Rise </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-cut-subsidies-for-heating-system-replacement</loc>
     <news:news>
       <news:publication>
@@ -119,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-06T07:02:00.000Z</news:publication_date>
       <news:title>Wildfires Sweep Southern Europe: 19,000+ Hectares Burned </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/a-lot-for-employees-klingbeil-defends-reform-package</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T06:39:00.000Z</news:publication_date>
-      <news:title>&quot;A lot for employees&quot;: Klingbeil defends reform package </news:title>
     </news:news>
   </url>
 

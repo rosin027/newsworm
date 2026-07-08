@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germans-still-feel-worse-off-despite-rising-real-incomes-study-finds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T10:33:03.000Z</news:publication_date>
+      <news:title>Germans Still Feel Worse Off Despite Rising Real Incomes, study finds </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-turns-to-ai-kiana-promises-faster-travel-updates</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-06T13:18:01.000Z</news:publication_date>
       <news:title>Woman in Germany Loses Over ?1 Million in AI Deepfake Scam </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/adac-warns-of-heavy-traffic-as-four-states-start-summer-holidays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:58:46.000Z</news:publication_date>
-      <news:title>ADAC Warns of Heavy Traffic as Four States Start Summer Holidays </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-lowest-illegal-border-crossings-in-five-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T09:38:07.000Z</news:publication_date>
-      <news:title>Germany Records Lowest Illegal Border Crossings in Five Years </news:title>
     </news:news>
   </url>
 

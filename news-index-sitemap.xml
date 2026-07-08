@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/schongau-school-attack-teen-stabs-two-girls-in-bavaria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T18:09:01.000Z</news:publication_date>
+      <news:title>Schongau School Attack: Teen Stabs Two Girls in Bavaria </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-after-nato-summit-europeans-free-riding-is-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-08T17:47:50.000Z</news:publication_date>
+      <news:title>Merz after NATO summit: Europeans&apos; &quot;Free-Riding&quot; is &quot;Over&quot; </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/health-insurance-reform-vote-faces-court-battle-in-germany</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-07T06:26:06.000Z</news:publication_date>
       <news:title>Should Germany Allow Shops to Open on Sundays? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabinet-approves-germanys-2027-budget</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T17:28:56.000Z</news:publication_date>
-      <news:title>Cabinet Approves Germany&apos;s 2027 Budget </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/four-year-old-girl-bitten-to-death-by-dog-in-saxony-anhalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T08:31:01.000Z</news:publication_date>
+      <news:title>Four-Year-Old Girl Bitten to Death by Dog in Saxony-Anhalt </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/we-are-delivering-what-is-needed-merz-defends-coalition</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T08:07:43.000Z</news:publication_date>
+      <news:title>&quot;We Are Delivering What Is Needed,&quot; Merz Defends Coalition </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/unions-protest-across-germany-over-volkswagens-100-000-job-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T07:05:17.000Z</news:publication_date>
+      <news:title>Unions Protest Across Germany Over Volkswagen&apos;s 100,000 Job Cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/schongau-school-attack-teen-stabs-two-girls-in-bavaria</loc>
     <news:news>
       <news:publication>
@@ -131,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-07T09:45:22.000Z</news:publication_date>
       <news:title>Smoking to Get More Expensive in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/parental-allowance-reform-in-germany-sparks-backlash-from-opposition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T08:04:24.000Z</news:publication_date>
-      <news:title>Parental Allowance Reform in Germany Sparks Backlash From Opposition </news:title>
     </news:news>
   </url>
 

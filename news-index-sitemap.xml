@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-secures-deal-to-purchase-us-tomahawk-cruise-missiles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-09T18:38:04.000Z</news:publication_date>
+      <news:title> Germany Secures Deal to Purchase US Tomahawk Cruise Missiles </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-pay-child-benefit-without-applications-from-2027</loc>
     <news:news>
       <news:publication>

@@ -146,16 +146,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/should-germany-allow-shops-to-open-on-sundays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T06:26:06.000Z</news:publication_date>
-      <news:title>Should Germany Allow Shops to Open on Sundays? </news:title>
-    </news:news>
-  </url>
-
 </urlset>

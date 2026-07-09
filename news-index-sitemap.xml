@@ -158,16 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-cut-subsidies-for-heating-system-replacement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T11:51:09.000Z</news:publication_date>
-      <news:title>Germany to Cut Subsidies for Heating System Replacement </news:title>
-    </news:news>
-  </url>
-
 </urlset>

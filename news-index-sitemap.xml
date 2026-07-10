@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/automotive-industry-crisis-sparked-urgent-debate-in-the-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T07:36:24.000Z</news:publication_date>
+      <news:title>Automotive Industry Crisis Sparked Urgent Debate in the Bundestag </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/e-scooter-accident-victims-can-now-claim-damages-more-easily</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T07:08:57.000Z</news:publication_date>
+      <news:title>E-Scooter Accident Victims Can Now Claim Damages More Easily </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-secures-deal-to-purchase-us-tomahawk-cruise-missiles</loc>
     <news:news>
       <news:publication>
@@ -155,30 +179,6 @@
       </news:publication>
       <news:publication_date>2026-07-08T10:33:03.000Z</news:publication_date>
       <news:title>Germans Still Feel Worse Off Despite Rising Real Incomes, study finds </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-turns-to-ai-kiana-promises-faster-travel-updates</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T08:32:59.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Turns to AI: Kiana Promises Faster Travel Updates </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greens-want-to-stop-bundestag-vote-on-health-insurance-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T07:43:24.000Z</news:publication_date>
-      <news:title>Greens Want to Stop Bundestag Vote on Health Insurance Reform </news:title>
     </news:news>
   </url>
 

@@ -158,28 +158,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/schongau-school-attack-teen-stabs-two-girls-in-bavaria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T18:09:01.000Z</news:publication_date>
-      <news:title>Schongau School Attack: Teen Stabs Two Girls in Bavaria </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-after-nato-summit-europeans-free-riding-is-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T17:47:50.000Z</news:publication_date>
-      <news:title>Merz after NATO summit: Europeans&apos; &quot;Free-Riding&quot; is &quot;Over&quot; </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/new-heatwave-to-hit-germany-with-temperatures-up-to-38degc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T12:34:14.000Z</news:publication_date>
+      <news:title>New Heatwave to Hit Germany With Temperatures Up to 38?C  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-gives-green-light-to-health-insurance-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-10T11:02:08.000Z</news:publication_date>
+      <news:title>Germany Gives Green Light to Health Insurance Reform </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/inflation-in-germany-eases-to-2-3-in-june</loc>
     <news:news>
       <news:publication>
@@ -167,18 +191,6 @@
       </news:publication>
       <news:publication_date>2026-07-08T15:05:10.000Z</news:publication_date>
       <news:title>Health Insurance Reform Vote Faces Court Battle in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/serial-killer-doctor-gets-germanys-maximum-sentence-for-15-murders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T12:03:30.000Z</news:publication_date>
-      <news:title>&apos;Serial Killer&apos; Doctor Gets Germany&apos;s Maximum Sentence for 15 Murders </news:title>
     </news:news>
   </url>
 

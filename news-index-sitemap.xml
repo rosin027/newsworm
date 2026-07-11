@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/jobcenters-in-germany-report-133-640-social-benefit-fraud-cases</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T12:12:12.000Z</news:publication_date>
+      <news:title>Jobcenters in Germany Report 133,640 Social Benefit Fraud Cases </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hostage-standoff-at-berlin-supermarket-ends-in-arrest</loc>
     <news:news>
       <news:publication>

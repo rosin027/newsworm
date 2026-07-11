@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-afd-would-do-in-its-first-100-days-in-saxony-anhalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T14:28:45.000Z</news:publication_date>
+      <news:title>What AfD Would Do in Its First 100 Days in Saxony Anhalt </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/jobcenters-in-germany-report-133-640-social-benefit-fraud-cases</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-09T15:28:48.000Z</news:publication_date>
       <news:title>Germany to Pay Child Benefit Without Applications From 2027 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/health-insurance-reform-survives-court-challenge-vote-set-for-friday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T13:29:30.000Z</news:publication_date>
-      <news:title>Health Insurance Reform Survives Court Challenge, Vote Set for Friday </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bafog-rates-to-rise-but-not-as-soon-as-promised</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T13:14:49.000Z</news:publication_date>
-      <news:title>BAf?G Rates to Rise But Not as Soon as Promised </news:title>
     </news:news>
   </url>
 

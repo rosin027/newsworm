@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-slams-own-coalition-over-sick-leave-reform-in-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T07:36:40.000Z</news:publication_date>
+      <news:title>SPD Slams Own Coalition Over Sick Leave Reform in Bundestag </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/bundesrat-backs-compulsory-schooling-as-afd-eyes-homeschool-option</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-11T07:08:39.000Z</news:publication_date>
+      <news:title>Bundesrat Backs Compulsory Schooling as AfD Eyes Homeschool Option </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/new-heatwave-to-hit-germany-with-temperatures-up-to-38degc</loc>
     <news:news>
       <news:publication>
@@ -119,42 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-09T09:39:52.000Z</news:publication_date>
       <news:title>June Heatwave in Germany Claimed Thousands of Lives </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/four-year-old-girl-bitten-to-death-by-dog-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T08:31:01.000Z</news:publication_date>
-      <news:title>Four-Year-Old Girl Bitten to Death by Dog in Saxony-Anhalt </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/we-are-delivering-what-is-needed-merz-defends-coalition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T08:07:43.000Z</news:publication_date>
-      <news:title>&quot;We Are Delivering What Is Needed,&quot; Merz Defends Coalition </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unions-protest-across-germany-over-volkswagens-100-000-job-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-09T07:05:17.000Z</news:publication_date>
-      <news:title>Unions Protest Across Germany Over Volkswagen&apos;s 100,000 Job Cuts </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/greens-propose-49-euro-family-ticket-for-summer-holidays</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T07:03:07.000Z</news:publication_date>
+      <news:title>Greens Propose ?49 Family Ticket for Summer Holidays </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-sales-slide-further-as-carmaker-weighs-mass-job-cuts</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-10T09:06:34.000Z</news:publication_date>
       <news:title> Inflation in Germany Eases to 2.3% in June </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/automotive-industry-crisis-sparked-urgent-debate-in-the-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T07:36:24.000Z</news:publication_date>
-      <news:title>Automotive Industry Crisis Sparked Urgent Debate in the Bundestag </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/e-scooter-accident-victims-can-now-claim-damages-more-easily</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T07:08:57.000Z</news:publication_date>
-      <news:title>E-Scooter Accident Victims Can Now Claim Damages More Easily </news:title>
     </news:news>
   </url>
 

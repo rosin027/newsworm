@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sees-worst-drowning-toll-since-2003-heatwave</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T09:34:00.000Z</news:publication_date>
+      <news:title> Germany Sees Worst Drowning Toll Since 2003 Heatwave </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/greens-propose-49-euro-family-ticket-for-summer-holidays</loc>
     <news:news>
       <news:publication>
@@ -10,7 +22,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-12T07:03:07.000Z</news:publication_date>
-      <news:title>Greens Propose ?49 Family Ticket for Summer Holidays </news:title>
+      <news:title>Will Germany Roll Out a ?49 Family Ticket This Summer?  </news:title>
     </news:news>
   </url>
 
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-10T11:02:08.000Z</news:publication_date>
       <news:title>Germany Gives Green Light to Health Insurance Reform </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inflation-in-germany-eases-to-2-3-in-june</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T09:06:34.000Z</news:publication_date>
-      <news:title> Inflation in Germany Eases to 2.3% in June </news:title>
     </news:news>
   </url>
 

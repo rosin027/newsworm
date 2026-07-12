@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-faces-third-heatwave-as-37degc-highs-and-water-shortages-loom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T12:20:26.000Z</news:publication_date>
+      <news:title>Germany Faces Third Heatwave as 37?C Highs and Water Shortages Loom </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/heatwave-triggers-air-conditioner-buying-rush-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T12:12:53.000Z</news:publication_date>
+      <news:title>Heatwave Triggers Air Conditioner Buying Rush in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-sees-worst-drowning-toll-since-2003-heatwave</loc>
     <news:news>
       <news:publication>
@@ -107,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-11T07:08:39.000Z</news:publication_date>
       <news:title>Bundesrat Backs Compulsory Schooling as AfD Eyes Homeschool Option </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/new-heatwave-to-hit-germany-with-temperatures-up-to-38degc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T12:34:14.000Z</news:publication_date>
-      <news:title>New Heatwave to Hit Germany With Temperatures Up to 38?C  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-gives-green-light-to-health-insurance-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-10T11:02:08.000Z</news:publication_date>
-      <news:title>Germany Gives Green Light to Health Insurance Reform </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-sales-slide-further-as-carmaker-weighs-mass-job-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T06:35:10.000Z</news:publication_date>
+      <news:title>Volkswagen Sales Slide Further As Carmaker Weighs Mass Job Cuts </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-threatens-meta-fine-over-facebook-instagram-addictive-design</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-12T06:25:10.000Z</news:publication_date>
+      <news:title>EU Threatens Meta Fine Over Facebook, Instagram &apos;Addictive Design&apos; </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-afd-would-do-in-its-first-100-days-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/tobacco-tax-set-to-climb-even-higher-than-planned-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T14:38:26.000Z</news:publication_date>
+      <news:title>Tobacco Tax Set to Climb Even Higher Than Planned in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/quarter-of-districts-in-germany-at-high-flood-risk</loc>
     <news:news>
       <news:publication>
@@ -10,7 +22,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-13T12:22:17.000Z</news:publication_date>
-      <news:title>Quarter of Districts in Germany at High Flood Risk </news:title>
+      <news:title>A Quarter of Districts in Germany at High Flood Risk </news:title>
     </news:news>
   </url>
 
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T06:25:10.000Z</news:publication_date>
       <news:title>EU Threatens Meta Fine Over Facebook, Instagram &apos;Addictive Design&apos; </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-afd-would-do-in-its-first-100-days-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T14:28:45.000Z</news:publication_date>
-      <news:title>What Would AfD Do in Its First 100 Days in Power? </news:title>
     </news:news>
   </url>
 

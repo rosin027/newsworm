@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/will-the-eu-ban-children-from-social-media</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T06:36:45.000Z</news:publication_date>
+      <news:title>Will the EU Ban Children From Social Media?  </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-to-cut-child-support-advance-benefit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T06:08:28.000Z</news:publication_date>
+      <news:title>Germany to Cut Child Support Advance Benefit </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-faces-third-heatwave-as-37degc-highs-and-water-shortages-loom</loc>
     <news:news>
       <news:publication>

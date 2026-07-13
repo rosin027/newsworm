@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/flight-ticket-prices-from-germany-rise-sharply-in-first-half-of-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T08:00:17.000Z</news:publication_date>
+      <news:title>Flight Ticket Prices From Germany Rise Sharply in First Half of 2026 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/will-the-eu-ban-children-from-social-media</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-11T10:15:28.000Z</news:publication_date>
       <news:title>Hostage Standoff at Berlin Supermarket Ends in Arrest </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-slams-own-coalition-over-sick-leave-reform-in-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T07:36:40.000Z</news:publication_date>
-      <news:title>SPD Slams Own Coalition Over Sick Leave Reform in Bundestag </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundesrat-backs-compulsory-schooling-as-afd-eyes-homeschool-option</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T07:08:39.000Z</news:publication_date>
-      <news:title>Bundesrat Backs Compulsory Schooling as AfD Eyes Homeschool Option </news:title>
     </news:news>
   </url>
 

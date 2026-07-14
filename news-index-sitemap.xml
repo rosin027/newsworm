@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/heatwave-in-june-claimed-around-7-100-lives-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T09:47:49.000Z</news:publication_date>
+      <news:title>Heatwave in June Claimed Around 7,100 Lives in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-backs-phased-social-media-access-for-children</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T12:12:53.000Z</news:publication_date>
       <news:title>Heatwave Triggers Air Conditioner Buying Rush in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sees-worst-drowning-toll-since-2003-heatwave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T09:34:00.000Z</news:publication_date>
-      <news:title> Germany Sees Worst Drowning Toll Since 2003 Heatwave </news:title>
     </news:news>
   </url>
 

@@ -3,14 +3,14 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/eu-to-gradually-limit-childrens-access-to-social-media</loc>
+    <loc>https://www.newsworm.de/news/eu-backs-phased-social-media-access-for-children</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-14T06:31:57.000Z</news:publication_date>
-      <news:title>EU to Gradually Limit Children&apos;s Access to Social Media </news:title>
+      <news:title>EU Backs Phased Social Media Access for Children </news:title>
     </news:news>
   </url>
 
@@ -143,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T09:34:00.000Z</news:publication_date>
       <news:title> Germany Sees Worst Drowning Toll Since 2003 Heatwave </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greens-propose-49-euro-family-ticket-for-summer-holidays</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T07:03:07.000Z</news:publication_date>
-      <news:title>Will Germany Roll Out a ?49 Family Ticket This Summer?  </news:title>
     </news:news>
   </url>
 

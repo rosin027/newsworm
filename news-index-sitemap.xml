@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/housing-costs-crush-students-in-germany-harder-than-others</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T12:28:01.000Z</news:publication_date>
+      <news:title>Housing Costs Crush Students in Germany Harder Than Others </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/is-your-data-safe-with-schufa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T11:13:51.000Z</news:publication_date>
+      <news:title>Is Your Data Safe With Schufa? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/southern-germany-hit-by-severe-weather-more-thunderstorms-expected</loc>
     <news:news>
       <news:publication>
@@ -95,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T14:38:26.000Z</news:publication_date>
       <news:title>Tobacco Tax Set to Climb Even Higher Than Planned in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/quarter-of-districts-in-germany-at-high-flood-risk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T12:22:17.000Z</news:publication_date>
-      <news:title>A Quarter of Districts in Germany at High Flood Risk </news:title>
     </news:news>
   </url>
 

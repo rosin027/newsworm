@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/digital-doctor-referrals-no-ev-stickers-how-germany-plans-to-cut-red-tape</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T14:14:56.000Z</news:publication_date>
+      <news:title>Digital Doctor Referrals, No EV Stickers: How Germany Plans to Cut Red Tape </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/merz-confident-afd-wont-win-majorities-in-eastern-states</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T13:50:50.000Z</news:publication_date>
+      <news:title>Merz Confident AfD Won&apos;t Win Majorities in Eastern States </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/housing-costs-crush-students-in-germany-harder-than-others</loc>
     <news:news>
       <news:publication>
@@ -107,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T06:18:58.000Z</news:publication_date>
       <news:title>Volkswagen Confirms Weighing up to 50,000 More Job Cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tobacco-tax-set-to-climb-even-higher-than-planned-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T14:38:26.000Z</news:publication_date>
-      <news:title>Tobacco Tax Set to Climb Even Higher Than Planned in Germany </news:title>
     </news:news>
   </url>
 

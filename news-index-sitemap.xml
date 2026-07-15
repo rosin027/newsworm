@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/southern-germany-hit-by-severe-weather-more-thunderstorms-expected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T09:13:51.000Z</news:publication_date>
+      <news:title>Southern Germany Hit by Severe Weather, More Thunderstorms Expected </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ticking-time-bomb-europes-ageing-population-brings-challenges</loc>
     <news:news>
       <news:publication>
@@ -95,30 +107,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T12:22:17.000Z</news:publication_date>
       <news:title>A Quarter of Districts in Germany at High Flood Risk </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/second-us-citizen-with-ebola-brought-to-germany-for-treatment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T10:32:13.000Z</news:publication_date>
-      <news:title>Second US Citizen With Ebola Brought to Germany for Treatment </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-court-convicts-iraqi-couple-of-genocide-against-yazidis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T10:05:46.000Z</news:publication_date>
-      <news:title>Munich Court Convicts Iraqi Couple of Genocide Against Yazidis </news:title>
     </news:news>
   </url>
 

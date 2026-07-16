@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-set-to-end-immunity-for-self-reported-tax-evasion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T11:41:16.000Z</news:publication_date>
+      <news:title>Germany Set to End Immunity for Self-Reported Tax Evasion </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/uber-acquires-german-food-delivery-giant-delivery-hero</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T07:14:17.000Z</news:publication_date>
       <news:title>Germany&apos;s Relief Cabinet Targets ?600 Million in Red-Tape Cuts </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lavita-wins-foodwatchs-most-brazen-advertising-lie-award</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T12:38:29.000Z</news:publication_date>
-      <news:title>LaVita Wins Foodwatch&apos;s Most Brazen Advertising Lie Award </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/man-stabs-wife-to-death-on-open-street-in-kelkheim-hesse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T06:44:03.000Z</news:publication_date>
+      <news:title>Man Stabs Wife to Death on Open Street in Kelkheim, Hesse </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/water-scarcity-looms-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T06:29:22.000Z</news:publication_date>
+      <news:title>Water Scarcity Looms in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/digital-doctor-referrals-no-ev-stickers-how-germany-plans-to-cut-red-tape</loc>
     <news:news>
       <news:publication>
@@ -107,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T09:47:49.000Z</news:publication_date>
       <news:title>Heatwave in June Claimed Around 7,100 Lives in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-backs-phased-social-media-access-for-children</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T06:31:57.000Z</news:publication_date>
-      <news:title>EU Backs Phased Social Media Access for Children </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-confirms-weighing-up-to-50-000-more-job-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T06:18:58.000Z</news:publication_date>
-      <news:title>Volkswagen Confirms Weighing up to 50,000 More Job Cuts </news:title>
     </news:news>
   </url>
 

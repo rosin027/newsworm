@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-to-face-rival-italo-on-germanys-long-distance-rail-routes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T12:11:19.000Z</news:publication_date>
+      <news:title>Deutsche Bahn to Face Rival Italo on Germany&apos;s Long-Distance Rail Routes  </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/do-you-need-approval-to-install-air-conditioning-in-your-apartment</loc>
     <news:news>
       <news:publication>
@@ -10,7 +22,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-17T09:36:10.000Z</news:publication_date>
-      <news:title>Do You Need Approval to Install Air Conditioning in Your Apartment? </news:title>
+      <news:title>Do You Need Approval to Install an Air Conditioner in Your Apartment? </news:title>
     </news:news>
   </url>
 
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T13:50:50.000Z</news:publication_date>
       <news:title>Merz Confident AfD Won&apos;t Win Majorities in Eastern States </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/housing-costs-crush-students-in-germany-harder-than-others</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T12:28:01.000Z</news:publication_date>
-      <news:title>Housing Costs Crush Students in Germany Harder Than Others </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/is-your-data-safe-with-schufa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T11:13:51.000Z</news:publication_date>
-      <news:title>Is Your Data Safe With Schufa? </news:title>
     </news:news>
   </url>
 

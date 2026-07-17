@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/severe-storms-batter-southern-germany-one-dead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T08:15:51.000Z</news:publication_date>
+      <news:title>Severe Storms Batter Southern Germany, One Dead </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-orders-google-to-share-search-data-open-android-to-rival-ai</loc>
     <news:news>
       <news:publication>
@@ -155,30 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T09:13:51.000Z</news:publication_date>
       <news:title>Southern Germany Hit by Severe Weather, More Thunderstorms Expected </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ticking-time-bomb-europes-ageing-population-brings-challenges</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T07:49:46.000Z</news:publication_date>
-      <news:title>Ticking time bomb? Europe&apos;s ageing population brings challenges </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-relief-cabinet-targets-eu600-million-in-red-tape-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T07:14:17.000Z</news:publication_date>
-      <news:title>Germany&apos;s Relief Cabinet Targets ?600 Million in Red-Tape Cuts </news:title>
     </news:news>
   </url>
 

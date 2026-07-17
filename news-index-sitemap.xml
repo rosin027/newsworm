@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/do-you-need-approval-to-install-air-conditioning-in-your-apartment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T09:36:10.000Z</news:publication_date>
+      <news:title>Do You Need Approval to Install Air Conditioning in Your Apartment? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/severe-storms-batter-southern-germany-one-dead</loc>
     <news:news>
       <news:publication>
@@ -155,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T11:13:51.000Z</news:publication_date>
       <news:title>Is Your Data Safe With Schufa? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/southern-germany-hit-by-severe-weather-more-thunderstorms-expected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T09:13:51.000Z</news:publication_date>
-      <news:title>Southern Germany Hit by Severe Weather, More Thunderstorms Expected </news:title>
     </news:news>
   </url>
 

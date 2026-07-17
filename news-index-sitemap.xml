@@ -134,28 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/digital-doctor-referrals-no-ev-stickers-how-germany-plans-to-cut-red-tape</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T14:14:56.000Z</news:publication_date>
-      <news:title>Digital Doctor Referrals, No EV Stickers: How Germany Plans to Cut Red Tape </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-confident-afd-wont-win-majorities-in-eastern-states</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T13:50:50.000Z</news:publication_date>
-      <news:title>Merz Confident AfD Won&apos;t Win Majorities in Eastern States </news:title>
-    </news:news>
-  </url>
-
 </urlset>

@@ -10,7 +10,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-18T06:18:28.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Employee Falls From Train During Passenger Clash </news:title>
+      <news:title>Deutsche Bahn Employee Falls From Moving Train During Altercation </news:title>
     </news:news>
   </url>
 
@@ -119,18 +119,6 @@
       </news:publication>
       <news:publication_date>2026-07-16T11:41:16.000Z</news:publication_date>
       <news:title>Germany Cracks Down On Tax Evaders </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/uber-acquires-german-food-delivery-giant-delivery-hero</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T07:58:36.000Z</news:publication_date>
-      <news:title>Uber Acquires German Food Delivery Giant Delivery Hero </news:title>
     </news:news>
   </url>
 

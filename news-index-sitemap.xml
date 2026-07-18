@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-set-to-end-immunity-for-self-reported-tax-evasion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T11:41:16.000Z</news:publication_date>
-      <news:title>Germany Cracks Down On Tax Evaders </news:title>
-    </news:news>
-  </url>
-
 </urlset>

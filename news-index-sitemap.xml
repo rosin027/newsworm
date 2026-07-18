@@ -122,16 +122,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/how-much-did-junes-heatwave-cost-the-german-economy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T16:24:47.000Z</news:publication_date>
-      <news:title>How Much Did June&apos;s Heatwave Cost the German Economy? </news:title>
-    </news:news>
-  </url>
-
 </urlset>

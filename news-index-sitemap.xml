@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/refugee-children-in-germany-face-systematic-disadvantages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T07:16:56.000Z</news:publication_date>
+      <news:title>Refugee Children in Germany Face &quot;Systematic&quot; Disadvantages </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-softens-carbon-trading-rules-to-ease-pressure-on-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T07:03:09.000Z</news:publication_date>
+      <news:title>EU Softens Carbon Trading Rules to Ease Pressure on Industry </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/jens-spahn-quits-over-surrogacy-controversy</loc>
     <news:news>
       <news:publication>
@@ -71,18 +95,6 @@
       </news:publication>
       <news:publication_date>2026-07-17T09:36:10.000Z</news:publication_date>
       <news:title>Do You Need Approval to Install an Air Conditioner in Your Apartment? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/severe-storms-batter-southern-germany-one-dead</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T08:15:51.000Z</news:publication_date>
-      <news:title>Severe Storms Batter Southern Germany, One Dead </news:title>
     </news:news>
   </url>
 

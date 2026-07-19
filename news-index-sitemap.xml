@@ -86,28 +86,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/eu-orders-google-to-share-search-data-open-android-to-rival-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T01:18:01.000Z</news:publication_date>
-      <news:title>EU Orders Google to Share Search Data, Open Android to Rival AI </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/june-heatwave-leaves-12-000-dead-across-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T01:06:58.000Z</news:publication_date>
-      <news:title>June Heatwave Leaves 12,000+ Dead Across Europe </news:title>
-    </news:news>
-  </url>
-
 </urlset>

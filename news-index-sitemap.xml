@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/how-many-sick-days-are-germans-taking-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T10:50:56.000Z</news:publication_date>
+      <news:title>How Many Sick Days Are Germans Taking In 2026? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/strawberry-harvest-drops-to-31-year-low-in-germany</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-18T13:07:45.000Z</news:publication_date>
       <news:title> Jens Spahn Quits Over Surrogacy Controversy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-france-plan-roadmap-to-tackle-china-trade-imbalances</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-18T09:02:30.000Z</news:publication_date>
-      <news:title>Germany, France plan &apos;roadmap&apos; to tackle China trade imbalances </news:title>
     </news:news>
   </url>
 

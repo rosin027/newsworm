@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/beer-production-in-germany-falls-to-a-record-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T11:36:48.000Z</news:publication_date>
+      <news:title>Beer Production in Germany Falls to a Record Low </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/child-sexual-abuse-cases-rise-in-germany</loc>
     <news:news>
       <news:publication>
@@ -107,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-07-20T06:50:57.000Z</news:publication_date>
       <news:title>Most Low-Income Children in Germany Miss Out on Participation Benefit </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-weighs-cabinet-reshuffle-following-jens-spahns-resignation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T12:57:46.000Z</news:publication_date>
-      <news:title>Merz Weighs Cabinet Reshuffle Following Jens Spahn&apos;s Resignation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-worker-falls-from-moving-train-demands-for-justice-grow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T11:07:24.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Worker Falls From Moving Train, Demands for Justice Grow </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/stade-shooting-suspect-found-dead-in-prison-cell</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T14:19:33.000Z</news:publication_date>
+      <news:title>Stade Shooting Suspect Found Dead in Prison Cell </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/beer-production-in-germany-falls-to-a-record-low</loc>
     <news:news>
       <news:publication>

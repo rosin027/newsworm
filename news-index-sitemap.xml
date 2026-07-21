@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/child-sexual-abuse-cases-rise-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T09:35:14.000Z</news:publication_date>
+      <news:title>Child Sexual Abuse Cases Rise in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/should-germany-lift-its-ban-on-surrogacy</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-19T11:07:24.000Z</news:publication_date>
       <news:title>Deutsche Bahn Worker Falls From Moving Train, Demands for Justice Grow </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/wealth-tax-inheritance-tax-spds-new-political-priority</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T09:29:59.000Z</news:publication_date>
-      <news:title>Wealth Tax, Inheritance Tax: SPD&apos;s New Political Priority </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sees-growing-wave-of-e-scooter-accidents</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T09:11:35.000Z</news:publication_date>
-      <news:title>Germany Sees Growing Wave of E-Scooter Accidents </news:title>
     </news:news>
   </url>
 

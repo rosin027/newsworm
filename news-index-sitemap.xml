@@ -134,28 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/strawberry-harvest-drops-to-31-year-low-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T08:29:34.000Z</news:publication_date>
-      <news:title>Strawberry Harvest Drops to 31-Year Low in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/water-shortage-in-germany-munich-cracks-down-on-use</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T08:06:20.000Z</news:publication_date>
-      <news:title>Water Shortage in Germany: Munich Cracks Down on Use </news:title>
-    </news:news>
-  </url>
-
 </urlset>

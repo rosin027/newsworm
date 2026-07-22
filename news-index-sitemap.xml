@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-prices-surge-again-in-germany-but-no-new-aid-in-sight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T12:17:16.000Z</news:publication_date>
+      <news:title>Fuel Prices Surge Again in Germany, But No New Aid in Sight </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/more-cars-per-capita-car-density-in-germany-continues-to-increase</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-20T14:45:02.000Z</news:publication_date>
       <news:title>EU Fines AliExpress ?550 Million Over Illegal Product Sales </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rents-continue-to-rise-housing-supply-shrinks-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T12:37:23.000Z</news:publication_date>
-      <news:title>Rents Continue to Rise; Housing Supply Shrinks in Germany </news:title>
     </news:news>
   </url>
 

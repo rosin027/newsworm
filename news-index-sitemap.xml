@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-picks-frei-to-lead-cdu-csu-after-spahn-quits-over-surrogacy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T14:38:12.000Z</news:publication_date>
+      <news:title>Merz Picks Frei to Lead CDU/CSU After Spahn Quits Over Surrogacy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-prices-surge-again-in-germany-but-no-new-aid-in-sight</loc>
     <news:news>
       <news:publication>
@@ -119,18 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-21T05:45:33.000Z</news:publication_date>
       <news:title>Deutsche Bahn to Ban Alcohol at All 5,400 German Train Stations </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-fines-aliexpress-eu550-million-over-illegal-product-sales</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T14:45:02.000Z</news:publication_date>
-      <news:title>EU Fines AliExpress ?550 Million Over Illegal Product Sales </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-approves-controversial-russian-nuclear-fuel-production-in-lingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T15:19:30.000Z</news:publication_date>
+      <news:title>Germany Approves Controversial Russian Nuclear Fuel Production in Lingen </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-bets-on-military-tech-in-new-startup-strategy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T14:52:15.000Z</news:publication_date>
+      <news:title>Germany Bets on Military Tech in New Startup Strategy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-picks-frei-to-lead-cdu-csu-after-spahn-quits-over-surrogacy</loc>
     <news:news>
       <news:publication>

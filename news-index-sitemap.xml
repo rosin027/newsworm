@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ecb-on-alert-as-iran-us-conflict-fuels-oil-price-surge-and-inflation-fears</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T06:19:38.000Z</news:publication_date>
+      <news:title>ECB on Alert as Iran-US Conflict Fuels Oil Price Surge and Inflation Fears </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-approves-controversial-russian-nuclear-fuel-production-in-lingen</loc>
     <news:news>
       <news:publication>
@@ -75,6 +87,18 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/french-parliament-bans-social-media-for-under-15s-an-eu-first</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T06:21:15.000Z</news:publication_date>
+      <news:title>French Parliament Bans Social Media for Under-15s, an EU First </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/most-women-retirees-receive-pensions-below-poverty-line-in-germany</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-21T08:17:10.000Z</news:publication_date>
       <news:title>Should Germany Lift Its Ban on Surrogacy? </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-to-ban-alcohol-at-all-5-400-german-train-stations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T05:45:33.000Z</news:publication_date>
-      <news:title>Deutsche Bahn to Ban Alcohol at All 5,400 German Train Stations </news:title>
     </news:news>
   </url>
 

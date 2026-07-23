@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-would-happen-if-the-afd-led-german-government</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T12:55:06.000Z</news:publication_date>
+      <news:title>What Would Happen If the AfD Led German Government? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/forged-integration-documents-cost-man-his-residency-in-germany</loc>
     <news:news>
       <news:publication>
@@ -10,7 +22,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-23T10:21:30.000Z</news:publication_date>
-      <news:title>Forged Integration Documents Cost Man His Residency in Germany </news:title>
+      <news:title>Fake Documents Shut the Door on German Residency </news:title>
     </news:news>
   </url>
 
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-07-21T14:19:33.000Z</news:publication_date>
       <news:title>Stade Shooting Suspect Found Dead in Prison Cell </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/beer-production-in-germany-falls-to-a-record-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T11:36:48.000Z</news:publication_date>
-      <news:title>Beer Production in Germany Falls to a Record Low </news:title>
     </news:news>
   </url>
 

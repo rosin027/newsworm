@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/without-technological-progress-the-german-economy-will-shrink</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T07:35:42.000Z</news:publication_date>
+      <news:title>Without Technological Progress, the German Economy Will Shrink </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/vocational-training-popular-in-germany-but-some-doubt-a-spot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T07:31:06.000Z</news:publication_date>
+      <news:title>Vocational Training Popular in Germany, But Some Doubt a Spot </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ecb-on-alert-as-iran-us-conflict-fuels-oil-price-surge-and-inflation-fears</loc>
     <news:news>
       <news:publication>
@@ -155,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-07-21T09:35:14.000Z</news:publication_date>
       <news:title>Child Sexual Abuse Cases Rise in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/should-germany-lift-its-ban-on-surrogacy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T08:17:10.000Z</news:publication_date>
-      <news:title>Should Germany Lift Its Ban on Surrogacy? </news:title>
     </news:news>
   </url>
 

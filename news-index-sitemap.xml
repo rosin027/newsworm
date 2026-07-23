@@ -58,7 +58,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-23T06:19:38.000Z</news:publication_date>
-      <news:title>ECB on Alert as Iran-US Conflict Fuels Oil Price Surge and Inflation Fears </news:title>
+      <news:title>ECB Holds Rates at 2.25% Amid Middle East Conflict Escalation </news:title>
     </news:news>
   </url>
 
@@ -167,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-22T05:38:43.000Z</news:publication_date>
       <news:title>Germany to Import More Gas from Azerbaijan </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/stade-shooting-suspect-found-dead-in-prison-cell</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T14:19:33.000Z</news:publication_date>
-      <news:title>Stade Shooting Suspect Found Dead in Prison Cell </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/forged-integration-documents-cost-man-his-residency-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T10:21:30.000Z</news:publication_date>
+      <news:title>Forged Integration Documents Cost Man His Residency in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/without-technological-progress-the-german-economy-will-shrink</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-07-21T11:36:48.000Z</news:publication_date>
       <news:title>Beer Production in Germany Falls to a Record Low </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/child-sexual-abuse-cases-rise-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T09:35:14.000Z</news:publication_date>
-      <news:title>Child Sexual Abuse Cases Rise in Germany </news:title>
     </news:news>
   </url>
 

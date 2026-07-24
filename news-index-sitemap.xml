@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/klopp-handed-task-of-reviving-germanys-football-fortunes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T10:18:58.000Z</news:publication_date>
+      <news:title>Klopp Handed Task of Reviving Germany&apos;s Football Fortunes </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-cabinet-reshuffle-warken-linnemann-and-amthor-get-new-roles</loc>
     <news:news>
       <news:publication>
@@ -167,18 +179,6 @@
       </news:publication>
       <news:publication_date>2026-07-22T12:17:16.000Z</news:publication_date>
       <news:title>Fuel Prices Surge Again in Germany, But No New Aid in Sight </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-cars-per-capita-car-density-in-germany-continues-to-increase</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T09:28:42.000Z</news:publication_date>
-      <news:title>More cars per capita: Car density in Germany continues to increase </news:title>
     </news:news>
   </url>
 

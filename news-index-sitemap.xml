@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-cabinet-reshuffle-warken-linnemann-and-amthor-get-new-roles</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T08:49:55.000Z</news:publication_date>
+      <news:title>Merz Cabinet Reshuffle: Warken, Linnemann and Amthor Get New Roles </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/volkswagens-net-profit-falls-by-32-9-in-q2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T08:33:42.000Z</news:publication_date>
+      <news:title>Volkswagen&apos;s Net Profit Falls by 32.9% in Q2 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/afd-still-in-the-lead-in-saxony-anhalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T08:13:36.000Z</news:publication_date>
+      <news:title>AfD Still In The Lead in Saxony-Anhalt Polls </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/what-is-germanys-early-start-pension</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T07:01:41.000Z</news:publication_date>
+      <news:title>What Is Germany&apos;s Early-Start Pension? </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/knife-attack-at-regensburg-bank-sparks-hostage-fears</loc>
     <news:news>
       <news:publication>

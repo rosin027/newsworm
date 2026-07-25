@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afghan-woman-wins-legal-battle-over-blocked-admission-to-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T06:48:39.000Z</news:publication_date>
+      <news:title>Afghan Woman Wins Legal Battle Over Blocked Admission to Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/knife-attack-at-regensburg-bank-suspect-charged-with-murder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T06:29:34.000Z</news:publication_date>
+      <news:title>Knife Attack at Regensburg Bank: Suspect Charged With Murder </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-imposes-new-tariffs-on-60-trading-partners</loc>
     <news:news>
       <news:publication>
@@ -143,18 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-23T07:31:06.000Z</news:publication_date>
       <news:title>Vocational Training Popular in Germany, But Some Doubt a Spot </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ecb-on-alert-as-iran-us-conflict-fuels-oil-price-surge-and-inflation-fears</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T06:19:38.000Z</news:publication_date>
-      <news:title>ECB Holds Rates at 2.25% Amid Middle East Conflict Escalation </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/new-euro-notes-are-coming-ecb-reveals-top-10-designs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T08:03:19.000Z</news:publication_date>
+      <news:title>New Euro Notes Are Coming: ECB Reveals Top 10 Designs </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afghan-woman-wins-legal-battle-over-blocked-admission-to-germany</loc>
     <news:news>
       <news:publication>
@@ -143,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-23T10:21:30.000Z</news:publication_date>
       <news:title>Fake Documents Shut the Door on German Residency </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/without-technological-progress-the-german-economy-will-shrink</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T07:35:42.000Z</news:publication_date>
-      <news:title>Without Technological Progress, the German Economy Will Shrink </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/vocational-training-popular-in-germany-but-some-doubt-a-spot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T07:31:06.000Z</news:publication_date>
-      <news:title>Vocational Training Popular in Germany, But Some Doubt a Spot </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/christopher-street-day-parade-fills-streets-of-berlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T12:21:29.000Z</news:publication_date>
+      <news:title>Christopher Street Day Parade Fills Streets of Berlin </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/new-euro-notes-are-coming-ecb-reveals-top-10-designs</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-23T15:22:48.000Z</news:publication_date>
       <news:title>Man Dies In Regensburg Bank Knife Attack, Suspect Now Arrested </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-would-happen-if-the-afd-led-german-government</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T12:55:06.000Z</news:publication_date>
-      <news:title>What Would Happen If the AfD Led German Government? </news:title>
     </news:news>
   </url>
 

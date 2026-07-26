@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/richest-10-account-for-two-thirds-of-global-warming-study-reveals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T12:22:03.000Z</news:publication_date>
+      <news:title>Richest 10% account for two-thirds of Global warming, study reveals </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/womens-nations-league-germany-qualify-england-crush-portugal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T12:11:23.000Z</news:publication_date>
+      <news:title>Women?s Nations League: Germany qualify, England crush Portugal </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-raises-seat-reservation-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T12:09:07.000Z</news:publication_date>
+      <news:title>Deutsche Bahn raises seat reservation prices </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/how-to-save-on-fuel-in-germany-adac-tips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T11:59:03.000Z</news:publication_date>
+      <news:title>How to save on fuel in Germany: ADAC Tips </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/chaos-computer-club-uncovers-further-security-vulnerability-in-e-patient-records</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T11:53:06.000Z</news:publication_date>
+      <news:title>Chaos Computer Club uncovers further security vulnerability in e-patient records </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/more-than-half-of-hospitals-in-germany-are-making-losses-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T11:44:38.000Z</news:publication_date>
+      <news:title>More than half of Hospitals in Germany are making losses: Report </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/car-drives-into-group-of-people-in-stuttgart-woman-succumbs-to-injuries</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T11:07:44.000Z</news:publication_date>
+      <news:title>Car drives into group of people in Stuttgart - woman succumbs to injuries </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fury-as-israeli-forces-open-fire-during-diplomats-west-bank-visit</loc>
     <news:news>
       <news:publication>
@@ -119,30 +203,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T06:29:34.000Z</news:publication_date>
       <news:title>Knife Attack at Regensburg Bank: Suspect Charged With Murder </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-imposes-new-tariffs-on-60-trading-partners</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T12:34:32.000Z</news:publication_date>
-      <news:title>Trump Imposes New Tariffs on 60 Trading Partners </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/france-spain-evacuate-thousands-as-wildfires-rage-out-of-control</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T12:18:59.000Z</news:publication_date>
-      <news:title>France, Spain Evacuate Thousands as Wildfires Rage Out of Control </news:title>
     </news:news>
   </url>
 

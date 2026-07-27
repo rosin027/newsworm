@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/vw-crisis-deepens-porsche-cuts-5-000-jobs-audi-slashes-forecast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T14:34:21.000Z</news:publication_date>
+      <news:title>VW Crisis Deepens: Porsche Cuts 5,000 Jobs, Audi Slashes Forecast </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/poland-to-enforce-border-controls-with-germany-from-7-july</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T14:29:52.000Z</news:publication_date>
+      <news:title>Poland to enforce border controls with Germany from 7 July </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germany-israel-mark-60-years-of-ties-as-gaza-war-casts-shadow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T14:26:55.000Z</news:publication_date>
+      <news:title>Germany, Israel mark 60 years of ties as Gaza war casts shadow </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/cdu-csu-demands-tougher-laws-on-islamist-threats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T14:24:50.000Z</news:publication_date>
+      <news:title>CDU/CSU Demands Tougher Laws on Islamist Threats </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/insolvent-fashion-brand-gerry-weber-closes-all-40-stores-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T13:38:35.000Z</news:publication_date>
+      <news:title>Insolvent fashion brand Gerry Weber closes all 40 stores in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/uber-to-launch-female-driver-option-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T13:35:40.000Z</news:publication_date>
+      <news:title>Uber to launch female driver option in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-ranks-among-the-worst-countries-for-expats</loc>
     <news:news>
       <news:publication>
@@ -215,18 +287,6 @@
       </news:publication>
       <news:publication_date>2026-07-26T06:42:05.000Z</news:publication_date>
       <news:title>Car Rams Berlin Pride Crowd, Kills One, Injures 16 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/august-2026-in-germany-important-changes-you-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T13:30:36.000Z</news:publication_date>
-      <news:title>August 2026 in Germany: Important changes you need to know </news:title>
     </news:news>
   </url>
 

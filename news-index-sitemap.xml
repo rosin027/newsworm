@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-ranks-among-the-worst-countries-for-expats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T11:22:31.000Z</news:publication_date>
+      <news:title>Germany Ranks Among the Worst Countries for Expats </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/summer-holidays-peak-adac-warns-of-worst-traffic-jams</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T11:04:15.000Z</news:publication_date>
+      <news:title>Summer Holidays Peak: ADAC Warns of Worst Traffic Jams </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/known-to-police-convicted-how-germanys-security-net-failed-to-stop-the-berlin-attack</loc>
     <news:news>
       <news:publication>
@@ -203,18 +227,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T13:30:36.000Z</news:publication_date>
       <news:title>August 2026 in Germany: Important changes you need to know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/christopher-street-day-parade-fills-streets-of-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T12:21:29.000Z</news:publication_date>
-      <news:title>Christopher Street Day Parade Fills Streets of Berlin </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/known-to-police-convicted-how-germanys-security-net-failed-to-stop-the-berlin-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T07:14:09.000Z</news:publication_date>
+      <news:title>Known to Police, Convicted: How Germany&apos;s Security Net Failed to Stop the Berlin Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-to-nominate-steffen-bilger-as-germanys-transport-minister</loc>
     <news:news>
       <news:publication>
@@ -203,18 +215,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T12:21:29.000Z</news:publication_date>
       <news:title>Christopher Street Day Parade Fills Streets of Berlin </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/new-euro-notes-are-coming-ecb-reveals-top-10-designs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T08:03:19.000Z</news:publication_date>
-      <news:title>New Euro Notes Are Coming: ECB Reveals Top 10 Designs </news:title>
     </news:news>
   </url>
 

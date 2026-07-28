@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-vows-tougher-laws-after-berlin-pride-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T06:06:39.000Z</news:publication_date>
+      <news:title>Germany Vows Tougher Laws After Berlin Pride Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/many-employees-in-germany-work-from-home-beyond-permitted-limits-survey</loc>
     <news:news>
       <news:publication>
@@ -299,18 +311,6 @@
       </news:publication>
       <news:publication_date>2026-07-26T07:52:51.000Z</news:publication_date>
       <news:title>Small Plane Crashes into House in Lower Saxony </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/car-rams-berlin-pride-crowd-kills-one-injures-16</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T06:42:05.000Z</news:publication_date>
-      <news:title>Car Rams Berlin Pride Crowd, Kills One, Injures 16 </news:title>
     </news:news>
   </url>
 

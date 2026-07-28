@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/real-or-fake-eu-forces-firms-to-label-ai-content</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T08:10:28.000Z</news:publication_date>
+      <news:title>Real or Fake? EU Forces Firms to Label AI Content </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-vows-tougher-laws-after-berlin-pride-attack</loc>
     <news:news>
       <news:publication>
@@ -287,30 +299,6 @@
       </news:publication>
       <news:publication_date>2026-07-26T10:38:22.000Z</news:publication_date>
       <news:title>Berlin Pride Attack Fuels Urgent Demands for Islamism Crackdown </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-csd-attack-federal-prosecutor-may-take-over-investigation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T08:55:08.000Z</news:publication_date>
-      <news:title>Berlin CSD Attack: Federal Prosecutor May Take Over Investigation </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/small-plane-crashes-into-house-in-lower-saxony</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T07:52:51.000Z</news:publication_date>
-      <news:title>Small Plane Crashes into House in Lower Saxony </news:title>
     </news:news>
   </url>
 

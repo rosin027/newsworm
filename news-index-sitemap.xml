@@ -206,16 +206,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-pride-attack-suspect-shot-dead-by-police</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T18:06:19.000Z</news:publication_date>
-      <news:title>Berlin Pride Attack Suspect Shot Dead By Police </news:title>
-    </news:news>
-  </url>
-
 </urlset>

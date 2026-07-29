@@ -3,14 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.newsworm.de/news/german-chancelllor-merz-battles-growing-revolt-within-his-cdu</loc>
+    <loc>https://www.newsworm.de/news/germany-syria-direct-flights-resume-after-15-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T13:37:11.000Z</news:publication_date>
+      <news:title>Germany-Syria Direct Flights Resume After 15 Years </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-new-cabinet-linnemann-warken-bilger-appointed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T12:31:28.000Z</news:publication_date>
+      <news:title>Germany&apos;s New Cabinet: Linnemann, Warken, Bilger Appointed </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-chancellor-merz-battles-growing-revolt-within-his-cdu</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-07-29T10:28:01.000Z</news:publication_date>
-      <news:title>German Chancelllor Merz Battles Growing Revolt Within His CDU </news:title>
+      <news:title>German Chancellor Merz Battles Growing Revolt Within His CDU </news:title>
     </news:news>
   </url>
 
@@ -143,78 +167,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T15:03:39.000Z</news:publication_date>
       <news:title>EU Secures tariff delay from Trump until July 9  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/vw-crisis-deepens-porsche-cuts-5-000-jobs-audi-slashes-forecast</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T14:34:21.000Z</news:publication_date>
-      <news:title>VW Crisis Deepens: Porsche Cuts 5,000 Jobs, Audi Slashes Forecast </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/poland-to-enforce-border-controls-with-germany-from-7-july</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T14:29:52.000Z</news:publication_date>
-      <news:title>Poland to enforce border controls with Germany from 7 July </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-israel-mark-60-years-of-ties-as-gaza-war-casts-shadow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T14:26:55.000Z</news:publication_date>
-      <news:title>Germany, Israel mark 60 years of ties as Gaza war casts shadow </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-csu-demands-tougher-laws-on-islamist-threats</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T14:24:50.000Z</news:publication_date>
-      <news:title>CDU/CSU Demands Tougher Laws on Islamist Threats </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/insolvent-fashion-brand-gerry-weber-closes-all-40-stores-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T13:38:35.000Z</news:publication_date>
-      <news:title>Insolvent fashion brand Gerry Weber closes all 40 stores in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/uber-to-launch-female-driver-option-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T13:35:40.000Z</news:publication_date>
-      <news:title>Uber to launch female driver option in Germany </news:title>
     </news:news>
   </url>
 

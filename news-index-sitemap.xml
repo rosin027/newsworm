@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/bmw-plans-up-to-8-000-job-cuts-by-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T08:52:08.000Z</news:publication_date>
+      <news:title>BMW Plans Up to 8,000 Job Cuts by 2027 </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/regensburg-knife-attack-suspect-placed-in-psychiatric-care</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T07:17:51.000Z</news:publication_date>
+      <news:title>Regensburg Knife Attack Suspect Placed in Psychiatric Care </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-wants-basic-law-to-ban-sexual-identity-discrimination</loc>
     <news:news>
       <news:publication>
@@ -191,18 +215,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T11:04:15.000Z</news:publication_date>
       <news:title>Summer Holidays Peak: ADAC Warns of Worst Traffic Jams </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/known-to-police-convicted-how-germanys-security-net-failed-to-stop-the-berlin-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T07:14:09.000Z</news:publication_date>
-      <news:title>Known to Police, Convicted: How Germany&apos;s Security Net Failed to Stop the Berlin Attack </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-chancelllor-merz-battles-growing-revolt-within-his-cdu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T10:28:01.000Z</news:publication_date>
+      <news:title>German Chancelllor Merz Battles Growing Revolt Within His CDU </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/foodwatch-urges-health-minister-linnemann-to-fast-track-sugar-tax</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T09:04:24.000Z</news:publication_date>
+      <news:title>Foodwatch Urges Health Minister Linnemann to Fast-Track Sugar Tax </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bmw-plans-up-to-8-000-job-cuts-by-2027</loc>
     <news:news>
       <news:publication>

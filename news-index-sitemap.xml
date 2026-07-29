@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-wants-basic-law-to-ban-sexual-identity-discrimination</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T06:48:03.000Z</news:publication_date>
+      <news:title>SPD Wants Basic Law to Ban Sexual Identity Discrimination </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/holocaust-survivor-margot-friedlander-dies-at-the-age-of-103</loc>
     <news:news>
       <news:publication>
@@ -191,18 +203,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T07:14:09.000Z</news:publication_date>
       <news:title>Known to Police, Convicted: How Germany&apos;s Security Net Failed to Stop the Berlin Attack </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-to-nominate-steffen-bilger-as-germanys-transport-minister</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T06:05:19.000Z</news:publication_date>
-      <news:title>Merz to Nominate Steffen Bilger as Germany&apos;s Transport Minister </news:title>
     </news:news>
   </url>
 

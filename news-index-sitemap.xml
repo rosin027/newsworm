@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-debates-lowering-five-percent-election-threshold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T08:23:00.000Z</news:publication_date>
+      <news:title>Germany Debates Lowering Five-Percent Election Threshold </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-vows-fresh-start-after-reshuffle-sparks-backlash</loc>
     <news:news>
       <news:publication>
@@ -131,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T10:49:21.000Z</news:publication_date>
       <news:title>Mercedes-Benz CEO Urges Germany to Boost Productivity </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/real-or-fake-eu-forces-firms-to-label-ai-content</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T08:10:28.000Z</news:publication_date>
-      <news:title>Real or Fake? EU Forces Firms to Label AI Content </news:title>
     </news:news>
   </url>
 

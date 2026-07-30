@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-leads-saxony-anhalt-poll-while-cdu-support-drops</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T10:25:24.000Z</news:publication_date>
+      <news:title>AfD Leads Saxony-Anhalt Poll While CDU Support Drops </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/low-rhine-water-levels-threaten-germanys-economy</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:47:41.000Z</news:publication_date>
+      <news:title>Low Rhine Water Levels Threaten Germany&apos;s Economy </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-debates-lowering-five-percent-election-threshold</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T12:13:51.000Z</news:publication_date>
       <news:title>Germany Braces for New Heatwave: Temperatures to Hit 39?C This Week </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mercedes-benz-ceo-urges-germany-to-boost-productivity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T10:49:21.000Z</news:publication_date>
-      <news:title>Mercedes-Benz CEO Urges Germany to Boost Productivity </news:title>
     </news:news>
   </url>
 

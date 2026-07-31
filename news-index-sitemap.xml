@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/migrant-wave-hits-ceuta-as-thousands-cross-from-morocco</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T10:18:35.000Z</news:publication_date>
+      <news:title>Migrant Wave Hits Ceuta as Thousands Cross From Morocco </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/unemployment-in-germany-rose-above-3-million-in-july</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T09:44:41.000Z</news:publication_date>
+      <news:title>Unemployment in Germany Rose Above 3 Million in July </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/far-right-and-far-left-battle-for-power-in-polarised-berlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T08:13:21.000Z</news:publication_date>
+      <news:title>Far right and far left battle for power in polarised Berlin </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/public-trust-in-german-government-falls-to-record-low</loc>
     <news:news>
       <news:publication>
@@ -119,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-29T12:31:28.000Z</news:publication_date>
       <news:title>Germany&apos;s New Cabinet: Linnemann, Warken, Bilger Appointed </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-merz-battles-growing-revolt-within-his-cdu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T10:28:01.000Z</news:publication_date>
-      <news:title>German Chancellor Merz Battles Growing Revolt Within His CDU </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/foodwatch-urges-health-minister-linnemann-to-fast-track-sugar-tax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T09:04:24.000Z</news:publication_date>
-      <news:title>Foodwatch Urges Health Minister Linnemann to Fast-Track Sugar Tax </news:title>
     </news:news>
   </url>
 

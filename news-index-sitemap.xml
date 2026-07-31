@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/public-trust-in-german-government-falls-to-record-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T07:12:46.000Z</news:publication_date>
+      <news:title>Public Trust in German Government Falls to Record Low </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deadly-heatwave-kills-nearly-10-000-in-germany-sparks-calls-for-action</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-29T09:04:24.000Z</news:publication_date>
       <news:title>Foodwatch Urges Health Minister Linnemann to Fast-Track Sugar Tax </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-plans-up-to-8-000-job-cuts-by-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T08:52:08.000Z</news:publication_date>
-      <news:title>BMW Plans Up to 8,000 Job Cuts by 2027 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/regensburg-knife-attack-suspect-placed-in-psychiatric-care</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T07:17:51.000Z</news:publication_date>
-      <news:title>Regensburg Knife Attack Suspect Placed in Psychiatric Care </news:title>
     </news:news>
   </url>
 

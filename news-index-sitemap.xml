@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/water-level-on-the-rhine-reaches-new-record-low-in-cologne</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T10:33:06.000Z</news:publication_date>
+      <news:title>Water Level on the Rhine Reaches New Record Low in Cologne </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-cash-limit-from-2027-what-the-new-rule-means-for-germany-and-the-rest-of-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T10:08:46.000Z</news:publication_date>
+      <news:title>EU Cash Limit from 2027: What the New Rule Means for Germany and the Rest of Europe </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ceo-palla-criticizes-organized-irresponsibility-at-deutsche-bahn</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-30T11:21:00.000Z</news:publication_date>
       <news:title>Deutsche Bahn Profitable Again for First Time Since 2019 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-leads-saxony-anhalt-poll-while-cdu-support-drops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T10:25:24.000Z</news:publication_date>
-      <news:title>AfD Leads Saxony-Anhalt Poll While CDU Support Drops </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/low-rhine-water-levels-threaten-germanys-economy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T09:47:41.000Z</news:publication_date>
-      <news:title>Low Rhine Water Levels Threaten Germany&apos;s Economy </news:title>
     </news:news>
   </url>
 

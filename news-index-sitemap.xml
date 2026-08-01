@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/will-germany-scrap-retirement-after-45-years-political-debate-heats-up</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T13:50:16.000Z</news:publication_date>
+      <news:title>Will Germany Scrap Retirement After 45 Years? Political Debate Heats Up </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/spains-ceuta-enclave-returns-to-normal-as-migrants-depart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T13:08:39.000Z</news:publication_date>
+      <news:title>Spain&apos;s Ceuta Enclave Returns to Normal as Migrants Depart </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/water-level-on-the-rhine-reaches-new-record-low-in-cologne</loc>
     <news:news>
       <news:publication>
@@ -10,7 +34,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-01T10:33:06.000Z</news:publication_date>
-      <news:title>Water Level on the Rhine Reaches New Record Low in Cologne </news:title>
+      <news:title>Rhine Water Levels Fall to New Record Lows </news:title>
     </news:news>
   </url>
 

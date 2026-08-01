@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ceo-palla-criticizes-organized-irresponsibility-at-deutsche-bahn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T08:50:38.000Z</news:publication_date>
+      <news:title>CEO Palla Criticizes &apos;Organized Irresponsibility&apos; at Deutsche Bahn </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/kick-spain-out-of-eu-visa-free-zone-not-possible</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T07:13:31.000Z</news:publication_date>
+      <news:title>Kick Spain out of EU visa-free zone? Not possible </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-grapples-with-migrant-crisis-in-spains-n-africa-enclave</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-07-30T09:47:41.000Z</news:publication_date>
       <news:title>Low Rhine Water Levels Threaten Germany&apos;s Economy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-debates-lowering-five-percent-election-threshold</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T08:23:00.000Z</news:publication_date>
-      <news:title>Germany Debates Lowering Five-Percent Election Threshold </news:title>
     </news:news>
   </url>
 

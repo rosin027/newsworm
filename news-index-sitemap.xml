@@ -134,28 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-grows-in-q2-2026-despite-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T12:10:38.000Z</news:publication_date>
-      <news:title>German Economy Grows in Q2 2026 Despite Iran War  </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-profitable-again-for-first-time-since-2019</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T11:21:00.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Profitable Again for First Time Since 2019 </news:title>
-    </news:news>
-  </url>
-
 </urlset>

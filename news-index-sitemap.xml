@@ -134,16 +134,4 @@
     </news:news>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/ceuta-migrant-surge-germany-blames-spains-citizenship-policy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T13:05:22.000Z</news:publication_date>
-      <news:title>Ceuta Migrant Surge: Germany Blames Spain&apos;s Citizenship Policy </news:title>
-    </news:news>
-  </url>
-
 </urlset>

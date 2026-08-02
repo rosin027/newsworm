@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/pro-asyl-demands-permanent-right-to-stay-in-germany-for-yazidi-refugees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T09:21:16.000Z</news:publication_date>
+      <news:title>Pro Asyl Demands Permanent Right to Stay in Germany for Yazidi Refugees </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ceuta-migration-crisis-sparks-major-eu-dispute-with-spain</loc>
     <news:news>
       <news:publication>
@@ -119,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-07-31T13:05:22.000Z</news:publication_date>
       <news:title>Ceuta Migrant Surge: Germany Blames Spain&apos;s Citizenship Policy </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/migrant-wave-hits-ceuta-as-thousands-cross-from-morocco</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T10:18:35.000Z</news:publication_date>
-      <news:title>Migrant Wave Hits Ceuta as Thousands Cross From Morocco </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unemployment-in-germany-rose-above-3-million-in-july</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T09:44:41.000Z</news:publication_date>
-      <news:title>Unemployment in Germany Rose Above 3 Million in July </news:title>
     </news:news>
   </url>
 

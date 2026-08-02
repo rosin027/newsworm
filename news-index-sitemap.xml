@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/ceuta-migration-crisis-sparks-major-eu-dispute-with-spain</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-02T07:11:45.000Z</news:publication_date>
+      <news:title>Ceuta Migration Crisis Sparks Major EU Dispute With Spain </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/saxon-switzerland-hiker-killed-13-injured-as-violent-storm-hits-german-national-park</loc>
     <news:news>
       <news:publication>
@@ -131,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-07-31T09:44:41.000Z</news:publication_date>
       <news:title>Unemployment in Germany Rose Above 3 Million in July </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/far-right-and-far-left-battle-for-power-in-polarised-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T08:13:21.000Z</news:publication_date>
-      <news:title>Far right and far left battle for power in polarised Berlin </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/public-trust-in-german-government-falls-to-record-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-31T07:12:46.000Z</news:publication_date>
-      <news:title>Public Trust in German Government Falls to Record Low </news:title>
     </news:news>
   </url>
 

@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/dax-hits-record-high-as-oil-prices-fall-on-hopes-of-renewed-us-iran-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T13:54:17.000Z</news:publication_date>
+      <news:title>DAX Hits Record High as Oil Prices Fall on Hopes of Renewed US-Iran Talks </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutschland-ticket-could-cost-eu66-40-from-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T13:00:24.000Z</news:publication_date>
+      <news:title>Deutschland-Ticket Could Cost ?66.40 From 2027 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/over-1-000-legal-experts-sign-open-letter-urging-afd-ban</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-08-01T16:38:34.000Z</news:publication_date>
       <news:title>Saxon Switzerland: Hiker Killed, 13 Injured as Violent Storm Hits German National Park </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/will-germany-scrap-retirement-after-45-years-political-debate-heats-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T13:50:16.000Z</news:publication_date>
-      <news:title>Will Germany Scrap Retirement After 45 Years? Political Debate Heats Up </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spains-ceuta-enclave-returns-to-normal-as-migrants-depart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T13:08:39.000Z</news:publication_date>
-      <news:title>Spain&apos;s Ceuta Enclave Returns to Normal as Migrants Depart </news:title>
     </news:news>
   </url>
 

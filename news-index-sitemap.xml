@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/over-1-000-legal-experts-sign-open-letter-urging-afd-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T10:18:20.000Z</news:publication_date>
+      <news:title>Over 1,000 Legal Experts Sign Open Letter Urging AfD Ban </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/electric-car-prices-in-germany-rise-again-as-subsidy-boosts-sales</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T09:52:46.000Z</news:publication_date>
+      <news:title>Electric Car Prices in Germany Rise Again as Subsidy Boosts Sales </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-cheapest-fares-often-unavailable-study-finds</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-08-01T13:08:39.000Z</news:publication_date>
       <news:title>Spain&apos;s Ceuta Enclave Returns to Normal as Migrants Depart </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/water-level-on-the-rhine-reaches-new-record-low-in-cologne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T10:33:06.000Z</news:publication_date>
-      <news:title>Rhine Water Levels Fall to New Record Lows </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-cash-limit-from-2027-what-the-new-rule-means-for-germany-and-the-rest-of-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T10:08:46.000Z</news:publication_date>
-      <news:title>EU Cash Limit from 2027: What the New Rule Means for Germany and the Rest of Europe </news:title>
     </news:news>
   </url>
 

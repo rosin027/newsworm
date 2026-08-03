@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-cheapest-fares-often-unavailable-study-finds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T07:29:36.000Z</news:publication_date>
+      <news:title>Deutsche Bahn Cheapest Fares Often Unavailable, Study Finds </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/speedweek-hits-germany-what-drivers-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-03T07:08:51.000Z</news:publication_date>
+      <news:title>Speedweek Hits Germany: What Drivers Need to Know </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hamburg-csd-pride-draws-record-300-000-people-after-berlin-attack</loc>
     <news:news>
       <news:publication>
@@ -95,30 +119,6 @@
       </news:publication>
       <news:publication_date>2026-08-01T10:08:46.000Z</news:publication_date>
       <news:title>EU Cash Limit from 2027: What the New Rule Means for Germany and the Rest of Europe </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ceo-palla-criticizes-organized-irresponsibility-at-deutsche-bahn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T08:50:38.000Z</news:publication_date>
-      <news:title>CEO Palla Criticizes &apos;Organized Irresponsibility&apos; at Deutsche Bahn </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/kick-spain-out-of-eu-visa-free-zone-not-possible</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-01T07:13:31.000Z</news:publication_date>
-      <news:title>Kick Spain out of EU visa-free zone? Not possible </news:title>
     </news:news>
   </url>
 

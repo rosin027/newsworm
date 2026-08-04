@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-civilian-service-for-military-service-refusers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T08:11:19.000Z</news:publication_date>
+      <news:title>Germany Plans Civilian Service for Military Service Refusers </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/german-breweries-are-closing-down-as-beer-sales-decline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T07:39:08.000Z</news:publication_date>
+      <news:title>German Breweries Are Closing Down as Beer Sales Decline </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/frei-sees-no-room-to-negotiate-on-ending-pension-at-63</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T07:13:16.000Z</news:publication_date>
+      <news:title>Frei Sees No Room to Negotiate on Ending Pension at 63 </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-tightens-security-on-suspects-after-csd-attack</loc>
     <news:news>
       <news:publication>
@@ -107,18 +143,6 @@
       </news:publication>
       <news:publication_date>2026-08-02T09:21:16.000Z</news:publication_date>
       <news:title>Pro Asyl Demands Permanent Right to Stay in Germany for Yazidi Refugees </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ceuta-migration-crisis-sparks-major-eu-dispute-with-spain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-02T07:11:45.000Z</news:publication_date>
-      <news:title>Ceuta Migration Crisis Sparks Major EU Dispute With Spain </news:title>
     </news:news>
   </url>
 

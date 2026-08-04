@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-party-leader-accuses-merz-of-falling-into-a-far-right-trap-over-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T12:31:43.000Z</news:publication_date>
+      <news:title>Left Party Leader Accuses Merz of Falling Into a Far Right Trap Over Ceuta </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-braces-for-severe-thunderstorms-as-heat-hits-39-degrees</loc>
     <news:news>
       <news:publication>
@@ -143,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-08-03T07:08:51.000Z</news:publication_date>
       <news:title>Speedweek Hits Germany: What Drivers Need to Know </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hamburg-csd-pride-draws-record-300-000-people-after-berlin-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-02T11:52:11.000Z</news:publication_date>
-      <news:title>Hamburg CSD Pride Draws Record 300,000 People After Berlin Attack </news:title>
     </news:news>
   </url>
 

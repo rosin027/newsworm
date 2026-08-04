@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-braces-for-severe-thunderstorms-as-heat-hits-39-degrees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T10:03:13.000Z</news:publication_date>
+      <news:title>Germany Braces for Severe Thunderstorms as Heat Hits 39 Degrees </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/rhine-hits-record-low-disrupts-cargo-transport-and-tourism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-04T09:46:51.000Z</news:publication_date>
+      <news:title>Rhine Hits Record Low: Disrupts Cargo Transport and Tourism </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-civilian-service-for-military-service-refusers</loc>
     <news:news>
       <news:publication>
@@ -131,18 +155,6 @@
       </news:publication>
       <news:publication_date>2026-08-02T11:52:11.000Z</news:publication_date>
       <news:title>Hamburg CSD Pride Draws Record 300,000 People After Berlin Attack </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pro-asyl-demands-permanent-right-to-stay-in-germany-for-yazidi-refugees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-02T09:21:16.000Z</news:publication_date>
-      <news:title>Pro Asyl Demands Permanent Right to Stay in Germany for Yazidi Refugees </news:title>
     </news:news>
   </url>
 

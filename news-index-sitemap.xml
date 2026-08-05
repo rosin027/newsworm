@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/more-pensioners-are-working-past-retirement-age-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T07:35:44.000Z</news:publication_date>
+      <news:title>More Pensioners Are Working Past Retirement Age in Germany </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/berlin-pride-attack-many-open-questions-remain</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T06:59:29.000Z</news:publication_date>
+      <news:title>Berlin Pride Attack: &quot;Many Open Questions&quot; Remain </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-party-leader-accuses-merz-of-falling-into-a-far-right-trap-over-ceuta</loc>
     <news:news>
       <news:publication>
@@ -131,30 +155,6 @@
       </news:publication>
       <news:publication_date>2026-08-03T09:52:46.000Z</news:publication_date>
       <news:title>Electric Car Prices in Germany Rise Again as Subsidy Boosts Sales </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-cheapest-fares-often-unavailable-study-finds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T07:29:36.000Z</news:publication_date>
-      <news:title>Deutsche Bahn Cheapest Fares Often Unavailable, Study Finds </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/speedweek-hits-germany-what-drivers-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-03T07:08:51.000Z</news:publication_date>
-      <news:title>Speedweek Hits Germany: What Drivers Need to Know </news:title>
     </news:news>
   </url>
 

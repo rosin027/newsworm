@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/munich-car-ramming-attack-afghan-man-sentenced-to-life-in-prison</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T10:35:27.000Z</news:publication_date>
+      <news:title>Munich Car-Ramming Attack: Afghan Man Sentenced to Life in Prison </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/klingbeil-insists-on-afd-firewall-pushes-for-ban-proceedings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T09:18:40.000Z</news:publication_date>
+      <news:title>Klingbeil Insists on AfD &apos;Firewall,&apos; Pushes for Ban Proceedings </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/drowning-deaths-rise-in-germany-young-men-hit-hardest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T09:00:11.000Z</news:publication_date>
+      <news:title>Drowning Deaths Rise in Germany, Young Men Hit Hardest </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/commerzbank-posts-record-profit-amid-unicredit-takeover-fight</loc>
     <news:news>
       <news:publication>
@@ -95,30 +131,6 @@
       </news:publication>
       <news:publication_date>2026-08-04T12:31:43.000Z</news:publication_date>
       <news:title>Left Party Leader Accuses Merz of Falling Into a Far Right Trap Over Ceuta </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-braces-for-severe-thunderstorms-as-heat-hits-39-degrees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T10:03:13.000Z</news:publication_date>
-      <news:title>Germany Braces for Severe Thunderstorms as Heat Hits 39 Degrees </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rhine-hits-record-low-disrupts-cargo-transport-and-tourism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T09:46:51.000Z</news:publication_date>
-      <news:title>Rhine Hits Record Low: Disrupts Cargo Transport and Tourism </news:title>
     </news:news>
   </url>
 

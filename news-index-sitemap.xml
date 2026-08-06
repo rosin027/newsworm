@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-dobrindt-warns-of-hybrid-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:57:09.000Z</news:publication_date>
+      <news:title>Explosive Drone at Leipzig Airport: Dobrindt Warns of Hybrid Attack </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/explosive-drone-found-at-leipzig-airport-flights-diverted</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/doctors-slam-government-inaction-in-heat-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T15:26:19.518Z</news:publication_date>
+      <news:title>Doctors Slam Government Inaction in Heat Crisis</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/edb1b94b-771e-4d19-2b21-b1a4c0c49c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/foreign-trainees-offset-steep-german-decline-in-apprenticeship</loc>
     <news:news>
       <news:publication>

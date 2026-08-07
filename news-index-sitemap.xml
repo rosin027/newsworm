@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-rivers-are-running-dry-and-the-economy-is-feeling-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T08:55:03.000Z</news:publication_date>
+      <news:title>Germany&apos;s Rivers Are Running Dry And the Economy Is Feeling It </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/auto-industry-drives-modest-rise-in-german-industrial-production</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T07:54:48.000Z</news:publication_date>
+      <news:title>Auto Industry Drives Modest Rise in German Industrial Production </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/2-000-migrants-still-in-ceuta-including-1-000-unaccompanied-minors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T07:33:37.000Z</news:publication_date>
+      <news:title>2,000 Migrants Still in Ceuta, Including 1,000+ Unaccompanied Minors </news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-federal-prosecutors-take-over-probe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T07:05:09.000Z</news:publication_date>
+      <news:title>Explosive drone at Leipzig Airport: Federal Prosecutors Take Over Probe </news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/munich-car-ramming-attack-afghan-man-sentenced-to-life-in-prison</loc>
     <news:news>
       <news:publication>
@@ -95,30 +143,6 @@
       </news:publication>
       <news:publication_date>2026-08-05T09:19:34.000Z</news:publication_date>
       <news:title>Partial Solar Eclipse Sweeps Germany on August 12 </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-pensioners-are-working-past-retirement-age-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T07:35:44.000Z</news:publication_date>
-      <news:title>More Pensioners Are Working Past Retirement Age in Germany </news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-pride-attack-many-open-questions-remain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T06:59:29.000Z</news:publication_date>
-      <news:title>Berlin Pride Attack: &quot;Many Open Questions&quot; Remain </news:title>
     </news:news>
   </url>
 

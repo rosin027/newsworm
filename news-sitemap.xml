@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/foreign-trainees-offset-steep-german-decline-in-apprenticeship</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T12:06:13.645Z</news:publication_date>
+      <news:title>Foreign Trainees Offset Steep German Decline in Apprenticeship</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/b999c8e7-a700-46de-7b24-7b8ea4e57500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-rivers-are-running-dry-and-the-economy-is-feeling-it</loc>
     <news:news>
       <news:publication>
@@ -135,21 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2d929ba6-c780-443b-346f-072d54586200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/explosive-drone-found-at-leipzig-airport-flights-diverted</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T12:11:18.168Z</news:publication_date>
-      <news:title>Explosive Drone Found at Leipzig Airport, Flights Diverted</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/bb1b903d-fd35-449e-14f0-fbbb2d0e7900/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -1,1 +1,172 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.newsworm.de/news/germanys-rivers-are-running-dry-and-the-economy-is-feeling-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T08:55:03.005Z</news:publication_date>
+      <news:title>Germany&apos;s Rivers Are Running Dry And the Economy Is Feeling It</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/f0b9b951-d294-4528-e31b-78e61ae51300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/auto-industry-drives-modest-rise-in-german-industrial-production</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T07:54:48.090Z</news:publication_date>
+      <news:title>Auto Industry Drives Modest Rise in German Industrial Production</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/ef3cdab7-c9a4-4998-ffd6-2559c6c4f700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/2-000-migrants-still-in-ceuta-including-1-000-unaccompanied-minors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T07:33:37.862Z</news:publication_date>
+      <news:title>2,000 Migrants Still in Ceuta, Including 1,000+ Unaccompanied Minors</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/7ada0239-1894-493c-4012-c403f6d33000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-federal-prosecutors-take-over-probe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-07T07:05:09.315Z</news:publication_date>
+      <news:title>Explosive drone at Leipzig Airport: Federal Prosecutors Take Over Probe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/36a05344-1b71-4e4a-3fa2-ef3c218b3800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/munich-car-ramming-attack-afghan-man-sentenced-to-life-in-prison</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T10:35:27.351Z</news:publication_date>
+      <news:title>Munich Car-Ramming Attack: Afghan Man Sentenced to Life in Prison</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0914c30f-df18-4f4c-1e50-bf141419e300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/klingbeil-insists-on-afd-firewall-pushes-for-ban-proceedings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T09:18:40.042Z</news:publication_date>
+      <news:title>Klingbeil Insists on AfD &apos;Firewall,&apos; Pushes for Ban Proceedings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2df38576-4ed5-4940-cb1b-5c7f764f3b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/drowning-deaths-rise-in-germany-young-men-hit-hardest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T09:00:11.948Z</news:publication_date>
+      <news:title>Drowning Deaths Rise in Germany, Young Men Hit Hardest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/6708471a-6139-4e96-8fe7-5c0e32ba3c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/commerzbank-posts-record-profit-amid-unicredit-takeover-fight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T07:14:29.532Z</news:publication_date>
+      <news:title>Commerzbank Posts Record Profit Amid Unicredit Takeover Fight</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0d4a0437-b8f2-47d8-3d32-42f42b179a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-dobrindt-warns-of-hybrid-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T00:57:09.000Z</news:publication_date>
+      <news:title>Explosive Drone at Leipzig Airport: Dobrindt Warns of Hybrid Attack</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2d929ba6-c780-443b-346f-072d54586200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/explosive-drone-found-at-leipzig-airport-flights-diverted</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T12:11:18.168Z</news:publication_date>
+      <news:title>Explosive Drone Found at Leipzig Airport, Flights Diverted</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/bb1b903d-fd35-449e-14f0-fbbb2d0e7900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/job-fears-fuel-rising-interest-in-starting-a-business-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-05T11:11:08.331Z</news:publication_date>
+      <news:title>Job Fears Fuel Rising Interest in Starting a Business in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/9af96251-b41f-4549-69d5-0e0109de2600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+</urlset>

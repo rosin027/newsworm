@@ -4,36 +4,6 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/berlin-tightens-security-on-suspects-after-csd-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T08:57:47.658Z</news:publication_date>
-      <news:title>Berlin Tightens Security on Suspects After CSD Attack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/c127a18e-ee87-425b-9221-a332b6541400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/commerzbank-posts-record-profit-amid-unicredit-takeover-fight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T08:57:35.667Z</news:publication_date>
-      <news:title>Commerzbank Posts Record Profit Amid Unicredit Takeover Fight</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0d4a0437-b8f2-47d8-3d32-42f42b179a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://www.newsworm.de/news/germanys-rivers-are-running-dry-and-the-economy-is-feeling-it</loc>
     <news:news>
       <news:publication>
@@ -45,36 +15,6 @@
     </news:news>
     <image:image>
       <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/f0b9b951-d294-4528-e31b-78e61ae51300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dax-hits-record-high-as-oil-prices-fall-on-hopes-of-renewed-us-iran-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:55:43.483Z</news:publication_date>
-      <news:title>DAX Hits Record High as Oil Prices Fall on Hopes of Renewed US-Iran Talks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/aa69b512-1edd-453b-aec9-e73f73810000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-dobrindt-warns-of-hybrid-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:55:17.884Z</news:publication_date>
-      <news:title>Explosive Drone at Leipzig Airport: Dobrindt Warns of Hybrid Attack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2d929ba6-c780-443b-346f-072d54586200/OpenGraph</image:loc>
     </image:image>
   </url>
 
@@ -94,36 +34,6 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/ceuta-migrant-surge-germany-blames-spains-citizenship-policy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:34:16.519Z</news:publication_date>
-      <news:title>Ceuta Migrant Surge: Germany Blames Spain&apos;s Citizenship Policy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/09a78492-c2f4-464c-f78d-65a116438900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/explosive-drone-found-at-leipzig-airport-flights-diverted</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:33:53.653Z</news:publication_date>
-      <news:title>Explosive Drone Found at Leipzig Airport, Flights Diverted</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/bb1b903d-fd35-449e-14f0-fbbb2d0e7900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://www.newsworm.de/news/2-000-migrants-still-in-ceuta-including-1-000-unaccompanied-minors</loc>
     <news:news>
       <news:publication>
@@ -135,36 +45,6 @@
     </news:news>
     <image:image>
       <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/7ada0239-1894-493c-4012-c403f6d33000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pro-asyl-demands-permanent-right-to-stay-in-germany-for-yazidi-refugees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:05:46.884Z</news:publication_date>
-      <news:title>Pro Asyl Demands Permanent Right to Stay in Germany for Yazidi Refugees</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/1b6a0dfe-98fe-4450-8c48-0eba9f454b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/job-fears-fuel-rising-interest-in-starting-a-business-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:05:31.473Z</news:publication_date>
-      <news:title>Job Fears Fuel Rising Interest in Starting a Business in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/9af96251-b41f-4549-69d5-0e0109de2600/OpenGraph</image:loc>
     </image:image>
   </url>
 
@@ -184,21 +64,6 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/partial-solar-eclipse-sweeps-germany-on-august-12</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T10:35:40.516Z</news:publication_date>
-      <news:title>Partial Solar Eclipse Sweeps Germany on August 12</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/e1a9b105-5625-479d-5b03-2f1935e1b300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://www.newsworm.de/news/munich-car-ramming-attack-afghan-man-sentenced-to-life-in-prison</loc>
     <news:news>
       <news:publication>
@@ -210,51 +75,6 @@
     </news:news>
     <image:image>
       <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0914c30f-df18-4f4c-1e50-bf141419e300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unemployment-in-germany-rose-above-3-million-in-july</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:19:20.089Z</news:publication_date>
-      <news:title>Unemployment in Germany Rose Above 3 Million in July</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0667caca-fa2c-49e0-2eca-76e2e406b600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/far-right-and-far-left-battle-for-power-in-polarised-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:19:12.891Z</news:publication_date>
-      <news:title>Far right and far left battle for power in polarised Berlin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/3027bf82-abe1-4725-1d2d-f042dbf64d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-pensioners-are-working-past-retirement-age-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:18:55.340Z</news:publication_date>
-      <news:title>More Pensioners Are Working Past Retirement Age in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/713453f4-9d4f-4a4c-ba42-62882703ce00/OpenGraph</image:loc>
     </image:image>
   </url>
 
@@ -274,36 +94,6 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/over-1-000-legal-experts-sign-open-letter-urging-afd-ban</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:01:00.581Z</news:publication_date>
-      <news:title>Over 1,000 Legal Experts Sign Open Letter Urging AfD Ban</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/502836d6-7eeb-4315-c4c5-e652ab37e500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-pride-attack-many-open-questions-remain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:00:39.641Z</news:publication_date>
-      <news:title>Berlin Pride Attack: &quot;Many Open Questions&quot; Remain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/7c00815f-82b3-445b-fc56-5eea241f8800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://www.newsworm.de/news/drowning-deaths-rise-in-germany-young-men-hit-hardest</loc>
     <news:news>
       <news:publication>
@@ -319,437 +109,62 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/electric-car-prices-in-germany-rise-again-as-subsidy-boosts-sales</loc>
+    <loc>https://www.newsworm.de/news/commerzbank-posts-record-profit-amid-unicredit-takeover-fight</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-06T07:15:53.612Z</news:publication_date>
-      <news:title>Electric Car Prices in Germany Rise Again as Subsidy Boosts Sales</news:title>
+      <news:publication_date>2026-08-06T07:14:29.532Z</news:publication_date>
+      <news:title>Commerzbank Posts Record Profit Amid Unicredit Takeover Fight</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/de183974-bc80-426b-2c19-076f920d4800/OpenGraph</image:loc>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0d4a0437-b8f2-47d8-3d32-42f42b179a00/OpenGraph</image:loc>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-cheapest-fares-often-unavailable-study-finds</loc>
+    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-dobrindt-warns-of-hybrid-attack</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-06T07:15:42.467Z</news:publication_date>
-      <news:title>Deutsche Bahn Cheapest Fares Often Unavailable, Study Finds</news:title>
+      <news:publication_date>2026-08-06T00:57:09.000Z</news:publication_date>
+      <news:title>Explosive Drone at Leipzig Airport: Dobrindt Warns of Hybrid Attack</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/d8d20e52-f002-4add-57d2-0880c144ae00/OpenGraph</image:loc>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2d929ba6-c780-443b-346f-072d54586200/OpenGraph</image:loc>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/left-party-leader-accuses-merz-of-falling-into-a-far-right-trap-over-ceuta</loc>
+    <loc>https://www.newsworm.de/news/explosive-drone-found-at-leipzig-airport-flights-diverted</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-06T07:15:22.134Z</news:publication_date>
-      <news:title>Left Party Leader Accuses Merz of Falling Into a Far Right Trap Over Ceuta</news:title>
+      <news:publication_date>2026-08-05T12:11:18.168Z</news:publication_date>
+      <news:title>Explosive Drone Found at Leipzig Airport, Flights Diverted</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/b042d2b5-fa82-4521-09b5-4ad75b6a8800/OpenGraph</image:loc>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/bb1b903d-fd35-449e-14f0-fbbb2d0e7900/OpenGraph</image:loc>
     </image:image>
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-braces-for-severe-thunderstorms-as-heat-hits-39-degrees</loc>
+    <loc>https://www.newsworm.de/news/job-fears-fuel-rising-interest-in-starting-a-business-in-germany</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-08-06T07:15:08.893Z</news:publication_date>
-      <news:title>Germany Braces for Severe Thunderstorms as Heat Hits 39 Degrees</news:title>
+      <news:publication_date>2026-08-05T11:11:08.331Z</news:publication_date>
+      <news:title>Job Fears Fuel Rising Interest in Starting a Business in Germany</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/65ed1d07-231d-42ae-1e3d-069af79adf00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ceuta-migration-crisis-sparks-major-eu-dispute-with-spain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T00:08:36.548Z</news:publication_date>
-      <news:title>Ceuta Migration Crisis Sparks Major EU Dispute With Spain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2784f3d5-2d3f-405d-fcae-cebf4477bd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutschland-ticket-could-cost-eu66-40-from-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Deutschland-Ticket Could Cost ?66.40 From 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/f5f04a90-01e8-4a6b-29a5-738c6ac8b500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/saxon-switzerland-hiker-killed-13-injured-as-violent-storm-hits-german-national-park</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Saxon Switzerland: Hiker Killed, 13 Injured as Violent Storm Hits German National Park</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/863c07bf-0d18-4334-0cd1-7bd7ccf20000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/will-germany-scrap-retirement-after-45-years-political-debate-heats-up</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Will Germany Scrap Retirement After 45 Years? Political Debate Heats Up</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/7d800591-5420-433e-cd87-150c63974800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spains-ceuta-enclave-returns-to-normal-as-migrants-depart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Spain&apos;s Ceuta Enclave Returns to Normal as Migrants Depart</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/a8ed1476-68a6-4575-b1be-9b0bbc93c500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/water-level-on-the-rhine-reaches-new-record-low-in-cologne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Rhine Water Levels Fall to New Record Lows</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/9b3f63de-dd9d-4644-bdd5-c10c15a1e300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-cash-limit-from-2027-what-the-new-rule-means-for-germany-and-the-rest-of-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>EU Cash Limit from 2027: What the New Rule Means for Germany and the Rest of Europe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/5db64640-b286-492a-f482-902a8798b800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-grapples-with-migrant-crisis-in-spains-n-africa-enclave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>EU Grapples with Migrant Crisis in Spain&apos;s N. Africa Enclave</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/6f09bc39-9581-4b46-67fc-e92f459d2800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/migrant-wave-hits-ceuta-as-thousands-cross-from-morocco</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Migrant Wave Hits Ceuta as Thousands Cross From Morocco</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/86d576c8-7f25-41fa-ec1e-103ece472b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/public-trust-in-german-government-falls-to-record-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Public Trust in German Government Falls to Record Low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/4cc3ab09-c375-41bd-a21a-1d07ccd04600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-grows-in-q2-2026-despite-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>German Economy Grows in Q2 2026 Despite Iran War </news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/66554998-3547-45ef-db2c-5db5b8f05f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/low-rhine-water-levels-threaten-germanys-economy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Low Rhine Water Levels Threaten Germany&apos;s Economy</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/9b3f63de-dd9d-4644-bdd5-c10c15a1e300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-syria-direct-flights-resume-after-15-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Germany-Syria Direct Flights Resume After 15 Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/15372de0-9b5e-4457-e34f-e29e92a5b300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-new-cabinet-linnemann-warken-bilger-appointed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Germany&apos;s New Cabinet: Linnemann, Warken, Bilger Appointed</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/5bd77a4d-4df3-4dba-b588-d9ff15c91300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-merz-battles-growing-revolt-within-his-cdu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>German Chancellor Merz Battles Growing Revolt Within His CDU</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/c0f3366b-5330-47b6-4688-62eec1940200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-plans-up-to-8-000-job-cuts-by-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>BMW Plans Up to 8,000 Job Cuts by 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/03eea3eb-88fc-4232-0073-58dd1611a700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/holocaust-survivor-margot-friedlander-dies-at-the-age-of-103</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Holocaust survivor Margot Friedl?nder dies at the age of 103</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/6ecd08ef-7a12-4eeb-58ef-5f613aef2a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-braces-for-new-heatwave-temperatures-to-hit-39degc-this-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Germany Braces for New Heatwave: Temperatures to Hit 39?C This Week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/e81375a7-f865-4ca5-d50c-9071e1886800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mercedes-benz-ceo-urges-germany-to-boost-productivity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Mercedes-Benz CEO Urges Germany to Boost Productivity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/04166f8d-0215-47b3-a7b9-0e34f7ffcc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/real-or-fake-eu-forces-firms-to-label-ai-content</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>Real or Fake? EU Forces Firms to Label AI Content</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/54072442-6cf0-4995-1ede-609e21018000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/august-2026-in-germany-important-changes-you-need-to-know</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:12:01.793Z</news:publication_date>
-      <news:title>August 2026 in Germany: Important changes you need to know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/7256f4a9-964a-48fb-5ed9-efe1a1914000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hamburg-csd-pride-draws-record-300-000-people-after-berlin-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T12:17:02.937Z</news:publication_date>
-      <news:title>Hamburg CSD Pride Draws Record 300,000 People After Berlin Attack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/da95a0ff-dee8-46da-5cc6-ff645ab70400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rhine-hits-record-low-disrupts-cargo-transport-and-tourism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T12:16:34.633Z</news:publication_date>
-      <news:title>Rhine Hits Record Low: Disrupts Cargo Transport and Tourism</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/23236179-850e-4fb2-a507-e2d55ad18e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/frei-sees-no-room-to-negotiate-on-ending-pension-at-63</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T12:16:23.470Z</news:publication_date>
-      <news:title>Frei Sees No Room to Negotiate on Ending Pension at 63</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/37c9eb63-5743-495e-045b-9ea97b2fe600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-civilian-service-for-military-service-refusers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T11:11:27.075Z</news:publication_date>
-      <news:title>Germany Plans Civilian Service for Military Service Refusers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/9a40d147-6ae1-4182-28c7-c08fd3bea000/OpenGraph</image:loc>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/9af96251-b41f-4549-69d5-0e0109de2600/OpenGraph</image:loc>
     </image:image>
   </url>
 

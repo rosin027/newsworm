@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bund-criticizes-relaxation-of-sunday-driving-ban-for-trucks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T08:26:31.781Z</news:publication_date>
+      <news:title>BUND criticizes relaxation of Sunday driving ban for trucks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/e30ec7b5-689c-47ef-0d09-58d2cb02fe00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/eu-ramps-up-russian-lng-imports-again-despite-sanctions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T08:19:14.282Z</news:publication_date>
+      <news:title>EU Ramps Up Russian LNG Imports Again Despite Sanctions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/6252ec0b-54f0-4619-1547-a55db8c2e200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/doctors-slam-government-inaction-in-heat-crisis</loc>
     <news:news>
       <news:publication>
@@ -135,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/6708471a-6139-4e96-8fe7-5c0e32ba3c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/commerzbank-posts-record-profit-amid-unicredit-takeover-fight</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T07:14:29.532Z</news:publication_date>
-      <news:title>Commerzbank Posts Record Profit Amid Unicredit Takeover Fight</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0d4a0437-b8f2-47d8-3d32-42f42b179a00/OpenGraph</image:loc>
     </image:image>
   </url>
 

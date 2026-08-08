@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/drones-sighted-over-bundeswehr-base-in-north-rhine-westphalia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T14:47:54.572Z</news:publication_date>
+      <news:title>Drones sighted over Bundeswehr base in North Rhine-Westphalia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1dfaa9fd-2eab-49a1-f3a8-ffee0990ca00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/russia-denies-responsibility-for-leipzig-airport-drone-incident</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/russia-denies-responsibility-for-leipzig-airport-drone-incident</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-08T09:29:11.372Z</news:publication_date>
+      <news:title>Russia Denies Responsibility for Leipzig Airport Drone Incident</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/d27872a9-4a62-47c6-03bc-a52d2b400a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bund-criticizes-relaxation-of-sunday-driving-ban-for-trucks</loc>
     <news:news>
       <news:publication>
@@ -120,51 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/36a05344-1b71-4e4a-3fa2-ef3c218b3800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-car-ramming-attack-afghan-man-sentenced-to-life-in-prison</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T10:35:27.351Z</news:publication_date>
-      <news:title>Munich Car-Ramming Attack: Afghan Man Sentenced to Life in Prison</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/0914c30f-df18-4f4c-1e50-bf141419e300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/klingbeil-insists-on-afd-firewall-pushes-for-ban-proceedings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:18:40.042Z</news:publication_date>
-      <news:title>Klingbeil Insists on AfD &apos;Firewall,&apos; Pushes for Ban Proceedings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/2df38576-4ed5-4940-cb1b-5c7f764f3b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/drowning-deaths-rise-in-germany-young-men-hit-hardest</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T09:00:11.948Z</news:publication_date>
-      <news:title>Drowning Deaths Rise in Germany, Young Men Hit Hardest</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://imagedelivery.net/-85gPtXP8gkICXwHP_tw5g/6708471a-6139-4e96-8fe7-5c0e32ba3c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

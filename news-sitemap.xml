@@ -108,49 +108,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/auto-industry-drives-modest-rise-in-german-industrial-production</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:54:48.090Z</news:publication_date>
-      <news:title>Auto Industry Drives Modest Rise in German Industrial Production</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ef3cdab7-c9a4-4998-ffd6-2559c6c4f700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/2-000-migrants-still-in-ceuta-including-1-000-unaccompanied-minors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:33:37.862Z</news:publication_date>
-      <news:title>2,000 Migrants Still in Ceuta, Including 1,000+ Unaccompanied Minors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7ada0239-1894-493c-4012-c403f6d33000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/explosive-drone-at-leipzig-airport-federal-prosecutors-take-over-probe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T07:05:09.315Z</news:publication_date>
-      <news:title>Explosive drone at Leipzig Airport: Federal Prosecutors Take Over Probe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/36a05344-1b71-4e4a-3fa2-ef3c218b3800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

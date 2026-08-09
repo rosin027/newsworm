@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/hamburg-berlin-rail-punctuality-falls-despite-new-renovation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T13:34:54.914Z</news:publication_date>
+      <news:title>Hamburg?Berlin Rail Punctuality Falls Despite New Renovation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/33f1baae-65b8-4dd8-531b-c103e46e1700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/adhd-in-children-germany-sees-16-rise-in-new-diagnoses</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/edb1b94b-771e-4d19-2b21-b1a4c0c49c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/foreign-trainees-offset-steep-german-decline-in-apprenticeship</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T12:06:13.645Z</news:publication_date>
-      <news:title>Foreign Trainees Offset Steep German Decline in Apprenticeship</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b999c8e7-a700-46de-7b24-7b8ea4e57500/OpenGraph</image:loc>
     </image:image>
   </url>
 

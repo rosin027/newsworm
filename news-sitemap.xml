@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-executive-bonuses-to-be-tied-to-performance-targets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T08:13:17.831Z</news:publication_date>
+      <news:title>Deutsche Bahn Executive Bonuses to Be Tied to Performance Targets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5bee2678-4365-4e5a-44b1-b8cd3d8da800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/drones-sighted-over-bundeswehr-base-in-north-rhine-westphalia</loc>
     <news:news>
       <news:publication>

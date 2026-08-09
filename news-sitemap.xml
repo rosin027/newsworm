@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/adhd-in-children-germany-sees-16-rise-in-new-diagnoses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-09T10:34:41.331Z</news:publication_date>
+      <news:title>ADHD in Children: Germany Sees 16% Rise in New Diagnoses</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f9f6202a-7e79-43ad-9210-7c9d9a867d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-executive-bonuses-to-be-tied-to-performance-targets</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b999c8e7-a700-46de-7b24-7b8ea4e57500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-rivers-are-running-dry-and-the-economy-is-feeling-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T08:55:03.005Z</news:publication_date>
-      <news:title>Germany&apos;s Rivers Are Running Dry And the Economy Is Feeling It</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f0b9b951-d294-4528-e31b-78e61ae51300/OpenGraph</image:loc>
     </image:image>
   </url>
 

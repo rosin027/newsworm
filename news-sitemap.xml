@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/ice-fault-greets-germanys-transport-minister-bilger</loc>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-fault-greets-germanys-transport-minister-bilger</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-10T11:23:16.360Z</news:publication_date>
-      <news:title>ICE Fault Greets Germany&apos;s Transport Minister Bilger</news:title>
+      <news:title>Deutsche Bahn Fault Greets Germany&apos;s Transport Minister Bilger</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0e3b513b-f7b9-4f3d-3a1c-b3c6a1a5f200/OpenGraph</image:loc>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ice-fault-greets-germanys-transport-minister-bilger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T11:23:16.360Z</news:publication_date>
+      <news:title>ICE Fault Greets Germany&apos;s Transport Minister Bilger</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0e3b513b-f7b9-4f3d-3a1c-b3c6a1a5f200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/e-scooters-in-germany-rentals-cause-twice-as-many-claims</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1dfaa9fd-2eab-49a1-f3a8-ffee0990ca00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/russia-denies-responsibility-for-leipzig-airport-drone-incident</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T09:29:11.372Z</news:publication_date>
-      <news:title>Russia Denies Responsibility for Leipzig Airport Drone Incident</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d27872a9-4a62-47c6-03bc-a52d2b400a00/OpenGraph</image:loc>
     </image:image>
   </url>
 

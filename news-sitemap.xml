@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-conductors-attacked-989-times-in-six-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T13:51:11.587Z</news:publication_date>
+      <news:title>Deutsche Bahn Conductors Attacked 989 Times in Six Months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f229ddad-d21e-423d-0e5e-4e0cbb181f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-rhine-river-at-risk-of-turning-unnavigable</loc>
     <news:news>
       <news:publication>

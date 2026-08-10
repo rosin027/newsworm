@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/e-scooters-in-germany-rentals-cause-twice-as-many-claims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T09:03:10.543Z</news:publication_date>
+      <news:title>E-Scooters in Germany: Rentals Cause Twice as Many Claims</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9e7a953c-74db-4cff-3cb7-f7d659242600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/klingbeils-income-tax-reform-faces-criticism-from-all-sides</loc>
     <news:news>
       <news:publication>

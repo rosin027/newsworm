@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/leipzig-drone-attack-dna-trace-links-to-2024-dhl-arson</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T16:18:48.019Z</news:publication_date>
+      <news:title>Leipzig Drone Attack: DNA Trace Links to 2024 DHL Arson</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f4f4863d-9f3f-499d-dbb9-d3967e6dfd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-conductors-attacked-989-times-in-six-months</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5bee2678-4365-4e5a-44b1-b8cd3d8da800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/drones-sighted-over-bundeswehr-base-in-north-rhine-westphalia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T14:47:54.572Z</news:publication_date>
-      <news:title>Drones sighted over Bundeswehr base in North Rhine-Westphalia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1dfaa9fd-2eab-49a1-f3a8-ffee0990ca00/OpenGraph</image:loc>
     </image:image>
   </url>
 

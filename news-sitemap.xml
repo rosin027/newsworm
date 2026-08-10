@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/klingbeils-income-tax-reform-faces-criticism-from-all-sides</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T08:57:47.744Z</news:publication_date>
+      <news:title>Klingbeil&apos;s Income Tax Reform Faces Criticism From All Sides</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/72e7abd4-8234-4079-e7a3-eed34c946400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/only-1-in-10-people-in-germany-is-aged-15-to-24</loc>
     <news:news>
       <news:publication>
@@ -135,36 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d27872a9-4a62-47c6-03bc-a52d2b400a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bund-criticizes-relaxation-of-sunday-driving-ban-for-trucks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T08:26:31.781Z</news:publication_date>
-      <news:title>BUND criticizes relaxation of Sunday driving ban for trucks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e30ec7b5-689c-47ef-0d09-58d2cb02fe00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-ramps-up-russian-lng-imports-again-despite-sanctions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-08T08:19:14.282Z</news:publication_date>
-      <news:title>EU Ramps Up Russian LNG Imports Again Despite Sanctions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6252ec0b-54f0-4619-1547-a55db8c2e200/OpenGraph</image:loc>
     </image:image>
   </url>
 

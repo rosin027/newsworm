@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ukraine-warns-of-tough-winter-with-no-thermal-power-plants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T06:18:40.684Z</news:publication_date>
+      <news:title>Ukraine Warns of Tough Winter With No Thermal Power Plants</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/66e1c50c-53b4-491e-cbd1-c1807fda1400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iran-keeps-strait-of-hormuz-closed-until-us-meets-demands</loc>
     <news:news>
       <news:publication>

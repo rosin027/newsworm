@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/western-europe-experienced-hottest-june-july-on-record</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T05:55:38.966Z</news:publication_date>
+      <news:title>Western Europe Experienced Hottest June-July on Record</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fe51cfbe-d138-4d65-7660-bab9e1c13c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hamburg-berlin-rail-punctuality-falls-despite-new-renovation</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6252ec0b-54f0-4619-1547-a55db8c2e200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/doctors-slam-government-inaction-in-heat-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-07T15:26:19.518Z</news:publication_date>
-      <news:title>Doctors Slam Government Inaction in Heat Crisis</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/edb1b94b-771e-4d19-2b21-b1a4c0c49c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/germanys-rhine-at-risk-of-turning-unnavigable</loc>
+    <loc>https://www.newsworm.de/news/germanys-rhine-river-at-risk-of-turning-unnavigable</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-10T12:16:47.940Z</news:publication_date>
-      <news:title>Germany&apos;s Rhine at Risk of Turning Unnavigable</news:title>
+      <news:title>Germany&apos;s Rhine River at Risk of Turning Unnavigable</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a54039ec-5b24-403d-674b-c972be5ff900/OpenGraph</image:loc>

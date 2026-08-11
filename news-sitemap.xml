@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/solar-eclipse-germany-12-august-2026-where-and-when-to-look</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-11T10:47:51.608Z</news:publication_date>
+      <news:title>Solar Eclipse Germany 12 August 2026: Where and When to Look</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/792839f2-c266-450a-f1b8-980fc94eb300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/heat-protection-in-germanys-basic-law-cities-and-greens-back-the-demand</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/33f1baae-65b8-4dd8-531b-c103e46e1700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/adhd-in-children-germany-sees-16-rise-in-new-diagnoses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09T10:34:41.331Z</news:publication_date>
-      <news:title>ADHD in Children: Germany Sees 16% Rise in New Diagnoses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f9f6202a-7e79-43ad-9210-7c9d9a867d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

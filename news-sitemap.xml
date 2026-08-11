@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/heat-protection-in-germanys-basic-law-cities-and-greens-back-the-demand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-11T10:01:54.819Z</news:publication_date>
+      <news:title>Heat Protection in Germany&apos;s Basic Law: Cities and Greens Back the Demand</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/49329878-1778-4935-cb2b-fe3899b93a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ceuta-leader-wants-migrant-detention-centre-after-influx</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f9f6202a-7e79-43ad-9210-7c9d9a867d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-executive-bonuses-to-be-tied-to-performance-targets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09T08:13:17.831Z</news:publication_date>
-      <news:title>Deutsche Bahn Executive Bonuses to Be Tied to Performance Targets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5bee2678-4365-4e5a-44b1-b8cd3d8da800/OpenGraph</image:loc>
     </image:image>
   </url>
 

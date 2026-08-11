@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-in-three-houses-in-german-cities-costs-over-one-million-euros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-11T13:39:12.118Z</news:publication_date>
+      <news:title>One in Three Houses in German Cities Costs Over ?1 Million</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/42c639d2-0115-4b53-c5d7-d61c97689400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/solar-eclipse-germany-12-august-2026-where-and-when-to-look</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/fe51cfbe-d138-4d65-7660-bab9e1c13c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hamburg-berlin-rail-punctuality-falls-despite-new-renovation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-09T13:34:54.914Z</news:publication_date>
-      <news:title>Hamburg?Berlin Rail Punctuality Falls Despite New Renovation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/33f1baae-65b8-4dd8-531b-c103e46e1700/OpenGraph</image:loc>
     </image:image>
   </url>
 

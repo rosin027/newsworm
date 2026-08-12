@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/total-solar-eclipse-2026-everything-you-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T06:55:25.628Z</news:publication_date>
+      <news:title>Total Solar Eclipse 2026: Everything You Need to Know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/335867dc-6fee-4b28-d93d-2b041b39af00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-give-spy-agencies-sweeping-new-covert-powers</loc>
     <news:news>
       <news:publication>

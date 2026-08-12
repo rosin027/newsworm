@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/only-1-in-10-people-in-germany-is-aged-15-to-24</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T07:08:40.950Z</news:publication_date>
-      <news:title>Only 1 in 10 People in Germany Is Aged 15 to 24</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/803004ab-ecae-41ef-9846-3efcce45ef00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

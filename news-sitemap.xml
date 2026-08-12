@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-ai-about-to-lower-wages-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T09:28:20.058Z</news:publication_date>
+      <news:title>Is AI About to Lower Wages in Germany?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f98d5595-cc1d-481d-a257-cebfe8117d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bsw-could-clear-the-path-for-an-afd-state-premier-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>
@@ -195,36 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0e3b513b-f7b9-4f3d-3a1c-b3c6a1a5f200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/e-scooters-in-germany-rentals-cause-twice-as-many-claims</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T09:03:10.543Z</news:publication_date>
-      <news:title>E-Scooters in Germany: Rentals Cause Twice as Many Claims</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9e7a953c-74db-4cff-3cb7-f7d659242600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/klingbeils-tax-reform-faces-criticism-from-all-sides</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T08:57:47.744Z</news:publication_date>
-      <news:title>Klingbeil&apos;s Tax Reform Faces Criticism From All Sides</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/72e7abd4-8234-4079-e7a3-eed34c946400/OpenGraph</image:loc>
     </image:image>
   </url>
 

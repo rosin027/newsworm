@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bsw-could-clear-the-path-for-an-afd-state-premier-in-saxony-anhalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T07:23:27.645Z</news:publication_date>
+      <news:title>BSW Could Clear the Path for an AfD State Premier in Saxony Anhalt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6e0c0fbd-4ede-470a-f86e-f12927845400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/total-solar-eclipse-2026-everything-you-need-to-know</loc>
     <news:news>
       <news:publication>

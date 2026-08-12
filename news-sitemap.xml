@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-early-start-pension-bafog-and-teen-alcohol-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T11:12:54.918Z</news:publication_date>
+      <news:title>German Cabinet Approves Early-Start Pension, Baf?g and Teen Alcohol Ban</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9497a1ed-fe54-4e5d-225b-7d9a1e1fb400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/is-ai-about-to-lower-wages-in-germany</loc>
     <news:news>
       <news:publication>

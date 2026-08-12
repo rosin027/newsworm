@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cabinet-approves-child-and-youth-welfare-reform-to-curb-rising-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T12:39:53.795Z</news:publication_date>
+      <news:title>Cabinet Approves Child and Youth Welfare Reform to Curb Rising Costs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d2b45bef-9dd0-4d4c-67de-627338854700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-approves-early-start-pension-bafog-and-teen-alcohol-ban</loc>
     <news:news>
       <news:publication>
@@ -195,36 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f229ddad-d21e-423d-0e5e-4e0cbb181f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-rhine-river-at-risk-of-turning-unnavigable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T12:16:47.940Z</news:publication_date>
-      <news:title>Germany&apos;s Rhine River at Risk of Turning Unnavigable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a54039ec-5b24-403d-674b-c972be5ff900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-fault-greets-germanys-transport-minister-bilger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T11:23:16.360Z</news:publication_date>
-      <news:title>Deutsche Bahn Fault Greets Germany&apos;s Transport Minister Bilger</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0e3b513b-f7b9-4f3d-3a1c-b3c6a1a5f200/OpenGraph</image:loc>
     </image:image>
   </url>
 

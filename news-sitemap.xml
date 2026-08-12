@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-give-spy-agencies-sweeping-new-covert-powers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-12T06:35:50.253Z</news:publication_date>
+      <news:title>Germany to Give Spy Agencies Sweeping New Covert Powers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4091b921-6859-4555-1d34-c6ffcaed3a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-in-three-houses-in-german-cities-costs-over-one-million-euros</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/803004ab-ecae-41ef-9846-3efcce45ef00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ukraine-warns-of-tough-winter-with-no-thermal-power-plants</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T06:18:40.684Z</news:publication_date>
-      <news:title>Ukraine Warns of Tough Winter With No Thermal Power Plants</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/66e1c50c-53b4-491e-cbd1-c1807fda1400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iran-keeps-strait-of-hormuz-closed-until-us-meets-demands</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T06:08:09.292Z</news:publication_date>
-      <news:title>Iran Keeps Strait of Hormuz Closed Until US Meets Demands</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1c1f0252-4406-409c-8caf-a3a9b3684000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/western-europe-experienced-hottest-june-july-on-record</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-10T05:55:38.966Z</news:publication_date>
-      <news:title>Western Europe Experienced Hottest June-July on Record</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fe51cfbe-d138-4d65-7660-bab9e1c13c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

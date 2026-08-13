@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/object-on-tracks-shuts-down-rail-services-in-bavaria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T14:39:24.859Z</news:publication_date>
+      <news:title>Object on Tracks Shuts Down Rail Services in Bavaria</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d05cbc09-6f5f-4fb9-875d-acf866608600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-swelters-as-heat-deaths-climb-and-rivers-run-dry</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4091b921-6859-4555-1d34-c6ffcaed3a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-three-houses-in-german-cities-costs-over-one-million-euros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-11T13:39:12.118Z</news:publication_date>
-      <news:title>One in Three Houses in German Cities Costs Over ?1 Million</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/42c639d2-0115-4b53-c5d7-d61c97689400/OpenGraph</image:loc>
     </image:image>
   </url>
 

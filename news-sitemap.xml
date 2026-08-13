@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-ahead-of-spd-in-new-mecklenburg-vorpommern-election-poll</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T11:51:15.804Z</news:publication_date>
+      <news:title>AfD Ahead of SPD in New Mecklenburg-Vorpommern Election Poll</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b405dc30-36c0-45f1-b028-7becd66a5b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/the-berlin-wall-how-28-years-of-division-still-shape-germany</loc>
     <news:news>
       <news:publication>

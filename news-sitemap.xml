@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/millions-in-losses-for-german-farmers-due-to-heat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T15:05:00.292Z</news:publication_date>
+      <news:title>Millions in Losses for German Farmers Due to Heat</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/46c67a5c-a37e-43fe-2764-545e855d2200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/object-on-tracks-shuts-down-rail-services-in-bavaria</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-swelters-as-heat-deaths-climb-and-rivers-run-dry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T13:26:23.348Z</news:publication_date>
+      <news:title>Germany Swelters as Heat Deaths Climb and Rivers Run Dry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3df1b40c-a185-4ccc-8863-7dd7dbf93c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-ahead-of-spd-in-new-mecklenburg-vorpommern-election-poll</loc>
     <news:news>
       <news:publication>

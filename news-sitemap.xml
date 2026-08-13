@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/thousands-pack-berlin-parks-for-rare-partial-solar-eclipse-show</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T07:44:42.929Z</news:publication_date>
+      <news:title>Thousands Pack Berlin Parks for Rare Partial Solar Eclipse Show</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d7cb923c-cf4a-4c64-aa00-c1119b8d5300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-dry-rivers-spark-battle-on-engineering-vs-restoration</loc>
     <news:news>
       <news:publication>

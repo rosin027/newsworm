@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/forest-fire-grows-to-300-hectares-in-north-rhine-westphalia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T08:27:31.464Z</news:publication_date>
+      <news:title>Forest Fire Grows to 300 Hectares in North Rhine-Westphalia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e1af8b49-832b-4f46-7616-c2ab3824d100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/drought-in-germany-farmers-warn-of-total-crop-failure</loc>
     <news:news>
       <news:publication>

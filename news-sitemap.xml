@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/europe-swelters-under-fresh-wave-of-extreme-heat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T15:54:39.516Z</news:publication_date>
+      <news:title>Europe swelters under fresh wave of extreme heat</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/face82cc-1a5f-4fa9-242e-594c877cdd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/saxony-anhalt-election-620-000-euros-campaign-aims-to-block-an-afd-majority</loc>
     <news:news>
       <news:publication>

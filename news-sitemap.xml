@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-election-620-000-euros-campaign-aims-to-block-an-afd-majority</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T15:21:49.453Z</news:publication_date>
+      <news:title>Saxony-Anhalt Election: ?620,000 Campaign Aims to Block an AfD Majority</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/40750509-b7e1-4d7e-f6f0-97af3df0b900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dax-profit-hits-record-eu52-6-billion-but-jobs-are-vanishing</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/99ce564d-1326-458b-fd65-223ca4f8c800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cabinet-approves-child-and-youth-welfare-reform-to-curb-rising-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T12:39:53.795Z</news:publication_date>
-      <news:title>Cabinet Approves Child and Youth Welfare Reform to Curb Rising Costs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d2b45bef-9dd0-4d4c-67de-627338854700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-early-start-pension-bafog-and-teen-alcohol-ban</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T11:12:54.918Z</news:publication_date>
-      <news:title>German Cabinet Approves Early-Start Pension, Baf?g and Teen Alcohol Ban</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9497a1ed-fe54-4e5d-225b-7d9a1e1fb400/OpenGraph</image:loc>
     </image:image>
   </url>
 

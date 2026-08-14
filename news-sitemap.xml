@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-high-rise-fire-13-injured-as-residents-try-to-jump-from-windows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T09:41:16.696Z</news:publication_date>
+      <news:title>Berlin High-Rise Fire: 13 Injured as Residents Try to Jump from Windows</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e16817fd-e1b7-4116-24a1-49fd08453700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/forest-fire-grows-to-300-hectares-in-north-rhine-westphalia</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/9497a1ed-fe54-4e5d-225b-7d9a1e1fb400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/is-ai-about-to-lower-wages-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-12T09:28:20.058Z</news:publication_date>
-      <news:title>Is AI About to Lower Wages in Germany?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f98d5595-cc1d-481d-a257-cebfe8117d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

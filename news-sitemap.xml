@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/forest-fire-risk-spreads-beyond-classic-hotspots-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T07:13:59.043Z</news:publication_date>
+      <news:title>Forest Fire Risk Spreads Beyond Classic Hotspots in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/085f3de2-7d85-4a2a-67d2-f1863b63d900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/france-legalises-assisted-dying-but-social-media-ban-falls</loc>
     <news:news>
       <news:publication>

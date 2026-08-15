@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/7-7-magnitude-earthquake-hits-off-flores-in-indonesia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T01:23:49.588Z</news:publication_date>
+      <news:title>7.7-Magnitude Earthquake Hits Off Flores in  Indonesia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b9618a18-9c61-4399-fe35-cc7792803400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-weighs-reviving-retired-wagons-as-low-water-hits-shipping</loc>
     <news:news>
       <news:publication>

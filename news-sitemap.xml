@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/tobacco-tax-in-germany-drug-commissioner-wants-bigger-rise-than-planned</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T10:09:49.285Z</news:publication_date>
+      <news:title>Tobacco Tax in Germany: Drug Commissioner Wants Bigger Rise Than Planned</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/860442cc-c71b-4151-23ad-ab6e4aafba00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/verdi-reveals-extreme-heat-of-up-to-45degc-in-care-homes</loc>
     <news:news>
       <news:publication>

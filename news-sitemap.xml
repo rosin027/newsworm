@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/verdi-reveals-extreme-heat-of-up-to-45degc-in-care-homes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T09:31:09.290Z</news:publication_date>
+      <news:title>Verdi Reveals Extreme Heat of Up to 45?C in Care Homes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/520a89f0-3505-42cc-1b14-0f9e95d53b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/forest-fire-risk-spreads-beyond-classic-hotspots-in-germany</loc>
     <news:news>
       <news:publication>
@@ -225,51 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b405dc30-36c0-45f1-b028-7becd66a5b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/the-berlin-wall-how-28-years-of-division-still-shape-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T09:14:17.056Z</news:publication_date>
-      <news:title>The Berlin Wall: How 28 Years of Division Still Shape Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c17b5157-1a6a-4a3b-638a-3f6c1809d900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/thousands-pack-berlin-parks-for-rare-partial-solar-eclipse-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T07:44:42.929Z</news:publication_date>
-      <news:title>Thousands Pack Berlin Parks for Rare Partial Solar Eclipse Show</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d7cb923c-cf4a-4c64-aa00-c1119b8d5300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-dry-rivers-spark-battle-on-engineering-vs-restoration</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T07:26:44.859Z</news:publication_date>
-      <news:title>Germany&apos;s Dry Rivers Spark Battle on Engineering Vs Restoration</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/99ce564d-1326-458b-fd65-223ca4f8c800/OpenGraph</image:loc>
     </image:image>
   </url>
 

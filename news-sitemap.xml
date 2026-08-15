@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/hurtgenwald-wildfire-started-by-some-idiot-nrw-interior-minister-says</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-15T13:56:20.949Z</news:publication_date>
+      <news:title>H?rtgenwald Wildfire Started by &quot;Some Idiot,&quot; NRW Interior Minister Says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ba66a7a2-1203-4859-e348-2a98e0c8bd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tobacco-tax-in-germany-drug-commissioner-wants-bigger-rise-than-planned</loc>
     <news:news>
       <news:publication>
@@ -225,36 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d05cbc09-6f5f-4fb9-875d-acf866608600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-swelters-as-heat-deaths-climb-and-rivers-run-dry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T13:26:23.348Z</news:publication_date>
-      <news:title>Germany Swelters as Heat Deaths Climb and Rivers Run Dry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3df1b40c-a185-4ccc-8863-7dd7dbf93c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-ahead-of-spd-in-new-mecklenburg-vorpommern-election-poll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T11:51:15.804Z</news:publication_date>
-      <news:title>AfD Ahead of SPD in New Mecklenburg-Vorpommern Election Poll</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b405dc30-36c0-45f1-b028-7becd66a5b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

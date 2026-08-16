@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/hurtgenwald-forest-fire-gey-evacuation-lifted-no-homes-lost</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T07:56:22.609Z</news:publication_date>
+      <news:title>H?rtgenwald Forest Fire: Gey Evacuation Lifted, No Homes Lost</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f9ff3631-3ae2-4893-58ab-db6f957a4f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hurtgenwald-wildfire-started-by-some-idiot-nrw-interior-minister-says</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/bef24316-0835-4790-494c-b69af11a4c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/employment-in-german-automotive-industry-at-lowest-since-2005</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T07:01:08.384Z</news:publication_date>
-      <news:title>Employment in German Automotive Industry at Lowest Since 2005</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/25ae763d-ba07-45f4-36d2-419f4b584c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/millions-in-losses-for-german-farmers-due-to-heat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T15:05:00.292Z</news:publication_date>
-      <news:title>Millions in Losses for German Farmers Due to Heat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/46c67a5c-a37e-43fe-2764-545e855d2200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/object-on-tracks-shuts-down-rail-services-in-bavaria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T14:39:24.859Z</news:publication_date>
-      <news:title>Object on Tracks Shuts Down Rail Services in Bavaria</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d05cbc09-6f5f-4fb9-875d-acf866608600/OpenGraph</image:loc>
     </image:image>
   </url>
 

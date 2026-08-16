@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-ministers-push-heat-protection-plan-and-basic-law-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-16T10:17:08.135Z</news:publication_date>
+      <news:title>SPD Ministers Push Heat Protection Plan and Basic Law Change</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ad62240c-62c3-491e-5871-d744286c2700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/hurtgenwald-forest-fire-gey-evacuation-lifted-no-homes-lost</loc>
     <news:news>
       <news:publication>

@@ -168,49 +168,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-high-rise-fire-13-injured-as-residents-try-to-jump-from-windows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T09:41:16.696Z</news:publication_date>
-      <news:title>Berlin High-Rise Fire: 13 Injured as Residents Try to Jump from Windows</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e16817fd-e1b7-4116-24a1-49fd08453700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/forest-fire-grows-to-300-hectares-in-north-rhine-westphalia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T08:27:31.464Z</news:publication_date>
-      <news:title>Forest Fire Grows to 300 Hectares in North Rhine-Westphalia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e1af8b49-832b-4f46-7616-c2ab3824d100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/drought-in-germany-farmers-warn-of-total-crop-failure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T08:00:35.323Z</news:publication_date>
-      <news:title>Drought in Germany: Farmers Warn of Total Crop Failure</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/bef24316-0835-4790-494c-b69af11a4c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

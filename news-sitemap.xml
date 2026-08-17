@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/klingbeil-announces-better-tax-conditions-for-startups-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T07:10:43.843Z</news:publication_date>
+      <news:title>Klingbeil Announces Better Tax Conditions for Startups in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a18d2f83-3b28-42c1-e331-bf5df67ef300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-to-unveil-biggest-russia-sanctions-package-yet</loc>
     <news:news>
       <news:publication>

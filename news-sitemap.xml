@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/weidel-backs-afd-push-to-abolish-federal-office-for-the-protection-of-constitution</loc>
+    <loc>https://www.newsworm.de/news/weidel-backs-afd-push-to-abolish-office-for-the-protection-of-the-constitution</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-17T11:41:31.122Z</news:publication_date>
-      <news:title>Weidel Backs AfD Push to Abolish Federal Office for the Protection of Constitution</news:title>
+      <news:title>Weidel Backs AfD Push to Abolish Office for the Protection of the Constitution</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/449d7e1a-b691-4002-4818-3a1627426c00/OpenGraph</image:loc>

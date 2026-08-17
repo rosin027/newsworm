@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-to-unveil-biggest-russia-sanctions-package-yet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T07:06:27.723Z</news:publication_date>
+      <news:title>EU to Unveil Biggest Russia Sanctions Package Yet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a21e6b6e-9221-45fa-3fa6-b6c01ded9900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/drought-and-low-rhine-push-german-wine-to-a-tipping-point</loc>
     <news:news>
       <news:publication>

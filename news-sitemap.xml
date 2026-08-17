@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/drought-and-low-rhine-push-german-wine-to-a-tipping-point</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T06:59:50.444Z</news:publication_date>
+      <news:title>Drought and Low Rhine Push German Wine to a Tipping Point</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/66056225-d4c3-48c4-8ae4-3dc2fd79f100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/belgium-races-to-tame-huge-wildfire-creeping-towards-germany</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-has-its-highest-number-of-soldiers-in-13-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T14:09:25.417Z</news:publication_date>
+      <news:title>Bundeswehr Has Its Highest Number of Soldiers in 13 Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/320674cf-5bd3-4b4f-cdaa-bac369f78e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/voluntary-returns-from-germany-rise-26-syria-tops-list</loc>
     <news:news>
       <news:publication>
@@ -135,21 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f9ff3631-3ae2-4893-58ab-db6f957a4f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hurtgenwald-wildfire-started-by-some-idiot-nrw-interior-minister-says</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T13:56:20.949Z</news:publication_date>
-      <news:title>H?rtgenwald Wildfire Started by &quot;Some Idiot,&quot; NRW Interior Minister Says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ba66a7a2-1203-4859-e348-2a98e0c8bd00/OpenGraph</image:loc>
     </image:image>
   </url>
 

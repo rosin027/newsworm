@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/belgium-races-to-tame-huge-wildfire-creeping-towards-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T06:51:19.342Z</news:publication_date>
+      <news:title>Belgium races to tame huge wildfire creeping towards Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1e0fde42-2aa7-4f49-38e1-230e3626c800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-ministers-push-heat-protection-plan-and-basic-law-change</loc>
     <news:news>
       <news:publication>
@@ -90,96 +105,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/085f3de2-7d85-4a2a-67d2-f1863b63d900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/france-legalises-assisted-dying-but-social-media-ban-falls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T01:34:31.180Z</news:publication_date>
-      <news:title>France Legalises Assisted Dying but Social Media Ban Falls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/867ffb6b-ee3c-4b23-f983-507226db9b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/7-7-magnitude-earthquake-hits-off-flores-in-indonesia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T01:23:49.588Z</news:publication_date>
-      <news:title>7.7-Magnitude Earthquake Hits Off Flores in  Indonesia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b9618a18-9c61-4399-fe35-cc7792803400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-weighs-reviving-retired-wagons-as-low-water-hits-shipping</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T01:18:23.382Z</news:publication_date>
-      <news:title>Deutsche Bahn Weighs Reviving Retired Wagons as Low Water Hits Shipping</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/18a5fd2c-b4ca-421e-ad56-0fecd55d9200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-swelters-under-fresh-wave-of-extreme-heat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T15:54:39.516Z</news:publication_date>
-      <news:title>Europe swelters under fresh wave of extreme heat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/face82cc-1a5f-4fa9-242e-594c877cdd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/saxony-anhalt-election-620-000-euros-campaign-aims-to-block-an-afd-majority</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T15:21:49.453Z</news:publication_date>
-      <news:title>Saxony-Anhalt Election: ?620,000 Campaign Aims to Block an AfD Majority</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/40750509-b7e1-4d7e-f6f0-97af3df0b900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dax-profit-hits-record-eu52-6-billion-but-jobs-are-vanishing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-14T10:22:56.752Z</news:publication_date>
-      <news:title>DAX Profit Hits Record ?52.6 Billion But Jobs Are Vanishing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/29e5b78e-330f-4b0b-7c36-357fca20d500/OpenGraph</image:loc>
     </image:image>
   </url>
 

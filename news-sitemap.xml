@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/openai-introduces-chatgpt-version-for-teenagers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T15:01:44.818Z</news:publication_date>
+      <news:title>OpenAI introduces ChatGPT version for teenagers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5f8264c1-7f6c-436c-23e9-3db18c40af00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-opens-drone-security-centre-as-threats-mount</loc>
     <news:news>
       <news:publication>

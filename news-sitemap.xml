@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-opens-drone-security-centre-as-threats-mount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T14:50:35.990Z</news:publication_date>
+      <news:title>Germany Opens Drone Security Centre as Threats Mount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d23f34dc-6b24-4898-23cc-47ad1accb400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/building-permits-rise-in-germany-but-industry-sees-no-turnaround</loc>
     <news:news>
       <news:publication>

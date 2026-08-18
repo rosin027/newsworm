@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-candidates-barred-from-lower-saxony-local-elections</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T11:27:39.119Z</news:publication_date>
+      <news:title>AfD Candidates Barred From Lower Saxony Local Elections</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cf20cb21-7659-4450-1118-a6d6be18d700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-grain-harvest-down-7-as-drought-and-heatwave-take-toll</loc>
     <news:news>
       <news:publication>

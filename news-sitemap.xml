@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-grain-harvest-down-7-as-drought-and-heatwave-take-toll</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T09:00:00.721Z</news:publication_date>
+      <news:title>German Grain Harvest Down 7% as Drought and Heatwave Take Toll</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/258f61a2-18c4-46ed-0c8b-0fe623035600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/retail-federation-warns-of-chinese-online-shops-posing-as-german</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ad62240c-62c3-491e-5871-d744286c2700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hurtgenwald-forest-fire-gey-evacuation-lifted-no-homes-lost</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T07:56:22.609Z</news:publication_date>
-      <news:title>H?rtgenwald Forest Fire: Gey Evacuation Lifted, No Homes Lost</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f9ff3631-3ae2-4893-58ab-db6f957a4f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

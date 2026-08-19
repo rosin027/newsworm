@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/klingbeil-urges-cdu-csu-to-back-climate-protection-in-basic-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T05:36:53.389Z</news:publication_date>
+      <news:title>Klingbeil Urges CDU/CSU to Back Climate Protection in Basic Law</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/18d5c199-f805-46b3-4e05-1a3a9f974600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/openai-introduces-chatgpt-version-for-teenagers</loc>
     <news:news>
       <news:publication>

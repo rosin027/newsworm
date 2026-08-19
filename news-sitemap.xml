@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/where-german-travellers-stay-most-in-europe</loc>
+    <loc>https://www.newsworm.de/news/eu-countries-with-the-highest-share-of-german-visitors</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-19T08:55:34.535Z</news:publication_date>
-      <news:title>Where German Travellers Stay Most in Europe</news:title>
+      <news:title>EU Countries With the Highest Share of German Visitors</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4b52fe05-37ee-4c7c-1177-4e853269cc00/OpenGraph</image:loc>
@@ -210,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/449d7e1a-b691-4002-4818-3a1627426c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-ten-young-adults-in-germany-has-no-job-and-no-training</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T09:26:41.958Z</news:publication_date>
-      <news:title>One in Ten Young Adults in Germany Has No Job and No Training</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e9c14b4e-f9a4-4a9e-adba-202729b49300/OpenGraph</image:loc>
     </image:image>
   </url>
 

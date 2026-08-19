@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/meta-on-trial-in-landmark-us-case-over-app-addiction-in-children</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T05:58:50.336Z</news:publication_date>
+      <news:title>Meta on Trial in Landmark US Case Over App Addiction in Children</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e175a41d-44a7-406a-dc9b-6d6b34ae3300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dobrindt-defends-merz-the-right-person-at-the-right-time</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/dobrindt-defends-merz-the-right-person-at-the-right-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T05:42:54.783Z</news:publication_date>
+      <news:title>Dobrindt Defends Merz: &quot;The Right Person at the Right Time&quot;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/183747f8-2e74-43d3-6afe-ec855f625100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/klingbeil-urges-cdu-csu-to-back-climate-protection-in-basic-law</loc>
     <news:news>
       <news:publication>

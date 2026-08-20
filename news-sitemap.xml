@@ -198,34 +198,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-grain-harvest-down-7-as-drought-and-heatwave-take-toll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T09:00:00.721Z</news:publication_date>
-      <news:title>German Grain Harvest Down 7% as Drought and Heatwave Take Toll</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/258f61a2-18c4-46ed-0c8b-0fe623035600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/retail-federation-warns-of-chinese-online-shops-posing-as-german</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T07:49:45.121Z</news:publication_date>
-      <news:title>Retail Federation Warns of Chinese Online Shops Posing as German</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b876d86e-07f5-42ff-e588-3c54309f1d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-cyberattack-leaves-housing-benefit-claims-blocked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T06:49:04.749Z</news:publication_date>
+      <news:title>Berlin Cyberattack Leaves Housing Benefit Claims Blocked</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/44aad4bd-4208-4d9c-c1d9-90b1b4cfee00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-france-un-condemn-far-right-israeli-ministers-inhumane-gaza-remarks</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b876d86e-07f5-42ff-e588-3c54309f1d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/we-will-not-be-intimidated-germany-responds-to-lavrovs-threat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T06:33:44.236Z</news:publication_date>
-      <news:title>&quot;We will not be intimidated&quot;: Germany responds to Lavrov&apos;s threat</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d18913bc-aaf3-401d-12a2-5956e768a300/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/nord-stream-bomb-suspect-held-while-working-on-movie-about-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T19:04:14.590Z</news:publication_date>
+      <news:title>Nord Stream Bomb Suspect Held While Working on Movie About Attack</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b354d42e-2c3e-4f04-a654-07585b620b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/exports-grow-but-germany-loses-ground-in-us-and-china</loc>
     <news:news>
       <news:publication>
@@ -165,66 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/18d5c199-f805-46b3-4e05-1a3a9f974600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/openai-introduces-chatgpt-version-for-teenagers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T15:01:44.818Z</news:publication_date>
-      <news:title>OpenAI introduces ChatGPT version for teenagers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5f8264c1-7f6c-436c-23e9-3db18c40af00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-opens-drone-security-centre-as-threats-mount</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T14:50:35.990Z</news:publication_date>
-      <news:title>Germany Opens Drone Security Centre as Threats Mount</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d23f34dc-6b24-4898-23cc-47ad1accb400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/building-permits-rise-in-germany-but-industry-sees-no-turnaround</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T14:42:00.446Z</news:publication_date>
-      <news:title>Building Permits Rise in Germany, But Industry Sees No Turnaround</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/99ebaeb6-17b6-4d07-bcd2-b9c421cb7600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-candidates-barred-from-lower-saxony-local-elections</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T11:27:39.119Z</news:publication_date>
-      <news:title>AfD Candidates Barred From Lower Saxony Local Elections</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cf20cb21-7659-4450-1118-a6d6be18d700/OpenGraph</image:loc>
     </image:image>
   </url>
 

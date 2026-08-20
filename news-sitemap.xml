@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-france-un-condemn-far-right-israeli-ministers-inhumane-gaza-remarks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T06:29:57.904Z</news:publication_date>
+      <news:title>Germany, France, UN condemn far-right Israeli minister&apos;s &apos;inhumane&apos; Gaza remarks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/451d8e68-f577-4f77-a872-7c413137a300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/openai-will-show-ads-inside-chatgpt-in-germany</loc>
     <news:news>
       <news:publication>
@@ -180,51 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d18913bc-aaf3-401d-12a2-5956e768a300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-has-its-highest-number-of-soldiers-in-13-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T14:09:25.417Z</news:publication_date>
-      <news:title>Bundeswehr Has Its Highest Number of Soldiers in 13 Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/320674cf-5bd3-4b4f-cdaa-bac369f78e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/voluntary-returns-from-germany-rise-26-syria-tops-list</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T12:09:13.072Z</news:publication_date>
-      <news:title>Voluntary Returns from Germany Rise 26%, Syria Tops List</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/20b38d93-522c-4140-bf65-b7ae03196600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/weidel-backs-afd-push-to-abolish-office-for-the-protection-of-the-constitution</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T11:41:31.122Z</news:publication_date>
-      <news:title>Weidel Backs AfD Push to Abolish Office for the Protection of the Constitution</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/449d7e1a-b691-4002-4818-3a1627426c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

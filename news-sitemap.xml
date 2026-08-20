@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/14-000-heat-deaths-in-germany---worst-toll-in-ten-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T10:13:44.426Z</news:publication_date>
+      <news:title>14,000 Heat Deaths in Germany ? Worst Toll in Ten Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8e8b303d-3fed-4192-2736-1a001abe1100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-gas-storage-sits-at-just-over-50-as-winter-nears</loc>
     <news:news>
       <news:publication>

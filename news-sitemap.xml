@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/key-european-leaders-demand-israel-halt-west-bank-settlement-project</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T07:11:56.804Z</news:publication_date>
+      <news:title>Key European leaders demand Israel halt West Bank settlement project</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f036ebe7-a30d-4346-d72e-4530e2d76500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bmw-siemens-and-audi-urge-german-government-to-deliver-reforms</loc>
     <news:news>
       <news:publication>

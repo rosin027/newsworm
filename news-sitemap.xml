@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/weapons-and-ammunition-found-in-forest-near-berlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T14:38:49.880Z</news:publication_date>
+      <news:title>Weapons and Ammunition Found in Forest Near Berlin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6df98d8e-1b5f-49db-f4b9-f0377d1fe800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/smart-glasses-cause-unease-among-many-in-germany</loc>
     <news:news>
       <news:publication>

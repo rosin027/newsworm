@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/smart-glasses-cause-unease-among-many-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T12:11:23.400Z</news:publication_date>
+      <news:title>Smart Glasses Cause Unease Among Many in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6558db94-5504-4b44-0c91-3620209d0500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-holds-reform-course-despite-poor-coalition-poll-ratings</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/451d8e68-f577-4f77-a872-7c413137a300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/openai-will-show-ads-inside-chatgpt-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T10:33:47.571Z</news:publication_date>
-      <news:title>OpenAI Will Show Ads Inside ChatGPT in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7bb3070a-184b-4544-1653-391631112a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-countries-with-the-highest-share-of-german-visitors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T08:55:34.535Z</news:publication_date>
-      <news:title>EU Countries With the Highest Share of German Visitors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4b52fe05-37ee-4c7c-1177-4e853269cc00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-holds-reform-course-despite-poor-coalition-poll-ratings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T07:24:19.405Z</news:publication_date>
+      <news:title>Germany Holds Reform Course Despite Poor Coalition Poll Ratings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7b170140-9d0b-48f3-827a-0bf6fffaac00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/key-european-leaders-demand-israel-halt-west-bank-settlement-project</loc>
     <news:news>
       <news:publication>

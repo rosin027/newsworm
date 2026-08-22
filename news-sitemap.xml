@@ -184,6 +184,21 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/medical-errors-germany-up-to-700-000-preventable-cases-a-year</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T11:17:17.444Z</news:publication_date>
+      <news:title>Medical Errors Germany: Up to 700,000 Preventable Cases a Year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/67bab1e8-b01d-448c-a0c8-60b97b289900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/exports-grow-but-germany-loses-ground-in-us-and-china</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/9e2b8bb9-549b-4da6-1e72-9c2e35a3e600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/14-000-heat-deaths-in-germany-worst-toll-in-ten-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T10:13:44.426Z</news:publication_date>
-      <news:title>14,000 Heat Deaths in Germany ? Worst Toll in Ten Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8e8b303d-3fed-4192-2736-1a001abe1100/OpenGraph</image:loc>
     </image:image>
   </url>
 

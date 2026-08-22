@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/windfall-tax-klingbeil-renews-push-as-fuel-prices-stay-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T09:53:48.054Z</news:publication_date>
+      <news:title>Windfall Tax: Klingbeil Renews Push as Fuel Prices Stay High</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/963b336e-4165-4f28-bbdc-bded89099300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-insists-on-a-woman-as-germanys-next-federal-president</loc>
     <news:news>
       <news:publication>

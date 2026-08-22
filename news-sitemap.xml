@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/fagersta-school-sword-attack-kills-17-year-old-girl-in-sweden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:55:45.372Z</news:publication_date>
+      <news:title>Fagersta School Sword Attack Kills 17-Year-Old Girl in Sweden</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1b37a106-adb8-40be-8962-f098452c2900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-booed-as-he-thanks-emergency-crews-in-hurtgenwald</loc>
     <news:news>
       <news:publication>

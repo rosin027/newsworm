@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/riots-at-football-cup-match-in-mannheim-85-injured</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T06:55:56.612Z</news:publication_date>
+      <news:title>Riots at Football Cup Match in Mannheim: 85 Injured</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/583db16a-956e-4240-31da-8d97457dd200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sword-attack-at-swedish-school-two-teenage-boys-wounded</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/002c861b-0cab-4d18-2c6c-bfb392339300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/severe-storm-in-rhineland-palatinate-woman-killed-by-falling-tree</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T06:54:00.733Z</news:publication_date>
-      <news:title>Severe Storms Sweep Germany: One Killed, Several Injured</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/33556033-59d8-4c48-2e61-9696f1599200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-cyberattack-leaves-housing-benefit-claims-blocked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T06:49:04.749Z</news:publication_date>
-      <news:title>Berlin Cyberattack Leaves Housing Benefit Claims Blocked</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/44aad4bd-4208-4d9c-c1d9-90b1b4cfee00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-france-un-condemn-far-right-israeli-ministers-inhumane-gaza-remarks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T06:29:57.904Z</news:publication_date>
-      <news:title>Germany, France, UN condemn far-right Israeli minister&apos;s &apos;inhumane&apos; Gaza remarks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/451d8e68-f577-4f77-a872-7c413137a300/OpenGraph</image:loc>
     </image:image>
   </url>
 

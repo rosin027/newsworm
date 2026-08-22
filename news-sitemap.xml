@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-booed-as-he-thanks-emergency-crews-in-hurtgenwald</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:40:06.685Z</news:publication_date>
+      <news:title>Merz Booed as He Thanks Emergency Crews in H?rtgenwald</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/32d884fe-d157-4972-002f-1299ec4c2800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/anthropic-ipo-could-break-spacex-record</loc>
     <news:news>
       <news:publication>

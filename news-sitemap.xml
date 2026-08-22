@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/nord-stream-bomb-suspect-held-while-working-on-movie-about-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T19:04:14.590Z</news:publication_date>
-      <news:title>Nord Stream Bomb Suspect Held While Working on Movie About Attack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b354d42e-2c3e-4f04-a654-07585b620b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

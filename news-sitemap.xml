@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-pledges-eu50-million-more-in-humanitarian-aid-for-ukraine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T14:18:33.131Z</news:publication_date>
+      <news:title>Germany Pledges ?50 Million More in Humanitarian Aid for Ukraine</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/821a85fa-169b-466f-6506-7fe22be0da00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-records-nearly-3-100-medical-treatment-errors</loc>
     <news:news>
       <news:publication>

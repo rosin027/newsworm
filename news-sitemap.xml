@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/anthropic-ipo-could-beat-spacex-record-at-2-trillion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T14:22:22.729Z</news:publication_date>
+      <news:title>Anthropic IPO Could Beat SpaceX Record at $2 Trillion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/276227e0-388e-4325-3844-5e13e35ac500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-pledges-eu50-million-more-in-humanitarian-aid-for-ukraine</loc>
     <news:news>
       <news:publication>

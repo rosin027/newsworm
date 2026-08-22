@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/europes-deadliest-summer-33-000-heat-linked-deaths-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T07:11:19.226Z</news:publication_date>
+      <news:title>Europe&apos;s Deadliest Summer: 33,000 Heat-Linked Deaths in 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fb74dba9-4435-4889-16a9-72e36716ab00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/riots-at-football-cup-match-in-mannheim-85-injured</loc>
     <news:news>
       <news:publication>

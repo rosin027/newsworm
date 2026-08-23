@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-calls-growth-and-employment-the-most-important-issue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T07:19:28.905Z</news:publication_date>
+      <news:title>Merz calls growth and employment &quot;the most important issue&quot;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7249e81a-02e8-44ec-eaa2-57507609c900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fagersta-school-sword-attack-kills-17-year-old-girl-in-sweden</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/7b170140-9d0b-48f3-827a-0bf6fffaac00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/key-european-leaders-demand-israel-halt-west-bank-settlement-project</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T07:11:56.804Z</news:publication_date>
-      <news:title>Key European leaders demand Israel halt West Bank settlement project</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f036ebe7-a30d-4346-d72e-4530e2d76500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bmw-siemens-and-audi-urge-german-government-to-deliver-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T06:50:00.428Z</news:publication_date>
-      <news:title>BMW, Siemens and Audi Urge German Government to Deliver Reforms</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c3e5bc72-2529-4b6d-3f54-26659a184300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/u10-check-up-to-be-covered-by-statutory-health-insurance-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T06:32:28.984Z</news:publication_date>
-      <news:title>U10 Check-Up to Be Covered by Statutory Health Insurance in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/32a54a58-737c-48c2-482d-501452977600/OpenGraph</image:loc>
     </image:image>
   </url>
 

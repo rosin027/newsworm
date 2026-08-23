@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/sydney-marathon-medal-mistakenly-features-munichs-football-stadium</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T07:32:52.956Z</news:publication_date>
+      <news:title>Sydney Marathon Medal Mistakenly Features Munich&apos;s Football Stadium</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7e3f9fdf-2ebe-4a97-a193-aacc06d97600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-calls-growth-and-employment-the-most-important-issue</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6558db94-5504-4b44-0c91-3620209d0500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-holds-reform-course-despite-poor-coalition-poll-ratings</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T07:24:19.405Z</news:publication_date>
-      <news:title>Germany Holds Reform Course Despite Poor Coalition Poll Ratings</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7b170140-9d0b-48f3-827a-0bf6fffaac00/OpenGraph</image:loc>
     </image:image>
   </url>
 

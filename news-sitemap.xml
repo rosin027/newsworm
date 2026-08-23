@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afds-weidel-vows-euro-exit-border-closure-and-schengen-withdrawal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T14:21:11.872Z</news:publication_date>
+      <news:title>AfD&apos;s Weidel Vows Euro Exit, Border Closure and Schengen Withdrawal</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/92f526e5-f661-46b9-51e5-2172cae99700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-oversized-and-situation-more-than-critical-says-ceo</loc>
     <news:news>
       <news:publication>

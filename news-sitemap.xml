@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/rail-union-threatens-strike-demands-law-to-protect-train-staff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T09:38:01.713Z</news:publication_date>
+      <news:title>Rail Union Threatens Strike, Demands Law to Protect Train Staff</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d99d9074-db5e-4a82-6112-38fe70a09500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sydney-marathon-medal-mistakenly-features-munichs-football-stadium</loc>
     <news:news>
       <news:publication>

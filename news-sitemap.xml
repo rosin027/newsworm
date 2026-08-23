@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-oversized-and-situation-more-than-critical-says-ceo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T13:25:11.498Z</news:publication_date>
+      <news:title>Volkswagen Oversized and Situation More Than Critical Says CEO</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1811c260-00a5-444f-c8c2-bc2b394b6500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rail-union-threatens-strike-demands-law-to-protect-train-staff</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6df98d8e-1b5f-49db-f4b9-f0377d1fe800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/smart-glasses-cause-unease-among-many-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T12:11:23.400Z</news:publication_date>
-      <news:title>Smart Glasses Cause Unease Among Many in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6558db94-5504-4b44-0c91-3620209d0500/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/canadas-carney-stands-up-to-trump-despite-risks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T07:20:59.389Z</news:publication_date>
+      <news:title>Canada&apos;s Carney stands up to Trump, despite risks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ac61e137-733c-4e2a-9585-8600ed3dfe00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-rejects-austerity-policy-ahead-of-cabinet-meeting</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/963b336e-4165-4f28-bbdc-bded89099300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-insists-on-a-woman-as-germanys-next-federal-president</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T07:19:57.997Z</news:publication_date>
-      <news:title>SPD Insists on a Woman as Germany&apos;s Next Federal President</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/565c04b4-eeca-4fc6-1573-8ee40ec86d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europes-deadliest-summer-33-000-heat-linked-deaths-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T07:11:19.226Z</news:publication_date>
-      <news:title>Europe&apos;s Deadly Summer: 33,000 Heat-Linked Deaths in 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fb74dba9-4435-4889-16a9-72e36716ab00/OpenGraph</image:loc>
     </image:image>
   </url>
 

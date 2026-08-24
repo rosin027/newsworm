@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-employees-accuse-board-of-disastrous-communication</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T09:35:51.860Z</news:publication_date>
+      <news:title>Volkswagen Employees Accuse board of &quot;Disastrous Communication&quot;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/40377800-3859-49cc-1450-c526c42fd100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ukraine-independence-day-merz-says-germany-stands-firmly-by-kyiv</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/porsche-sells-it-consultancy-mhp-to-indias-tata-consultancy-services</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T14:48:53.755Z</news:publication_date>
+      <news:title>Porsche Sells IT Consultancy MHP to India&apos;s Tata Consultancy Services</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/55882a7f-b854-470d-6dd8-248d8eb5c100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/vegan-options-almost-quadruple-in-german-uni-canteens-in-10-years</loc>
     <news:news>
       <news:publication>
@@ -195,36 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/32d884fe-d157-4972-002f-1299ec4c2800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/anthropic-ipo-could-break-spacex-record</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T14:22:22.729Z</news:publication_date>
-      <news:title>Anthropic IPO Could Break SpaceX Record</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/276227e0-388e-4325-3844-5e13e35ac500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-pledges-eu50-million-more-in-humanitarian-aid-for-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T14:18:33.131Z</news:publication_date>
-      <news:title>Germany Pledges ?50 Million More in Humanitarian Aid for Ukraine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/821a85fa-169b-466f-6506-7fe22be0da00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-heating-law-on-shaky-legal-ground</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T13:20:54.501Z</news:publication_date>
+      <news:title>Germany&apos;s Heating Law on Shaky Legal Ground</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c487e8a6-00f4-43ea-fcb3-f41179361400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-employees-accuse-board-of-disastrous-communication</loc>
     <news:news>
       <news:publication>
@@ -195,36 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/821a85fa-169b-466f-6506-7fe22be0da00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-records-nearly-3-100-medical-treatment-errors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T12:16:17.145Z</news:publication_date>
-      <news:title>Germany Records Nearly 3,100 Medical Treatment Errors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/67bab1e8-b01d-448c-a0c8-60b97b289900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/windfall-tax-klingbeil-renews-push-as-fuel-prices-stay-high</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T09:53:48.054Z</news:publication_date>
-      <news:title>Windfall Tax: Klingbeil Renews Push as Fuel Prices Stay High</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/963b336e-4165-4f28-bbdc-bded89099300/OpenGraph</image:loc>
     </image:image>
   </url>
 

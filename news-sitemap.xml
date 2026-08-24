@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/vegan-options-almost-quadruple-in-german-uni-canteens-in-10-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T13:44:15.428Z</news:publication_date>
+      <news:title>Vegan Options Almost Quadruple in German Uni Canteens in 10 Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/005d2ad4-c12b-49b4-7849-163b3bfa3700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-heating-law-on-shaky-legal-ground</loc>
     <news:news>
       <news:publication>

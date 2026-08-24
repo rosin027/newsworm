@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-rejects-austerity-policy-ahead-of-cabinet-meeting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T07:00:24.488Z</news:publication_date>
+      <news:title>SPD Rejects Austerity Policy Ahead of Cabinet Meeting</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4e121658-53d6-4f8b-d8fb-f9fe100c9600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afds-weidel-vows-euro-exit-border-closure-and-schengen-withdrawal</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/fb74dba9-4435-4889-16a9-72e36716ab00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/riots-at-football-cup-match-in-mannheim-85-injured</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T06:55:56.612Z</news:publication_date>
-      <news:title>Riots at Football Cup Match in Mannheim: 85 Injured</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/583db16a-956e-4240-31da-8d97457dd200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/sword-attack-at-swedish-school-two-teenage-boys-wounded</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T16:27:53.871Z</news:publication_date>
-      <news:title>Sword attack at Swedish School: Two Teenage Boys Wounded</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b98d1769-4188-4cb2-0f4b-56f683f86e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/handguns-found-near-berlin-linked-to-attack-plot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T14:38:49.880Z</news:publication_date>
-      <news:title>Handguns Found Near Berlin Linked to Attack Plot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6df98d8e-1b5f-49db-f4b9-f0377d1fe800/OpenGraph</image:loc>
     </image:image>
   </url>
 

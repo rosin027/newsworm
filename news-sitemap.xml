@@ -11,7 +11,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-25T07:29:23.536Z</news:publication_date>
-      <news:title>German Economy Beats Forecasts With 0.3% Q2 Growth</news:title>
+      <news:title>German Economy Beats Estimates With 0.3% Q2 Growth</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/7d998f41-d4be-4dab-9da8-bc2fdae0b200/OpenGraph</image:loc>
@@ -195,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d99d9074-db5e-4a82-6112-38fe70a09500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/sydney-marathon-medal-mistakenly-features-munichs-football-stadium</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T07:32:52.956Z</news:publication_date>
-      <news:title>Sydney Marathon Medal Mistakenly Features Munich&apos;s Football Stadium</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7e3f9fdf-2ebe-4a97-a193-aacc06d97600/OpenGraph</image:loc>
     </image:image>
   </url>
 

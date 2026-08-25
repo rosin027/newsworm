@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/leipzig-airport-drone-attack-investigators-believe-several-drones-were-used</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T06:42:50.723Z</news:publication_date>
+      <news:title>Leipzig Airport Drone Attack: Investigators Believe Several Drones Were Used</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d73116bc-65f8-45f7-d40c-a840c40b2d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/coalition-of-the-willing-pledges-more-military-aid-to-ukraine</loc>
     <news:news>
       <news:publication>

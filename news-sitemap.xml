@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-economy-beats-forecasts-with-0-3-q2-growth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T07:29:23.536Z</news:publication_date>
+      <news:title>German Economy Beats Forecasts With 0.3% Q2 Growth</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7d998f41-d4be-4dab-9da8-bc2fdae0b200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leipzig-airport-drone-attack-investigators-believe-several-drones-were-used</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/7e3f9fdf-2ebe-4a97-a193-aacc06d97600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-calls-growth-and-employment-the-most-important-issue</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T07:19:28.905Z</news:publication_date>
-      <news:title>Merz calls growth and employment &quot;the most important issue&quot;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7249e81a-02e8-44ec-eaa2-57507609c900/OpenGraph</image:loc>
     </image:image>
   </url>
 

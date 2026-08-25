@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/coalition-of-the-willing-pledges-more-military-aid-to-ukraine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T05:51:38.098Z</news:publication_date>
+      <news:title>Coalition of the Willing Pledges More Military Aid to Ukraine</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/33cee8a0-c377-4446-8d51-a210871bea00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/porsche-sells-it-consultancy-mhp-to-indias-tata-consultancy-services</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/7249e81a-02e8-44ec-eaa2-57507609c900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fagersta-school-sword-attack-kills-17-year-old-girl-in-sweden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T20:55:45.372Z</news:publication_date>
-      <news:title>Fagersta School Sword Attack Kills 17-Year-Old Girl in Sweden</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1b37a106-adb8-40be-8962-f098452c2900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-booed-as-he-thanks-emergency-crews-in-hurtgenwald</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T20:40:06.685Z</news:publication_date>
-      <news:title>Merz Booed as He Thanks Emergency Crews in H?rtgenwald</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/32d884fe-d157-4972-002f-1299ec4c2800/OpenGraph</image:loc>
     </image:image>
   </url>
 

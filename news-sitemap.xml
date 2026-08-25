@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-calls-for-stronger-industry-and-economic-growth-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T09:50:07.397Z</news:publication_date>
+      <news:title>Merz Calls for Stronger Industry and Economic Growth in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/199f7295-d2b1-4122-bbcb-78b829809200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-economy-beats-forecasts-with-0-3-q2-growth</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1811c260-00a5-444f-c8c2-bc2b394b6500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rail-union-threatens-strike-demands-law-to-protect-train-staff</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T09:38:01.713Z</news:publication_date>
-      <news:title>Rail Union Threatens Strike, Demands Law to Protect Train Staff</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d99d9074-db5e-4a82-6112-38fe70a09500/OpenGraph</image:loc>
     </image:image>
   </url>
 

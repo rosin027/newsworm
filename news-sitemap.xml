@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/president-steinmeier-says-germany-needs-immigration</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T10:42:33.865Z</news:publication_date>
+      <news:title>President Steinmeier Says Germany Needs Immigration</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/86fdea13-386d-4581-3113-84cdd8d14a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-changes-in-germany-in-september-2026</loc>
     <news:news>
       <news:publication>

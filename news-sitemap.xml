@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-deports-23-more-afghan-men-to-kabul</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-25T12:00:28.879Z</news:publication_date>
+      <news:title>Germany Deports 23 More Afghan Men to Kabul</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/89fb8d96-d4cf-4c16-735b-f1395a2eb600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/half-of-volkswagens-50-000-potential-job-cuts-could-hit-germany</loc>
     <news:news>
       <news:publication>

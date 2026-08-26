@@ -228,19 +228,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/spd-rejects-austerity-policy-ahead-of-cabinet-meeting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T07:00:24.488Z</news:publication_date>
-      <news:title>SPD Rejects Austerity Policy Ahead of Cabinet Meeting</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4e121658-53d6-4f8b-d8fb-f9fe100c9600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

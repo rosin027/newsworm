@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-germanys-cabinet-meeting-decided-on-pensions-tax-and-climate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-26T12:45:25.646Z</news:publication_date>
+      <news:title>What Germany&apos;s Cabinet Meeting Decided on Pensions, Tax and Climate</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fde57c77-62a7-4ca8-8fa3-f5436242bc00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/noyb-takes-legal-action-against-schufa-over-shadow-database</loc>
     <news:news>
       <news:publication>

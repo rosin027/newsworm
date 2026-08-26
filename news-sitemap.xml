@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/waymo-to-launch-robotaxi-service-in-munich-by-end-of-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-26T07:17:00.267Z</news:publication_date>
+      <news:title>Waymo to Launch Robotaxi Service in Munich by End of 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6a21e643-7be3-4a37-d948-7c5d51c9e200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-chooses-everytime-as-its-oscar-entry</loc>
     <news:news>
       <news:publication>

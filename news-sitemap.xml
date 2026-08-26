@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-chooses-everytime-as-its-oscar-entry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-26T07:09:22.781Z</news:publication_date>
+      <news:title>Germany Chooses &quot;Everytime&quot; as Its Oscar Entry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9d92b0e1-1632-4628-5d63-c27be746ea00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-sugar-tax-on-a-wider-range-of-drinks</loc>
     <news:news>
       <news:publication>

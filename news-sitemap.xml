@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/noyb-takes-legal-action-against-schufa-over-shadow-database</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-26T11:31:53.183Z</news:publication_date>
+      <news:title>Noyb Takes Legal Action Against Schufa Over Shadow Database</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/21b33a93-5b92-4d40-daf1-be8879dadd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lunar-eclipse-2026-when-and-where-to-watch-in-germany</loc>
     <news:news>
       <news:publication>

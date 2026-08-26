@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/porsche-sells-it-consultancy-mhp-to-indias-tata-consultancy-services</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T14:48:53.755Z</news:publication_date>
-      <news:title>Porsche Sells IT Consultancy MHP to India&apos;s Tata Consultancy Services</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/55882a7f-b854-470d-6dd8-248d8eb5c100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

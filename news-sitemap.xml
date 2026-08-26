@@ -243,19 +243,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/canadas-carney-stands-up-to-trump-despite-risks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T07:20:59.389Z</news:publication_date>
-      <news:title>Canada&apos;s Carney stands up to Trump, despite risks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ac61e137-733c-4e2a-9585-8600ed3dfe00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/retail-collective-pay-deal-reached-in-north-rhine-westphalia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T10:00:20.945Z</news:publication_date>
+      <news:title>Retail Collective Pay Deal Reached in North Rhine-Westphalia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4b1cfadb-8ee6-4591-ebbc-b5183cbf5700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nepal-tibet-floods-at-least-180-dead-hundreds-missing</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/35c6d043-afbf-4a81-cef1-d94ca6711500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-calls-for-stronger-industry-and-economic-growth-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T09:50:07.397Z</news:publication_date>
-      <news:title>Merz Calls for Stronger Industry and Economic Growth in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/199f7295-d2b1-4122-bbcb-78b829809200/OpenGraph</image:loc>
     </image:image>
   </url>
 

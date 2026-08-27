@@ -183,49 +183,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-deports-23-more-afghan-men-to-kabul</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T12:00:28.879Z</news:publication_date>
-      <news:title>Germany Deports 23 More Afghan Men to Kabul</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/89fb8d96-d4cf-4c16-735b-f1395a2eb600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/half-of-volkswagens-50-000-potential-job-cuts-could-hit-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T11:37:11.100Z</news:publication_date>
-      <news:title>Half of Volkswagen?s 50,000 Potential Job Cuts Could Hit Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7c4d0204-b216-479f-7ba6-54375bc1b100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/president-steinmeier-says-germany-needs-immigration</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T10:42:33.865Z</news:publication_date>
-      <news:title>President Steinmeier Says Germany Needs Immigration</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/86fdea13-386d-4581-3113-84cdd8d14a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

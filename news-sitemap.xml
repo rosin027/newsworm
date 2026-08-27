@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-beats-forecasts-with-0-3-q2-growth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T07:29:23.536Z</news:publication_date>
-      <news:title>German Economy Beats Estimates With 0.3% Q2 Growth</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7d998f41-d4be-4dab-9da8-bc2fdae0b200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

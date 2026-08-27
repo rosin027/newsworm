@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/two-dead-from-airport-malaria-at-frankfurt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T10:40:45.255Z</news:publication_date>
+      <news:title>Two Dead From &apos;Airport Malaria&apos; at Frankfurt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b52199a7-f75a-48a1-b901-af4baf66ab00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/retail-collective-pay-deal-reached-in-north-rhine-westphalia</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/86fdea13-386d-4581-3113-84cdd8d14a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-changes-in-germany-in-september-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T10:33:07.519Z</news:publication_date>
-      <news:title>September 2026 in Germany: Important changes you need to know</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/35c6d043-afbf-4a81-cef1-d94ca6711500/OpenGraph</image:loc>
     </image:image>
   </url>
 

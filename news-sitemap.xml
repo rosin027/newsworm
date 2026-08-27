@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/schwarz-group-plans-huge-data-centre-near-rostock</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T13:22:11.644Z</news:publication_date>
+      <news:title>Schwarz Group Plans Huge Data Centre Near Rostock</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/899d8f40-13dd-477d-d6d1-c801a4128b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/two-dead-from-airport-malaria-at-frankfurt</loc>
     <news:news>
       <news:publication>

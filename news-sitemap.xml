@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-poll-afd-hits-42-percent-cdu-slips-to-22</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T06:16:12.517Z</news:publication_date>
+      <news:title>Saxony-Anhalt Poll: AfD Hits 42 Percent, CDU Slips to 22</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6bc3b784-212a-4179-ab0c-b26bfaa2f600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-germanys-cabinet-meeting-decided-on-pensions-tax-and-climate</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d73116bc-65f8-45f7-d40c-a840c40b2d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/coalition-of-the-willing-pledges-more-military-aid-to-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-25T05:51:38.098Z</news:publication_date>
-      <news:title>Coalition of the Willing Pledges More Military Aid to Ukraine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/33cee8a0-c377-4446-8d51-a210871bea00/OpenGraph</image:loc>
     </image:image>
   </url>
 

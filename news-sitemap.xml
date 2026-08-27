@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-and-cdu-trade-blows-in-saxony-anhalt-election-debate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T06:28:04.827Z</news:publication_date>
+      <news:title>AfD and CDU Trade Blows in Saxony-Anhalt Election Debate</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/74e8f00e-a81c-4e2a-81cb-562d9d090f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/saxony-anhalt-poll-afd-hits-42-percent-cdu-slips-to-22</loc>
     <news:news>
       <news:publication>

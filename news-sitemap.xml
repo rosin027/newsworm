@@ -64,6 +64,21 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/inheritance-tax-revenue-hits-record-eu21-billion-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-26T14:37:55.458Z</news:publication_date>
+      <news:title>Inheritance Tax Revenue Hits Record ?21 Billion in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/747b3f3b-b869-4c94-af5c-32b8a215c600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-germanys-cabinet-meeting-decided-on-pensions-tax-and-climate</loc>
     <news:news>
       <news:publication>

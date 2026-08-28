@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-blackmailed-over-stolen-data-hackers-want-millions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T16:37:59.748Z</news:publication_date>
+      <news:title>Berlin Blackmailed Over Stolen Data ? Hackers Want Millions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/042f1d6b-e258-4c67-4993-ea3936349f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germans-among-1-400-missing-in-nepal-and-tibet-flash-flood</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6bc3b784-212a-4179-ab0c-b26bfaa2f600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/inheritance-tax-revenue-hits-record-eu21-billion-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T14:37:55.458Z</news:publication_date>
-      <news:title>Inheritance Tax Revenue Hits Record ?21 Billion in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/747b3f3b-b869-4c94-af5c-32b8a215c600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-germanys-cabinet-meeting-decided-on-pensions-tax-and-climate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T12:45:25.646Z</news:publication_date>
-      <news:title>What Germany&apos;s Cabinet Meeting Decided on Pensions, Tax and Climate</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fde57c77-62a7-4ca8-8fa3-f5436242bc00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/two-killed-at-school-near-berlin-19-year-old-man-arrested</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T07:12:07.335Z</news:publication_date>
+      <news:title>Two Killed at School Near Berlin, 19-Year-Old Man Arrested</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d29a301a-6cc6-49a8-c67a-2e4103ad7200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/indians-earn-the-highest-salary-in-germany</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6a21e643-7be3-4a37-d948-7c5d51c9e200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-chooses-everytime-as-its-oscar-entry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T07:09:22.781Z</news:publication_date>
-      <news:title>Germany Chooses &quot;Everytime&quot; as Its Oscar Entry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9d92b0e1-1632-4628-5d63-c27be746ea00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-sugar-tax-on-a-wider-range-of-drinks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T07:00:14.260Z</news:publication_date>
-      <news:title>Germany Plans Sugar Tax on a Wider Range of Drinks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/055e1221-847f-4de7-76f8-0c1c5631e500/OpenGraph</image:loc>
     </image:image>
   </url>
 

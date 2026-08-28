@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/several-germans-missing-after-nepal-and-tibet-flash-flood</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T11:18:32.201Z</news:publication_date>
+      <news:title>Several Germans Missing After Nepal and Tibet Flash Flood</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/bb8d27dc-8923-4bc7-9487-fcf6c02be800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-at-risk-of-missing-its-2026-climate-target</loc>
     <news:news>
       <news:publication>

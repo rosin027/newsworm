@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/hail-and-storms-to-batter-bavaria-and-baden-wurttemberg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T09:50:24.512Z</news:publication_date>
+      <news:title>Hail and Storms to Batter Bavaria and Baden-W?rttemberg</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/300f9ac9-c894-4dc7-9f53-5f6a10003600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/partial-lunar-eclipse-hidden-by-clouds-in-many-parts-of-germany</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/21b33a93-5b92-4d40-daf1-be8879dadd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lunar-eclipse-2026-when-and-where-to-watch-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T09:09:27.440Z</news:publication_date>
-      <news:title>Lunar Eclipse 2026: When and Where to Watch in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f8a696ea-b22c-4dbc-834d-4fc17976fd00/OpenGraph</image:loc>
     </image:image>
   </url>
 

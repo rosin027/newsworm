@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/partial-lunar-eclipse-hidden-by-clouds-in-many-parts-of-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-28T07:21:37.514Z</news:publication_date>
+      <news:title>Partial Lunar Eclipse Hidden by Clouds in Many Parts of Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/18aff73f-f801-40a2-8970-76371dfbdb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/two-killed-at-school-near-berlin-19-year-old-man-arrested</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f8a696ea-b22c-4dbc-834d-4fc17976fd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/waymo-to-launch-robotaxi-service-in-munich-by-end-of-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-26T07:17:00.267Z</news:publication_date>
-      <news:title>Waymo to Launch Robotaxi Service in Munich by End of 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6a21e643-7be3-4a37-d948-7c5d51c9e200/OpenGraph</image:loc>
     </image:image>
   </url>
 

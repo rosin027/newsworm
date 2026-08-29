@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/iceland-votes-on-whether-to-resume-eu-membership-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T09:57:22.284Z</news:publication_date>
+      <news:title>Iceland votes on whether to resume EU membership talks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/410ad1c9-ca50-45da-be8d-2d03d9531c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bas-calls-for-the-day-one-sick-note-rule-to-be-dropped</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b52199a7-f75a-48a1-b901-af4baf66ab00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/retail-collective-pay-deal-reached-in-north-rhine-westphalia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T10:00:20.945Z</news:publication_date>
-      <news:title>Retail Collective Pay Deal Reached in North Rhine-Westphalia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4b1cfadb-8ee6-4591-ebbc-b5183cbf5700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/nepal-tibet-floods-at-least-180-dead-hundreds-missing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-27T07:19:54.831Z</news:publication_date>
-      <news:title>Nepal-Tibet Floods: At Least 180 Dead, Hundreds Missing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d5d502c5-e307-45e1-dc52-41888ff7c500/OpenGraph</image:loc>
     </image:image>
   </url>
 

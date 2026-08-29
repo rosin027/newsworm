@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bas-calls-for-the-day-one-sick-note-rule-to-be-dropped</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-29T06:53:51.259Z</news:publication_date>
+      <news:title>Bas Calls for the Day-One Sick Note Rule to Be Dropped</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/00589527-0dce-4eeb-bdf1-4a1132bc0200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-leader-bas-braces-for-leadership-debate-over-saxony-anhalt</loc>
     <news:news>
       <news:publication>

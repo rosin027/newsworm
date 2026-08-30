@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/iceland-votes-no-to-resuming-eu-membership-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T10:41:46.810Z</news:publication_date>
+      <news:title>Iceland Votes &apos;No&apos; to Resuming EU Membership Talks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3dff35bb-6702-4c46-5d17-53f1091a7700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rave-shooting-in-switzerland-kills-one-injures-five</loc>
     <news:news>
       <news:publication>

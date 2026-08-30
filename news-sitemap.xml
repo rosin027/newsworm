@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-invests-210-million-euros-in-cleaner-trains</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T06:56:06.215Z</news:publication_date>
+      <news:title>Deutsche Bahn Invests ?210 Million  in Cleaner Trains</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/dfb20ad3-9aa0-4113-b0b9-0e6045c67e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-youth-leader-calls-for-millions-to-leave-germany-ahead-of-saxony-anhalt-election</loc>
     <news:news>
       <news:publication>

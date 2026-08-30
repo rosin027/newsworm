@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-seeks-new-trade-partners-at-g20-meeting-in-the-us</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T13:50:32.286Z</news:publication_date>
+      <news:title>Germany Seeks New Trade Partners at G20 Meeting in the US</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/38b7a3ea-b9bf-4c9d-bcd9-5f5d2182c500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/iceland-votes-no-to-resuming-eu-membership-talks</loc>
     <news:news>
       <news:publication>

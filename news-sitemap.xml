@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/rave-shooting-in-switzerland-kills-one-injures-five</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-30T10:37:13.097Z</news:publication_date>
+      <news:title>Rave Shooting in Switzerland  Kills One, Injures Five</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/305aebbe-e4b5-4ee3-4019-595df9305f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-invests-210-million-euros-in-cleaner-trains</loc>
     <news:news>
       <news:publication>
@@ -150,51 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/88d55e19-0f35-4165-1cd8-2b655e242400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hail-and-storms-to-batter-bavaria-and-baden-wurttemberg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T09:50:24.512Z</news:publication_date>
-      <news:title>Hail and Storms to Batter Bavaria and Baden-W?rttemberg</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/300f9ac9-c894-4dc7-9f53-5f6a10003600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/partial-lunar-eclipse-hidden-by-clouds-in-many-parts-of-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T07:21:37.514Z</news:publication_date>
-      <news:title>Partial Lunar Eclipse Hidden by Clouds in Many Parts of Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/18aff73f-f801-40a2-8970-76371dfbdb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/two-killed-at-school-near-berlin-19-year-old-man-arrested</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T07:12:07.335Z</news:publication_date>
-      <news:title>Two Killed at School Near Berlin, 19-Year-Old Man Arrested</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d29a301a-6cc6-49a8-c67a-2e4103ad7200/OpenGraph</image:loc>
     </image:image>
   </url>
 

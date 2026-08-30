@@ -19,14 +19,14 @@
   </url>
 
   <url>
-    <loc>https://www.newsworm.de/news/rave-shooting-in-switzerland-kills-one-injures-five</loc>
+    <loc>https://www.newsworm.de/news/switzerland-rave-shooting-kills-one-injures-five</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-08-30T10:37:13.097Z</news:publication_date>
-      <news:title>Rave Shooting in Switzerland  Kills One, Injures Five</news:title>
+      <news:title>Switzerland Rave Shooting Kills One, Injures Five</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/305aebbe-e4b5-4ee3-4019-595df9305f00/OpenGraph</image:loc>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/summer-2026-in-germany-second-warmest-on-record</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T12:38:36.368Z</news:publication_date>
+      <news:title>Summer 2026 in Germany: Second-Warmest on Record</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2f0da0c8-d3a8-4392-135c-adb46b25e300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-puts-chatgpt-under-its-strictest-digital-law</loc>
     <news:news>
       <news:publication>

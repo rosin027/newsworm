@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-warns-of-afd-damage-in-saxony-anhalt-doubts-party-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T06:42:47.993Z</news:publication_date>
+      <news:title>Merz Warns of AfD Damage in Saxony-Anhalt, Doubts Party Ban</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/79f9bda1-1618-4459-eca1-08b062438700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-seeks-new-trade-partners-at-g20-meeting-in-the-us</loc>
     <news:news>
       <news:publication>
@@ -135,36 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/00589527-0dce-4eeb-bdf1-4a1132bc0200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-leader-bas-braces-for-leadership-debate-over-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T06:40:52.202Z</news:publication_date>
-      <news:title>SPD Leader Bas Braces for Leadership Debate Over Saxony-Anhalt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ba7aa65b-7ccb-4352-c364-156aed584000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-blackmailed-over-stolen-data-hackers-want-millions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-28T16:37:59.748Z</news:publication_date>
-      <news:title>Berlin Blackmailed Over Stolen Data ? Hackers Want Millions</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/042f1d6b-e258-4c67-4993-ea3936349f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

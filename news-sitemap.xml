@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/red-alert-german-care-funds-at-risk-of-running-out-of-money</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T15:34:04.922Z</news:publication_date>
+      <news:title>&quot;Red Alert&quot;: German Care Funds at Risk of Running Out of Money</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7665adc4-f472-4a63-64a4-335e44fba600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/summer-2026-in-germany-second-warmest-on-record</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/dfb20ad3-9aa0-4113-b0b9-0e6045c67e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-youth-leader-calls-for-millions-to-leave-germany-ahead-of-saxony-anhalt-election</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T13:48:55.096Z</news:publication_date>
-      <news:title>AfD Youth Leader Calls for Millions to Leave Germany Ahead of Saxony-Anhalt Election</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d4989d94-a627-4a44-89c0-bcbdb358db00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/leipzig-drone-attack-germany-reportedly-points-to-russia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T13:26:17.983Z</news:publication_date>
-      <news:title>Leipzig Drone Attack: Germany Reportedly Points to Russia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f6da3255-fa4d-46b9-5a89-cf7ec81a3500/OpenGraph</image:loc>
     </image:image>
   </url>
 

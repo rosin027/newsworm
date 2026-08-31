@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/leipzig-drone-attack-greens-demand-tougher-german-response-to-russia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T07:42:39.374Z</news:publication_date>
+      <news:title>Leipzig Drone Attack: Greens Demand Tougher German Response to Russia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e5001baa-2da2-4d0e-1a1f-a578798a2200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bitter-pill-for-eu-as-iceland-shuts-door-on-entry-talks</loc>
     <news:news>
       <news:publication>

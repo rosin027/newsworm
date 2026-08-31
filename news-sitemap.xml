@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-puts-chatgpt-under-its-strictest-digital-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T12:27:36.467Z</news:publication_date>
+      <news:title>EU Puts ChatGPT Under Its Strictest Digital Law</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3cf30654-4c13-4421-1441-a267423d4400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/foreign-direct-investment-rebounds-in-germany</loc>
     <news:news>
       <news:publication>

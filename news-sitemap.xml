@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/more-women-than-men-live-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T10:44:16.384Z</news:publication_date>
+      <news:title>More Women Than Men Live in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f67c0e6e-ebd9-4fc3-60cc-9f6f49f66800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leipzig-drone-attack-greens-demand-tougher-german-response-to-russia</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/58bb5932-c462-4ecc-d211-c4e87c6aa400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/iceland-votes-on-whether-to-resume-eu-membership-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T09:57:22.284Z</news:publication_date>
-      <news:title>Iceland votes on whether to resume EU membership talks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/410ad1c9-ca50-45da-be8d-2d03d9531c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

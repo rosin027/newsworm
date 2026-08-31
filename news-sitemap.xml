@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/foreign-direct-investment-rebounds-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T11:19:56.910Z</news:publication_date>
+      <news:title>Foreign Direct Investment Rebounds in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f1396b99-5678-470f-69ea-c2a590421100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/more-women-than-men-live-in-germany</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f6da3255-fa4d-46b9-5a89-cf7ec81a3500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/environment-minister-calls-for-tariffs-on-chinese-plug-in-hybrids</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T10:54:02.027Z</news:publication_date>
-      <news:title>Environment Minister Calls for Tariffs on Chinese Plug-In Hybrids</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/58bb5932-c462-4ecc-d211-c4e87c6aa400/OpenGraph</image:loc>
     </image:image>
   </url>
 

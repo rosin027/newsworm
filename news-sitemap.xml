@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/rising-housing-costs-in-germany-force-tenants-to-cut-back-on-basics</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T12:32:37.819Z</news:publication_date>
+      <news:title>Rising Housing Costs in Germany Force Tenants to Cut Back on Basics</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1efbf0bb-7061-4e07-f68d-4ed4b754c800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-to-pass-income-tax-reform-worth-eu10-billion-in-relief</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-vows-economic-boom-but-economists-fear-worst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T12:55:30.950Z</news:publication_date>
+      <news:title>AfD Vows Economic Boom But Economists Fear Worst</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7507f082-9b80-49ac-056b-a8829a882300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rising-housing-costs-in-germany-force-tenants-to-cut-back-on-basics</loc>
     <news:news>
       <news:publication>

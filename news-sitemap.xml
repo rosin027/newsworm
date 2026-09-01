@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-blames-russia-for-leipzig-airport-drone-attack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T16:48:55.859Z</news:publication_date>
+      <news:title>Germany Blames Russia for Leipzig Airport Drone Attack</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/055bf66a-7919-4bef-c7c1-f07fefb34300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sabotage-attack-hits-power-substation-southeast-of-berlin</loc>
     <news:news>
       <news:publication>

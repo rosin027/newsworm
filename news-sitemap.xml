@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-bill-on-childcare-quality-and-school-readiness</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T10:14:21.349Z</news:publication_date>
+      <news:title>German Cabinet Approves Bill on Childcare Quality and School Readiness</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ba5f30f2-6aae-4bef-9ea1-96061db56e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ice-train-door-opens-while-travelling-at-200-km-h-in-bavaria</loc>
     <news:news>
       <news:publication>

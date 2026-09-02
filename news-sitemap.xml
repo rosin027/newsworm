@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/german-economy-proves-more-resilient-growth-forecast-doubled</loc>
+    <loc>https://www.newsworm.de/news/german-economy-resilient-growth-forecast-more-than-doubled</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-02T11:03:09.725Z</news:publication_date>
-      <news:title>German Economy Proves More Resilient, Growth Forecast Doubled</news:title>
+      <news:title>German Economy Resilient, Growth Forecast More Than Doubled</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/23dd3fb9-b47d-4e7a-ff81-c8a5a375b700/OpenGraph</image:loc>

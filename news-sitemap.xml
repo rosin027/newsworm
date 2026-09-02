@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-probes-two-sabotage-attacks-on-power-grid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T17:07:44.862Z</news:publication_date>
+      <news:title>Germany Probes Two Sabotage Attacks on Power Grid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3d789889-7df4-4baf-1be2-4f85c1210200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/drought-leaves-german-farms-in-massive-crisis</loc>
     <news:news>
       <news:publication>
@@ -225,51 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/904c4e27-84a5-4207-5fea-e4708a0e5000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/wanted-suspects-claiming-basic-income-support-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T16:44:22.898Z</news:publication_date>
-      <news:title>Wanted Suspects Claiming Basic Income Support in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ab5c6923-d591-461a-2d79-2b3f83fd0000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/red-alert-german-care-funds-at-risk-of-running-out-of-money</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T15:34:04.922Z</news:publication_date>
-      <news:title>&quot;Red Alert&quot;: German Care Funds at Risk of Running Out of Money</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7665adc4-f472-4a63-64a4-335e44fba600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/summer-2026-in-germany-second-warmest-on-record</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T12:38:36.368Z</news:publication_date>
-      <news:title>Summer 2026 in Germany: Second-Warmest on Record</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2f0da0c8-d3a8-4392-135c-adb46b25e300/OpenGraph</image:loc>
     </image:image>
   </url>
 

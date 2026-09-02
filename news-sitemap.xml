@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ice-train-door-opens-in-bavaria-while-speeding-at-200-km-h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T09:08:08.079Z</news:publication_date>
+      <news:title>ICE Train Door Opens in Bavaria While Speeding at 200 km/h</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7de6e4b2-1dc6-4198-93fe-b2dee5f2f500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/explosion-near-augsburg-train-station-injures-two-teenagers</loc>
     <news:news>
       <news:publication>

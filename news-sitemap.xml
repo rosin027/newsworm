@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/income-tax-reform-approved-by-the-german-cabinet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T10:19:13.552Z</news:publication_date>
+      <news:title>Income Tax Reform Approved by the German Cabinet </news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6b464043-3689-4bc2-4631-089613497b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-cabinet-approves-bill-on-childcare-quality-and-school-readiness</loc>
     <news:news>
       <news:publication>

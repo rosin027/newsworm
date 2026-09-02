@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/drought-leaves-german-farms-in-massive-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T12:19:12.046Z</news:publication_date>
+      <news:title>Drought Leaves German Farms in &quot;Massive Crisis&quot; </news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5df8504e-1ac0-4895-8abf-f140d3321d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-economy-resilient-growth-forecast-more-than-doubled</loc>
     <news:news>
       <news:publication>
@@ -270,21 +285,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3cf30654-4c13-4421-1441-a267423d4400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/foreign-direct-investment-rebounds-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T11:19:56.910Z</news:publication_date>
-      <news:title>Foreign Direct Investment Rebounds in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f1396b99-5678-470f-69ea-c2a590421100/OpenGraph</image:loc>
     </image:image>
   </url>
 

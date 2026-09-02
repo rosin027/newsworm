@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/explosion-near-augsburg-train-station-injures-two-teenagers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T08:24:10.319Z</news:publication_date>
+      <news:title>Explosion Near Augsburg Train Station Injures Two Teenagers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/73a76016-d990-4831-e60e-33bc0dad8300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sabotage-at-amprion-substation-shuts-down-five-rwe-plants</loc>
     <news:news>
       <news:publication>

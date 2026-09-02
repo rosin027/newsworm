@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-economy-proves-more-resilient-growth-forecast-doubled</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T11:03:09.725Z</news:publication_date>
+      <news:title>German Economy Proves More Resilient, Growth Forecast Doubled</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/23dd3fb9-b47d-4e7a-ff81-c8a5a375b700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/income-tax-reform-approved-by-the-german-cabinet</loc>
     <news:news>
       <news:publication>
@@ -270,21 +285,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f1396b99-5678-470f-69ea-c2a590421100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-women-than-men-live-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-31T10:44:16.384Z</news:publication_date>
-      <news:title>More Women Than Men Live in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f67c0e6e-ebd9-4fc3-60cc-9f6f49f66800/OpenGraph</image:loc>
     </image:image>
   </url>
 

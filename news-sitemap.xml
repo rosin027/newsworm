@@ -243,19 +243,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-to-pass-income-tax-reform-worth-eu10-billion-in-relief</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T09:40:31.194Z</news:publication_date>
-      <news:title>German Cabinet to Pass Income Tax Reform Worth ?10 Billion in Relief</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b6f97608-8b7a-4bae-7b94-276caf8a7f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

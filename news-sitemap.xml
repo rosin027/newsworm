@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-ahead-at-35-percent-in-new-mecklenburg-vorpommern-election-poll</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T09:01:12.619Z</news:publication_date>
+      <news:title>AfD Ahead at 35% in New Mecklenburg-Vorpommern Election Poll</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c74739fb-ea4c-407c-e020-5a59fce78e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/operators-demand-levy-cuts-as-german-gas-storage-runs-low</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b6f97608-8b7a-4bae-7b94-276caf8a7f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-workers-disappointed-by-board-union-warns-of-strikes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T08:34:00.097Z</news:publication_date>
-      <news:title>Volkswagen Workers Disappointed by Board, Union Warns of Strikes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3f92ffed-c552-46d3-ce8c-68e9f6d16f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

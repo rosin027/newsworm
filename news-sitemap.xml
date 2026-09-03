@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-weighs-splitting-oil-giants-as-fuel-prices-hit-record</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T15:29:20.084Z</news:publication_date>
+      <news:title>SPD Weighs Splitting Oil Giants as Fuel Prices Hit Record</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9d01862f-1619-4a0f-f51c-0d6da7731b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/which-school-subjects-do-students-in-germany-like-most</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/055bf66a-7919-4bef-c7c1-f07fefb34300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/sabotage-attack-hits-power-substation-southeast-of-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T14:27:15.377Z</news:publication_date>
-      <news:title>Sabotage Attack Hits Power Substation in Brandenburg</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/484fa1f9-952e-42b7-9bef-1cd343134000/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/operators-demand-levy-cuts-as-german-gas-storage-runs-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T07:14:14.878Z</news:publication_date>
+      <news:title>Operators Demand Levy Cuts as German Gas Storage Runs Low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/535b3ab4-62cb-4fa0-0cd3-cdc307c46100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-eyes-first-state-government-in-saxony-anhalt-election</loc>
     <news:news>
       <news:publication>

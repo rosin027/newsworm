@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-and-unions-agree-to-cut-100-000-jobs-by-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T06:05:51.123Z</news:publication_date>
+      <news:title>Volkswagen and Unions Agree to Cut 100,000 Jobs by 2030</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/58173bb6-9366-4a6a-0876-03f820b3d600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-weighs-splitting-oil-giants-as-fuel-prices-hit-record</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b06799b8-80a0-4021-94f1-b82335328a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-blames-russia-for-leipzig-airport-drone-attack</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T16:48:55.859Z</news:publication_date>
-      <news:title>Germany Blames Russia for Leipzig Airport Drone Attack</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/055bf66a-7919-4bef-c7c1-f07fefb34300/OpenGraph</image:loc>
     </image:image>
   </url>
 

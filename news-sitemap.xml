@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/hackers-publish-stolen-berlin-senate-data-on-the-darknet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T15:47:43.952Z</news:publication_date>
+      <news:title>Hackers Publish Stolen Berlin Senate Data on the Darknet</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/516d928e-0234-42c1-6385-37eb20545900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-weather-warning-storms-heavy-rain-and-strong-winds</loc>
     <news:news>
       <news:publication>

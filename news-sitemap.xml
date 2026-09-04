@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/insolvencies-of-large-companies-in-germany-remain-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T07:54:06.773Z</news:publication_date>
+      <news:title>Insolvencies of Large Companies in Germany Remain High</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/78a84c45-f2ab-4c36-4e42-0ea3fb832800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-and-unions-agree-to-cut-100-000-jobs-by-2030</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6c2d52b3-4e8a-42cc-dfb6-be3b3a98ee00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/greens-slam-germanys-response-to-russian-attack-as-insufficient</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T07:26:02.499Z</news:publication_date>
-      <news:title>Greens Slam Germany&apos;s Response to Russian Attack as Insufficient</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b06799b8-80a0-4021-94f1-b82335328a00/OpenGraph</image:loc>
     </image:image>
   </url>
 

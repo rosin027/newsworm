@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/hackers-publish-data-stolen-from-berlin-authorities-on-darknet</loc>
+    <loc>https://www.newsworm.de/news/hackers-publish-data-stolen-from-berlin-authorities</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-04T15:47:43.952Z</news:publication_date>
-      <news:title>Hackers Publish Data Stolen From Berlin Authorities on Darknet</news:title>
+      <news:title>Hackers Publish Data Stolen From Berlin Authorities</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/516d928e-0234-42c1-6385-37eb20545900/OpenGraph</image:loc>

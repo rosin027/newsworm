@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-weather-warning-storms-heavy-rain-and-strong-winds</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T13:11:33.569Z</news:publication_date>
+      <news:title>Germany Weather Warning: Storms, Heavy Rain and Strong Winds</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/dc09f43b-a7fd-4b6d-9e46-f89acfef3500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bsw-resignations-in-thuringia-party-risks-saxony-anhalt-exit</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3d789889-7df4-4baf-1be2-4f85c1210200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/drought-leaves-german-farms-in-massive-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T12:19:12.046Z</news:publication_date>
-      <news:title>Drought Leaves German Farms in &quot;Massive Crisis&quot; </news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5df8504e-1ac0-4895-8abf-f140d3321d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

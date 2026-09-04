@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bsw-resignations-in-thuringia-party-risks-saxony-anhalt-exit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-04T12:11:35.125Z</news:publication_date>
+      <news:title>BSW Resignations in Thuringia: Party Risks Saxony-Anhalt Exit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/af3809b5-4d87-4ed4-245b-f329afaa7700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-an-afd-state-government-would-mean-for-german-security</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5df8504e-1ac0-4895-8abf-f140d3321d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-resilient-growth-forecast-more-than-doubled</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-02T11:03:09.725Z</news:publication_date>
-      <news:title>German Economy Resilient, Growth Forecast More Than Doubled</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/23dd3fb9-b47d-4e7a-ff81-c8a5a375b700/OpenGraph</image:loc>
     </image:image>
   </url>
 

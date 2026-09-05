@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/nearly-half-of-deutsche-bahn-long-distance-trains-late-in-august</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T13:26:46.403Z</news:publication_date>
+      <news:title>Nearly Half of Deutsche Bahn Long-Distance Trains Late in August</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e407ee0c-e0ef-4014-8ac7-03c2a18f2800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/illegal-entries-at-german-borders-fall-to-five-year-low</loc>
     <news:news>
       <news:publication>

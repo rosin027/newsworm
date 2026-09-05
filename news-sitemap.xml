@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/how-the-east-became-germanys-far-right-stronghold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T10:06:53.092Z</news:publication_date>
+      <news:title>How the East Became Germany&apos;s Far-Right Stronghold</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4585910a-cd1a-4bfd-513f-724db08e8600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/un-adopts-equal-earth-map-africa-bigger-us-smaller</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0ac64a22-b117-40f0-55ce-c9823106e300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-ahead-at-35-percent-in-new-mecklenburg-vorpommern-election-poll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T09:01:12.619Z</news:publication_date>
-      <news:title>AfD Ahead at 35% in New Mecklenburg-Vorpommern Election Poll</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c74739fb-ea4c-407c-e020-5a59fce78e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/operators-demand-levy-cuts-as-german-gas-storage-runs-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T07:14:14.878Z</news:publication_date>
-      <news:title>Operators Demand Levy Cuts as German Gas Storage Runs Low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/535b3ab4-62cb-4fa0-0cd3-cdc307c46100/OpenGraph</image:loc>
     </image:image>
   </url>
 

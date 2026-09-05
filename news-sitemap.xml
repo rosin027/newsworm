@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/illegal-entries-at-german-borders-fall-to-five-year-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T11:48:21.991Z</news:publication_date>
+      <news:title>Illegal Entries at German Borders Fall to Five-Year Low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d94e0693-8fe7-44a1-5907-840ef7e85700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-the-east-became-germanys-far-right-stronghold</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d3c8f273-ee26-45b2-cca2-5deda37c9300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sees-electric-cars-surge-to-32-of-new-registrations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T11:41:26.424Z</news:publication_date>
-      <news:title>Germany Sees Electric Cars Surge to 32% of New Registrations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8a3218ef-8f6b-4aa1-e91a-a7db95f56900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fewer-young-germans-drink-alcohol-but-binge-drinking-stays-high</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T10:30:00.972Z</news:publication_date>
-      <news:title>Fewer Young Germans Drink Alcohol, But Binge Drinking Stays High</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0ac64a22-b117-40f0-55ce-c9823106e300/OpenGraph</image:loc>
     </image:image>
   </url>
 

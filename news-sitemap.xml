@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/un-adopts-equal-earth-map-africa-bigger-us-smaller</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-05T06:46:40.452Z</news:publication_date>
+      <news:title>UN Adopts Equal Earth Map: Africa bigger, US smaller</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9bd3dbb9-d5ce-4caf-e557-9e9f702a9e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/manhunt-in-germany-after-sabotage-attacks-on-power-grid</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/535b3ab4-62cb-4fa0-0cd3-cdc307c46100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-eyes-first-state-government-in-saxony-anhalt-election</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T06:44:18.267Z</news:publication_date>
-      <news:title>AfD Eyes First State Government in Saxony-Anhalt Election</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/183dee41-7ab5-49ba-d5aa-ba0628a6a200/OpenGraph</image:loc>
     </image:image>
   </url>
 

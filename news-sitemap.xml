@@ -168,19 +168,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-and-unions-agree-to-cut-100-000-jobs-by-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T06:05:51.123Z</news:publication_date>
-      <news:title>Volkswagen and Unions Agree to Cut 100,000 Jobs by 2030</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/58173bb6-9366-4a6a-0876-03f820b3d600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

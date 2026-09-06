@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-leads-saxony-anhalt-exit-polls-but-majority-still-unclear</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T16:50:52.967Z</news:publication_date>
+      <news:title>AfD Leads Saxony-Anhalt Exit Polls but Majority Still Unclear</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/429bc026-3645-466d-89fd-ee2744933400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/csd-attack-memorial-tree-destroyed-in-berlins-tiergarten</loc>
     <news:news>
       <news:publication>
@@ -26,10 +41,10 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-06T07:01:40.687Z</news:publication_date>
-      <news:title>Saxony-Anhalt Election Begins</news:title>
+      <news:title>AfD Landslide Winner in Saxony-Anhalt: Exit Polls - Live Updates</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.newsworm.de/3231f768-253b-4112-a9f6-19e699112700/OpenGraph</image:loc>
+      <image:loc>https://images.newsworm.de/8277cf44-5aae-4c7e-6b61-6da6dd85e000/OpenGraph</image:loc>
     </image:image>
   </url>
 
@@ -135,66 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/eb1365f6-beac-48a2-0104-c59d9b73c900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hackers-publish-data-stolen-from-berlin-authorities-on-darknet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T15:47:43.952Z</news:publication_date>
-      <news:title>Hackers Publish Data Stolen From Berlin Authorities</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/516d928e-0234-42c1-6385-37eb20545900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-weather-warning-storms-heavy-rain-and-strong-winds</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T13:11:33.569Z</news:publication_date>
-      <news:title>Germany Weather Warning: Storms, Heavy Rain and Strong Winds</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/dc09f43b-a7fd-4b6d-9e46-f89acfef3500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bsw-resignations-in-thuringia-party-risks-saxony-anhalt-exit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T12:11:35.125Z</news:publication_date>
-      <news:title>BSW Resignations in Thuringia: Party Risks Saxony-Anhalt Exit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/af3809b5-4d87-4ed4-245b-f329afaa7700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-an-afd-state-government-would-mean-for-german-security</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-04T10:29:16.970Z</news:publication_date>
-      <news:title>What an AfD State Government Would Mean for German Security</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8d04e2b5-640a-4eeb-067b-5a0abfcf9800/OpenGraph</image:loc>
     </image:image>
   </url>
 

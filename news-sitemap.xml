@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/former-bsw-leaders-launch-thuringen-gerecht-party-after-split-with-wagenknecht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T19:19:27.259Z</news:publication_date>
+      <news:title>Former BSW Leaders Launch Th?ringen.Gerecht Party After Split with Wagenknecht</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fefd768b-534a-44f3-86e6-31b978589d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-leads-saxony-anhalt-exit-polls-but-majority-still-unclear</loc>
     <news:news>
       <news:publication>

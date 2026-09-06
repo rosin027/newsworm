@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/thousands-rally-for-democracy-in-magdeburg-before-saxony-anhalt-vote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T05:48:06.397Z</news:publication_date>
+      <news:title>Thousands Rally for Democracy in Magdeburg Before Saxony-Anhalt Vote</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0cad7cf7-ad1e-4dc4-3abf-2b5ca9c3d600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nearly-half-of-deutsche-bahn-long-distance-trains-late-in-august</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/58173bb6-9366-4a6a-0876-03f820b3d600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-weighs-splitting-oil-giants-as-fuel-prices-hit-record</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T15:29:20.084Z</news:publication_date>
-      <news:title>SPD Weighs Splitting Oil Giants as Fuel Prices Hit Record</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9d01862f-1619-4a0f-f51c-0d6da7731b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/which-school-subjects-do-students-in-germany-like-most</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T14:16:28.774Z</news:publication_date>
-      <news:title>Which School Subjects Do Students in Germany Like Most?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d3c8f273-ee26-45b2-cca2-5deda37c9300/OpenGraph</image:loc>
     </image:image>
   </url>
 

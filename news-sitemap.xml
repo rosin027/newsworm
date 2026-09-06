@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-isar-aerospace-makes-first-private-orbital-launch-in-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T06:53:53.598Z</news:publication_date>
+      <news:title>Germany&apos;s Isar Aerospace Makes First Private Orbital Launch in Europe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/66ba1015-22fd-4190-42fa-093abdae2e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/thousands-rally-for-democracy-in-magdeburg-before-saxony-anhalt-vote</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-election-begins</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-06T07:01:40.687Z</news:publication_date>
+      <news:title>Saxony-Anhalt Election Begins</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3231f768-253b-4112-a9f6-19e699112700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-isar-aerospace-makes-first-private-orbital-launch-in-europe</loc>
     <news:news>
       <news:publication>

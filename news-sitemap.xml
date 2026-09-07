@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/saxony-anhalt-vote-fuels-debate-over-pension-reform-course</loc>
+    <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-puts-merzs-reforms-under-scrutiny</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-07T06:56:00.736Z</news:publication_date>
-      <news:title>Saxony-Anhalt Vote Fuels Debate Over Pension Reform Course</news:title>
+      <news:title>AfD Win in Saxony-Anhalt Puts Merz&apos;s Reforms Under Scrutiny</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c272e540-4489-4271-60d3-4e3f8b262f00/OpenGraph</image:loc>

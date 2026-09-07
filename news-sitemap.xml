@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-to-sell-osnabruck-factory-for-defence-production</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T10:51:49.036Z</news:publication_date>
+      <news:title>Volkswagen to Sell Osnabr?ck Factory for Defence Production</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1d6386a9-be4a-4138-2131-e920ed2bec00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/saxony-anhalt-election-2026-who-voted-for-the-afd</loc>
     <news:news>
       <news:publication>

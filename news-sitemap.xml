@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-election-2026-who-voted-for-the-afd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T10:11:50.134Z</news:publication_date>
+      <news:title>Saxony-Anhalt Election 2026: Who Voted for the AfD</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8c957094-3209-4a02-a3e3-249a13eac400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bsw-signals-support-for-afd-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d94e0693-8fe7-44a1-5907-840ef7e85700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/how-the-east-became-germanys-far-right-stronghold</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T10:06:53.092Z</news:publication_date>
-      <news:title>How the East Became Germany&apos;s Far-Right Stronghold</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4585910a-cd1a-4bfd-513f-724db08e8600/OpenGraph</image:loc>
     </image:image>
   </url>
 

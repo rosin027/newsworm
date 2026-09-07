@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-under-pressure-after-historic-afd-election-victory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T06:02:30.011Z</news:publication_date>
+      <news:title>Merz Under Pressure After Historic AfD Election Victory</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4b0b139c-dccd-4fd5-e1f5-19840d394c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/former-bsw-leaders-launch-thuringen-gerecht-party-after-split-with-wagenknecht</loc>
     <news:news>
       <news:publication>

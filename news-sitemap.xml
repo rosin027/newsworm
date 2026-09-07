@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-vote-fuels-debate-over-pension-reform-course</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-07T06:56:00.736Z</news:publication_date>
+      <news:title>Saxony-Anhalt Vote Fuels Debate Over Pension Reform Course</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c272e540-4489-4271-60d3-4e3f8b262f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-under-pressure-after-historic-afd-election-victory</loc>
     <news:news>
       <news:publication>
@@ -150,36 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4585910a-cd1a-4bfd-513f-724db08e8600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/un-adopts-equal-earth-map-africa-bigger-us-smaller</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T06:46:40.452Z</news:publication_date>
-      <news:title>UN Adopts Equal Earth Map: Africa bigger, US smaller</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9bd3dbb9-d5ce-4caf-e557-9e9f702a9e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/manhunt-in-germany-after-sabotage-attacks-on-power-grid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-05T06:43:00.470Z</news:publication_date>
-      <news:title>Manhunt in Germany After Sabotage Attacks on Power Grid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eb1365f6-beac-48a2-0104-c59d9b73c900/OpenGraph</image:loc>
     </image:image>
   </url>
 

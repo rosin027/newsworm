@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-2027-budget-plans-eu203-7-billion-in-new-debt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08T11:57:08.441Z</news:publication_date>
+      <news:title>Germany?s 2027 Budget Plans ?203.7 Billion in New Debt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9f58d29b-bc08-457d-5e56-b71c9d6cdc00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pisa-study-german-students-post-their-worst-results-ever</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/429bc026-3645-466d-89fd-ee2744933400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/csd-attack-memorial-tree-destroyed-in-berlins-tiergarten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-06T08:50:35.323Z</news:publication_date>
-      <news:title>CSD Attack Memorial Tree Destroyed in Berlin&apos;s Tiergarten</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a32d8ee6-44a8-4965-c777-4f670d3f6100/OpenGraph</image:loc>
     </image:image>
   </url>
 

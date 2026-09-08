@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-raises-security-concerns-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08T08:09:16.199Z</news:publication_date>
+      <news:title>AfD Win in Saxony-Anhalt Raises Security Concerns in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/653a50d5-23c9-454c-cbee-81ba06c75a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-set-to-miss-80-gas-storage-target</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a32d8ee6-44a8-4965-c777-4f670d3f6100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/saxony-anhalt-election-begins</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-06T07:01:40.687Z</news:publication_date>
-      <news:title>AfD Landslide Winner in Saxony-Anhalt: Exit Polls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8277cf44-5aae-4c7e-6b61-6da6dd85e000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-isar-aerospace-makes-first-private-orbital-launch-in-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-06T06:53:53.598Z</news:publication_date>
-      <news:title>Germany&apos;s Isar Aerospace Makes First Private Orbital Launch in Europe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/66ba1015-22fd-4190-42fa-093abdae2e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

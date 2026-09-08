@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/pisa-2025-german-students-post-their-worst-results-ever</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08T08:36:34.125Z</news:publication_date>
+      <news:title>PISA 2025: German Students Post Their Worst Results Ever</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/da29aeb8-b836-4d53-69d4-b47748075100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-raises-security-concerns-in-germany</loc>
     <news:news>
       <news:publication>

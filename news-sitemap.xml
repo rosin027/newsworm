@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-election-what-happens-after-the-afd-victory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-08T15:23:44.344Z</news:publication_date>
+      <news:title>Saxony-Anhalt Election: What Happens After the AfD Victory?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fdc57fd2-8df3-4aca-e602-775316379400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-arrests-suspect-over-power-grid-sabotage-attacks</loc>
     <news:news>
       <news:publication>

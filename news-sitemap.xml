@@ -11,7 +11,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-09T08:52:49.149Z</news:publication_date>
-      <news:title>Merz and Weidel Clash in Bundestag After AfD Election Success</news:title>
+      <news:title>Merz Accuses AfD of Promoting &apos;Ethnic Cleansing&apos;</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/db07afd6-283e-4014-af5d-3c26cb305500/OpenGraph</image:loc>
@@ -180,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1d6386a9-be4a-4138-2131-e920ed2bec00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/saxony-anhalt-election-2026-who-voted-for-the-afd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-07T10:11:50.134Z</news:publication_date>
-      <news:title>Saxony-Anhalt Election 2026: Who Voted for the AfD</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8c957094-3209-4a02-a3e3-249a13eac400/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-praises-putin-sparking-outrage-in-german-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09T13:58:28.842Z</news:publication_date>
+      <news:title>AfD Praises Putin, Sparking Outrage in German Bundestag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d690fa82-bd4c-42cf-1a28-7b884e84a800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/greens-and-left-blame-merz-for-afd-rise</loc>
     <news:news>
       <news:publication>

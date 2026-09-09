@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-warntag-2026-when-is-the-nationwide-alert-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09T06:00:47.855Z</news:publication_date>
+      <news:title>Germany?s Warntag 2026: When Is the Nationwide Alert Test?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/42db6799-dfb5-47f6-4ee3-1dc66871ef00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/saxony-anhalt-election-what-happens-after-the-afd-victory</loc>
     <news:news>
       <news:publication>
@@ -180,51 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c272e540-4489-4271-60d3-4e3f8b262f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-under-pressure-after-historic-afd-election-victory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-07T06:02:30.011Z</news:publication_date>
-      <news:title>Merz Under Pressure After Historic AfD Election Victory</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4b0b139c-dccd-4fd5-e1f5-19840d394c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/former-bsw-leaders-launch-thuringen-gerecht-party-after-split-with-wagenknecht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-06T19:19:27.259Z</news:publication_date>
-      <news:title>Former BSW Leaders Launch Th?ringen.Gerecht Party After Split with Wagenknecht</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fefd768b-534a-44f3-86e6-31b978589d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-leads-saxony-anhalt-exit-polls-but-majority-still-unclear</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-06T16:50:52.967Z</news:publication_date>
-      <news:title>AfD Wins Saxony-Anhalt Elections but Majority Still Unclear</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/429bc026-3645-466d-89fd-ee2744933400/OpenGraph</image:loc>
     </image:image>
   </url>
 

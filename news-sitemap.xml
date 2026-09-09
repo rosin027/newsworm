@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-and-weidel-clash-in-bundestag-after-afd-election-success</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-09T08:52:49.149Z</news:publication_date>
+      <news:title>Merz and Weidel Clash in Bundestag After AfD Election Success</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/86d6c73e-6446-4f34-9ad5-44f1a880ca00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-alarms-german-security-services</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/8c957094-3209-4a02-a3e3-249a13eac400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bsw-signals-support-for-afd-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-07T08:15:15.390Z</news:publication_date>
-      <news:title>BSW Signals Support for AfD in Saxony-Anhalt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/849c36ac-02b5-4e05-e01f-1904eec61800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-puts-merzs-reforms-under-scrutiny</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-07T06:56:00.736Z</news:publication_date>
-      <news:title>AfD Win in Saxony-Anhalt Puts Merz&apos;s Reforms Under Scrutiny</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c272e540-4489-4271-60d3-4e3f8b262f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

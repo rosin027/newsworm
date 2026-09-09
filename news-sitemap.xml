@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/greens-left-blame-merz-government-for-afd-rise</loc>
+    <loc>https://www.newsworm.de/news/greens-and-left-blame-merz-for-afd-rise</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-09T11:44:21.136Z</news:publication_date>
-      <news:title>Greens, Left Blame Merz Government for AfD Rise</news:title>
+      <news:title>Greens and Left Blame Merz for AfD Rise</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2a87ed21-651f-4ffa-ace2-02ee67645800/OpenGraph</image:loc>

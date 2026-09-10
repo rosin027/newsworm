@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-remains-skeptical-of-an-afd-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T10:57:16.219Z</news:publication_date>
+      <news:title>Merz Remains Skeptical of an AfD Ban</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/05655e8d-8ab1-41c9-1770-8c974fbf2d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-migration-policy-under-fire-in-the-bundestag</loc>
     <news:news>
       <news:publication>

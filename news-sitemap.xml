@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-migration-policy-under-fire-in-the-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T10:46:34.162Z</news:publication_date>
+      <news:title>Germany?s Migration Policy Under Fire in the Bundestag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a9f9e6b1-7cc6-45a7-3dac-60070184b700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/asylum-seeker-benefits-recipients-in-germany-drop-15-in-2025</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/9f58d29b-bc08-457d-5e56-b71c9d6cdc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pisa-study-german-students-post-their-worst-results-ever</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T08:36:34.125Z</news:publication_date>
-      <news:title>PISA Study: German Students Post Their Worst Results Ever</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/da29aeb8-b836-4d53-69d4-b47748075100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-raises-security-concerns-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T08:09:16.199Z</news:publication_date>
-      <news:title>AfD Win in Saxony-Anhalt Raises Security Concerns in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/653a50d5-23c9-454c-cbee-81ba06c75a00/OpenGraph</image:loc>
     </image:image>
   </url>
 

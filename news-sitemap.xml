@@ -168,34 +168,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-arrests-suspect-over-power-grid-sabotage-attacks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T12:52:12.150Z</news:publication_date>
-      <news:title>Germany Arrests Suspect Over Power Grid Sabotage Attacks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7766a036-5791-4827-2bcf-c9f9d6b30d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-2027-budget-plans-eu203-7-billion-in-new-debt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T11:57:08.441Z</news:publication_date>
-      <news:title>Germany?s 2027 Budget Plans ?203.7 Billion in New Debt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9f58d29b-bc08-457d-5e56-b71c9d6cdc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

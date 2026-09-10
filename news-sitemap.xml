@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-proposes-new-rules-to-curb-short-term-rentals-like-airbnb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T06:50:39.812Z</news:publication_date>
+      <news:title>EU Proposes New Rules to Curb Short-Term Rentals Like Airbnb</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d500342e-5b07-41d8-ae3d-bc4c7302b900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/d-you-germanys-digital-wallet-for-id-licence-and-certificate</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/653a50d5-23c9-454c-cbee-81ba06c75a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-set-to-miss-80-gas-storage-target</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T06:44:37.201Z</news:publication_date>
-      <news:title>Germany Set to Miss 80% Gas Storage Target</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2112b945-c892-4ecf-0c2e-e3c50aaafd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/thousands-demonstrate-in-berlin-after-afd-victory-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T06:32:34.317Z</news:publication_date>
-      <news:title>Thousands demonstrate in Berlin after AfD victory in Saxony-Anhalt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4cdacee4-79bc-4f92-9a50-9c571c87bb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

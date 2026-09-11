@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-leads-spd-in-mecklenburg-vorpommern-election-polls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T07:09:59.501Z</news:publication_date>
+      <news:title>AfD Leads SPD in Mecklenburg-Vorpommern Election Polls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/47a5ef1b-3ec4-4f49-cc00-f7320246e700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-election-polls-show-tight-race-between-left-and-cdu</loc>
     <news:news>
       <news:publication>

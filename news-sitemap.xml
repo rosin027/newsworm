@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/retirement-at-63-bas-promises-protection-for-those-affected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T08:55:34.222Z</news:publication_date>
+      <news:title>Retirement at 63: Bas Promises Protection for Those Affected</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e010d42a-8dfd-4eef-d602-e585d1979a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-cyberattack-where-affected-citizens-can-get-help</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2a87ed21-651f-4ffa-ace2-02ee67645800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-and-weidel-clash-in-bundestag-after-afd-election-success</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T08:52:49.149Z</news:publication_date>
-      <news:title>Merz Accuses AfD of Promoting &apos;Ethnic Cleansing&apos;</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/db07afd6-283e-4014-af5d-3c26cb305500/OpenGraph</image:loc>
     </image:image>
   </url>
 

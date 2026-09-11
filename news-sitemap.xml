@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-act-on-expert-recommendations-for-digital-child-safety</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T09:04:49.374Z</news:publication_date>
+      <news:title>Germany to Act on Expert Recommendations for Digital Child Safety</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/80bb3af5-7b1b-4249-8f07-33a3aceb9100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/retirement-at-63-bas-promises-protection-for-those-affected</loc>
     <news:news>
       <news:publication>

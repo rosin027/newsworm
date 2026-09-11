@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/seven-suspected-hamas-members-charged-over-attack-plot-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T14:30:27.941Z</news:publication_date>
+      <news:title>Seven Suspected Hamas Members Charged Over Attack Plot in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/12a55cb0-6027-4d30-e90d-5be58e5c9700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-act-on-expert-recommendations-for-digital-child-safety</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/62e40275-8d1a-4299-0419-70af1a12dd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-praises-putin-sparking-outrage-in-german-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T13:58:28.842Z</news:publication_date>
-      <news:title>AfD Praises Putin, Sparking Outrage in German Bundestag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d690fa82-bd4c-42cf-1a28-7b884e84a800/OpenGraph</image:loc>
     </image:image>
   </url>
 

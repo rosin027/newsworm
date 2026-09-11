@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afds-siegmund-says-arms-needed-for-remigration-and-deportation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T15:52:47.401Z</news:publication_date>
+      <news:title>AfD?s Siegmund Says Arms Needed for ?Remigration and Deportation?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9a6a79ec-f28b-4398-ba73-e800cbe94700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/seven-suspected-hamas-members-charged-over-attack-plot-in-germany</loc>
     <news:news>
       <news:publication>

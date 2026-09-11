@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/uae-to-invest-eu40-billion-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T06:56:24.813Z</news:publication_date>
+      <news:title>UAE to Invest ?40 Billion in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d40d9a41-4368-444b-0fc6-805c5038c500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/statutory-health-insurers-risk-eu1-1b-in-investment-losses-in-germany</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/db07afd6-283e-4014-af5d-3c26cb305500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-win-in-saxony-anhalt-alarms-german-security-services</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T06:45:14.963Z</news:publication_date>
-      <news:title>AfD Win in Saxony-Anhalt Alarms German Security Services</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7b94e00d-1df3-4cda-69e4-38bf59e47700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-warntag-2026-when-is-the-nationwide-alert-test</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T06:00:47.855Z</news:publication_date>
-      <news:title>Germany?s Warntag 2026: When Is the Nationwide Alert Test?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/42db6799-dfb5-47f6-4ee3-1dc66871ef00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/saxony-anhalt-election-what-happens-after-the-afd-victory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T15:23:44.344Z</news:publication_date>
-      <news:title>Saxony-Anhalt Election: What Happens After the AfD Victory?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fdc57fd2-8df3-4aca-e602-775316379400/OpenGraph</image:loc>
     </image:image>
   </url>
 

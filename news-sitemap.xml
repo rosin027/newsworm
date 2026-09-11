@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-cyberattack-where-affected-citizens-can-get-help</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-11T07:26:48.375Z</news:publication_date>
+      <news:title>Berlin Cyberattack: Where Affected Citizens Can Get Help</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d660c153-e66d-49fb-4622-bdad01b4d600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-leads-spd-in-mecklenburg-vorpommern-election-polls</loc>
     <news:news>
       <news:publication>

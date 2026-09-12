@@ -198,34 +198,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/ecb-raises-interest-rate-to-2-5-as-energy-prices-soar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T13:17:45.346Z</news:publication_date>
-      <news:title>ECB Raises Interest Rate to 2.5% as Energy Prices Soar</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2bd46a26-7420-4cf7-db92-cefcf1c24e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/fewer-rail-renovations-yet-little-prospect-of-punctual-trains</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T13:08:52.842Z</news:publication_date>
-      <news:title>Fewer Rail Renovations, Yet Little Prospect of Punctual Trains</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9c1138e8-e927-4f3a-f9f3-f7acaa47e800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

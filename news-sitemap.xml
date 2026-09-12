@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/leipzig-airport-drone-attack-probe-leads-to-russias-gru</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12T07:51:24.108Z</news:publication_date>
+      <news:title>Leipzig Airport Drone Attack Probe Leads to Russia?s GRU</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3e70d7be-31ba-4687-7920-e4a32484c900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afds-siegmund-says-arms-needed-for-remigration-and-deportation</loc>
     <news:news>
       <news:publication>
@@ -195,36 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a9f9e6b1-7cc6-45a7-3dac-60070184b700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/asylum-seeker-benefits-recipients-in-germany-drop-15-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T07:04:04.622Z</news:publication_date>
-      <news:title>Asylum Seeker Benefits Recipients in Germany Drop 15% in 2025</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3ae16674-bb3d-40a0-f61a-297d2a455a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-proposes-new-rules-to-curb-short-term-rentals-like-airbnb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T06:50:39.812Z</news:publication_date>
-      <news:title>EU Proposes New Rules to Curb Short-Term Rentals Like Airbnb</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d500342e-5b07-41d8-ae3d-bc4c7302b900/OpenGraph</image:loc>
     </image:image>
   </url>
 

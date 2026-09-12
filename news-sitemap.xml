@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/criticism-of-merz-grows-after-cdu-defeat-in-saxony-anhalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-12T13:07:11.851Z</news:publication_date>
+      <news:title>Criticism of Merz Grows After CDU Defeat in Saxony-Anhalt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5254b603-781e-4467-35c9-3dc56d70fb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/zelensky-ready-to-meet-putin-at-g20-summit</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/9c1138e8-e927-4f3a-f9f3-f7acaa47e800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-remains-skeptical-of-an-afd-ban</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T10:57:16.219Z</news:publication_date>
-      <news:title>Merz Remains Skeptical of an AfD Ban</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/05655e8d-8ab1-41c9-1770-8c974fbf2d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

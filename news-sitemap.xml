@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-under-pressure-soder-rejects-chancellor-ouster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-13T12:23:42.189Z</news:publication_date>
+      <news:title>Merz Under Pressure: S?der Rejects Chancellor Ouster</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1b2e1f7c-1c99-4a21-671e-cc320eff2000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-urged-to-restore-discounted-family-reservation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-13T09:34:43.788Z</news:publication_date>
+      <news:title>Deutsche Bahn Urged to Restore Discounted Family Reservation</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1d4a0ff5-1485-405f-bdca-500023dd6200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/brics-summit-china-russia-india-seek-economic-cooperation</loc>
     <news:news>
       <news:publication>
@@ -120,36 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/12a55cb0-6027-4d30-e90d-5be58e5c9700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-to-act-on-expert-recommendations-for-digital-child-safety</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T09:04:49.374Z</news:publication_date>
-      <news:title>Germany to Act on Expert Recommendations for Digital Child Safety</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/80bb3af5-7b1b-4249-8f07-33a3aceb9100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/retirement-at-63-bas-promises-protection-for-those-affected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T08:55:34.222Z</news:publication_date>
-      <news:title>Retirement at 63: Bas Promises Protection for Those Affected</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e010d42a-8dfd-4eef-d602-e585d1979a00/OpenGraph</image:loc>
     </image:image>
   </url>
 

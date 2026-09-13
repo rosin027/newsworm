@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/lower-saxony-local-elections-begin-six-million-eligible-to-vote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-13T07:14:58.537Z</news:publication_date>
+      <news:title>Lower Saxony Local Elections Begin: Six Million Eligible to Vote</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/46d8292f-60a0-46e6-3d9e-6c182fa05800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/criticism-of-merz-grows-after-cdu-defeat-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>
@@ -135,66 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d660c153-e66d-49fb-4622-bdad01b4d600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-leads-spd-in-mecklenburg-western-pomerania-election-polls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T07:09:59.501Z</news:publication_date>
-      <news:title>AfD Leads SPD in Mecklenburg-Western Pomerania Election Polls</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/47a5ef1b-3ec4-4f49-cc00-f7320246e700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-election-polls-show-tight-race-between-left-and-cdu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T07:02:48.262Z</news:publication_date>
-      <news:title>Berlin Election Polls Show Tight Race Between Left and CDU</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cdb9e65b-ed6f-4dbc-f325-6aeac6aeb700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/uae-to-invest-eu40-billion-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T06:56:24.813Z</news:publication_date>
-      <news:title>UAE to Invest ?40 Billion in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d40d9a41-4368-444b-0fc6-805c5038c500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/statutory-health-insurers-risk-eu1-1b-in-investment-losses-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-10T15:02:10.307Z</news:publication_date>
-      <news:title>Statutory Health Insurers Risk ?1.1B in Investment Losses in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/aeb8b018-b434-4358-c8fc-5743cd8b7100/OpenGraph</image:loc>
     </image:image>
   </url>
 

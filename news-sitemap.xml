@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-leader-alice-weidel-calls-for-new-elections-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T08:13:25.483Z</news:publication_date>
+      <news:title>AfD Leader Alice Weidel Calls for New Elections in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f2f4fcac-2277-4e2e-0840-cc3eef4ecd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/canada-seeks-closer-eu-ties-to-counter-hostile-us</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f3769c70-adee-4ab9-e04f-f9030d423400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-eyes-battle-over-pervert-smart-glasses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-12T08:06:11.895Z</news:publication_date>
-      <news:title>Europe Eyes Battle Over &apos;Pervert&apos; Smart Glasses</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/81877ca8-74b1-4b75-291f-f9e2c3548700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/leipzig-airport-drone-attack-probe-leads-to-russias-gru</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-12T07:51:24.108Z</news:publication_date>
-      <news:title>Leipzig Airport Drone Attack Probe Leads to Russia?s GRU</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3e70d7be-31ba-4687-7920-e4a32484c900/OpenGraph</image:loc>
     </image:image>
   </url>
 

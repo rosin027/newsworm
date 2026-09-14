@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/homeownership-in-germany-falls-to-lowest-level-in-20-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T10:55:42.965Z</news:publication_date>
+      <news:title>Homeownership in Germany Falls to Lowest Level in 20 Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4704c313-db23-4141-fe0b-c91aa2d7d200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dgb-calls-nationwide-protests-over-planned-social-cuts</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5254b603-781e-4467-35c9-3dc56d70fb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/zelensky-ready-to-meet-putin-at-g20-summit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-12T10:49:32.352Z</news:publication_date>
-      <news:title>Zelensky Willing to Meet Putin at G20 Summit </news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f3769c70-adee-4ab9-e04f-f9030d423400/OpenGraph</image:loc>
     </image:image>
   </url>
 

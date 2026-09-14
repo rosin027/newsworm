@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlins-left-candidate-elif-eralp-unveils-five-point-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T13:00:47.588Z</news:publication_date>
+      <news:title>Berlin?s Left Candidate Elif Eralp Unveils Five-Point Plan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/bf465001-7f9f-4483-6d4f-328e610f8100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/israeli-ambassador-warns-of-high-hamas-attack-risk-in-germany</loc>
     <news:news>
       <news:publication>

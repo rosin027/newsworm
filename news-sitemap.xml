@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/lower-saxony-local-elections-cdu-leads-afd-makes-major-gains</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T06:07:23.757Z</news:publication_date>
+      <news:title>Lower Saxony Local Elections: CDU Leads, AfD Makes Major Gains</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/dd309133-b090-4330-0d9e-e1e1d72c7800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-under-pressure-soder-rejects-chancellor-ouster</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3e70d7be-31ba-4687-7920-e4a32484c900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afds-siegmund-says-arms-needed-for-remigration-and-deportation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T15:52:47.401Z</news:publication_date>
-      <news:title>AfD?s Siegmund Says Arms Needed for ?Remigration and Deportation?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9a6a79ec-f28b-4398-ba73-e800cbe94700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/seven-suspected-hamas-members-charged-over-attack-plot-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-11T14:30:27.941Z</news:publication_date>
-      <news:title>Seven Suspected Hamas Members Charged Over Attack Plot in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/12a55cb0-6027-4d30-e90d-5be58e5c9700/OpenGraph</image:loc>
     </image:image>
   </url>
 

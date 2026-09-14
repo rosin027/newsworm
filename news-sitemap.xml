@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/petrol-prices-in-germany-hit-record-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-14T08:42:37.991Z</news:publication_date>
+      <news:title>Petrol Prices in Germany Hit Record High</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a37f43b9-16c3-4a22-2713-75b2c784f000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-leader-alice-weidel-calls-for-new-elections-in-germany</loc>
     <news:news>
       <news:publication>

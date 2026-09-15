@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/record-fuel-prices-trigger-calls-for-tax-cuts-and-relief</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T12:47:26.188Z</news:publication_date>
+      <news:title>Record Fuel Prices Trigger Calls for Tax Cuts and Relief</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0ef6d46e-3190-4678-a0bf-5cf4ee8d6c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-sees-a-growing-threat-from-organised-crime</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/dd309133-b090-4330-0d9e-e1e1d72c7800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-under-pressure-soder-rejects-chancellor-ouster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-13T12:23:42.189Z</news:publication_date>
-      <news:title>Merz Under Pressure: S?der Rejects Chancellor Ouster</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1b2e1f7c-1c99-4a21-671e-cc320eff2000/OpenGraph</image:loc>
     </image:image>
   </url>
 

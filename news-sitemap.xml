@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-has-fewer-children-than-the-eu-average</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T07:55:59.627Z</news:publication_date>
+      <news:title>Germany Has Fewer Children Than the EU Average</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5a15cc28-9a7f-4526-78c7-c9d0e0403200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-election-candidates-take-aim-at-capitals-growing-woes</loc>
     <news:news>
       <news:publication>

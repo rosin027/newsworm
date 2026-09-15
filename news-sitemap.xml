@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/satisfaction-with-chancellor-merzs-performance-hits-record-low</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T13:51:11.105Z</news:publication_date>
+      <news:title>Satisfaction with Chancellor Merz?s Performance Hits Record Low</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3ca66d10-7cc4-4660-bc94-07f09df4e900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/record-fuel-prices-trigger-calls-for-tax-cuts-and-relief</loc>
     <news:news>
       <news:publication>

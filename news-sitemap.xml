@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-leaders-urge-party-unity-as-pressure-grows-on-merz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-16T14:46:40.329Z</news:publication_date>
+      <news:title>CDU Leaders Urge Party Unity as Pressure Grows on Merz</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b2ee5802-f594-4b6a-09e9-21154d433100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-court-rejects-benefits-claim-over-self-perceived-identity</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ed5b7ae8-c7c5-4928-6059-be0258207100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/left-candidate-elif-eralp-unveils-plans-as-berlin-mayor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T13:00:47.588Z</news:publication_date>
-      <news:title>Left Candidate Elif Eralp Unveils Plans as Berlin Mayor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/bf465001-7f9f-4483-6d4f-328e610f8100/OpenGraph</image:loc>
     </image:image>
   </url>
 

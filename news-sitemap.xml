@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/afd-leads-in-mecklenburg-vorpommern-election-poll</loc>
+    <loc>https://www.newsworm.de/news/afd-leads-in-mecklenburg-western-pomerania-election-poll</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-16T07:10:07.180Z</news:publication_date>
-      <news:title>AfD Leads in Mecklenburg-Vorpommern Election Poll</news:title>
+      <news:title>AfD Leads in Mecklenburg-Western Pomerania Election Poll</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1bc5d875-4505-4cf5-e5bb-5e29b0cb1b00/OpenGraph</image:loc>

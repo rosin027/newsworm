@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-chief-pitches-associate-member-status-for-canada</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-16T14:53:49.055Z</news:publication_date>
+      <news:title>EU Chief Pitches &apos;Associate Member&apos; Status for Canada</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f96e2786-9f0c-445c-725f-a21ea13e4600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cdu-leaders-urge-party-unity-as-pressure-grows-on-merz</loc>
     <news:news>
       <news:publication>

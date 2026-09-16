@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/germany-fuel-price-relief-frei-proposes-vat-cut-or-fuel-discount</loc>
+    <loc>https://www.newsworm.de/news/germany-fuel-price-relief-what-measures-are-on-the-table</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-16T07:56:27.790Z</news:publication_date>
-      <news:title>Germany Fuel Price Relief: Frei Proposes VAT Cut or Fuel Discount</news:title>
+      <news:title>Germany Fuel Price Relief: What Measures Are on the Table?</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/77e83e48-2a4c-43d2-fbe5-1b6004f14d00/OpenGraph</image:loc>
@@ -210,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a37f43b9-16c3-4a22-2713-75b2c784f000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-leader-alice-weidel-calls-for-new-elections-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-14T08:13:25.483Z</news:publication_date>
-      <news:title>AfD Leader Alice Weidel Calls for New Elections in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f2f4fcac-2277-4e2e-0840-cc3eef4ecd00/OpenGraph</image:loc>
     </image:image>
   </url>
 

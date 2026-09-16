@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-court-rejects-benefits-claim-over-self-perceived-identity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-16T12:42:22.863Z</news:publication_date>
+      <news:title>German Court Rejects Benefits Claim Over Self Perceived Identity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/648e579f-f43e-4414-0756-498aae3fc000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-to-launch-direct-munich-to-milan-and-rome-trains</loc>
     <news:news>
       <news:publication>

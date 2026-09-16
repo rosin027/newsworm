@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-fuel-price-relief-frei-proposes-vat-cut-or-fuel-discount</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-16T07:56:27.790Z</news:publication_date>
+      <news:title>Germany Fuel Price Relief: Frei Proposes VAT Cut or Fuel Discount</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/77e83e48-2a4c-43d2-fbe5-1b6004f14d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-leads-in-mecklenburg-western-pomerania-election-poll</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/five-candidates-to-watch-in-berlins-election</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T06:35:08.472Z</news:publication_date>
+      <news:title>Five Candidates to Watch in Berlin&apos;s Election</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/34629125-c3db-4e21-5e70-b16128897f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-tougher-action-against-social-benefit-fraud</loc>
     <news:news>
       <news:publication>

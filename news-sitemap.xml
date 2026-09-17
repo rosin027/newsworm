@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-tougher-penalties-for-attacks-on-railway-workers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T07:56:34.111Z</news:publication_date>
+      <news:title>Germany Plans Tougher Penalties for Attacks on Railway Workers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3f1b6208-223b-4257-6074-0dd42a094b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-and-mecklenburg-elections-test-merz-and-his-cdu</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/aedcf404-77c3-4ed3-e8fc-5b1f5a99cd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-has-fewer-children-than-the-eu-average</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T07:55:59.627Z</news:publication_date>
-      <news:title>Germany Has Fewer Children Than the EU Average</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5a15cc28-9a7f-4526-78c7-c9d0e0403200/OpenGraph</image:loc>
     </image:image>
   </url>
 

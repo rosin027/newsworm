@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/restaurant-vat-cut-fails-to-lower-prices-in-germany</loc>
+    <loc>https://www.newsworm.de/news/vat-cut-on-restaurant-food-fails-to-lower-prices-in-germany</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-17T12:16:48.765Z</news:publication_date>
-      <news:title>Restaurant VAT Cut Fails to Lower Prices in Germany</news:title>
+      <news:title>VAT Cut on Restaurant Food Fails to Lower Prices in Germany</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/98fea4cb-5748-43c5-e81f-99122ac82e00/OpenGraph</image:loc>

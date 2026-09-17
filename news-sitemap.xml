@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/50-suspects-probed-over-eu60-million-tax-evasion-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T10:03:23.397Z</news:publication_date>
+      <news:title>50 Suspects Probed Over ?60 Million Tax Evasion in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/66ef109e-6968-4906-6c31-7952889f3700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-threatens-eu-over-hostile-canada-association-plan</loc>
     <news:news>
       <news:publication>
@@ -255,21 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0ef6d46e-3190-4678-a0bf-5cf4ee8d6c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-sees-a-growing-threat-from-organised-crime</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T10:00:23.244Z</news:publication_date>
-      <news:title>Germany Sees a Growing Threat From Organised Crime</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/aedcf404-77c3-4ed3-e8fc-5b1f5a99cd00/OpenGraph</image:loc>
     </image:image>
   </url>
 

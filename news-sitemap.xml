@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-and-mecklenburg-elections-test-merz-and-his-cdu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T07:41:34.748Z</news:publication_date>
+      <news:title>Berlin and Mecklenburg Elections Test Merz and His CDU</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a955411d-0fc9-40f5-1050-5473c3b0ea00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/five-candidates-to-watch-in-berlins-election</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5a15cc28-9a7f-4526-78c7-c9d0e0403200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-election-candidates-take-aim-at-capitals-growing-woes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T07:39:38.429Z</news:publication_date>
-      <news:title>Berlin Election: Candidates Take Aim at Capital?s Growing Woes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ed5b7ae8-c7c5-4928-6059-be0258207100/OpenGraph</image:loc>
     </image:image>
   </url>
 

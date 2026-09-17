@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-urges-eu-action-on-china-to-protect-auto-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T14:10:24.273Z</news:publication_date>
+      <news:title>Germany Urges EU Action on China to Protect Auto Industry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2b6c5569-67b0-4a3e-4d99-183a63d16500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/vat-cut-on-restaurant-food-fails-to-lower-prices-in-germany</loc>
     <news:news>
       <news:publication>
@@ -270,36 +285,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/335e3c41-42f5-467a-3b57-6c4de158b700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/satisfaction-with-chancellor-merzs-performance-hits-record-low</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T13:51:11.105Z</news:publication_date>
-      <news:title>Satisfaction with Chancellor Merz?s Work Hits Record Low</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3ca66d10-7cc4-4660-bc94-07f09df4e900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/record-fuel-prices-trigger-calls-for-tax-cuts-and-relief</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T12:47:26.188Z</news:publication_date>
-      <news:title>Record Fuel Prices Trigger Calls for Tax Cuts and Relief</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0ef6d46e-3190-4678-a0bf-5cf4ee8d6c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

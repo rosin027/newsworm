@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-public-transport-ranking-falls-to-fifth-in-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-17T11:04:49.547Z</news:publication_date>
+      <news:title>Germany?s Public Transport Ranking Falls to Fifth in Europe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a3c8502a-c3c0-4f1b-bd0a-e03f5debcb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/50-suspects-probed-over-eu60-million-tax-evasion-in-germany</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-demographic-shift-hits-schools-earlier-than-expected</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-18T13:47:53.128Z</news:publication_date>
+      <news:title>Germany?s Demographic Shift Hits Schools Earlier Than Expected</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/546a32c3-aa16-43c6-b4fe-39ddd61c7300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/high-fuel-prices-dominate-mecklenburg-western-pomerania-election-debate</loc>
     <news:news>
       <news:publication>
@@ -255,36 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b2ee5802-f594-4b6a-09e9-21154d433100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-court-rejects-benefits-claim-over-self-perceived-identity</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-16T12:42:22.863Z</news:publication_date>
-      <news:title>German Court Rejects Benefits Claim Over Self Perceived Identity</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/648e579f-f43e-4414-0756-498aae3fc000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-to-launch-direct-munich-to-milan-and-rome-trains</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-16T09:53:02.605Z</news:publication_date>
-      <news:title>Deutsche Bahn to Launch Direct Munich to Milan and Rome Trains</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e3dd6b8e-1916-41ba-b713-8cf8d0b31b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

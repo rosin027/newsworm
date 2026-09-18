@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-remains-on-track-with-personnel-expansion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-18T09:16:39.655Z</news:publication_date>
+      <news:title>Bundeswehr Remains on Track With Personnel Expansion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0c16c74c-8e2c-44d0-81be-b33edbc1e100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-election-left-party-narrowly-ahead-of-cdu-in-poll</loc>
     <news:news>
       <news:publication>
@@ -255,36 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/e3dd6b8e-1916-41ba-b713-8cf8d0b31b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-unveils-10-point-plan-against-islamist-terrorism</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-16T09:12:57.963Z</news:publication_date>
-      <news:title>Germany Unveils 10-Point Plan Against Islamist Terrorism</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1fc7dac1-9f6e-4a0d-f1a2-7998b68a9c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-fuel-price-relief-what-measures-are-on-the-table</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-16T07:56:27.790Z</news:publication_date>
-      <news:title>Germany Fuel Price Relief: What Measures Are on the Table?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/77e83e48-2a4c-43d2-fbe5-1b6004f14d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

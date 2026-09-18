@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/more-people-in-germany-are-struggling-with-debt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-18T07:14:45.250Z</news:publication_date>
+      <news:title>More People in Germany Are Struggling With Debt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6aca5567-6519-4b7a-8593-a53c20079d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-overtakes-afd-in-mecklenburg-western-pomerania-election-poll</loc>
     <news:news>
       <news:publication>
@@ -255,21 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/77e83e48-2a4c-43d2-fbe5-1b6004f14d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-leads-in-mecklenburg-western-pomerania-election-poll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-16T07:10:07.180Z</news:publication_date>
-      <news:title>AfD Leads in Mecklenburg-Western Pomerania Election Poll</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1bc5d875-4505-4cf5-e5bb-5e29b0cb1b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

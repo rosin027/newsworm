@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-election-left-party-narrowly-ahead-of-cdu-in-poll</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-18T07:49:42.134Z</news:publication_date>
+      <news:title>Berlin Election: Left Party Narrowly Ahead of CDU in Poll</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c16de62d-900d-48f0-8574-256d2fef9f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/more-people-in-germany-are-struggling-with-debt</loc>
     <news:news>
       <news:publication>

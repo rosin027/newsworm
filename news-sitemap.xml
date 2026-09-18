@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/fuel-price-relief-of-17-cents-per-litre-coming-in-october</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-18T20:06:16.230Z</news:publication_date>
+      <news:title>Fuel Price Relief of 17 Cents Per Litre Coming in October</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f5a1852d-ece3-42bb-70af-529099d72100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-demographic-shift-hits-schools-earlier-than-expected</loc>
     <news:news>
       <news:publication>

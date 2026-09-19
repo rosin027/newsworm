@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ozapft-is-oktoberfest-2026-begins-in-munich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-19T10:19:13.231Z</news:publication_date>
+      <news:title>O?zapft is! Oktoberfest 2026 Begins in Munich</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/eca961b5-fc48-4ce5-0832-6f11a5352400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-lowers-2026-profit-forecast-to-1-percent</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a3c8502a-c3c0-4f1b-bd0a-e03f5debcb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/50-suspects-probed-over-eu60-million-tax-evasion-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T10:03:23.397Z</news:publication_date>
-      <news:title>50 Suspects Probed Over ?60 Million Tax Evasion in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/66ef109e-6968-4906-6c31-7952889f3700/OpenGraph</image:loc>
     </image:image>
   </url>
 

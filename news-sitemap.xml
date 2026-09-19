@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-signs-bill-authorizing-sweeping-russia-sanctions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-19T07:45:34.906Z</news:publication_date>
+      <news:title>Trump Signs Bill Authorizing Sweeping Russia Sanctions</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/26f718cc-6d68-4aa0-ff13-c733e6539600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/fuel-price-relief-of-17-cents-per-litre-coming-in-october</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3f1b6208-223b-4257-6074-0dd42a094b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-and-mecklenburg-elections-test-merz-and-his-cdu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T07:41:34.748Z</news:publication_date>
-      <news:title>Berlin and Mecklenburg Elections Test Merz and His CDU</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a955411d-0fc9-40f5-1050-5473c3b0ea00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/five-candidates-to-watch-in-berlins-election</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T06:35:08.472Z</news:publication_date>
-      <news:title>Five Candidates to Watch in Berlin&apos;s Election</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/34629125-c3db-4e21-5e70-b16128897f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-tougher-action-against-social-benefit-fraud</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T06:20:28.951Z</news:publication_date>
-      <news:title>Germany Plans Tougher Action Against Social Benefit Fraud</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eddc9b6b-40c1-4ddf-4fe6-8f965e1ac200/OpenGraph</image:loc>
     </image:image>
   </url>
 

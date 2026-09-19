@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-in-three-families-in-germany-now-has-an-immigration-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-19T08:32:57.053Z</news:publication_date>
+      <news:title>One in Three Families in Germany Now Has an Immigration History</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4b526245-d992-4426-c729-121476170a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-signs-bill-authorizing-sweeping-russia-sanctions</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/66ef109e-6968-4906-6c31-7952889f3700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/trump-threatens-eu-over-hostile-canada-association-plan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T08:01:49.945Z</news:publication_date>
-      <news:title>Trump threatens EU over &apos;hostile&apos; Canada association plan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/43f7c805-7fb9-4dac-9e3c-0ebaeede5800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-tougher-penalties-for-attacks-on-railway-workers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T07:56:34.111Z</news:publication_date>
-      <news:title>Germany Plans Tougher Penalties for Attacks on Railway Workers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3f1b6208-223b-4257-6074-0dd42a094b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

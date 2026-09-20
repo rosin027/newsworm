@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-leads-spd-in-mecklenburg-western-pomerania-election</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-20T16:38:02.278Z</news:publication_date>
+      <news:title>AfD Leads SPD in Mecklenburg-Western Pomerania Election</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/100c4bfc-0656-4a95-355f-4910f8c26600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundeswehr-inspector-general-breuer-to-become-new-chairman-of-the-nato-military-committee</loc>
     <news:news>
       <news:publication>

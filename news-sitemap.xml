@@ -138,49 +138,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-remains-on-track-with-personnel-expansion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T09:16:39.655Z</news:publication_date>
-      <news:title>Bundeswehr Remains on Track With Personnel Expansion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0c16c74c-8e2c-44d0-81be-b33edbc1e100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-election-left-party-narrowly-ahead-of-cdu-in-poll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T07:49:42.134Z</news:publication_date>
-      <news:title>Berlin Election: Left Party Narrowly Ahead of CDU in Poll</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c16de62d-900d-48f0-8574-256d2fef9f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-people-in-germany-are-struggling-with-debt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T07:14:45.250Z</news:publication_date>
-      <news:title>Millions Are Struggling Under the Burden of Debt in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6aca5567-6519-4b7a-8593-a53c20079d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

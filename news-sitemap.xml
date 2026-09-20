@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-celebrates-another-state-election-win</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-20T21:02:37.050Z</news:publication_date>
+      <news:title>AfD Celebrates Another State Election Win</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/02a2d600-10fe-4524-dad6-8e4311967f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-shaken-by-far-right-and-far-left-gains-in-state-elections</loc>
     <news:news>
       <news:publication>

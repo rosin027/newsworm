@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-state-election-begins-as-voters-head-to-the-polls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-20T06:20:08.184Z</news:publication_date>
+      <news:title>Berlin State Election Begins as Voters Head to the Polls</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/15820ffc-0a32-4e70-4061-347e21634400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ozapft-is-oktoberfest-2026-begins-in-munich</loc>
     <news:news>
       <news:publication>
@@ -150,66 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6aca5567-6519-4b7a-8593-a53c20079d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-overtakes-afd-in-mecklenburg-western-pomerania-election-poll</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T06:19:25.525Z</news:publication_date>
-      <news:title>SPD Overtakes AfD in Mecklenburg-Western Pomerania Election Poll</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/dad023bb-df2f-4df3-7f20-7b24e53c4f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-urges-eu-action-on-china-to-protect-auto-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T14:10:24.273Z</news:publication_date>
-      <news:title>Germany Urges EU Action on China to Protect Auto Industry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2b6c5569-67b0-4a3e-4d99-183a63d16500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/vat-cut-on-restaurant-food-fails-to-lower-prices-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T12:16:48.765Z</news:publication_date>
-      <news:title>VAT Cut on Restaurant Food Fails to Lower Prices in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/98fea4cb-5748-43c5-e81f-99122ac82e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-public-transport-ranking-falls-to-fifth-in-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-17T11:04:49.547Z</news:publication_date>
-      <news:title>Germany?s Public Transport Ranking Falls to Fifth in Europe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a3c8502a-c3c0-4f1b-bd0a-e03f5debcb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

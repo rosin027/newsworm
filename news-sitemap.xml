@@ -123,19 +123,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-demographic-shift-hits-schools-earlier-than-expected</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T13:47:53.128Z</news:publication_date>
-      <news:title>Germany?s Demographic Shift Hits Schools Earlier Than Expected</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/546a32c3-aa16-43c6-b4fe-39ddd61c7300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

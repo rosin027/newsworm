@@ -123,19 +123,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/high-fuel-prices-dominate-mecklenburg-western-pomerania-election-debate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-18T09:29:22.383Z</news:publication_date>
-      <news:title>High Fuel Prices Dominate Mecklenburg-Western Pomerania Election Debate</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3dda42d4-3ecf-4681-ae5c-b5e2778f6500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

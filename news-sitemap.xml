@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-inspector-general-breuer-to-become-new-chairman-of-the-nato-military-committee</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-20T12:09:13.558Z</news:publication_date>
+      <news:title>Bundeswehr Inspector General Breuer to become new Chairman of the NATO Military Committee</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e1c108dd-185d-4f23-f409-9378a2301200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mecklenburg-western-pomerania-election-begins</loc>
     <news:news>
       <news:publication>

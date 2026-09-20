@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-election-2026-the-left-party-secures-historic-victory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-20T16:53:38.399Z</news:publication_date>
+      <news:title>Berlin Election 2026: The Left Party Secures Historic Victory</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/08e5410d-ea33-401f-d44b-fa6d1812fe00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-leads-spd-in-mecklenburg-western-pomerania-election</loc>
     <news:news>
       <news:publication>

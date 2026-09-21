@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-predicts-merz-will-leave-office-before-year-end</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T10:39:04.402Z</news:publication_date>
+      <news:title>AfD Predicts Merz Will Leave Office Before Year-End</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/23044d26-f6c3-421b-78aa-9e8498ad1700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-partys-eralp-rejects-expropriation-compromise-in-berlin-coalition-talks</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/15820ffc-0a32-4e70-4061-347e21634400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ozapft-is-oktoberfest-2026-begins-in-munich</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-19T10:19:13.231Z</news:publication_date>
-      <news:title>O?zapft is! Oktoberfest 2026 Begins in Munich</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eca961b5-fc48-4ce5-0832-6f11a5352400/OpenGraph</image:loc>
     </image:image>
   </url>
 

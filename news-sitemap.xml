@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-wins-mecklenburg-western-pomerania-election-ahead-of-spd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T07:19:41.926Z</news:publication_date>
+      <news:title>AfD Wins Mecklenburg Western Pomerania Election Ahead of SPD</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1475495d-1ae3-4091-f4cc-81d15244ae00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-election-2026-left-wins-as-cdu-suffers-heavy-loss</loc>
     <news:news>
       <news:publication>

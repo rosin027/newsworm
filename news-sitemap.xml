@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-partys-eralp-rejects-expropriation-compromise-in-berlin-coalition-talks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T09:22:04.150Z</news:publication_date>
+      <news:title>Left Party?s Eralp Rejects Expropriation Compromise in Berlin Coalition Talks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/91bab967-b12f-4b5c-7c6e-3b41bc45db00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-wins-mecklenburg-western-pomerania-election-ahead-of-spd</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/eca961b5-fc48-4ce5-0832-6f11a5352400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-lowers-2026-profit-forecast-to-1-percent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-19T08:51:41.062Z</news:publication_date>
-      <news:title>Volkswagen Lowers 2026 Profit Forecast to 1%</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/38fa6a2b-d68f-4d65-ea57-6da1ea100c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

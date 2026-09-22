@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/new-fuel-discount-in-germany-expected-to-be-approved-this-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T11:31:17.100Z</news:publication_date>
+      <news:title>New Fuel Discount in Germany Expected to Be Approved This Week</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ad25b14c-bef8-4e4f-bd44-5f8481871c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-to-revoke-protection-status-of-more-syrians</loc>
     <news:news>
       <news:publication>

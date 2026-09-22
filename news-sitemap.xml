@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/saxony-anhalt-final-election-result-confirms-afd-victory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T13:06:51.847Z</news:publication_date>
+      <news:title>Saxony Anhalt Final Election Result Confirms AfD Victory</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fe3cd80a-59e5-42ad-7ea8-02d72b5c9200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-raises-health-insurance-fairness-coalition-targets-doctor-appointments</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/porsche-drivers-top-flensburg-ranking-for-traffic-offences</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T09:47:36.210Z</news:publication_date>
+      <news:title>Porsche Drivers Top Flensburg Ranking for Traffic Offences</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f21b286f-2055-403c-b9ba-623240cd6f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-signals-change-to-germanys-health-insurance-system</loc>
     <news:news>
       <news:publication>

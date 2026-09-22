@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-raises-health-insurance-fairness-coalition-targets-doctor-appointments</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T13:02:48.420Z</news:publication_date>
+      <news:title>Merz Raises Health Insurance Fairness, Coalition Targets Doctor Appointments</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ba9e7603-71f4-4090-c287-4477ab0fb400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/new-fuel-discount-in-germany-expected-to-be-approved-this-week</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/100c4bfc-0656-4a95-355f-4910f8c26600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-inspector-general-breuer-to-become-new-chairman-of-the-nato-military-committee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T12:09:13.558Z</news:publication_date>
-      <news:title>Bundeswehr Inspector General Breuer to become new Chairman of the NATO Military Committee</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e1c108dd-185d-4f23-f409-9378a2301200/OpenGraph</image:loc>
     </image:image>
   </url>
 

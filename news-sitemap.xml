@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/oktoberfest-accident-employee-dies-after-being-hit-by-a-free-fall-ride</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T06:37:41.166Z</news:publication_date>
+      <news:title>Oktoberfest Accident: Employee Dies After Being Hit by a Free-Fall Ride</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d196c923-9632-4736-0fe8-c296f9918100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-auto-workers-protest-to-save-jobs-amid-industry-crisis</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ad1b057c-5f12-465c-d325-a7226b60ce00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-state-election-begins-as-voters-head-to-the-polls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T06:20:08.184Z</news:publication_date>
-      <news:title>Berlin State Election Begins Amid a Close Race for Power</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/15820ffc-0a32-4e70-4061-347e21634400/OpenGraph</image:loc>
     </image:image>
   </url>
 

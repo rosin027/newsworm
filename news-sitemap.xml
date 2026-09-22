@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-signals-change-to-germanys-health-insurance-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T06:45:20.824Z</news:publication_date>
+      <news:title>Merz Signals Change to Germany?s Health Insurance System</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a9d0e4dc-4068-4b66-b9d8-215fa8c4e800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/oktoberfest-accident-employee-dies-after-being-hit-by-a-free-fall-ride</loc>
     <news:news>
       <news:publication>

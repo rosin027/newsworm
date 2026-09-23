@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-left-party-faces-pressure-over-clan-links-and-antisemitism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T07:26:59.821Z</news:publication_date>
+      <news:title>Berlin Left Party Faces Pressure Over Clan Links and Antisemitism</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e32cb072-edb3-4dd1-6943-002382e35c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/new-one-klopp-promises-fresh-approach-as-germany-reign-begins</loc>
     <news:news>
       <news:publication>

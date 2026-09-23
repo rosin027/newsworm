@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ig-metall-calls-for-5-pay-rise-in-metal-and-electrical-sector</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T14:23:55.703Z</news:publication_date>
+      <news:title>IG Metall Calls for 5% Pay Rise in Metal and Electrical Sector</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b48619f2-6933-4580-390e-512bb0e2db00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-tightens-crackdown-on-social-benefits-fraud</loc>
     <news:news>
       <news:publication>

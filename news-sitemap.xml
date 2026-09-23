@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/north-rhine-westphalia-poll-cdu-leads-but-afd-gains-ground</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T08:21:23.572Z</news:publication_date>
+      <news:title>North Rhine Westphalia Poll: CDU Leads But AfD Gains Ground</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b3d7446d-717d-414e-c478-200c4ddda700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-left-party-faces-pressure-over-clan-links-and-antisemitism</loc>
     <news:news>
       <news:publication>

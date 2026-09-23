@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/oil-prices-fall-as-trump-hails-very-good-talks-with-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T09:01:59.745Z</news:publication_date>
+      <news:title>Oil Prices Fall as Trump Hails ?Very Good? Talks With Iran</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/20244769-9eae-413c-afdc-7e4459fc2a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/north-rhine-westphalia-poll-cdu-leads-but-afd-gains-ground</loc>
     <news:news>
       <news:publication>

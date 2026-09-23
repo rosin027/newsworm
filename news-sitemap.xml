@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/autumn-has-officially-begun-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T10:00:15.144Z</news:publication_date>
+      <news:title>Autumn Has Officially Begun in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/32104dce-6e9c-4e48-984c-0e347a0e2e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/oecd-raises-germanys-economic-growth-forecast</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/23044d26-f6c3-421b-78aa-9e8498ad1700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/left-partys-eralp-rejects-expropriation-compromise-in-berlin-coalition-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T09:22:04.150Z</news:publication_date>
-      <news:title>Left Party?s Eralp Rejects Expropriation Compromise in Berlin Coalition Talks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/91bab967-b12f-4b5c-7c6e-3b41bc45db00/OpenGraph</image:loc>
     </image:image>
   </url>
 

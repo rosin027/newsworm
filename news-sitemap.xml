@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/adac-wants-germany-to-scrap-the-12-noon-fuel-price-rule</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T11:56:28.907Z</news:publication_date>
+      <news:title>ADAC Wants Germany to Scrap the 12 Noon Fuel Price Rule</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e757bb76-7ef2-4512-219c-e559f9b2c700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-to-replace-paper-receipts-with-digital-receipts</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d196c923-9632-4736-0fe8-c296f9918100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-auto-workers-protest-to-save-jobs-amid-industry-crisis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T11:33:30.319Z</news:publication_date>
-      <news:title>German Auto Workers Protest to Save Jobs Amid Industry Crisis</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0a1404de-d198-482c-6c43-88f7d3375200/OpenGraph</image:loc>
     </image:image>
   </url>
 

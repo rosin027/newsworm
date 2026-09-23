@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/new-one-klopp-promises-fresh-approach-as-germany-reign-begins</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T07:02:20.832Z</news:publication_date>
+      <news:title>&apos;New one&apos; Klopp promises fresh approach as Germany reign begins</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4959ae01-eec0-4e16-bdcc-9db4017eee00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/saxony-anhalt-final-election-result-confirms-afd-victory</loc>
     <news:news>
       <news:publication>
@@ -165,81 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1475495d-1ae3-4091-f4cc-81d15244ae00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-election-2026-left-wins-as-cdu-suffers-heavy-loss</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T07:01:42.921Z</news:publication_date>
-      <news:title>Berlin Election 2026: Left Wins as CDU Suffers Heavy Loss</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/65c2d11f-5f84-4804-df1f-01cfab340500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-celebrates-another-state-election-win</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T21:02:37.050Z</news:publication_date>
-      <news:title>AfD Celebrates Another State Election Win</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/02a2d600-10fe-4524-dad6-8e4311967f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-shaken-by-far-right-and-far-left-gains-in-state-elections</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T17:23:24.406Z</news:publication_date>
-      <news:title>Merz Shaken by Far-Right and Far-Left Gains in State Elections</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8f9b9c75-a0ca-4888-7325-afaf7c4b6e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-election-2026-the-left-party-secures-historic-victory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T16:53:38.399Z</news:publication_date>
-      <news:title>Berlin Election 2026: The Left Party Secures Historic Victory</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/08e5410d-ea33-401f-d44b-fa6d1812fe00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-leads-spd-in-mecklenburg-western-pomerania-election</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-20T16:38:02.278Z</news:publication_date>
-      <news:title>AfD Leads SPD in Mecklenburg-Western Pomerania Election</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/100c4bfc-0656-4a95-355f-4910f8c26600/OpenGraph</image:loc>
     </image:image>
   </url>
 

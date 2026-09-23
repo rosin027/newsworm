@@ -228,19 +228,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/afd-predicts-merz-will-leave-office-before-year-end</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T10:39:04.402Z</news:publication_date>
-      <news:title>AfD Predicts Merz Will Leave Office Before Year-End</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/23044d26-f6c3-421b-78aa-9e8498ad1700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

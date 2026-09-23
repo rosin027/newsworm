@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-to-replace-paper-receipts-with-digital-receipts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T10:14:34.219Z</news:publication_date>
+      <news:title>Germany to Replace Paper Receipts with Digital Receipts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/31f177d9-4226-4288-1461-0a4a99305c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/autumn-has-officially-begun-in-germany</loc>
     <news:news>
       <news:publication>

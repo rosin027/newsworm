@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/oecd-raises-germany-growth-forecast-despite-gulf-war</loc>
+    <loc>https://www.newsworm.de/news/oecd-raises-germanys-economic-growth-forecast</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-23T09:11:36.282Z</news:publication_date>
-      <news:title>OECD Raises Germany Growth Forecast Despite Gulf War</news:title>
+      <news:title>OECD Raises Germany?s Economic Growth Forecast</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/784391a3-1975-46bf-ac1e-ef4150157900/OpenGraph</image:loc>

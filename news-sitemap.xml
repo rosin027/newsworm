@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/energy-pensions-fuel-discounts-economists-criticise-policies</loc>
+    <loc>https://www.newsworm.de/news/energy-pensions-fuel-discounts-economists-criticise-government</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-24T12:39:56.891Z</news:publication_date>
-      <news:title>Energy, Pensions, Fuel Discounts: Economists Criticise Policies</news:title>
+      <news:title>Energy, Pensions, Fuel Discounts: Economists Criticise Government</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5cb27b28-38d8-49f0-aa45-bc2e8c413200/OpenGraph</image:loc>

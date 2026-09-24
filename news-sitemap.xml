@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/klopp-urges-germany-to-rise-together-ahead-of-his-debut-match</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T07:14:52.248Z</news:publication_date>
+      <news:title>Klopp Urges Germany to Rise Together Ahead of His Debut Match</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7311e9de-ee79-4ab5-3182-5ecfa4437400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-set-to-withdraw-olympic-bid-after-election-result</loc>
     <news:news>
       <news:publication>

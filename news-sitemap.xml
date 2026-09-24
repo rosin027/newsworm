@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/energy-pensions-fuel-discounts-economists-criticise-policies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T12:39:56.891Z</news:publication_date>
+      <news:title>Energy, Pensions, Fuel Discounts: Economists Criticise Policies</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5cb27b28-38d8-49f0-aa45-bc2e8c413200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-moves-to-form-government-without-afd-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>
@@ -285,21 +300,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ba9e7603-71f4-4090-c287-4477ab0fb400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/new-fuel-discount-in-germany-expected-to-be-approved-this-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T11:31:17.100Z</news:publication_date>
-      <news:title>New Fuel Discount in Germany Expected to Be Approved This Week</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ad25b14c-bef8-4e4f-bd44-5f8481871c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

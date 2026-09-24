@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-set-to-withdraw-olympic-bid-after-election-result</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T07:07:57.558Z</news:publication_date>
+      <news:title>Berlin Set to Withdraw Olympic Bid After Election Result</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f1377bc0-d14b-4d0b-d20b-2375d0d0e900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ig-metall-calls-for-5-pay-rise-in-metal-and-electrical-sector</loc>
     <news:news>
       <news:publication>
@@ -225,36 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f21b286f-2055-403c-b9ba-623240cd6f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-signals-change-to-germanys-health-insurance-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T06:45:20.824Z</news:publication_date>
-      <news:title>Merz Signals Change to Germany?s Health Insurance System</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a9d0e4dc-4068-4b66-b9d8-215fa8c4e800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/oktoberfest-accident-employee-dies-after-being-hit-by-a-free-fall-ride</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T06:37:41.166Z</news:publication_date>
-      <news:title>Oktoberfest Accident: Employee Dies After Being Hit by a Free-Fall Ride</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d196c923-9632-4736-0fe8-c296f9918100/OpenGraph</image:loc>
     </image:image>
   </url>
 

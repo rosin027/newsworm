@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-moves-to-form-government-without-afd-in-saxony-anhalt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T10:53:04.836Z</news:publication_date>
+      <news:title>SPD Moves to Form Government Without AfD in Saxony-Anhalt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/afacf1dd-ff43-4459-868e-c2b16dfd6c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-withdraws-its-bid-to-host-the-olympics</loc>
     <news:news>
       <news:publication>
@@ -285,21 +300,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ad25b14c-bef8-4e4f-bd44-5f8481871c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-to-revoke-protection-status-of-more-syrians</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T10:15:42.728Z</news:publication_date>
-      <news:title>Germany Plans to Revoke Protection Status of More Syrians</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1cb8b4df-b054-4873-80e3-495384896200/OpenGraph</image:loc>
     </image:image>
   </url>
 

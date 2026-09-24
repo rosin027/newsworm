@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/organ-donation-reform-bundestag-debates-opt-out-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T13:28:35.270Z</news:publication_date>
+      <news:title>Organ Donation Reform: Bundestag Debates Opt Out System</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4dcf83e6-8845-4cfb-4612-024a2df12000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/energy-pensions-fuel-discounts-economists-criticise-government</loc>
     <news:news>
       <news:publication>

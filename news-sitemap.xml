@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-is-changing-in-germany-in-october-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T01:02:49.252Z</news:publication_date>
+      <news:title>What Is Changing in Germany in October 2026?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fc511edb-d34b-4bdf-c9cb-0df3dc596d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/driving-license-reform-germany-moves-closer-to-new-rules</loc>
     <news:news>
       <news:publication>

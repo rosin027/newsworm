@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-dax-firms-see-sharpest-job-decline-in-european-comparison</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T11:05:25.279Z</news:publication_date>
+      <news:title>German DAX Firms See Sharpest Job Decline in European Comparison</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/German DAX companies cut over 46,000 jobs in 2025, recording the sharpest employment decline among major European listed companies in France, Spain and Italy./OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/millions-in-billing-fraud-losses-reported-by-dak-gesundheit</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-makes-child-benefit-application-free-and-changes-e-scooter-liability-rules</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T11:46:08.368Z</news:publication_date>
+      <news:title>Germany Makes Child Benefit Application-Free and Changes E-Scooter Liability Rules</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cf58336a-5748-412b-0df5-949b1d56f800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-dax-firms-see-sharpest-job-decline-in-european-comparison</loc>
     <news:news>
       <news:publication>
@@ -255,21 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d41029d8-2b8f-4ee8-463c-f88827f29600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/adac-wants-germany-to-scrap-the-12-noon-fuel-price-rule</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T11:56:28.907Z</news:publication_date>
-      <news:title>ADAC Wants Germany to Scrap the 12 Noon Fuel Price Rule</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e757bb76-7ef2-4512-219c-e559f9b2c700/OpenGraph</image:loc>
     </image:image>
   </url>
 

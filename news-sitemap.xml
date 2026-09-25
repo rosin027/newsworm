@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-and-audi-recall-nearly-1-million-cars-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T12:51:19.643Z</news:publication_date>
+      <news:title>Volkswagen and Audi Recall Nearly 1 Million Cars in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7454e7d7-72f6-4fe1-5746-88dbae2fba00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-makes-child-benefit-application-free-and-changes-e-scooter-liability-rules</loc>
     <news:news>
       <news:publication>

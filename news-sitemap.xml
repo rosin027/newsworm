@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-early-start-pension-bill-introduced-in-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T09:31:29.306Z</news:publication_date>
+      <news:title>Germany?s Early Start Pension Bill Introduced in Bundestag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/18683fd7-734a-43d8-ee40-ef11814a2d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/wohngeld-in-germany-1-3-million-households-received-support</loc>
     <news:news>
       <news:publication>
@@ -255,36 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/32104dce-6e9c-4e48-984c-0e347a0e2e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/oecd-raises-germanys-economic-growth-forecast</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T09:11:36.282Z</news:publication_date>
-      <news:title>OECD Raises Germany?s Economic Growth Forecast</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/784391a3-1975-46bf-ac1e-ef4150157900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/oil-prices-fall-as-trump-hails-very-good-talks-with-iran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T09:01:59.745Z</news:publication_date>
-      <news:title>Oil Prices Fall as Trump Hails ?Very Good? Talks With Iran</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/20244769-9eae-413c-afdc-7e4459fc2a00/OpenGraph</image:loc>
     </image:image>
   </url>
 

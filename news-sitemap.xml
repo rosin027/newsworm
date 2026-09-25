@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/millions-in-billing-fraud-losses-reported-by-dak-gesundheit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T10:03:36.798Z</news:publication_date>
+      <news:title>Millions in Billing Fraud Losses Reported by DAK-Gesundheit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/31565603-6b8e-415c-4fb7-dd5f71d3d500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-early-start-pension-bill-introduced-in-bundestag</loc>
     <news:news>
       <news:publication>
@@ -255,21 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/31f177d9-4226-4288-1461-0a4a99305c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/autumn-has-officially-begun-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T10:00:15.144Z</news:publication_date>
-      <news:title>Autumn Has Officially Begun in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/32104dce-6e9c-4e48-984c-0e347a0e2e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -26,7 +26,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-09-25T11:46:08.368Z</news:publication_date>
-      <news:title>Germany Makes Child Benefit Application-Free and Changes E-Scooter Liability Rules</news:title>
+      <news:title>Germany Approves New Rules on Child Benefit, E-Scooters &amp; Fuel</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/cf58336a-5748-412b-0df5-949b1d56f800/OpenGraph</image:loc>
@@ -270,21 +270,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b48619f2-6933-4580-390e-512bb0e2db00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-tightens-crackdown-on-social-benefits-fraud</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T12:59:02.500Z</news:publication_date>
-      <news:title>Germany Tightens Crackdown on Social Benefits Fraud</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d41029d8-2b8f-4ee8-463c-f88827f29600/OpenGraph</image:loc>
     </image:image>
   </url>
 

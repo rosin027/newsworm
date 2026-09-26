@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-hospitals-call-for-faster-recognition-of-foreign-qualifications</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T10:54:10.193Z</news:publication_date>
+      <news:title>German Hospitals Call for Faster Recognition of Foreign Qualifications</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7b56449d-5628-4f5b-3198-32f1d88f6200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/more-than-100-000-students-await-dormitory-places-in-germany</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5cb27b28-38d8-49f0-aa45-bc2e8c413200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-moves-to-form-government-without-afd-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T10:53:04.836Z</news:publication_date>
-      <news:title>SPD Moves to Form Government Without AfD in Saxony-Anhalt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/afacf1dd-ff43-4459-868e-c2b16dfd6c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

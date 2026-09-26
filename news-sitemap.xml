@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/thousands-protest-in-germany-against-social-benefit-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T13:18:53.373Z</news:publication_date>
+      <news:title>Thousands Protest in Germany Against Social Benefit Cuts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ca8b288e-6d8d-4b5d-7d98-002a0a91b500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-transport-minister-criticises-slow-railway-renovations</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4dcf83e6-8845-4cfb-4612-024a2df12000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/energy-pensions-fuel-discounts-economists-criticise-government</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T12:39:56.891Z</news:publication_date>
-      <news:title>Energy, Pensions, Fuel Discounts: Economists Criticise Government</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5cb27b28-38d8-49f0-aa45-bc2e8c413200/OpenGraph</image:loc>
     </image:image>
   </url>
 

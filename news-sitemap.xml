@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdus-young-union-leader-wants-lower-social-benefits-for-migrants</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T15:15:24.418Z</news:publication_date>
+      <news:title>CDU&apos;s Young Union Leader Wants Lower Social Benefits for Migrants</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/eaaed3f1-e2bc-475f-3a14-479e4d3b4300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/munich-oktoberfest-what-the-mid-festival-report-shows</loc>
     <news:news>
       <news:publication>

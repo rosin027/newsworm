@@ -153,19 +153,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-makes-child-benefit-application-free-and-changes-e-scooter-liability-rules</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T11:46:08.368Z</news:publication_date>
-      <news:title>Germany Approves New Rules on Child Benefit, E-Scooters &amp; Fuel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cf58336a-5748-412b-0df5-949b1d56f800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

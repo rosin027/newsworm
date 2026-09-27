@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/two-killed-as-bus-carrying-tourists-to-oktoberfest-overturns-in-bavaria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T11:32:35.809Z</news:publication_date>
+      <news:title>Two Killed as Bus Carrying Tourists to Oktoberfest Overturns in Bavaria</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/58dfe9bb-a141-4111-7067-0e12a457ff00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/europe-needs-more-ai-optimism-to-compete-with-us-and-china</loc>
     <news:news>
       <news:publication>
@@ -150,66 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/cf58336a-5748-412b-0df5-949b1d56f800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-dax-firms-see-sharpest-job-decline-in-european-comparison</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T11:05:25.279Z</news:publication_date>
-      <news:title>German DAX Firms See Sharpest Job Decline in European Comparison</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0a5972a9-3081-4ec4-2781-4caba9ab7100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/millions-in-billing-fraud-losses-reported-by-dak-gesundheit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T10:03:36.798Z</news:publication_date>
-      <news:title>Millions in Billing Fraud Losses Reported by DAK-Gesundheit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/31565603-6b8e-415c-4fb7-dd5f71d3d500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-early-start-pension-bill-introduced-in-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T09:31:29.306Z</news:publication_date>
-      <news:title>Germany?s Early Start Pension Bill Introduced in Bundestag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/18683fd7-734a-43d8-ee40-ef11814a2d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/wohngeld-in-germany-1-3-million-households-received-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T08:34:27.499Z</news:publication_date>
-      <news:title>Wohngeld in Germany: 1.3 Million Households Received Support</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cf4f6006-3964-48d7-8440-87ad0d477500/OpenGraph</image:loc>
     </image:image>
   </url>
 

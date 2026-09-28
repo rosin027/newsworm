@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/russia-takes-german-retailer-metros-business-under-its-control</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T15:25:42.906Z</news:publication_date>
+      <news:title>Russia Takes German Retailer Metro?s Business Under Its Control</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0672e109-5aef-4a09-9df5-0485814e0800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-constitutional-court-marks-75-years</loc>
     <news:news>
       <news:publication>

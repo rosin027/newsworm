@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-sets-new-solar-power-record</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T09:11:02.575Z</news:publication_date>
+      <news:title>Germany Sets New Solar Power Record</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3c21af39-0229-4836-4886-333c6464e600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-police-launch-ai-video-surveillance-at-crime-hotspot</loc>
     <news:news>
       <news:publication>

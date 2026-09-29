@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-households-financial-assets-rise-to-9-9-trillion-euros</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T08:59:15.879Z</news:publication_date>
+      <news:title>German Households&apos; Financial Assets Rise to ?9.9 Trillion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/183200b5-ca17-4ed8-d63f-0de4babcc400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-president-klockner-criticises-afd-and-left-party-conduct-in-parliament</loc>
     <news:news>
       <news:publication>
@@ -195,36 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/58dfe9bb-a141-4111-7067-0e12a457ff00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-needs-more-ai-optimism-to-compete-with-us-and-china</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T07:31:10.018Z</news:publication_date>
-      <news:title>Europe Needs More AI Optimism to Compete With US and China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/57ad92fe-2295-44c6-b313-8fc7b735e500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-wants-stronger-frontex-role-in-deportations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T07:26:36.515Z</news:publication_date>
-      <news:title>Germany Wants Stronger Frontex Role in Deportations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4729c355-b1da-4e3e-dcc1-4bbbb80bb900/OpenGraph</image:loc>
     </image:image>
   </url>
 

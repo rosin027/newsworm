@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-weighs-truck-exemptions-as-river-levels-fall</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T09:33:05.723Z</news:publication_date>
+      <news:title>Germany Weighs Truck Exemptions as River Levels Fall</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2a96e45b-7198-42e7-0846-f68b52263100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-households-financial-assets-rise-to-9-9-trillion-euros</loc>
     <news:news>
       <news:publication>

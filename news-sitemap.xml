@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-president-klockner-criticises-afd-and-left-party-conduct-in-parliament</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T06:51:22.816Z</news:publication_date>
+      <news:title>Bundestag President Kl?ckner Criticises AfD and Left Party Conduct in Parliament</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/93a90581-df0d-4b67-d211-1f0f8441e000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/russia-takes-german-retailer-metros-business-under-its-control</loc>
     <news:news>
       <news:publication>

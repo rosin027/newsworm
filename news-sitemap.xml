@@ -228,19 +228,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/two-killed-as-bus-carrying-tourists-to-oktoberfest-overturns-in-bavaria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T11:32:35.809Z</news:publication_date>
-      <news:title>Two Killed as Bus Carrying Tourists to Oktoberfest Overturns in Bavaria</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/58dfe9bb-a141-4111-7067-0e12a457ff00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

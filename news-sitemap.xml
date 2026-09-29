@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-leaders-call-for-possible-afd-ban-proceedings</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T13:56:12.502Z</news:publication_date>
+      <news:title>SPD Leaders Call for Possible AfD Ban Proceedings</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/db0d3176-6a89-40fa-6df0-a66217dd2e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/september-2026-was-exceptionally-warm-and-sunny-in-germany</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/204de93c-efea-4c8e-d5c8-82667debbc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spain-pm-vows-action-as-housing-protest-sparked-by-eviction-grows</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T12:45:42.851Z</news:publication_date>
-      <news:title>Spain PM Vows Action as Housing Protest Sparked by Eviction Grows</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e4931721-a73e-40e2-e52c-cf940d6e5e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/environmental-group-bund-criticizes-price-increase-of-deutschlandticket-as-unacceptable</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T08:44:24.285Z</news:publication_date>
+      <news:title>Environmental Group BUND Criticizes Price Increase of Deutschlandticket as Unacceptable</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/46d40dea-73d4-4fed-2589-63534ccb8800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-launches-major-raids-against-neo-nazi-music-network</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/netanyahu-says-flydubai-pilot-tried-to-crash-plane</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T16:51:56.074Z</news:publication_date>
+      <news:title>Netanyahu Says Flydubai Pilot Tried to Crash Plane</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4e4c38f5-290e-4029-a1ca-17e0a90fd700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutschlandticket-price-rises-to-eu66-80-from-2027</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/93a90581-df0d-4b67-d211-1f0f8441e000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/russia-takes-german-retailer-metros-business-under-its-control</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T15:25:42.906Z</news:publication_date>
-      <news:title>Russia Takes German Retailer Metro?s Business Under Its Control</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0672e109-5aef-4a09-9df5-0485814e0800/OpenGraph</image:loc>
     </image:image>
   </url>
 

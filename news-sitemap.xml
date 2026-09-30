@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/afd-aims-to-lead-saxony-anhalt-govt-in-december</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T08:00:44.231Z</news:publication_date>
+      <news:title>AfD aims to lead Saxony-Anhalt govt in December</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/13368f63-52c7-4921-7dc2-536725a06600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-hannover-rail-line-closed-until-2027-for-renovation</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3c21af39-0229-4836-4886-333c6464e600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-police-launch-ai-video-surveillance-at-crime-hotspot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T07:12:58.657Z</news:publication_date>
-      <news:title>Berlin Police Launch AI Video Surveillance at Crime Hotspot</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/860fb404-6101-4879-e4c6-a4efb58c9200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/which-jobs-in-germany-have-the-most-immigrant-workers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T06:53:17.377Z</news:publication_date>
-      <news:title>Which Skilled-Worker Shortage Jobs Have the Highest Share of Immigrant?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d0204abc-c6e5-4d0d-8975-40677ff4f300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdus-young-union-leader-wants-lower-social-benefits-for-migrants</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T15:15:24.418Z</news:publication_date>
-      <news:title>CDU&apos;s Young Union Leader Wants Lower Social Benefits for Migrants</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eaaed3f1-e2bc-475f-3a14-479e4d3b4300/OpenGraph</image:loc>
     </image:image>
   </url>
 

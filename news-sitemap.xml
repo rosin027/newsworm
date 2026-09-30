@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-boosts-gas-storage-as-winter-supply-risks-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T12:26:40.750Z</news:publication_date>
+      <news:title>Germany Boosts Gas Storage as Winter Supply Risks Rise</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cffba967-2743-4cab-4252-9a980e297f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-unemployment-falls-below-3-million-but-recovery-remains-weak</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/523596c6-db06-4c31-8751-90e98aaaf100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-startups-raise-eu8-billion-in-investments-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T11:08:57.764Z</news:publication_date>
-      <news:title>German Startups Attract Significantly More Investment in 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/aea84696-6c7b-4558-03d8-ed406024bb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-launches-major-raids-against-neo-nazi-music-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T08:16:32.097Z</news:publication_date>
+      <news:title>Germany Launches Major Raids Against Neo-Nazi Music Network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/418360d9-ae62-499c-bd0a-b97a2cfe3d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-aims-to-lead-saxony-anhalt-govt-in-december</loc>
     <news:news>
       <news:publication>

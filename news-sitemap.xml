@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/inflation-in-germany-rises-to-highest-level-since-2023</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T13:03:01.307Z</news:publication_date>
+      <news:title>Inflation in Germany Rises to Highest Level Since 2023</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/50b75455-e7cb-4515-9cb7-8358d119a400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-boosts-gas-storage-as-winter-supply-risks-rise</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/59973190-524e-498b-2378-5647ef019300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/pope-urges-europe-to-combat-lies-and-deceit-in-global-ties</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T12:39:22.163Z</news:publication_date>
-      <news:title>Pope Urges Europe to Combat ?Lies and Deceit? in Global Ties</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/523596c6-db06-4c31-8751-90e98aaaf100/OpenGraph</image:loc>
     </image:image>
   </url>
 

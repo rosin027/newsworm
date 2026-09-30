@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutschlandticket-price-rises-to-eu66-80-from-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T14:08:30.343Z</news:publication_date>
+      <news:title>Deutschlandticket Price Rises to ?66.80 From 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3be76a69-ca74-4e98-e15f-86a18e893900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-ends-numerous-collective-agreements-amid-cost-pressure</loc>
     <news:news>
       <news:publication>

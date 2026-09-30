@@ -243,19 +243,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-constitutional-court-marks-75-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T15:01:08.585Z</news:publication_date>
-      <news:title>Germany?s Constitutional Court Marks 75 Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/59973190-524e-498b-2378-5647ef019300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/nursing-pay-rises-as-germanys-care-insurance-faces-strain</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T09:30:56.048Z</news:publication_date>
+      <news:title>Nursing Pay Rises as Germany?s Care Insurance Faces Strain</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/bc18d4b7-99dc-4149-6cad-de7278d38200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-faces-sharp-criticism-from-economists</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2a96e45b-7198-42e7-0846-f68b52263100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-households-financial-assets-rise-to-9-9-trillion-euros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T08:59:15.879Z</news:publication_date>
-      <news:title>German Households&apos; Financial Assets Rise to ?9.9 Trillion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/183200b5-ca17-4ed8-d63f-0de4babcc400/OpenGraph</image:loc>
     </image:image>
   </url>
 

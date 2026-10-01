@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-are-germans-most-worried-about-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T09:41:43.681Z</news:publication_date>
+      <news:title>What Are Germans Most Worried About in 2026?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fa054ae9-3769-451d-1abd-d7ae14aa3800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nursing-pay-rises-as-germanys-care-insurance-faces-strain</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/100-examples-of-public-spending-gone-wrong-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T11:31:53.495Z</news:publication_date>
+      <news:title>100 Examples of Public Spending Gone Wrong in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a3940242-9009-4be0-0323-08c2d64c1000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-are-germans-most-worried-about-in-2026</loc>
     <news:news>
       <news:publication>
@@ -240,21 +255,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/76dbe0e8-084c-4f28-f4b7-d9ce8ac09b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-csd-attack-memorial-bench-damaged-for-third-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T10:27:37.348Z</news:publication_date>
-      <news:title>Berlin CSD Attack Memorial Bench Damaged for Third Time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b4e1a47f-ef37-4a6f-fb79-99c731d1fa00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-calls-for-unity-in-backing-ukraine-against-russia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T15:41:51.722Z</news:publication_date>
+      <news:title>Merz Calls for Unity in Backing Ukraine Against Russia</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/990b3815-c101-4337-78de-64de7b951600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-sugar-tax-draft-halted-by-chancellors-office</loc>
     <news:news>
       <news:publication>
@@ -225,36 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ab561f5f-a35d-4a53-68ff-5ad1fdd72500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-hannover-rail-line-closed-until-2027-for-renovation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T14:15:48.387Z</news:publication_date>
-      <news:title>Berlin?Hannover Rail Line Closed Until 2027 for Renovation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8f7eac7b-7592-441a-61cd-2412e3237a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-leaders-call-for-review-of-possible-afd-ban</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T13:56:12.502Z</news:publication_date>
-      <news:title>SPD Leaders Call for Review of Possible AfD Ban</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/db0d3176-6a89-40fa-6df0-a66217dd2e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

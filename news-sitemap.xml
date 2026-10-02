@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-faster-resolution-of-flight-compensation-disputes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T12:45:18.400Z</news:publication_date>
+      <news:title>Germany Plans Faster Resolution of Flight Compensation Disputes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e0879468-46b8-4a53-0544-7b46893d2600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/amazon-prime-price-increase-struck-down-by-germanys-top-court</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/50b75455-e7cb-4515-9cb7-8358d119a400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-boosts-gas-storage-as-winter-supply-risks-rise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T12:26:40.750Z</news:publication_date>
-      <news:title>Germany Boosts Gas Storage as Winter Supply Risks Rise</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cffba967-2743-4cab-4252-9a980e297f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

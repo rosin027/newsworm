@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-looks-to-ai-future-amid-germanys-rail-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T10:46:39.253Z</news:publication_date>
+      <news:title>Deutsche Bahn Looks to AI Future Amid Germany?s Rail Crisis</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/84749612-e70d-45c9-024a-a8ee86888e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/electricity-prices-in-germany-could-rise-in-2027</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/cffba967-2743-4cab-4252-9a980e297f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-unemployment-falls-below-3-million-but-recovery-remains-weak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T10:39:07.860Z</news:publication_date>
-      <news:title>Germany?s Unemployment Falls Below 3 Million, But Recovery Remains Weak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8e07b8dd-c9b0-444e-f547-a288e312e200/OpenGraph</image:loc>
     </image:image>
   </url>
 

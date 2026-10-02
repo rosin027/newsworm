@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/electricity-prices-in-germany-could-rise-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T09:18:12.226Z</news:publication_date>
+      <news:title>Electricity Prices in Germany Could Rise in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a88a0ca2-d7ea-41c1-af39-8de172df1600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/klopp-averts-crisis-with-first-win-as-germany-boss</loc>
     <news:news>
       <news:publication>
@@ -210,51 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/8e07b8dd-c9b0-444e-f547-a288e312e200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/environmental-group-bund-criticizes-price-increase-of-deutschlandticket-as-unacceptable</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T08:44:24.285Z</news:publication_date>
-      <news:title>Environmental Group BUND Criticizes Price Increase of Deutschlandticket as Unacceptable</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/46d40dea-73d4-4fed-2589-63534ccb8800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-launches-major-raids-against-neo-nazi-music-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T08:16:32.097Z</news:publication_date>
-      <news:title>Germany Launches Major Raids Against Neo-Nazi Music Network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/418360d9-ae62-499c-bd0a-b97a2cfe3d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-aims-to-lead-saxony-anhalt-govt-in-december</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T08:00:44.231Z</news:publication_date>
-      <news:title>AfD aims to lead Saxony-Anhalt govt in December</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ab561f5f-a35d-4a53-68ff-5ad1fdd72500/OpenGraph</image:loc>
     </image:image>
   </url>
 

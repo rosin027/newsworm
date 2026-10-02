@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/klopp-averts-crisis-with-first-win-as-germany-boss</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T07:43:46.746Z</news:publication_date>
+      <news:title>Klopp Averts Crisis With First Win as Germany Boss</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/af562cc6-da4b-4e25-0bbf-a0d5f6ec8c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-calls-for-unity-in-backing-ukraine-against-russia</loc>
     <news:news>
       <news:publication>

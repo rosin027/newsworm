@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/amazon-prime-price-increase-struck-down-by-germanys-top-court</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T11:19:17.087Z</news:publication_date>
+      <news:title>Amazon Prime Price Increase Struck Down by Germany&apos;s Top Court</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4506aa8a-0927-4efe-8a44-40442e0fbf00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-looks-to-ai-future-amid-germanys-rail-crisis</loc>
     <news:news>
       <news:publication>

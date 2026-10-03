@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/g7-to-release-oil-and-diesel-reserves-as-fuel-prices-surge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T08:39:18.159Z</news:publication_date>
+      <news:title>G7 to Release Oil and Diesel Reserves as Fuel Prices Surge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/92a7b1c0-b781-4745-4758-f225e5669e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-unity-day-2026-bremen-hosts-national-celebrations</loc>
     <news:news>
       <news:publication>

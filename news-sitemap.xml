@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/steinmeier-warns-of-threats-to-german-democracy-and-unity</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T12:59:00.213Z</news:publication_date>
+      <news:title>Steinmeier Warns of Threats to German Democracy and Unity</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/361fad22-292c-450f-d5fe-50b14347db00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/g7-to-release-oil-and-diesel-reserves-as-fuel-prices-surge</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/f7147815-9062-4530-cb68-c39a0df37300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/where-is-germany-wasting-taxpayers-money</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T11:31:53.495Z</news:publication_date>
-      <news:title>Where Is Germany Wasting Taxpayers? Money?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a3940242-9009-4be0-0323-08c2d64c1000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-are-germans-most-worried-about-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T09:41:43.681Z</news:publication_date>
-      <news:title>What Are Germans Most Worried About in 2026?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fa054ae9-3769-451d-1abd-d7ae14aa3800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/nursing-pay-rises-as-germanys-care-insurance-faces-strain</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T09:30:56.048Z</news:publication_date>
-      <news:title>Nursing Pay Rises as Germany?s Care Insurance Faces Strain</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/bc18d4b7-99dc-4149-6cad-de7278d38200/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/only-about-half-of-deutsche-bahn-long-distance-trains-on-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T07:09:36.717Z</news:publication_date>
+      <news:title>Only About Half of Deutsche Bahn Long Distance Trains On Time</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/35397521-b4f4-4336-4caa-83c0fec12100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-election-error-reduces-parliament-to-153-seats</loc>
     <news:news>
       <news:publication>
@@ -180,66 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2f6917db-2e83-4958-d6e2-5a06d9575600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/netanyahu-says-flydubai-pilot-tried-to-crash-plane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T16:51:56.074Z</news:publication_date>
-      <news:title>Netanyahu Says Flydubai Pilot Tried to Crash Plane</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4e4c38f5-290e-4029-a1ca-17e0a90fd700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germayn-cabinet-approves-care-reform---contribution-increase-for-2027-averted</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T16:41:32.130Z</news:publication_date>
-      <news:title>German Cabinet Approves Care Reform ? Contribution Increase for 2027 Averted</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/70743efc-c9d2-4483-f41e-d7462ffe2d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutschlandticket-price-rises-to-eu66-80-from-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:08:30.343Z</news:publication_date>
-      <news:title>Deutschlandticket Price Rises to ?66.80 From 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3be76a69-ca74-4e98-e15f-86a18e893900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-ends-numerous-collective-agreements-amid-cost-pressure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:00:05.530Z</news:publication_date>
-      <news:title>Volkswagen Ends Numerous Collective Agreements Amid Cost Pressure</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2d5c544b-9015-4e85-32bb-3db4746c9200/OpenGraph</image:loc>
     </image:image>
   </url>
 

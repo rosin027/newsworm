@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-unity-day-2026-bremen-hosts-national-celebrations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T07:47:08.363Z</news:publication_date>
+      <news:title>German Unity Day 2026: Bremen Hosts National Celebrations</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c529ca3e-7907-4d98-bbf7-28e0f4e7ca00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/only-about-half-of-deutsche-bahn-long-distance-trains-on-time</loc>
     <news:news>
       <news:publication>

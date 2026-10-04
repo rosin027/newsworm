@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-to-offer-family-ticket-permanently</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T07:47:21.293Z</news:publication_date>
+      <news:title>Deutsche Bahn to Offer Family Ticket Permanently</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6e5300c4-5066-463f-6eff-731396a7de00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlins-left-party-greens-and-spd-continue-coalition-talks</loc>
     <news:news>
       <news:publication>
@@ -150,36 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a88a0ca2-d7ea-41c1-af39-8de172df1600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/klopp-averts-crisis-with-first-win-as-germany-boss</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T07:43:46.746Z</news:publication_date>
-      <news:title>Klopp Averts Crisis With First Win as Germany Boss</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/af562cc6-da4b-4e25-0bbf-a0d5f6ec8c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-calls-for-unity-in-backing-ukraine-against-russia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T15:41:51.722Z</news:publication_date>
-      <news:title>Merz Calls for Unity in Backing Ukraine Against Russia</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/990b3815-c101-4337-78de-64de7b951600/OpenGraph</image:loc>
     </image:image>
   </url>
 

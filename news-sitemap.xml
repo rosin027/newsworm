@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/low-water-levels-minister-urges-water-infrastructure-investment</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T09:07:12.422Z</news:publication_date>
+      <news:title>Low Water Levels: Minister Urges Water Infrastructure Investment</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/86b76fef-8b42-4205-4e99-f661c5e20a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-to-offer-family-ticket-permanently</loc>
     <news:news>
       <news:publication>

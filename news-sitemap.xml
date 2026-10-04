@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/union-urges-labour-minister-bas-to-speed-up-pension-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T09:18:38.963Z</news:publication_date>
+      <news:title>Union Urges Labour Minister Bas to Speed Up Pension Reform</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c46cd567-b8f8-4d40-0142-41f6ed274d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/low-water-levels-minister-urges-water-infrastructure-investment</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/84749612-e70d-45c9-024a-a8ee86888e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/electricity-prices-in-germany-could-rise-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T09:18:12.226Z</news:publication_date>
-      <news:title>Electricity Prices Could Rise in Germany in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a88a0ca2-d7ea-41c1-af39-8de172df1600/OpenGraph</image:loc>
     </image:image>
   </url>
 

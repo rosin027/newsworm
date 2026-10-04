@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/german-chancellor-merz-in-kyiv-for-talks-with-zelensky</loc>
+    <loc>https://www.newsworm.de/news/russia-strikes-hit-kyiv-as-german-chancellor-merz-visits</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-04T10:53:40.714Z</news:publication_date>
-      <news:title>German Chancellor Merz in Kyiv for talks with Zelensky</news:title>
+      <news:title>Russia Strikes hit Kyiv as German Chancellor Merz Visits</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/90da4a7b-098a-4bc1-6cfa-200c493e0200/OpenGraph</image:loc>

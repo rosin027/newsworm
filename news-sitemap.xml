@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-electric-car-subsidy-reaches-100-000-applications</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T07:18:37.771Z</news:publication_date>
+      <news:title>Germany?s Electric Car Subsidy Reaches 100,000 Applications</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3ea777cd-df09-425f-95c9-7f40bd916100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/opposition-calls-on-german-coalition-to-change-course</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c529ca3e-7907-4d98-bbf7-28e0f4e7ca00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/only-about-half-of-deutsche-bahn-long-distance-trains-on-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T07:09:36.717Z</news:publication_date>
-      <news:title>Only About Half of Deutsche Bahn Long Distance Trains On Time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/35397521-b4f4-4336-4caa-83c0fec12100/OpenGraph</image:loc>
     </image:image>
   </url>
 

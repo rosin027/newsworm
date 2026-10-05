@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/basic-income-support-for-older-people-hits-record-high</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T15:03:27.147Z</news:publication_date>
+      <news:title>Basic Income Support for Older People Hits Record High</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b2e1177e-c6ad-4d5d-ebfb-6ef12c734900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-left-party-sues-minister-reiche-over-instagram-post</loc>
     <news:news>
       <news:publication>

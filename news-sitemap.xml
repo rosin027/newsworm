@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/germanys-electric-car-subsidy-reaches-100-000-applications</loc>
+    <loc>https://www.newsworm.de/news/germanys-electric-car-subsidy-benefits-100-000-households</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-05T07:18:37.771Z</news:publication_date>
-      <news:title>Germany?s Electric Car Subsidy Reaches 100,000 Applications</news:title>
+      <news:title>Germany?s Electric Car Subsidy Benefits 100,000 Households</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3ea777cd-df09-425f-95c9-7f40bd916100/OpenGraph</image:loc>

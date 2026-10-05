@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-cdu-leader-doubts-merz-is-the-right-person-for-chancellor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T08:17:01.037Z</news:publication_date>
+      <news:title>Berlin CDU Leader Doubts Merz Is the Right Person for Chancellor</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f3c324cf-e203-495d-95cb-d4a3740d3a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-electric-car-subsidy-benefits-100-000-households</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/92a7b1c0-b781-4745-4758-f225e5669e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-unity-day-2026-bremen-hosts-national-celebrations</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T07:47:08.363Z</news:publication_date>
-      <news:title>German Unity Day 2026: Bremen Hosts National Celebrations</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c529ca3e-7907-4d98-bbf7-28e0f4e7ca00/OpenGraph</image:loc>
     </image:image>
   </url>
 

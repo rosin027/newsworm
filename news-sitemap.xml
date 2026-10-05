@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/opposition-calls-on-german-coalition-to-change-course</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T06:39:15.595Z</news:publication_date>
+      <news:title>Opposition Calls on German Coalition to Change Course</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/dd4da7c6-7395-43d9-90af-e6ffe042e500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/munich-oktoberfest-sets-new-record-with-7-4-million-visitors</loc>
     <news:news>
       <news:publication>

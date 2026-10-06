@@ -11,7 +11,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-06T13:59:29.389Z</news:publication_date>
-      <news:title>Former BND Chief August Hanning Arrested in Espionage Case</news:title>
+      <news:title>Germany Arrests Ex Spy Chief on Suspicion of Sharing Secrets Abroad</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ba6bf811-158f-476a-8161-f87f2cad5b00/OpenGraph</image:loc>
@@ -210,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/dd4da7c6-7395-43d9-90af-e6ffe042e500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/munich-oktoberfest-sets-new-record-with-7-4-million-visitors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T14:04:13.514Z</news:publication_date>
-      <news:title>Munich Oktoberfest Sets New Record With 7.4 Million Visitors</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c683b262-e77c-4dc8-baa2-988768f25600/OpenGraph</image:loc>
     </image:image>
   </url>
 

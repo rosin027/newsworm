@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/number-of-conscientious-objectors-rises-sharply-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T06:00:19.189Z</news:publication_date>
+      <news:title>Number of Conscientious Objectors Rises Sharply in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5bc9e52b-5f0b-4018-6cf6-e688e1e56500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/basic-income-support-for-older-people-hits-record-high</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6e5300c4-5066-463f-6eff-731396a7de00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlins-left-party-greens-and-spd-continue-coalition-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T15:24:14.625Z</news:publication_date>
-      <news:title>Berlin?s Left Party, Greens and SPD Continue Coalition Talks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5d989051-ed12-4b21-8e5a-61686bd2b300/OpenGraph</image:loc>
     </image:image>
   </url>
 

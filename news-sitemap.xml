@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/former-bnd-chief-august-hanning-arrested-in-espionage-case</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T13:59:29.389Z</news:publication_date>
+      <news:title>Former BND Chief August Hanning Arrested in Espionage Case</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ba6bf811-158f-476a-8161-f87f2cad5b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/first-afd-politician-elected-state-parliament-president-in-germany</loc>
     <news:news>
       <news:publication>

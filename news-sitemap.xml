@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/price-gap-between-electric-cars-and-combustion-cars-narrows-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T09:45:11.502Z</news:publication_date>
+      <news:title>Price Gap Between Electric Cars and Combustion Cars Narrows in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2d48f877-e39f-464e-ee27-d50293f76400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/shida-bazyar-wins-2026-german-book-prize-with-die-lucken</loc>
     <news:news>
       <news:publication>
@@ -180,51 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/90da4a7b-098a-4bc1-6cfa-200c493e0200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/union-urges-labour-minister-bas-to-speed-up-pension-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T09:18:38.963Z</news:publication_date>
-      <news:title>Union Urges Labour Minister Bas to Speed Up Pension Reform</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c46cd567-b8f8-4d40-0142-41f6ed274d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/low-water-levels-minister-urges-water-infrastructure-investment</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T09:07:12.422Z</news:publication_date>
-      <news:title>Low Water Levels: Minister Urges Water Infrastructure Investment</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/86b76fef-8b42-4205-4e99-f661c5e20a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-to-offer-family-ticket-permanently</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T07:47:21.293Z</news:publication_date>
-      <news:title>Deutsche Bahn to Offer Family Ticket Permanently</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6e5300c4-5066-463f-6eff-731396a7de00/OpenGraph</image:loc>
     </image:image>
   </url>
 

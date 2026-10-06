@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/extraenergie-price-hikes-ruled-unlawful-by-german-court</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T06:08:19.415Z</news:publication_date>
+      <news:title>Extraenergie Price Hikes Ruled Unlawful by German Court</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3150fed2-8d1b-451b-23f1-7ff0e9781700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/number-of-conscientious-objectors-rises-sharply-in-germany</loc>
     <news:news>
       <news:publication>

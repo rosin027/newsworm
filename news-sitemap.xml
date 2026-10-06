@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-unveils-five-year-plan-to-modernise-railway-network</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T11:00:09.150Z</news:publication_date>
+      <news:title>Germany Unveils Five-Year Plan to Modernise Railway Network</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b4d58c80-755f-4a6c-da40-b19a03f43300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/price-gap-between-electric-cars-and-combustion-cars-narrows-in-germany</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c683b262-e77c-4dc8-baa2-988768f25600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/russia-strikes-hit-kyiv-as-german-chancellor-merz-visits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T10:53:40.714Z</news:publication_date>
-      <news:title>Russia Strikes hit Kyiv as German Chancellor Merz Visits</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/90da4a7b-098a-4bc1-6cfa-200c493e0200/OpenGraph</image:loc>
     </image:image>
   </url>
 

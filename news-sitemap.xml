@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ryanair-ends-operations-at-bremen-airport-over-airport-fees</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T10:42:47.207Z</news:publication_date>
+      <news:title>Ryanair Ends Operations at Bremen Airport Over Airport Fees</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/10a4e116-2460-420a-79fe-fcb6e4874900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/did-cdu-politicians-back-afd-in-saxony-anhalt-speaker-vote</loc>
     <news:news>
       <news:publication>

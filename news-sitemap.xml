@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/more-than-one-in-three-students-in-germany-face-poverty</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T11:45:07.776Z</news:publication_date>
+      <news:title>More Than One in Three Students in Germany Face Poverty</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e8983b5e-ba4c-4238-72e5-b83549d27900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-cabinet-approves-law-against-digital-violence</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-reaffirms-germanys-fight-against-antisemitism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T07:17:05.876Z</news:publication_date>
+      <news:title>Merz Reaffirms Germany?s Fight Against Antisemitism</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/65fb8821-2e43-46cd-4418-620ff008cd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/former-bnd-chief-august-hanning-arrested-in-espionage-case</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3ea777cd-df09-425f-95c9-7f40bd916100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/opposition-calls-on-german-coalition-to-change-course</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T06:39:15.595Z</news:publication_date>
-      <news:title>Opposition Calls on German Coalition to Change Course</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/dd4da7c6-7395-43d9-90af-e6ffe042e500/OpenGraph</image:loc>
     </image:image>
   </url>
 

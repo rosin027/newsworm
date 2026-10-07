@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-are-drivers-getting-the-full-relief</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:07:35.330Z</news:publication_date>
+      <news:title>Germany?s Fuel Tax Cut: Are Drivers Getting the Full Relief?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/df9deccd-da53-40c6-0ffb-600224b8fe00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/more-than-one-in-three-students-in-germany-face-poverty</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b2e1177e-c6ad-4d5d-ebfb-6ef12c734900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-left-party-sues-minister-reiche-over-instagram-post</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T12:21:02.587Z</news:publication_date>
-      <news:title>German Left Party Sues Minister Reiche Over Instagram Post</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/06ee3bb3-ed3d-47f7-4cc4-703dbf6adb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -198,19 +198,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-could-criminalise-denial-of-israels-right-to-exist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:29:41.773Z</news:publication_date>
-      <news:title>Germany Could Criminalise Denial of Israel?s Right to Exist</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/408d3010-4d17-445a-591c-f0c9a1c29800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

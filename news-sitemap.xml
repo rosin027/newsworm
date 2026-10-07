@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/did-cdu-politicians-back-afd-in-saxony-anhalt-speaker-vote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T09:54:55.838Z</news:publication_date>
+      <news:title>Did CDU Politicians Back AfD in Saxony Anhalt Speaker Vote?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7a880280-66f2-4828-4221-fb47993b5d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-reaffirms-germanys-fight-against-antisemitism</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/408d3010-4d17-445a-591c-f0c9a1c29800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-at-risk-of-armed-conflict-with-russia-intelligence-chief-warns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T09:09:37.283Z</news:publication_date>
-      <news:title>Germany at Risk of Armed Conflict With Russia, Intelligence Chief Warns</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/506d8aa4-3f29-47a4-5cda-92b556c0ac00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-cdu-leader-doubts-merz-is-the-right-person-for-chancellor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T08:17:01.037Z</news:publication_date>
-      <news:title>Berlin CDU Leader Doubts Merz Is the Right Person for Chancellor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f3c324cf-e203-495d-95cb-d4a3740d3a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-electric-car-subsidy-benefits-100-000-households</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T07:18:37.771Z</news:publication_date>
-      <news:title>Germany?s Electric Car Subsidy Benefits 100,000 Households</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3ea777cd-df09-425f-95c9-7f40bd916100/OpenGraph</image:loc>
     </image:image>
   </url>
 

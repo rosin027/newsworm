@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-cabinet-approves-law-against-digital-violence</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T11:24:59.408Z</news:publication_date>
+      <news:title>Germany Cabinet Approves Law Against Digital Violence</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/dd3bb17e-5fe7-40d2-40aa-460178164000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ryanair-ends-operations-at-bremen-airport-over-airport-fees</loc>
     <news:news>
       <news:publication>

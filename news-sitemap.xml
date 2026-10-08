@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-eu10-billion-income-tax-reform-what-will-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T09:07:44.733Z</news:publication_date>
+      <news:title>Germany?s ?10 Billion Income Tax Reform: What Will Change</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4fdb2b34-5b76-42e4-1675-85f044caf400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tougher-rules-sought-for-products-from-outside-the-eu</loc>
     <news:news>
       <news:publication>

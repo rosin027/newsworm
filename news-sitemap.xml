@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-wins-lawsuit-over-italos-german-market-entry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T11:29:39.124Z</news:publication_date>
+      <news:title>Deutsche Bahn Wins Lawsuit Over Italo?s German Market Entry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/30e79f67-5308-4cd6-2107-aabb7dac8100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-eu10-billion-income-tax-reform-what-will-change</loc>
     <news:news>
       <news:publication>
@@ -150,51 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ba6bf811-158f-476a-8161-f87f2cad5b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/first-afd-politician-elected-state-parliament-president-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T11:25:39.090Z</news:publication_date>
-      <news:title>First AfD Politician Elected State Parliament Speaker in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/66e27b1a-b735-4357-9857-4b36416f9400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-unveils-five-year-plan-to-modernise-railway-network</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T11:00:09.150Z</news:publication_date>
-      <news:title>Germany Unveils Five-Year Plan to Modernise Railway Network</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b4d58c80-755f-4a6c-da40-b19a03f43300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/price-gap-between-electric-cars-and-combustion-cars-narrows-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T09:45:11.502Z</news:publication_date>
-      <news:title>Price Gap Between Electric Cars and Combustion Cars Narrows in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2d48f877-e39f-464e-ee27-d50293f76400/OpenGraph</image:loc>
     </image:image>
   </url>
 

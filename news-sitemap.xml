@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/tougher-rules-sought-for-products-from-outside-the-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T07:27:56.662Z</news:publication_date>
+      <news:title>Tougher Rules Sought for Products From Outside the EU</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6ac34f47-c28f-4241-a0f3-46d7e871eb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gold-smuggling-to-turkiye-three-arrested-in-major-raid</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2d48f877-e39f-464e-ee27-d50293f76400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/shida-bazyar-wins-2026-german-book-prize-with-die-lucken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T06:57:07.982Z</news:publication_date>
-      <news:title>Shida Bazyar Wins 2026 German Book Prize With ?Die L?cken?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/99baf10f-9edf-4626-07f5-90e6da153100/OpenGraph</image:loc>
     </image:image>
   </url>
 

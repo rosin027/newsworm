@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/gold-smuggling-to-turkiye-three-arrested-in-major-raid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T06:34:10.047Z</news:publication_date>
+      <news:title>Gold Smuggling to T?rkiye: Three Arrested in Major Raid</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c7bb24d8-75b3-4adf-80a6-75717969bb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-are-drivers-getting-the-full-relief</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/99baf10f-9edf-4626-07f5-90e6da153100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/extraenergie-price-hikes-ruled-unlawful-by-german-court</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T06:08:19.415Z</news:publication_date>
-      <news:title>Extraenergie Price Hikes Ruled Unlawful by German Court</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3150fed2-8d1b-451b-23f1-7ff0e9781700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/number-of-conscientious-objectors-rises-sharply-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T06:00:19.189Z</news:publication_date>
-      <news:title>Number of Conscientious Objectors Rises Sharply in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5bc9e52b-5f0b-4018-6cf6-e688e1e56500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/basic-income-support-for-older-people-hits-record-high</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T15:03:27.147Z</news:publication_date>
-      <news:title>Basic Income Support for Older People Hits Record High</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b2e1177e-c6ad-4d5d-ebfb-6ef12c734900/OpenGraph</image:loc>
     </image:image>
   </url>
 

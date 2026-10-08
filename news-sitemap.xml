@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-beverage-industry-calls-for-complete-halt-to-planned-sugar-tax</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T12:18:18.596Z</news:publication_date>
+      <news:title>German Beverage Industry Calls for Complete Halt to Planned Sugar Tax</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/12279113-87d1-46d7-097b-8c74d74e0d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-wins-lawsuit-over-italos-german-market-entry</loc>
     <news:news>
       <news:publication>

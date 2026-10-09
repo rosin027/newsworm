@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/two-killed-during-weapons-inspection-in-bavaria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T10:40:18.614Z</news:publication_date>
+      <news:title>Two Killed During Weapons Inspection in Bavaria</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1e0099f3-d6a8-45fc-6a6c-fbf0414db000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-approves-plans-for-new-hamburg-hannover-railway-line</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/694cad1c-6c72-4760-d4e9-ada259bf1200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/did-cdu-politicians-back-afd-in-saxony-anhalt-speaker-vote</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T09:54:55.838Z</news:publication_date>
-      <news:title>Did CDU Politicians Back AfD in Saxony Anhalt Speaker Vote?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7a880280-66f2-4828-4221-fb47993b5d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

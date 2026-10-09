@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/two-killed-during-weapons-inspection-in-bavaria</loc>
+    <loc>https://www.newsworm.de/news/two-officials-killed-during-weapons-inspection-in-bavaria</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-09T10:40:18.614Z</news:publication_date>
-      <news:title>Two Killed During Weapons Inspection in Bavaria</news:title>
+      <news:title>Two Officials Killed During Weapons Inspection in Bavaria</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1e0099f3-d6a8-45fc-6a6c-fbf0414db000/OpenGraph</image:loc>
@@ -195,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/dd3bb17e-5fe7-40d2-40aa-460178164000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ryanair-ends-operations-at-bremen-airport-over-airport-fees</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T10:42:47.207Z</news:publication_date>
-      <news:title>Ryanair Ends Operations at Bremen Airport Over Airport Fees</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/694cad1c-6c72-4760-d4e9-ada259bf1200/OpenGraph</image:loc>
     </image:image>
   </url>
 

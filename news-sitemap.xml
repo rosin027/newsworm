@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-approves-plans-for-new-hamburg-hannover-railway-line</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T09:21:29.085Z</news:publication_date>
+      <news:title>Germany Approves Plans for New Hamburg?Hannover Railway Line</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/717836f9-ab6b-4e4a-20c8-48ade85fae00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/early-childhood-education-in-germany-bundestag-debates-new-law</loc>
     <news:news>
       <news:publication>

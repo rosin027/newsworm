@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-outraged-by-schroeders-visit-to-putin-on-his-birthday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T12:34:33.822Z</news:publication_date>
+      <news:title>Merz Outraged by Schroeder?s Visit to Putin on His Birthday</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/520ad2bd-e8c6-49bf-b875-861c1c7b1600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/two-officials-killed-during-weapons-inspection-in-bavaria</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/df9deccd-da53-40c6-0ffb-600224b8fe00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/more-than-one-in-three-students-in-germany-face-poverty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T11:45:07.776Z</news:publication_date>
-      <news:title>More Than One in Three Students in Germany Face Poverty</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e8983b5e-ba4c-4238-72e5-b83549d27900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-cabinet-approves-law-against-digital-violence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T11:24:59.408Z</news:publication_date>
-      <news:title>German Cabinet Approves Law Against Digital Violence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/dd3bb17e-5fe7-40d2-40aa-460178164000/OpenGraph</image:loc>
     </image:image>
   </url>
 

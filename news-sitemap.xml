@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-under-pressure-closed-door-meeting-aims-to-resolve-disputes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T14:29:04.805Z</news:publication_date>
+      <news:title>CDU Under Pressure: Closed-Door Meeting Aims to Resolve Disputes</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ab3b0469-8879-4cd5-16ad-43fcba593e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-outraged-by-schroeders-visit-to-putin-on-his-birthday</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c7bb24d8-75b3-4adf-80a6-75717969bb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-fuel-tax-cut-are-drivers-getting-the-full-relief</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T14:07:35.330Z</news:publication_date>
-      <news:title>Germany?s Fuel Tax Cut: Are Drivers Getting the Full Relief?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/df9deccd-da53-40c6-0ffb-600224b8fe00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-party-calls-for-unified-care-and-pension-insurance-systems</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T07:50:49.515Z</news:publication_date>
+      <news:title>Left Party Calls for Unified Care and Pension Insurance Systems</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/08cded33-3e04-46dd-615d-39362061e100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mecklenburg-vorpommern-spd-left-party-and-greens-move-toward-coalition-government</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4fdb2b34-5b76-42e4-1675-85f044caf400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tougher-rules-sought-for-products-from-outside-the-eu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T07:27:56.662Z</news:publication_date>
-      <news:title>Tougher Rules Sought for Products From Outside the EU</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6ac34f47-c28f-4241-a0f3-46d7e871eb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

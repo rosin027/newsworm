@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/is-the-cdus-afd-firewall-finally-starting-to-crack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T09:27:04.680Z</news:publication_date>
+      <news:title>Is the CDU&apos;s AfD Firewall Finally Starting to Crack?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f62495d2-5e15-4b9c-7558-9de9c2e1e400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-party-calls-for-unified-care-and-pension-insurance-systems</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/30e79f67-5308-4cd6-2107-aabb7dac8100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-eu10-billion-income-tax-reform-what-will-change</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T09:07:44.733Z</news:publication_date>
-      <news:title>Germany?s ?10 Billion Income Tax Reform: Is It Real Relief</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4fdb2b34-5b76-42e4-1675-85f044caf400/OpenGraph</image:loc>
     </image:image>
   </url>
 

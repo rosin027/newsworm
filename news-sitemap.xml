@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/mecklenburg-vorpommern-spd-left-party-and-greens-move-toward-coalition-government</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T07:13:23.329Z</news:publication_date>
+      <news:title>Mecklenburg-Vorpommern: SPD, Left Party and Greens Move Toward Coalition Government</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6d6d0762-53df-4578-c0a8-9c2bdf469300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ryanair-to-quit-bremen-halve-berlin-flights</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6ac34f47-c28f-4241-a0f3-46d7e871eb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gold-smuggling-to-turkiye-three-arrested-in-major-raid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T06:34:10.047Z</news:publication_date>
-      <news:title>Gold Smuggling to T?rkiye: Three Arrested in Major Raid</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c7bb24d8-75b3-4adf-80a6-75717969bb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

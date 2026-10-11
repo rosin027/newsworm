@@ -138,34 +138,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/two-officials-killed-during-weapons-inspection-in-bavaria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T10:40:18.614Z</news:publication_date>
-      <news:title>Two Officials Killed During Weapons Inspection in Bavaria</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1e0099f3-d6a8-45fc-6a6c-fbf0414db000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-plans-for-new-hamburg-hannover-railway-line</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T09:21:29.085Z</news:publication_date>
-      <news:title>Germany Approves Plans for New Hamburg?Hanover Railway Line</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/717836f9-ab6b-4e4a-20c8-48ade85fae00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

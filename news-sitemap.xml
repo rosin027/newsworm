@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ex-csu-chief-criticises-merz-over-broken-election-promises</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T12:06:42.892Z</news:publication_date>
+      <news:title>Ex-CSU Chief Criticises Merz Over Broken Election Promises</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9e02bf14-9365-4eae-dde2-449fa67a1c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/csu-and-cdu-leaders-question-billions-in-aid-for-berlin</loc>
     <news:news>
       <news:publication>

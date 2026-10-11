@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/csu-and-cdu-leaders-question-billions-in-aid-for-berlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T08:53:18.459Z</news:publication_date>
+      <news:title>CSU and CDU Leaders Question Billions in Aid for Berlin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a1da4ced-ee5c-48d9-97dc-1243b6e12400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bank-ceo-criticises-slow-and-insufficient-government-reforms</loc>
     <news:news>
       <news:publication>

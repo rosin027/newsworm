@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bank-ceo-criticises-slow-and-insufficient-government-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T07:44:01.084Z</news:publication_date>
+      <news:title>Deutsche Bank CEO Criticises Slow and Insufficient Government Reforms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/27d0f28a-7e03-42bf-33a4-a6221eea7900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trumps-u-turn-on-russian-oil-from-sanctions-to-deals</loc>
     <news:news>
       <news:publication>
@@ -135,81 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/717836f9-ab6b-4e4a-20c8-48ade85fae00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/early-childhood-education-in-germany-bundestag-debates-new-law</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T07:38:17.252Z</news:publication_date>
-      <news:title>Early Childhood Education in Germany: Bundestag Debates New Law</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cbb92463-12d9-427c-9dcc-cd848e09dd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-wants-stricter-rules-for-prenatal-genetic-tests</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T06:24:40.896Z</news:publication_date>
-      <news:title>Germany Wants Stricter Rules for Prenatal Genetic Tests</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9c274910-be12-4940-1013-916402b87500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-economy-on-the-upswing-but-growth-is-not-self-sustaining</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T14:12:04.228Z</news:publication_date>
-      <news:title>German Economy on the Upswing ? But Growth Is Not Self-Sustaining</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/96b97b98-e7c2-42f6-0006-e66d66829200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-beverage-industry-calls-for-complete-halt-to-planned-sugar-tax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T12:18:18.596Z</news:publication_date>
-      <news:title>German Beverage Industry Calls for Complete Halt to Planned Sugar Tax</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/12279113-87d1-46d7-097b-8c74d74e0d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-wins-lawsuit-over-italos-german-market-entry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T11:29:39.124Z</news:publication_date>
-      <news:title>Deutsche Bahn Wins Lawsuit Over Italo?s German Market Entry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/30e79f67-5308-4cd6-2107-aabb7dac8100/OpenGraph</image:loc>
     </image:image>
   </url>
 

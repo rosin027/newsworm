@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-announces-plans-to-cut-electricity-tax-for-all</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T15:31:12.455Z</news:publication_date>
+      <news:title>Merz Announces Plans to Cut Electricity Tax for All</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/06771aad-894a-4bda-412a-9139c858ba00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-mps-who-backed-afd-have-no-place-in-the-cdu</loc>
     <news:news>
       <news:publication>

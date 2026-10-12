@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-mps-who-backed-afd-have-no-place-in-the-cdu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T13:52:19.443Z</news:publication_date>
+      <news:title>Merz: MPs Who Backed AfD Have ?No Place in the CDU?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1325e5f6-3c63-4250-fa0c-e6d179d0e800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-demands-end-to-spd-talks-with-left-party-in-berlin</loc>
     <news:news>
       <news:publication>

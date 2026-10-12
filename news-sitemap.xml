@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-final-election-result-left-party-wins-parliament-has-153-seats</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T12:19:12.187Z</news:publication_date>
+      <news:title>Berlin Final Election Result: Left Party Wins, Parliament Has 153 Seats</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a9a12eea-0ecf-468d-56d2-c110d801bf00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-caps-chinese-hybrid-car-imports-at-350-000-a-year</loc>
     <news:news>
       <news:publication>

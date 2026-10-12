@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/nine-cdu-and-csu-state-ministers-oppose-sugar-tax-in-protest-letter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T07:12:46.155Z</news:publication_date>
+      <news:title>Nine CDU and CSU State Ministers Oppose Sugar Tax in Protest Letter</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/382aed20-4d54-42a4-9ab9-1a857adae000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ex-csu-chief-criticises-merz-over-broken-election-promises</loc>
     <news:news>
       <news:publication>
@@ -105,51 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6d6d0762-53df-4578-c0a8-9c2bdf469300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ryanair-to-quit-bremen-halve-berlin-flights</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T15:10:42.835Z</news:publication_date>
-      <news:title>Ryanair to Quit Bremen, Halve Berlin Flights</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9f88c37d-c0b2-463e-7409-f2b5f365f700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-under-pressure-closed-door-meeting-aims-to-resolve-disputes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T14:29:04.805Z</news:publication_date>
-      <news:title>CDU Under Pressure: Closed-Door Meeting Aims to Resolve Disputes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ab3b0469-8879-4cd5-16ad-43fcba593e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-outraged-by-schroeders-visit-to-putin-on-his-birthday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T12:34:33.822Z</news:publication_date>
-      <news:title>Merz Outraged by Schroeder?s Visit to Putin on His Birthday</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/520ad2bd-e8c6-49bf-b875-861c1c7b1600/OpenGraph</image:loc>
     </image:image>
   </url>
 

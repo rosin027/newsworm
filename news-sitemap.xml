@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/barbel-bas-resigns-as-spd-leader-and-german-labour-minister</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T07:17:56.025Z</news:publication_date>
+      <news:title>B?rbel Bas Resigns as SPD Leader and German Labour Minister</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1c48c413-2daf-46ce-9eae-43fc57e3df00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nine-cdu-and-csu-state-ministers-oppose-sugar-tax-in-protest-letter</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/08cded33-3e04-46dd-615d-39362061e100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mecklenburg-vorpommern-spd-left-party-and-greens-move-toward-coalition-government</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T07:13:23.329Z</news:publication_date>
-      <news:title>Mecklenburg-Vorpommern: SPD, Left Party and Greens Move Toward Coalition Government</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6d6d0762-53df-4578-c0a8-9c2bdf469300/OpenGraph</image:loc>
     </image:image>
   </url>
 

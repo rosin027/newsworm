@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-opportunity-card-28-000-visas-how-many-found-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T19:05:55.954Z</news:publication_date>
+      <news:title>Germany?s Opportunity Card: 28,000+ Visas. How Many Found Jobs?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/52bf059c-ae7b-48ed-a259-721bd9e69200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-announces-plans-to-cut-electricity-tax-for-all</loc>
     <news:news>
       <news:publication>

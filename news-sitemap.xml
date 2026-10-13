@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/inflation-in-germany-rises-to-its-highest-level-since-december-2023</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T07:27:49.455Z</news:publication_date>
+      <news:title>Inflation in Germany rises to its highest level since December 2023</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e1d3b164-7e60-4b60-123e-f41ea6941700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-opportunity-card-28-000-visas-how-many-found-jobs</loc>
     <news:news>
       <news:publication>

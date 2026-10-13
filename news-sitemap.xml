@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahns-new-timetable-what-changes-in-december</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T07:52:34.443Z</news:publication_date>
+      <news:title>Deutsche Bahn?s New Timetable: What Changes in December?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/362dc625-f23b-48a7-548f-5efe1d723c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/inflation-in-germany-rises-to-its-highest-level-since-december-2023</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a1da4ced-ee5c-48d9-97dc-1243b6e12400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bank-ceo-criticises-slow-and-insufficient-government-reforms</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T07:44:01.084Z</news:publication_date>
-      <news:title>Deutsche Bank CEO Criticises Slow and Insufficient Government Reforms</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/27d0f28a-7e03-42bf-33a4-a6221eea7900/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-employers-hand-merz-20-point-plan-demand-swift-reforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T13:01:18.457Z</news:publication_date>
+      <news:title>German Employers Hand Merz 20-Point Plan, Demand Swift Reforms</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0911d4a6-3370-4724-0c1a-f632ef019600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/imf-upgrades-global-growth-forecast-where-germany-stands</loc>
     <news:news>
       <news:publication>

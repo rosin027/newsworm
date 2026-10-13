@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/suspected-drone-sighting-disrupts-flights-at-nuremberg-airport</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T09:24:48.904Z</news:publication_date>
+      <news:title>Suspected Drone Sighting Disrupts Flights at Nuremberg Airport</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4eee3521-3a3e-47d3-4a04-e189b982f600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahns-new-timetable-what-changes-in-december</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/9e02bf14-9365-4eae-dde2-449fa67a1c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/csu-and-cdu-leaders-question-billions-in-aid-for-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T08:53:18.459Z</news:publication_date>
-      <news:title>CSU and CDU Leaders Question Billions in Aid for Berlin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a1da4ced-ee5c-48d9-97dc-1243b6e12400/OpenGraph</image:loc>
     </image:image>
   </url>
 

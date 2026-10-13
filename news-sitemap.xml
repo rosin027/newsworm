@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/imf-upgrades-global-outlook-for-2026-where-germany-stands</loc>
+    <loc>https://www.newsworm.de/news/imf-upgrades-global-growth-forecast-where-germany-stands</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-13T11:23:23.695Z</news:publication_date>
-      <news:title>IMF Upgrades Global Outlook for 2026: Where Germany Stands</news:title>
+      <news:title>IMF Upgrades Global Growth Forecast: Where Germany Stands</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/59e5d2ef-1769-4909-8a01-09adb73a4b00/OpenGraph</image:loc>

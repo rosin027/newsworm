@@ -213,34 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/barbel-bas-resigns-as-spd-leader-and-german-labour-minister</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T07:17:56.025Z</news:publication_date>
-      <news:title>B?rbel Bas Resigns as SPD Co Leader and Labour Minister</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1c48c413-2daf-46ce-9eae-43fc57e3df00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/nine-cdu-and-csu-state-ministers-oppose-sugar-tax-in-protest-letter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T07:12:46.155Z</news:publication_date>
-      <news:title>Nine CDU and CSU State Ministers Oppose Sugar Tax in Protest Letter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/382aed20-4d54-42a4-9ab9-1a857adae000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

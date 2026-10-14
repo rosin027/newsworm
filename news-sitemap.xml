@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cdu-sets-out-its-plan-for-saxony-anhalt-state-premier-election</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T08:22:07.265Z</news:publication_date>
+      <news:title>CDU Sets Out Its Plan for Saxony-Anhalt State Premier Election</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e3fd85f3-c87d-42a6-e734-6cce1dd47a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ukrainian-ex-military-officer-faces-trial-over-nord-stream-bombing</loc>
     <news:news>
       <news:publication>

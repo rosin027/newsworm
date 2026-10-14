@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-ukraine-aid-takes-not-one-euro-from-german-social-budgets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T14:37:59.818Z</news:publication_date>
+      <news:title>Merz: Ukraine Aid Takes ?Not One Euro? From German Social Budgets</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ecd97542-308f-428a-dfab-2edfd0aca600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-and-bsw-pass-motion-to-halt-ukraine-aid-in-saxony-anhalt</loc>
     <news:news>
       <news:publication>

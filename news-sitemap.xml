@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ukrainian-ex-military-officer-faces-trial-over-nord-stream-bombing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T07:04:28.230Z</news:publication_date>
+      <news:title>Ukrainian Ex-Military Officer Faces Trial Over Nord Stream Bombing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8e162497-4f7a-4565-5e46-3c403ece0700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-coalition-talks-halted-over-left-partys-antisemitism-row</loc>
     <news:news>
       <news:publication>

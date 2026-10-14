@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-cabinet-approves-sugar-tax-on-soft-drinks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T12:02:09.484Z</news:publication_date>
+      <news:title>German Cabinet Approves Sugar Tax on Soft Drinks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/756145e6-5132-42d3-ee16-2963a0f00e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cdu-sets-out-its-plan-for-saxony-anhalt-state-premier-election</loc>
     <news:news>
       <news:publication>

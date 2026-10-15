@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-passes-emergency-care-reform-what-changes-for-patients</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T08:53:34.739Z</news:publication_date>
+      <news:title>Bundestag Passes Emergency Care Reform: What Changes for Patients</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/92e455c3-b720-42e8-eafc-f05de519f100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/supplementary-health-insurance-rate-could-stay-stable-in-2027</loc>
     <news:news>
       <news:publication>

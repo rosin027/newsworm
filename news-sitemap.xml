@@ -19,6 +19,21 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/rents-are-rising-faster-than-inflation-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:29:18.843Z</news:publication_date>
+      <news:title>Rents Are Rising Faster Than Inflation in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/91ce73cf-580c-4305-8d67-863d45ee1d00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-passes-emergency-care-reform-what-changes-for-patients</loc>
     <news:news>
       <news:publication>

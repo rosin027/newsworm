@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/only-two-thirds-of-germanys-fuel-tax-cut-reaches-consumers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:33:24.833Z</news:publication_date>
+      <news:title>Only Two Thirds of Germany?s Fuel Tax Cut Reaches Consumers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cb116550-00fe-4e6d-b104-6a50f6e4cd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-passes-emergency-care-reform-what-changes-for-patients</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0911d4a6-3370-4724-0c1a-f632ef019600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/imf-upgrades-global-growth-forecast-where-germany-stands</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T11:23:23.695Z</news:publication_date>
-      <news:title>IMF Upgrades Global Growth Forecast: Where Germany Stands</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/59e5d2ef-1769-4909-8a01-09adb73a4b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/suspected-drone-sighting-disrupts-flights-at-nuremberg-airport</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T09:24:48.904Z</news:publication_date>
-      <news:title>Suspected Drone Sighting Disrupts Flights at Nuremberg Airport</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4eee3521-3a3e-47d3-4a04-e189b982f600/OpenGraph</image:loc>
     </image:image>
   </url>
 

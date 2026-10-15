@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/alcohol-ban-now-in-force-at-all-deutsche-bahn-stations-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T07:17:54.515Z</news:publication_date>
+      <news:title>Alcohol Ban Now in Force at All Deutsche Bahn Stations in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1f485d8b-7944-44c1-9177-fdc850381900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/manhunt-in-essen-two-help-prisoner-escape-during-doctors-visit</loc>
     <news:news>
       <news:publication>

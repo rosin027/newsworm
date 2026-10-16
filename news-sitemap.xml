@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-in-five-in-germany-struggles-with-reading-and-maths</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T15:43:32.931Z</news:publication_date>
+      <news:title>One in Five in Germany Struggles with Reading and Maths</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/79f753b3-02a1-4b58-e095-319435c01900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/france-germany-reach-deal-on-future-of-car-industry</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/e1c75567-d537-4a82-e635-fd1b7b7f5200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-ukraine-aid-takes-not-one-euro-from-german-social-budgets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:37:59.818Z</news:publication_date>
-      <news:title>Merz: Ukraine Aid Takes ?Not One Euro? From German Social Budgets</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ecd97542-308f-428a-dfab-2edfd0aca600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-and-bsw-pass-motion-to-halt-ukraine-aid-in-saxony-anhalt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T13:10:09.226Z</news:publication_date>
-      <news:title>AfD and BSW Pass Motion to Halt Ukraine Aid in Saxony-Anhalt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2cfab09f-922c-4c3b-6704-c3ae17a45100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-cabinet-approves-sugar-tax-on-soft-drinks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:02:09.484Z</news:publication_date>
-      <news:title>German Cabinet Approves Sugar Tax on Soft Drinks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/756145e6-5132-42d3-ee16-2963a0f00e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

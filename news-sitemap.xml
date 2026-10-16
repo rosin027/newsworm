@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/early-start-pension-bundestag-approves-savings-plan-for-children</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T09:01:58.739Z</news:publication_date>
+      <news:title>Early Start Pension: Bundestag Approves Savings Plan for Children</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/94b89395-97c7-49d7-6007-1da41bc5c500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/sexual-assault-in-german-armed-forces-10-soldiers-under-probe</loc>
     <news:news>
       <news:publication>

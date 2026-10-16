@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/france-germany-reach-deal-on-future-of-car-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T11:08:34.180Z</news:publication_date>
+      <news:title>France, Germany Reach Deal on Future of Car Industry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5917e10e-b156-4a02-114f-aee37f878e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/european-leaders-rally-around-zelensky-as-trump-ties-slump</loc>
     <news:news>
       <news:publication>

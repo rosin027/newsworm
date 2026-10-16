@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/sexual-assault-in-german-armed-forces-10-soldiers-under-probe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T08:27:53.447Z</news:publication_date>
+      <news:title>Sexual Assault in German Armed Forces: 10 Soldiers Under Probe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2fa1ec6a-132e-4c3a-2b0b-955e0e8a4e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tobacco-taxes-in-germany-set-to-increase-from-2027</loc>
     <news:news>
       <news:publication>
@@ -150,36 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/756145e6-5132-42d3-ee16-2963a0f00e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cdu-sets-out-its-plan-for-saxony-anhalt-state-premier-election</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T08:22:07.265Z</news:publication_date>
-      <news:title>CDU Sets Out Its Plan for Saxony-Anhalt State Premier Vote</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e3fd85f3-c87d-42a6-e734-6cce1dd47a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ukrainian-ex-military-officer-faces-trial-over-nord-stream-bombing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T07:04:28.230Z</news:publication_date>
-      <news:title>Ukrainian Ex-Military Officer Faces Trial Over Nord Stream Bombing</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8e162497-4f7a-4565-5e46-3c403ece0700/OpenGraph</image:loc>
     </image:image>
   </url>
 

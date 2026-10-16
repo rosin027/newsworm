@@ -168,19 +168,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/manhunt-in-essen-two-help-prisoner-escape-during-doctors-visit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T15:47:57.550Z</news:publication_date>
-      <news:title>Manhunt in Essen: Two Help Prisoner Escape During Doctor?s Visit</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e1c75567-d537-4a82-e635-fd1b7b7f5200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

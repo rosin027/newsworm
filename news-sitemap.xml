@@ -11,7 +11,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-17T07:13:10.122Z</news:publication_date>
-      <news:title>Techniker Krankenkasse Abolishing Public and Private Health Insurance Systems</news:title>
+      <news:title>TK Proposes Abolishing Public and Private Health Insurance Systems</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2481d7b9-6732-4778-af09-709e668cfb00/OpenGraph</image:loc>
@@ -135,51 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/91ce73cf-580c-4305-8d67-863d45ee1d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-passes-emergency-care-reform-what-changes-for-patients</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:53:34.739Z</news:publication_date>
-      <news:title>Bundestag Passes Emergency Care Reform: What Changes for Patients</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/92e455c3-b720-42e8-eafc-f05de519f100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/supplementary-health-insurance-rate-could-stay-stable-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T08:09:41.522Z</news:publication_date>
-      <news:title>Supplementary Health Insurance Rate Could Stay Stable in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7883f4eb-cdbf-44fc-5af9-a13dbb4c6800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/alcohol-ban-now-in-force-at-all-deutsche-bahn-stations-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T07:17:54.515Z</news:publication_date>
-      <news:title>Alcohol Ban Now in Force at All Deutsche Bahn Stations in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1f485d8b-7944-44c1-9177-fdc850381900/OpenGraph</image:loc>
     </image:image>
   </url>
 

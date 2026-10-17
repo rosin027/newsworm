@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/techniker-krankenkasse-abolishing-public-and-private-health-insurance-systems</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T07:13:10.122Z</news:publication_date>
+      <news:title>Techniker Krankenkasse Abolishing Public and Private Health Insurance Systems</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2481d7b9-6732-4778-af09-709e668cfb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-in-five-in-germany-struggles-with-reading-and-maths</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/pension-at-63-sparks-new-coalition-dispute-as-schweitzer-pushes-for-compromise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:54:03.815Z</news:publication_date>
+      <news:title>Pension at 63 Sparks New Coalition Dispute as Schweitzer Pushes for Compromise</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b5e8ed65-2af2-433e-fed2-caa80ba57300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-dead-two-injured-in-knife-attack-at-german-nursing-home</loc>
     <news:news>
       <news:publication>

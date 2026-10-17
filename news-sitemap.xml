@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-dead-two-injured-in-knife-attack-at-german-nursing-home</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T11:47:22.727Z</news:publication_date>
+      <news:title>One Dead, Two Injured in Knife Attack at German Nursing Home</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/75b2cf6c-aa56-4593-b7d5-bd778ba59900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-urges-spd-and-greens-to-end-berlin-coalition-talks-with-the-left-party</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1f83b275-d1e8-4cbe-d94c-1f28ee730000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/only-two-thirds-of-germanys-fuel-tax-cut-reaches-consumers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:33:24.833Z</news:publication_date>
-      <news:title>Only Two Thirds of Germany?s Fuel Tax Cut Reaches Consumers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cb116550-00fe-4e6d-b104-6a50f6e4cd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/rents-are-rising-faster-than-inflation-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:29:18.843Z</news:publication_date>
-      <news:title>Rents Are Rising Faster Than Inflation in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/91ce73cf-580c-4305-8d67-863d45ee1d00/OpenGraph</image:loc>
     </image:image>
   </url>
 

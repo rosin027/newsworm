@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/left-greens-and-spd-agree-on-forming-a-coalition-in-berlin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:19:55.310Z</news:publication_date>
+      <news:title>Left, Greens and SPD Agree on Forming a Coalition in Berlin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a07726a2-d597-4de9-0431-8c3185ff1c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/trump-freezes-russia-sanctions-as-zelensky-warns-move-rewards-putin</loc>
     <news:news>
       <news:publication>

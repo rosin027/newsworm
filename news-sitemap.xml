@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/trump-freezes-russia-sanctions-as-zelensky-warns-move-rewards-putin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T15:08:33.096Z</news:publication_date>
+      <news:title>Trump Freezes Russia Sanctions as Zelensky Warns Move ?Rewards? Putin</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/71385ba9-407f-472a-be28-c46cae6acd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/pension-at-63-sparks-new-coalition-dispute-as-schweitzer-pushes-for-compromise</loc>
     <news:news>
       <news:publication>

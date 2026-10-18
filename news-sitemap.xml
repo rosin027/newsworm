@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-pushes-for-shorter-specialist-wait-times-for-publicly-insured-patients</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T08:57:14.919Z</news:publication_date>
+      <news:title>Germany Pushes for Shorter Specialist Wait Times for Publicly Insured Patients</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/69248cff-f6ef-4c08-2b5e-ebda9679d400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-greens-and-spd-agree-on-forming-a-coalition-in-berlin</loc>
     <news:news>
       <news:publication>
@@ -135,51 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/80e862d5-bdbd-481d-5905-ac0ceeaee300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/early-start-pension-bundestag-approves-savings-plan-for-children</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:01:58.739Z</news:publication_date>
-      <news:title>Early Start Pension: Bundestag Approves Savings Plan for Children</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/94b89395-97c7-49d7-6007-1da41bc5c500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/sexual-assault-in-german-armed-forces-10-soldiers-under-probe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T08:27:53.447Z</news:publication_date>
-      <news:title>Sexual Assault in German Armed Forces: 10 Soldiers Under Probe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2fa1ec6a-132e-4c3a-2b0b-955e0e8a4e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tobacco-taxes-in-germany-set-to-increase-from-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T07:02:15.485Z</news:publication_date>
-      <news:title>Tobacco Taxes in Germany Set to Increase From 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1f83b275-d1e8-4cbe-d94c-1f28ee730000/OpenGraph</image:loc>
     </image:image>
   </url>
 

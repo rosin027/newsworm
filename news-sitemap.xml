@@ -19,6 +19,21 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-left-greens-and-spd-agree-coalition-plan-with-major-housing-plan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T08:52:50.454Z</news:publication_date>
+      <news:title>Berlin Left, Greens and SPD Agree Coalition Plan With Major Housing Plan</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/371c7654-d9a3-430d-cb51-79d6ca50c300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/left-greens-and-spd-agree-on-forming-a-coalition-in-berlin</loc>
     <news:news>
       <news:publication>

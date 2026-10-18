@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-defends-reform-agenda-and-rules-out-minority-government</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:06:11.470Z</news:publication_date>
+      <news:title>Merz Defends Reform Agenda and Rules Out Minority Government</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f11e4a8b-2de0-45a2-26f6-a5ae35eb1400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/france-protests-turn-violent-as-1-200-arrested-in-nationwide-unrest</loc>
     <news:news>
       <news:publication>
@@ -150,36 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/79f753b3-02a1-4b58-e095-319435c01900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/france-germany-reach-deal-on-future-of-car-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T11:08:34.180Z</news:publication_date>
-      <news:title>France, Germany Reach Deal on Future of Car Industry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5917e10e-b156-4a02-114f-aee37f878e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/european-leaders-rally-around-zelensky-as-trump-ties-slump</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T10:58:46.642Z</news:publication_date>
-      <news:title>European Leaders Rally Around Zelensky as Trump Ties Slump</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/80e862d5-bdbd-481d-5905-ac0ceeaee300/OpenGraph</image:loc>
     </image:image>
   </url>
 

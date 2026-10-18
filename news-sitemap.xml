@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/france-protests-turn-violent-as-1-200-arrested-in-nationwide-unrest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T10:06:18.166Z</news:publication_date>
+      <news:title>France Protests Turn Violent as 1,200 Arrested in Nationwide Unrest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/02fc2a80-1a36-4528-ce70-2a5b8485c900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-pushes-for-shorter-specialist-wait-times-for-publicly-insured-patients</loc>
     <news:news>
       <news:publication>

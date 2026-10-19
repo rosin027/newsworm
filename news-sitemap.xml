@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-leader-miersch-doubts-berlin-coalition-with-left-party</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T07:23:33.234Z</news:publication_date>
+      <news:title>SPD Leader Miersch Doubts Berlin Coalition with Left Party</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/37b4acdb-bb48-417a-d51e-e90de4ed6800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/volkswagen-plans-to-freeze-salaries-worldwide-until-2030</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1351feaf-ff66-4c7c-dace-3663f2815200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/techniker-krankenkasse-abolishing-public-and-private-health-insurance-systems</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T07:13:10.122Z</news:publication_date>
-      <news:title>TK Proposes Abolishing Public and Private Health Insurance Systems</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2481d7b9-6732-4778-af09-709e668cfb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

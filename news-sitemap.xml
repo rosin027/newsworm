@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/afd-fears-in-saxony-anhalt-migrant-groups-demand-protection</loc>
+    <loc>https://www.newsworm.de/news/afd-fears-in-saxony-anhalt-migrant-organisations-demand-protection</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-19T13:53:15.834Z</news:publication_date>
-      <news:title>AfD Fears in Saxony-Anhalt: Migrant Groups Demand Protection</news:title>
+      <news:title>AfD Fears in Saxony-Anhalt: Migrant Organisations Demand Protection</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/db4d8b82-8863-4738-3460-9e8da8480600/OpenGraph</image:loc>

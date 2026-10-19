@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/volkswagen-plans-to-freeze-salaries-worldwide-until-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T06:46:29.089Z</news:publication_date>
+      <news:title>Volkswagen Plans to Freeze Salaries Worldwide Until 2030</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1043bcbc-5fdb-4538-1ec4-de1c612f1300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-defends-reform-agenda-and-rules-out-minority-government</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2481d7b9-6732-4778-af09-709e668cfb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-five-in-germany-struggles-with-reading-and-maths</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T15:43:32.931Z</news:publication_date>
-      <news:title>One in Five in Germany Struggles with Reading and Maths</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/79f753b3-02a1-4b58-e095-319435c01900/OpenGraph</image:loc>
     </image:image>
   </url>
 

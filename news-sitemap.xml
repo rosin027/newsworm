@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-budget-plans-breach-rules-as-defence-spending-rises</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:47:44.510Z</news:publication_date>
+      <news:title>Germany?s Budget Plans Breach Rules as Defence Spending Rises</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9d56027c-b2e8-4e1d-e9ab-e59e212acb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-leader-miersch-doubts-berlin-coalition-with-left-party</loc>
     <news:news>
       <news:publication>

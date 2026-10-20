@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/waiting-times-for-doctors-appointments-in-germany-set-to-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T09:20:51.095Z</news:publication_date>
+      <news:title>Waiting Times for Doctor?s Appointments in Germany Set to Rise</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4ed36430-7fca-4b44-8056-31e04e13e400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/nationwide-ticket-for-occasional-travelers-german-states-push-plan</loc>
     <news:news>
       <news:publication>
@@ -150,36 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/02fc2a80-1a36-4528-ce70-2a5b8485c900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-pushes-for-shorter-specialist-wait-times-for-publicly-insured-patients</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T08:57:14.919Z</news:publication_date>
-      <news:title>Germany Pushes for Shorter Specialist Wait Times for Publicly Insured Patients</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/69248cff-f6ef-4c08-2b5e-ebda9679d400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-left-greens-and-spd-agree-coalition-plan-with-major-housing-plan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T08:52:50.454Z</news:publication_date>
-      <news:title>Berlin Left, Greens and SPD Agree Coalition Plan With Major Housing Plan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/371c7654-d9a3-430d-cb51-79d6ca50c300/OpenGraph</image:loc>
     </image:image>
   </url>
 

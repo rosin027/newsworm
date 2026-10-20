@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-tightens-rules-for-the-integration-language-test</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T11:11:11.477Z</news:publication_date>
+      <news:title>Germany Tightens Rules for the Integration Language Test</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/48eea375-9688-4f2f-3594-123328374700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/waiting-times-for-doctors-appointments-in-germany-set-to-rise</loc>
     <news:news>
       <news:publication>
@@ -135,21 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/1043bcbc-5fdb-4538-1ec4-de1c612f1300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-defends-reform-agenda-and-rules-out-minority-government</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T11:06:11.470Z</news:publication_date>
-      <news:title>Merz Defends Reform Agenda and Rules Out Minority Government</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5a1454f2-3a77-4762-faac-9ce285a09200/OpenGraph</image:loc>
     </image:image>
   </url>
 

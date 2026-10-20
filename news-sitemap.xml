@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-and-nvidia-join-forces-to-advance-industrial-ai</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T05:37:08.049Z</news:publication_date>
+      <news:title>Germany and Nvidia Join Forces to Advance Industrial AI</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7ed3aa3f-611f-426c-1ed8-181c87060f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/man-fined-2-500-euros-for-defaming-german-president-steinmeier</loc>
     <news:news>
       <news:publication>

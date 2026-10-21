@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-natural-disaster-cover-for-home-insurance</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T14:34:12.746Z</news:publication_date>
+      <news:title>Germany Plans Natural Disaster Cover for Home Insurance</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/32f5a95b-0380-4239-68d6-86dad588ad00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gen-z-protests-in-germany-warnings-of-left-wing-extremist-influence</loc>
     <news:news>
       <news:publication>
@@ -165,36 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5bbdd75b-4e4d-4ef3-df71-b2e637057500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-fears-in-saxony-anhalt-migrant-organisations-demand-protection</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T13:53:15.834Z</news:publication_date>
-      <news:title>AfD Fears in Saxony-Anhalt: Migrant Organisations Demand Protection</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/db4d8b82-8863-4738-3460-9e8da8480600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-industry-loses-half-a-million-jobs-since-2019</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T10:33:28.585Z</news:publication_date>
-      <news:title>German Industry Loses Half a Million Jobs Since 2019</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/55b6d210-d5e8-4e78-9484-a673f64f5b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

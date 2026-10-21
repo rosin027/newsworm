@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundeswehr-sees-itself-directly-threatened-by-russian-sabotage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T08:59:10.364Z</news:publication_date>
+      <news:title>Bundeswehr Sees Itself Directly Threatened by Russian Sabotage</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/90889892-2fb4-452d-42e4-8fd97a0b7200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-email-hack-421-200-emails-reportedly-stolen</loc>
     <news:news>
       <news:publication>

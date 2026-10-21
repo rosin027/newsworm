@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/investors-pledge-230-billion-euros-at-german-investment-summit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21T07:23:36.508Z</news:publication_date>
+      <news:title>Investors Pledge ?230 Billion at German Investment Summit</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3790757c-44c8-40d0-e5d5-f94b18678500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/retirement-at-63-childcare-years-may-no-longer-count</loc>
     <news:news>
       <news:publication>
@@ -135,36 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/9d56027c-b2e8-4e1d-e9ab-e59e212acb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-leader-miersch-doubts-berlin-coalition-with-left-party</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T07:23:33.234Z</news:publication_date>
-      <news:title>SPD Leader Miersch Doubts Berlin Coalition with Left Party</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/37b4acdb-bb48-417a-d51e-e90de4ed6800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-plans-to-freeze-salaries-worldwide-until-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T06:46:29.089Z</news:publication_date>
-      <news:title>Volkswagen Plans to Freeze Salaries Worldwide Until 2030</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1043bcbc-5fdb-4538-1ec4-de1c612f1300/OpenGraph</image:loc>
     </image:image>
   </url>
 

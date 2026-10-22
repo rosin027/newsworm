@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/baby-boomer-retirement-in-germany-rural-areas-to-be-hit-hardest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:23:54.472Z</news:publication_date>
+      <news:title>Baby Boomer Retirement in Germany: Rural Areas to Be Hit Hardest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/79da0ba5-c491-4875-f51f-798961631000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/websites-go-dark-as-ai-exposes-critical-php-security-flaws</loc>
     <news:news>
       <news:publication>
@@ -135,36 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3790757c-44c8-40d0-e5d5-f94b18678500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/retirement-at-63-childcare-years-may-no-longer-count</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T12:15:04.807Z</news:publication_date>
-      <news:title>Retirement at 63: Childcare Years May No Longer Count</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8841ad23-31ad-4f45-2c17-c535409cff00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-tightens-rules-for-the-integration-language-test</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:11:11.477Z</news:publication_date>
-      <news:title>Germany Tightens Rules for the Integration Language Test</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/48eea375-9688-4f2f-3594-123328374700/OpenGraph</image:loc>
     </image:image>
   </url>
 

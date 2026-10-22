@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/gen-z-protests-german-police-better-prepared-for-unrest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T07:30:52.132Z</news:publication_date>
+      <news:title>Gen Z Protests: German Police Better Prepared for Unrest</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d3e776e5-240d-47b9-4a89-7cb095551800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-natural-disaster-cover-for-home-insurance</loc>
     <news:news>
       <news:publication>
@@ -135,51 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4ed36430-7fca-4b44-8056-31e04e13e400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/nationwide-ticket-for-occasional-travelers-german-states-push-plan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T07:21:17.067Z</news:publication_date>
-      <news:title>Nationwide Ticket for Occasional Travelers: German States Push Plan</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8ae9a398-7d46-404d-e952-edc070bce700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-and-nvidia-join-forces-to-advance-industrial-ai</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T05:37:08.049Z</news:publication_date>
-      <news:title>Germany and Nvidia Join Forces to Advance Industrial AI</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7ed3aa3f-611f-426c-1ed8-181c87060f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/man-fined-2-500-euros-for-defaming-german-president-steinmeier</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T14:48:19.539Z</news:publication_date>
-      <news:title>Man Fined ?2,500 for Defaming German President Steinmeier</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5bbdd75b-4e4d-4ef3-df71-b2e637057500/OpenGraph</image:loc>
     </image:image>
   </url>
 

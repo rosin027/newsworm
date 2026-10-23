@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-expects-higher-tax-revenue-but-rejects-electricity-tax-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T07:41:24.186Z</news:publication_date>
+      <news:title>Germany Expects Higher Tax Revenue but Rejects Electricity Tax Cuts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8c7de276-085b-4c0d-de4f-cb9ba6ffbf00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/daylight-saving-time-in-germany-why-it-still-exists</loc>
     <news:news>
       <news:publication>

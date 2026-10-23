@@ -138,34 +138,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/gen-z-protests-in-germany-warnings-of-left-wing-extremist-influence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T10:31:25.568Z</news:publication_date>
-      <news:title>Gen Z Protests in Germany: Warnings of Left-Wing Extremist Influence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1523b9f0-4872-4d6e-3cbf-bc8ed928e000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-national-arrested-in-russia-over-mercenary-activity-for-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T10:21:11.000Z</news:publication_date>
-      <news:title>German National Arrested in Russia Over Mercenary Activity for Ukraine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/609c7a21-34ed-45c6-1d18-86e51f79e700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

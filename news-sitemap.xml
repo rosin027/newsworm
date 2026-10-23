@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ig-metall-threatens-massive-strikes-at-volkswagen-over-cost-cuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T15:08:36.131Z</news:publication_date>
+      <news:title>IG Metall Threatens Massive Strikes at Volkswagen Over Cost Cuts</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/da8bc7b8-3f61-4654-8933-9bb4bc283200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/property-prices-in-germany-stagnate-while-rents-rise</loc>
     <news:news>
       <news:publication>
@@ -135,21 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d3e776e5-240d-47b9-4a89-7cb095551800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-natural-disaster-cover-for-home-insurance</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:34:12.746Z</news:publication_date>
-      <news:title>Germany Plans Natural Disaster Cover for Home Insurance</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/32f5a95b-0380-4239-68d6-86dad588ad00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-ilse-aigner-german-presidential-race</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:30:46.699Z</news:publication_date>
+      <news:title>Merz Holds Back on Ilse Aigner Endorsement in German Presidential Race</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/556ee26f-6c52-4c4b-589b-1cb7b0f6d000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/czech-republic-scraps-broadcasting-fee-germany-rundfunkbeitrag</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/8c7de276-085b-4c0d-de4f-cb9ba6ffbf00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/daylight-saving-time-in-germany-why-it-still-exists</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:26:14.624Z</news:publication_date>
-      <news:title>Daylight Saving Time in Germany: Why It Still Exists</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8f021436-b007-4403-cc79-2d34564f1b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,17 +4,17 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/fire-at-hitlers-eagles-nest-in-bavaria-suspect-detained</loc>
+    <loc>https://www.newsworm.de/news/storm-luise-batters-germany-injuring-two-and-disrupting-rail-travel</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-24T08:55:42.454Z</news:publication_date>
-      <news:title>Fire at Hitler?s Eagle?s Nest in Bavaria: Suspect Detained</news:title>
+      <news:publication_date>2026-10-24T10:39:44.828Z</news:publication_date>
+      <news:title>Storm Luise Batters Germany, Injuring Two and Disrupting Rail Travel</news:title>
     </news:news>
     <image:image>
-      <image:loc>https://images.newsworm.de/9ff0ddce-db38-4ce4-d562-7661b3a10a00/OpenGraph</image:loc>
+      <image:loc>https://images.newsworm.de/eee9e232-5108-411d-046a-78541d8f0300/OpenGraph</image:loc>
     </image:image>
   </url>
 
@@ -180,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/79da0ba5-c491-4875-f51f-798961631000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/websites-go-dark-as-ai-exposes-critical-php-security-flaws</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T10:37:43.029Z</news:publication_date>
-      <news:title>Websites Go Dark as AI Exposes Critical PHP Security Flaws</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/46291c53-e48c-43b9-d3ef-0fb13855b300/OpenGraph</image:loc>
     </image:image>
   </url>
 

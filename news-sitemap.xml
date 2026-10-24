@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/fire-at-hitlers-eagles-nest-in-bavaria-suspect-detained</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T08:55:42.454Z</news:publication_date>
+      <news:title>Fire at Hitler?s Eagle?s Nest in Bavaria: Suspect Detained</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9ff0ddce-db38-4ce4-d562-7661b3a10a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-deutschlandticket-alternative-for-occasional-travellers</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/46291c53-e48c-43b9-d3ef-0fb13855b300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-exceeds-annual-personnel-targets-for-the-first-time</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T08:44:47.734Z</news:publication_date>
-      <news:title>Bundeswehr Exceeds Annual Personnel Targets for the First Time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0a53ea04-2400-467b-bee7-4aebca799700/OpenGraph</image:loc>
     </image:image>
   </url>
 

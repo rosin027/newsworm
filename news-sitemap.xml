@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/storms-in-germany-luise-and-manja-bring-winds-of-over-100-km-h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T10:46:45.587Z</news:publication_date>
+      <news:title>Storms in Germany: Luise and Manja Bring Winds of Over 100 km/h</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a3fc1c4b-e3fb-4a83-b192-22260e696800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-investment-protection-law-to-curb-socialisation</loc>
     <news:news>
       <news:publication>

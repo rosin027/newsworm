@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-new-building-rules-to-cut-housing-costs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T12:34:07.060Z</news:publication_date>
+      <news:title>Germany Plans New Building Rules to Cut Housing Costs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4d164b63-0e9d-4910-819d-ca615a3ac300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-is-changing-in-germany-in-november-2026</loc>
     <news:news>
       <news:publication>

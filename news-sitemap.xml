@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/new-levy-on-non-eu-parcels-takes-effect-november-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T08:25:59.986Z</news:publication_date>
+      <news:title>New Levy on Non-EU Parcels Takes Effect November 1</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7230edc1-7dc8-4b8c-7623-27032ffb2b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/storms-in-germany-luise-and-manja-bring-winds-of-over-100-km-h</loc>
     <news:news>
       <news:publication>
@@ -90,96 +105,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/eee9e232-5108-411d-046a-78541d8f0300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-deutschlandticket-alternative-for-occasional-travellers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T08:03:08.917Z</news:publication_date>
-      <news:title>Germany Plans Deutschlandticket Alternative for Occasional Travellers</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8ae9a398-7d46-404d-e952-edc070bce700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/hitlers-eagles-nest-fire-germany-suspect-detained</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T07:39:41.402Z</news:publication_date>
-      <news:title>Hitler?s Eagle?s Nest Engulfed in Fire as German Police Detain Suspect</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/15ee6751-c4d1-416c-e600-acad2cae1500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ryanair-berlin-base-closure-routes-and-flight-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T21:42:26.248Z</news:publication_date>
-      <news:title>Ryanair Berlin Base Closure: Routes and Flight Cuts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7d5bba64-2248-47c2-6151-fdc0455be900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-weather-warning-storm-heavy-rain-weekend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T16:32:03.534Z</news:publication_date>
-      <news:title>Germany Weather Warning: Powerful Storm and Heavy Rain Hit This Weekend</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1703623e-0ab1-48f9-d733-05dc4b657100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ig-metall-threatens-massive-strikes-at-volkswagen-over-cost-cuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T15:08:36.131Z</news:publication_date>
-      <news:title>IG Metall Threatens Massive Strikes at Volkswagen Over Cost Cuts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/da8bc7b8-3f61-4654-8933-9bb4bc283200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/property-prices-in-germany-stagnate-while-rents-rise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T11:55:39.327Z</news:publication_date>
-      <news:title>Property Prices in Germany Stagnate While Rents Rise</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/18cee7b0-17d5-4b4d-32b2-e6e971b7c900/OpenGraph</image:loc>
     </image:image>
   </url>
 

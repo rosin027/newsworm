@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eralp-says-federal-plans-to-restrict-housing-takeover-are-unconstitutional</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T08:43:08.863Z</news:publication_date>
+      <news:title>Eralp Says Federal Plans to Restrict Housing Takeover Are Unconstitutional</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8f0cc4bd-3b82-4709-6a0e-4c08c6eb7100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/new-levy-on-non-eu-parcels-takes-effect-november-1</loc>
     <news:news>
       <news:publication>

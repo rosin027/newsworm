@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-is-changing-in-germany-in-november-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T11:17:49.386Z</news:publication_date>
+      <news:title>What Is Changing in Germany in November 2026?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/57f7da40-cd51-4e8c-9c5d-8262ed7b5700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eralp-says-federal-plans-to-restrict-housing-takeover-are-unconstitutional</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0f29cc80-4715-4362-41de-6c06fe36bc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/storm-luise-batters-germany-injuring-two-and-disrupting-rail-travel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T10:39:44.828Z</news:publication_date>
-      <news:title>Storm Luise Batters Germany, Injuring Two and Disrupting Rail Travel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eee9e232-5108-411d-046a-78541d8f0300/OpenGraph</image:loc>
     </image:image>
   </url>
 

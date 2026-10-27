@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/jacqueline-stuhler-dies-70-ard-buffet-swr-presenter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T17:46:23.768Z</news:publication_date>
+      <news:title>Jacqueline Stuhler, Former ARD Buffet Presenter and SWR Journalist, Dies at 70</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/46d81e49-23b5-416e-3808-5400c5028800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/long-term-care-reform-in-germany-commission-begins-work</loc>
     <news:news>
       <news:publication>

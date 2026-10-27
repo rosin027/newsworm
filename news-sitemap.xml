@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/long-term-care-reform-in-germany-commission-begins-work</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:38:45.464Z</news:publication_date>
+      <news:title>Long-Term Care Reform in Germany: Commission Begins Work</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a2731400-1d88-4180-d20a-dacf1cf57700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-promotes-germany-as-investment-hub-during-asia-visit</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/7230edc1-7dc8-4b8c-7623-27032ffb2b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/storms-in-germany-luise-and-manja-bring-winds-of-over-100-km-h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T10:46:45.587Z</news:publication_date>
-      <news:title>Storms in Germany: Luise and Manja Bring Winds of Over 100 km/h</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a3fc1c4b-e3fb-4a83-b192-22260e696800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-investment-protection-law-to-curb-socialisation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T10:34:06.949Z</news:publication_date>
-      <news:title>Germany Plans Investment Protection Law to Curb Socialisation</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3d459454-57f0-42ee-a44a-55d598b08500/OpenGraph</image:loc>
     </image:image>
   </url>
 

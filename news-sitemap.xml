@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-drops-plan-to-cut-parental-allowance-to-12-months</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T14:34:23.022Z</news:publication_date>
+      <news:title>Germany Drops Plan to Cut Parental Allowance to 12 Months</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8dca3fb4-9561-40a1-c123-e75c38b43300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/suicides-in-germany-reach-highest-level-in-nearly-30-years</loc>
     <news:news>
       <news:publication>

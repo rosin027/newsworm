@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/regensburg-apartment-building-explosion-five-injured-two-missing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:01:43.624Z</news:publication_date>
+      <news:title>Regensburg Apartment Building Explosion: Five Injured, Two Missing</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/24370253-8745-446d-8637-fe32ac51d900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/rich-or-poor-in-germany-what-your-income-really-means</loc>
     <news:news>
       <news:publication>

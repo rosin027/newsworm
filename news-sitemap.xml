@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/31-october-in-germany-3-things-to-know-before-the-weekend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T10:54:05.132Z</news:publication_date>
+      <news:title>31 October in Germany: 3 Things to Know Before the Weekend</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b244f98c-44a1-4672-3efb-ea1426bc5e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/number-of-hospital-patients-in-germany-rises-in-2025</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/relaxing-the-eus-combustion-engine-ban-could-cost-thousands-of-jobs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T08:12:57.276Z</news:publication_date>
+      <news:title>Relaxing the EU&apos;s Combustion Engine Ban Could Cost Thousands of Jobs</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cf3ab618-1d53-4c57-da1d-31255b3a8e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/jacqueline-stuhler-dies-70-ard-buffet-swr-presenter</loc>
     <news:news>
       <news:publication>

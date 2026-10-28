@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/number-of-hospital-patients-in-germany-rises-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:50:44.235Z</news:publication_date>
+      <news:title>Number of Hospital Patients in Germany Rises in 2025</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/091085fe-2719-4fcb-da49-302cf7f83100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mercedes-benz-car-divisions-profit-margin-nearly-halved</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/57f7da40-cd51-4e8c-9c5d-8262ed7b5700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eralp-says-federal-plans-to-restrict-housing-takeover-are-unconstitutional</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T08:43:08.863Z</news:publication_date>
-      <news:title>Eralp Says Federal Plans to Restrict Housing Takeover Are Unconstitutional</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8f0cc4bd-3b82-4709-6a0e-4c08c6eb7100/OpenGraph</image:loc>
     </image:image>
   </url>
 

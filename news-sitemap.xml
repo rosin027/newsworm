@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/rich-or-poor-in-germany-what-your-income-really-means</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:49:41.741Z</news:publication_date>
+      <news:title>Rich or Poor in Germany? What Your Income Really Means</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e599c6f8-8c5b-44ab-1438-7bc586ae0f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/31-october-in-germany-3-things-to-know-before-the-weekend</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4d164b63-0e9d-4910-819d-ca615a3ac300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-is-changing-in-germany-in-november-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T11:17:49.386Z</news:publication_date>
-      <news:title>What Is Changing in Germany in November 2026?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/57f7da40-cd51-4e8c-9c5d-8262ed7b5700/OpenGraph</image:loc>
     </image:image>
   </url>
 

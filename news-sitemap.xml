@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/mercedes-benz-car-divisions-profit-margin-nearly-halved</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T08:32:48.945Z</news:publication_date>
+      <news:title>Mercedes-Benz Car Division&apos;s Profit Margin Nearly Halved</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9a74f8a0-f42a-42d4-52fe-4e991f325600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/easing-the-eus-combustion-engine-ban-could-cost-thousands-of-jobs</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/8f0cc4bd-3b82-4709-6a0e-4c08c6eb7100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/new-levy-on-non-eu-parcels-takes-effect-november-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T08:25:59.986Z</news:publication_date>
-      <news:title>New Levy on Non-EU Parcels Takes Effect November 1</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7230edc1-7dc8-4b8c-7623-27032ffb2b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

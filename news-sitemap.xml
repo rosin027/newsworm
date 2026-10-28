@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spain-high-speed-train-crash-kills-68-injures-over-100</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T22:38:00.896Z</news:publication_date>
+      <news:title>Spain high-speed train crash kills 68, injures over 100</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cb1fcec5-0e7d-420b-1317-55177077dc00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-drops-plan-to-cut-parental-allowance-to-12-months</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/suicides-in-germany-reach-highest-level-in-nearly-30-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T12:39:41.990Z</news:publication_date>
+      <news:title>Suicides in Germany Reach Highest Level in Nearly 30 Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a6c02b5c-6ae7-4948-fca2-61835c05ee00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/explosion-in-regensburg-apartment-building-5-injured-2-missing</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/dc670dda-4773-408f-6d8f-d650971bb000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-plans-new-building-rules-to-cut-housing-costs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T12:34:07.060Z</news:publication_date>
-      <news:title>Germany Plans New Building Rules to Cut Housing Costs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4d164b63-0e9d-4910-819d-ca615a3ac300/OpenGraph</image:loc>
     </image:image>
   </url>
 

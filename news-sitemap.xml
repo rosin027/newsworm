@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/car-attack-in-neustadt-am-rubenberge-suspected-driver-arrested</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T08:22:58.117Z</news:publication_date>
+      <news:title>Car Attack in Neustadt am R?benberge: Suspected Driver Arrested</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/16a2d7a3-66ea-48c2-3461-afe0006b2100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spain-high-speed-train-crash-kills-68-injures-over-100</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d0790119-e9d3-4e41-5266-f50f9b31ce00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lower-saxony-car-ramming-suspects-flee-after-police-shoot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T08:11:17.796Z</news:publication_date>
-      <news:title>Lower Saxony Car Ramming: Suspects Flee After Police Open Fire</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/73ea71bf-b841-4552-9cdf-de20926d9400/OpenGraph</image:loc>
     </image:image>
   </url>
 

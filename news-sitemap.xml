@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/regensburg-explosion-one-body-found-second-person-feared-dead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T15:10:03.117Z</news:publication_date>
+      <news:title>Regensburg Explosion: One Body Found, Second Person Feared Dead</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/98cc3c3f-47f0-4bb7-eb39-37fadabcf800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/genz-protests-in-germany-organisers-stress-peace-while-one-quits</loc>
     <news:news>
       <news:publication>
@@ -225,21 +240,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/46d81e49-23b5-416e-3808-5400c5028800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/long-term-care-reform-in-germany-commission-begins-work</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T13:38:45.464Z</news:publication_date>
-      <news:title>Long-Term Care Reform in Germany: Commission Begins Work</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a2731400-1d88-4180-d20a-dacf1cf57700/OpenGraph</image:loc>
     </image:image>
   </url>
 

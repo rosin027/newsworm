@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/genz-protests-in-germany-organisers-stress-peace-while-one-quits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T12:56:13.916Z</news:publication_date>
+      <news:title>GenZ Protests in Germany: Organisers Stress Peace While One Quits</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0c47773b-6511-41d7-c2ba-a7795bbe1f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ecb-president-christine-lagarde-to-step-down-in-february-2027</loc>
     <news:news>
       <news:publication>

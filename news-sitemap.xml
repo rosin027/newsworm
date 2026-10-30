@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-pushes-for-stronger-germany-south-korea-ties-on-ai-and-trade</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:16:03.726Z</news:publication_date>
+      <news:title>Merz Pushes for Stronger Germany-South Korea Ties on AI and Trade</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/38ecf524-cfbb-4c66-cd2c-ab432d38bd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-spd-warned-against-coalition-with-the-left-party</loc>
     <news:news>
       <news:publication>

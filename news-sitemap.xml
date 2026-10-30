@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-spd-warned-against-coalition-with-the-left-party</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:49:43.713Z</news:publication_date>
+      <news:title>Berlin SPD Warned Against Coalition With The Left Party</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c0ac445e-7a0a-4181-37d1-e46dd3f3e500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/regensburg-explosion-one-body-found-second-person-feared-dead</loc>
     <news:news>
       <news:publication>
@@ -195,51 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/091085fe-2719-4fcb-da49-302cf7f83100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mercedes-benz-car-divisions-profit-margin-nearly-halved</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T08:32:48.945Z</news:publication_date>
-      <news:title>Mercedes-Benz Car Division&apos;s Profit Margin Nearly Halved</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9a74f8a0-f42a-42d4-52fe-4e991f325600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/easing-the-eus-combustion-engine-ban-could-cost-thousands-of-jobs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T08:12:57.276Z</news:publication_date>
-      <news:title>Easing the EU&apos;s Combustion Engine Ban Could Cost Thousands of Jobs</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cf3ab618-1d53-4c57-da1d-31255b3a8e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/jacqueline-stuhler-dies-70-ard-buffet-swr-presenter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T17:46:23.768Z</news:publication_date>
-      <news:title>Jacqueline Stuhler, Former ARD Buffet Presenter and SWR Journalist, Dies at 70</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/46d81e49-23b5-416e-3808-5400c5028800/OpenGraph</image:loc>
     </image:image>
   </url>
 

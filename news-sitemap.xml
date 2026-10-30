@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/unemployment-falls-but-germanys-job-market-recovery-remains-weak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T10:09:08.058Z</news:publication_date>
+      <news:title>Unemployment Falls but Germany&apos;s Job Market Recovery Remains Weak</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2fcc4eda-4274-4e81-4939-cea208f7fd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-pushes-for-stronger-germany-south-korea-ties-on-ai-and-trade</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b244f98c-44a1-4672-3efb-ea1426bc5e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/number-of-hospital-patients-in-germany-rises-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T09:50:44.235Z</news:publication_date>
-      <news:title>Number of Hospital Patients in Germany Rises in 2025</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/091085fe-2719-4fcb-da49-302cf7f83100/OpenGraph</image:loc>
     </image:image>
   </url>
 

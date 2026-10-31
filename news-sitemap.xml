@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/police-fire-water-cannon-during-tense-gen-z-protests-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:44:28.969Z</news:publication_date>
+      <news:title>Police Fire Water Cannon During Tense ?Gen Z? Protests in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/45d271c6-9ec5-4767-0939-412ac9d97e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gen-z-protests-in-germany-see-low-turnout-and-peaceful-start</loc>
     <news:news>
       <news:publication>

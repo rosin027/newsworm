@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/gen-z-protests-in-germany-see-low-turnout-and-peaceful-start</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:58:42.879Z</news:publication_date>
+      <news:title>Gen Z Protests in Germany See Low Turnout and Peaceful Start</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/db5d9bc9-47c9-437d-74b1-6a87c4335100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-gen-z-protests-over-175-000-expected-across-30-cities</loc>
     <news:news>
       <news:publication>
@@ -105,66 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/98cc3c3f-47f0-4bb7-eb39-37fadabcf800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/genz-protests-in-germany-organisers-stress-peace-while-one-quits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:56:13.916Z</news:publication_date>
-      <news:title>GenZ Protests in Germany: Organisers Stress Peace While One Quits</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0c47773b-6511-41d7-c2ba-a7795bbe1f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ecb-president-christine-lagarde-to-step-down-in-february-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:49:39.853Z</news:publication_date>
-      <news:title>ECB President Christine Lagarde to step down in February 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/020cc500-06ac-4ea5-565d-a0a542828200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/volkswagen-reports-eu5-82-billion-loss-in-third-quarter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:43:57.157Z</news:publication_date>
-      <news:title>Volkswagen Reports ?5.82 Billion Loss in Third Quarter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a41e5b8e-cc66-4e68-69bf-bea986d60f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-student-conference-announces-its-own-protest-in-berlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T09:36:11.787Z</news:publication_date>
-      <news:title>German Student Council Announces Its Own Protest in Berlin</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0b19b7d0-13df-41eb-9e56-540fd83cd400/OpenGraph</image:loc>
     </image:image>
   </url>
 

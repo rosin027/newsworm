@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-gen-z-protests-over-175-000-expected-across-30-cities</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T08:53:57.639Z</news:publication_date>
+      <news:title>Germany Gen Z Protests: Over 175,000 Expected Across 30+ Cities</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2ae8cd06-ed6a-4c70-c52b-d4ea03052f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/deutsche-bahn-considers-fewer-trains-to-improve-punctuality</loc>
     <news:news>
       <news:publication>
@@ -150,66 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0b19b7d0-13df-41eb-9e56-540fd83cd400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/car-attack-in-neustadt-am-rubenberge-suspected-driver-arrested</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:22:58.117Z</news:publication_date>
-      <news:title>Car Attack in Neustadt am R?benberge: Suspected Driver Arrested</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/16a2d7a3-66ea-48c2-3461-afe0006b2100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spain-high-speed-train-crash-kills-68-injures-over-100</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:38:00.896Z</news:publication_date>
-      <news:title>Spain high-speed train crash kills 68, injures over 100</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cb1fcec5-0e7d-420b-1317-55177077dc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-drops-plan-to-cut-parental-allowance-to-12-months</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T14:34:23.022Z</news:publication_date>
-      <news:title>Germany Drops Plan to Cut Parental Allowance to 12 Months</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8dca3fb4-9561-40a1-c123-e75c38b43300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/suicides-in-germany-reach-highest-level-in-nearly-30-years</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T12:39:41.990Z</news:publication_date>
-      <news:title>Suicides in Germany Reach Highest Level in Nearly 30 Years</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a6c02b5c-6ae7-4948-fca2-61835c05ee00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-2-euro-handling-fee-parcels-china-non-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T10:23:10.666Z</news:publication_date>
+      <news:title>EU Introduces New ?2 Fee on Parcels From China</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fce8d715-7bc6-4c03-7173-41679376ea00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-gen-z-protests-riots-frankfurt-berlin-hamburg</loc>
     <news:news>
       <news:publication>
@@ -90,21 +105,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c843c42d-e7e5-4ea9-d69c-02e2b1c78100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unemployment-falls-but-germanys-job-market-recovery-remains-weak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:09:08.058Z</news:publication_date>
-      <news:title>Unemployment Falls but Germany&apos;s Job Market Recovery Remains Weak</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2fcc4eda-4274-4e81-4939-cea208f7fd00/OpenGraph</image:loc>
     </image:image>
   </url>
 

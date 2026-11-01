@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-gen-z-protests-riots-frankfurt-berlin-hamburg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T09:57:18.690Z</news:publication_date>
+      <news:title>Gen Z Protests in Germany Turn Violent as Riots, Looting and Clashes Erupt in Major Cities</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9202e49d-938e-4bea-6d7f-72095a5ae200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/police-fire-water-cannon-during-tense-gen-z-protests-in-germany</loc>
     <news:news>
       <news:publication>
@@ -90,36 +105,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2fcc4eda-4274-4e81-4939-cea208f7fd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-pushes-for-stronger-germany-south-korea-ties-on-ai-and-trade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T09:16:03.726Z</news:publication_date>
-      <news:title>Merz Pushes for Stronger Germany-South Korea Ties on AI and Trade</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/38ecf524-cfbb-4c66-cd2c-ab432d38bd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-spd-warned-against-coalition-with-the-left-party</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T08:49:43.713Z</news:publication_date>
-      <news:title>Berlin SPD Warned Against Coalition With The Left Party</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c0ac445e-7a0a-4181-37d1-e46dd3f3e500/OpenGraph</image:loc>
     </image:image>
   </url>
 

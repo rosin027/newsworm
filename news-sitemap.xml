@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bahn-last-minute-tickets-6-99-euros-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T14:26:47.332Z</news:publication_date>
+      <news:title>Deutsche Bahn Extends Last-Minute Tickets Offer For Long Distance Travel</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/894e6a16-273c-4a07-da80-f37f59e7b600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-2-euro-handling-fee-parcels-china-non-eu</loc>
     <news:news>
       <news:publication>
@@ -75,36 +90,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2ae8cd06-ed6a-4c70-c52b-d4ea03052f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-considers-fewer-trains-to-improve-punctuality</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T12:07:27.648Z</news:publication_date>
-      <news:title>Deutsche Bahn Considers Fewer Trains to Improve Punctuality</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f6ed6989-2904-4886-03ff-6dbc63068800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-economy-grows-0-2-in-q3-beating-forecasts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:49:36.847Z</news:publication_date>
-      <news:title>Germany&apos;s Economy Grows 0.2% in Q3, Beating Forecasts</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c843c42d-e7e5-4ea9-d69c-02e2b1c78100/OpenGraph</image:loc>
     </image:image>
   </url>
 

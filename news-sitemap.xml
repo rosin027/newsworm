@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-introduces-eu2-handling-fee-on-packages-from-outside-the-bloc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T07:33:05.319Z</news:publication_date>
+      <news:title>EU Introduces ?2 Handling Fee on Packages From Outside the Bloc</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d062d92b-4828-4c74-7884-8a7412876300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/violence-after-germanys-gen-z-demos-slammed-by-politicians</loc>
     <news:news>
       <news:publication>

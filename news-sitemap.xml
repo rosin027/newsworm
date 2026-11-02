@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/needles-and-nails-found-in-halloween-sweets-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:26:06.844Z</news:publication_date>
+      <news:title>Needles and Nails Found in Halloween Sweets in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/54380d91-602f-4524-779a-d54c2c022a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-introduces-eu2-handling-fee-on-packages-from-outside-the-bloc</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/db5d9bc9-47c9-437d-74b1-6a87c4335100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-gen-z-protests-over-175-000-expected-across-30-cities</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T08:53:57.639Z</news:publication_date>
-      <news:title>Germany Gen Z Protests: Over 175,000 Expected Across 30+ Cities</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2ae8cd06-ed6a-4c70-c52b-d4ea03052f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

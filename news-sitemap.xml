@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-police-union-seeks-harsher-penalties-for-riots</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:18:18.600Z</news:publication_date>
+      <news:title>Germany Police Union Seeks Harsher Penalties for Riots</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/312af67d-33ed-4780-5d8a-26c8864a7300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-coalition-talks-begin-between-the-left-greens-and-spd</loc>
     <news:news>
       <news:publication>

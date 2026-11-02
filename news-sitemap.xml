@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-coalition-talks-begin-between-the-left-greens-and-spd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:06:15.381Z</news:publication_date>
+      <news:title>Berlin Coalition Talks Begin Between The Left, Greens and SPD</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/888ba632-65c5-42d0-ff05-30eb8a6aaf00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/leipzig-car-attack-trial-begins-defendant-faces-murder-charges</loc>
     <news:news>
       <news:publication>

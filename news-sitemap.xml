@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/zelenskyy-visits-berlin-to-seek-more-support-from-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:18:47.335Z</news:publication_date>
+      <news:title>Zelenskyy Visits Berlin to Seek More Support from Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/67c95dba-b306-4877-3138-31b0c4d77400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-also-hit-by-supermarket-refrigeration-cyberattacks</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-also-hit-by-supermarket-refrigeration-cyberattacks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:02:08.217Z</news:publication_date>
+      <news:title>Germany Also Hit by Supermarket Refrigeration Cyberattacks</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3543c31f-fccf-4d26-2e01-4a7bbfc90f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/needles-in-halloween-candy-another-child-injured-in-germany</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/894e6a16-273c-4a07-da80-f37f59e7b600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-2-euro-handling-fee-parcels-china-non-eu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T10:23:10.666Z</news:publication_date>
-      <news:title>EU Introduces New ?2 Fee on Parcels From China</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fce8d715-7bc6-4c03-7173-41679376ea00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/deutsche-bahn-last-minute-tickets-6-99-euros-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T14:26:47.332Z</news:publication_date>
-      <news:title>Deutsche Bahn Extends Last-Minute Tickets Offer For Long Distance Travel</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/894e6a16-273c-4a07-da80-f37f59e7b600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

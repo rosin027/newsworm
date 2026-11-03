@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cyberattacks-disrupt-supermarket-refrigeration-systems-across-europe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T08:11:41.316Z</news:publication_date>
+      <news:title>Cyberattacks Disrupt Supermarket Refrigeration Systems Across Europe</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7ba92248-9dd4-4720-5109-837f72a42b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/54-suspects-identified-after-violent-gen-z-protests-in-frankfurt</loc>
     <news:news>
       <news:publication>

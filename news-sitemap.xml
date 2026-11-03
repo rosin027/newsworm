@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/54-suspects-identified-after-violent-gen-z-protests-in-frankfurt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T07:37:43.241Z</news:publication_date>
+      <news:title>54 Suspects Identified After Violent Gen Z Protests in Frankfurt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3b469d44-0bd8-490a-ec8a-af3d836d8400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-wants-a-woman-to-become-germanys-next-federal-president</loc>
     <news:news>
       <news:publication>

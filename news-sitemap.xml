@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/how-germany-reacted-to-the-us-midterm-elections-results</loc>
+    <loc>https://www.newsworm.de/news/how-germany-reacted-to-the-us-midterm-election-results</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-04T12:03:09.713Z</news:publication_date>
-      <news:title>How Germany Reacted to the US Midterm Elections Results</news:title>
+      <news:title>How Germany Reacted to the US Midterm Election Results</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/eb6efeac-9fed-4f9e-f12b-d6caad042c00/OpenGraph</image:loc>

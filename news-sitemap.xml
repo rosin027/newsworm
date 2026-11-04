@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/pensions-in-germany-could-rise-by-4-09-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T07:25:27.743Z</news:publication_date>
+      <news:title>Pensions in Germany Could Rise by 4.09% in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/327937c1-835f-43d2-e687-4834ce094200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/schaeffler-to-close-four-plants-and-cut-2-660-jobs-in-germany</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/d062d92b-4828-4c74-7884-8a7412876300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/violence-after-germanys-gen-z-demos-slammed-by-politicians</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T07:23:28.928Z</news:publication_date>
-      <news:title>Violence After Germany&apos;s &apos;Gen Z&apos; Demos Slammed by Politicians</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/04b651ea-6e12-4d97-cd29-40b56f3e4500/OpenGraph</image:loc>
     </image:image>
   </url>
 

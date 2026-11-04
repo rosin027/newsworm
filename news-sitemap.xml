@@ -198,49 +198,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-acknowledges-youth-demands-condemns-gen-z-protest-violence</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T15:10:53.363Z</news:publication_date>
-      <news:title>Merz Acknowledges Youth Demands, Condemns Gen Z Protest Violence</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/37aba6d2-812e-4aa7-c524-4cd21d68ce00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-police-union-seeks-harsher-penalties-for-riots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T14:18:18.600Z</news:publication_date>
-      <news:title>German Police Union Seeks Harsher Penalties for Riots</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/312af67d-33ed-4780-5d8a-26c8864a7300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/berlin-coalition-talks-begin-between-the-left-greens-and-spd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T12:06:15.381Z</news:publication_date>
-      <news:title>Berlin Coalition Talks Begin Between The Left, Greens and SPD</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/888ba632-65c5-42d0-ff05-30eb8a6aaf00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/leipzig-car-attack-trial-begins-defendant-faces-murder-charges</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:38:33.269Z</news:publication_date>
-      <news:title>Leipzig Car Attack Trial Begins: Defendant Faces Murder Charges</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f17b3a90-54df-488d-cc59-32b80ef0b100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/money-laundering-raids-in-germany-over-eu10m-in-damages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T09:44:58.558Z</news:publication_date>
+      <news:title>Money Laundering Raids in Germany Over ?10M+ in Damages</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/40451809-b084-48a9-1e6e-83d76cd43b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/free-voters-leader-aiwanger-found-dead-in-berlin-hotel</loc>
     <news:news>
       <news:publication>

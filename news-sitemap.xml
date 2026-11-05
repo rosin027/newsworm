@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-makes-online-anmeldung-mandatory-what-you-need-to-know</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T08:24:39.813Z</news:publication_date>
+      <news:title>Germany Makes Online Anmeldung Mandatory: What You Need to Know</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/44afd7e6-3eba-45ff-d0dd-5ccf1f58c900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-germany-reacted-to-the-us-midterm-election-results</loc>
     <news:news>
       <news:publication>
@@ -150,51 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/e09025f4-bffe-4bec-1398-13800e990f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cyberattacks-disrupt-supermarket-refrigeration-systems-across-europe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T08:11:41.316Z</news:publication_date>
-      <news:title>Cyberattacks Disrupt Supermarket Refrigeration Systems Across Europe</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7ba92248-9dd4-4720-5109-837f72a42b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/54-suspects-identified-after-violent-gen-z-protests-in-frankfurt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T07:37:43.241Z</news:publication_date>
-      <news:title>54 Suspects Identified After Violent Gen Z Protests in Frankfurt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3b469d44-0bd8-490a-ec8a-af3d836d8400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-wants-a-woman-to-become-germanys-next-federal-president</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T07:28:58.207Z</news:publication_date>
-      <news:title>Merz Wants a Woman to Become Germany?s Next Federal President</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9475e0d0-43ad-4d1a-4acb-67536e33f000/OpenGraph</image:loc>
     </image:image>
   </url>
 

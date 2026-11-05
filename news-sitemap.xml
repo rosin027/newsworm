@@ -34,6 +34,21 @@
   </url>
 
   <url>
+    <loc>https://www.newsworm.de/news/thousands-join-ig-metall-warning-strikes-in-metal-industry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T16:28:00.839Z</news:publication_date>
+      <news:title>Thousands Join IG Metall Warning Strikes in Metal Industry</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/bf396285-31cb-4004-8e78-cdf752a18100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/how-germany-reacted-to-the-us-midterm-election-results</loc>
     <news:news>
       <news:publication>

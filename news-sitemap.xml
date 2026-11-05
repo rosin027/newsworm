@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/citizens-will-have-to-tighten-their-belts-in-2027-says-cdu-leader</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T10:51:12.418Z</news:publication_date>
+      <news:title>Citizens Will Have to Tighten Their Belts in 2027, Says CDU Leader</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6b892115-f703-4f80-5379-33413ac03e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/money-laundering-raids-in-germany-over-eu10m-in-damages</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/3543c31f-fccf-4d26-2e01-4a7bbfc90f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/needles-in-halloween-candy-another-child-injured-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T09:56:12.656Z</news:publication_date>
-      <news:title>Needles in Halloween Candy: Another Child Injured in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e09025f4-bffe-4bec-1398-13800e990f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

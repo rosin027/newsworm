@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/german-carmakers-hit-a-dead-end-as-china-drives-past</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:52:20.714Z</news:publication_date>
+      <news:title>German Carmakers Hit a Dead End as China Drives Past</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/41150e3c-bb83-4e66-0386-f03491122c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundestag-passes-tougher-penalties-for-for-knockout-drop-crimes</loc>
     <news:news>
       <news:publication>
@@ -135,36 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/bf396285-31cb-4004-8e78-cdf752a18100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/how-germany-reacted-to-the-us-midterm-election-results</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T12:03:09.713Z</news:publication_date>
-      <news:title>How Germany Reacted to the US Midterm Election Results</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eb6efeac-9fed-4f9e-f12b-d6caad042c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-begins-nationwide-crisis-management-exercise-lukex-26</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T11:05:03.046Z</news:publication_date>
-      <news:title>Germany Begins Nationwide Crisis Management Exercise L?kex 26</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5ea15b57-4055-4475-93b7-1363658cd200/OpenGraph</image:loc>
     </image:image>
   </url>
 

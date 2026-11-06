@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/bundestag-approves-driving-licence-reform</loc>
+    <loc>https://www.newsworm.de/news/driving-licence-reform-approved-by-bundestag</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-06T06:27:40.944Z</news:publication_date>
-      <news:title>Bundestag Approves Driving Licence Reform</news:title>
+      <news:title>Driving Licence Reform Approved by Bundestag</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/482ed1f6-f38c-4e3e-daab-45e39179be00/OpenGraph</image:loc>

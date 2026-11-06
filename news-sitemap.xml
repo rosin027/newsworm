@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-kindergeld-payments-for-children-abroad-rise-sharply</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T14:20:24.942Z</news:publication_date>
+      <news:title>Germany&apos;s Kindergeld Payments for Children Abroad Rise Sharply</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/53c9039f-cfad-4e1f-a8ed-b6439ae18900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/no-phones-at-football-matches-would-you-support-it</loc>
     <news:news>
       <news:publication>

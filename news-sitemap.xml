@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/no-phones-at-football-matches-would-you-support-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:36:54.357Z</news:publication_date>
+      <news:title>No Phones at Football Matches? Would You Support It?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f4da72d3-dc85-492f-1e30-48acfa8f6f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/german-carmakers-hit-a-dead-end-as-china-drives-past</loc>
     <news:news>
       <news:publication>

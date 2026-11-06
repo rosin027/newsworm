@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bundestag-approves-driving-licence-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T06:27:40.944Z</news:publication_date>
+      <news:title>Bundestag Approves Driving Licence Reform</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/482ed1f6-f38c-4e3e-daab-45e39179be00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unpaid-broadcasting-fee-germany-to-check-residents-nationwide</loc>
     <news:news>
       <news:publication>
@@ -165,66 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/327937c1-835f-43d2-e687-4834ce094200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/schaeffler-to-close-four-plants-and-cut-2-660-jobs-in-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T14:46:48.807Z</news:publication_date>
-      <news:title>Schaeffler to Close Four Plants and Cut 2,660 Jobs in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4944c962-c5a2-4f1d-0a22-328031c78800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/flying-lufthansa-is-about-to-get-more-expensive</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T14:01:12.793Z</news:publication_date>
-      <news:title>Flying Lufthansa Is About to Get More Expensive</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d295e772-4f1a-4e2d-946e-d4686bdf7e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/zelenskyy-visits-berlin-to-seek-more-support-from-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T13:18:47.335Z</news:publication_date>
-      <news:title>Zelenskyy Visits Berlin to Seek More Support from Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/67c95dba-b306-4877-3138-31b0c4d77400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-also-hit-by-supermarket-refrigeration-cyberattacks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:02:08.217Z</news:publication_date>
-      <news:title>Germany Also Hit by Supermarket Refrigeration Cyberattacks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/3543c31f-fccf-4d26-2e01-4a7bbfc90f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

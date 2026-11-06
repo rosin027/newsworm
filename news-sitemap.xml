@@ -168,19 +168,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/pensions-in-germany-could-rise-by-4-09-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:25:27.743Z</news:publication_date>
-      <news:title>Pensions in Germany Could Rise by 4.09% in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/327937c1-835f-43d2-e687-4834ce094200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

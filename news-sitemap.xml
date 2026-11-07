@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-conscription-bundeswehr-recruitment-pistorius</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T08:19:25.306Z</news:publication_date>
+      <news:title>Germany May Avoid Conscription as Bundeswehr Recruitment Rises, Pistorius Says</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a002fc76-06fa-4793-61fb-588c73b83900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-kindergeld-payments-for-children-abroad-rise-sharply</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/44afd7e6-3eba-45ff-d0dd-5ccf1f58c900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/thousands-join-ig-metall-warning-strikes-in-metal-industry</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T16:28:00.839Z</news:publication_date>
-      <news:title>Thousands Join IG Metall Warning Strikes in Metal Industry</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/bf396285-31cb-4004-8e78-cdf752a18100/OpenGraph</image:loc>
     </image:image>
   </url>
 

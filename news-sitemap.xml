@@ -138,19 +138,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/gas-prices-in-germany-to-rise-further-warns-verivox</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T08:05:48.020Z</news:publication_date>
-      <news:title>Gas Prices in Germany to Rise Further, Warns Verivox</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/547d43bb-4012-4330-1e39-c982ce005600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

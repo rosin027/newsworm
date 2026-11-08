@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-backs-ilse-aigner-for-germanys-presidency-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T21:39:46.310Z</news:publication_date>
+      <news:title>Merz Backs Ilse Aigner for Germany&apos;s Presidency in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/35c0a1f1-cd62-4dee-9f15-654218624700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/man-replaces-german-flag-with-palestinian-flag-outside-bundestag</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/a002fc76-06fa-4793-61fb-588c73b83900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/prevent-mold-german-flat-schimmel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T21:26:21.780Z</news:publication_date>
-      <news:title>Schimmel in Your German Flat: How to Prevent Mold (and Protect Your Deposit)</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c10e0590-a02a-4d4d-51d6-06f8fe34fe00/OpenGraph</image:loc>
     </image:image>
   </url>
 

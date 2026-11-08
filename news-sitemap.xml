@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/man-replaces-german-flag-with-palestinian-flag-outside-bundestag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T18:50:09.593Z</news:publication_date>
+      <news:title>Man Replaces German Flag With Palestinian Flag Outside Bundestag</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/983abd2c-c7ac-468a-9b68-c7338d43a300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/missing-13-year-old-girl-in-berlin-police-continue-search</loc>
     <news:news>
       <news:publication>

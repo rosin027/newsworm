@@ -138,19 +138,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/bundestag-passes-tougher-penalties-for-for-knockout-drop-crimes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:48:29.352Z</news:publication_date>
-      <news:title>Bundestag Passes Tougher Penalties for for Knockout Drop Crimes</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b694b067-d8ad-4fb7-79b7-8ed6c80c2000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

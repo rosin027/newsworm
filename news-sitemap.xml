@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/could-germanys-data-centre-boom-trigger-water-shortages</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T08:18:23.337Z</news:publication_date>
+      <news:title>Could Germany?s Data Centre Boom Trigger Water Shortages?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6ba36415-8405-4ad3-16b5-6570b2bc3700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-justice-minister-calls-for-review-of-possible-afd-ban</loc>
     <news:news>
       <news:publication>

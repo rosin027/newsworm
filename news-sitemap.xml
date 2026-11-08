@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-justice-minister-calls-for-review-of-possible-afd-ban</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T08:03:36.358Z</news:publication_date>
+      <news:title>Germany&apos;s Justice Minister Calls for Review of Possible AfD Ban</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/533e6a22-b4d5-4b8c-15d7-90af5cec2400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/best-cities-in-germany-2026-munich-tops-ranking-again</loc>
     <news:news>
       <news:publication>
@@ -135,51 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/547d43bb-4012-4330-1e39-c982ce005600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/driving-licence-reform-approved-by-bundestag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T06:27:40.944Z</news:publication_date>
-      <news:title>Driving Licence Reform Approved by Bundestag</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/482ed1f6-f38c-4e3e-daab-45e39179be00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unpaid-broadcasting-fee-germany-to-check-residents-nationwide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:59:12.393Z</news:publication_date>
-      <news:title>Unpaid Broadcasting Fee: Germany to Check Residents Nationwide</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4b997178-bf04-4f6f-6e10-ea8832ce7000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/citizens-will-have-to-tighten-their-belts-in-2027-says-cdu-leader</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:51:12.418Z</news:publication_date>
-      <news:title>Citizens Will Have to Tighten Their Belts in 2027, Says CDU Leader</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6b892115-f703-4f80-5379-33413ac03e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

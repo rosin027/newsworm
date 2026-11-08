@@ -11,7 +11,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-08T11:17:09.779Z</news:publication_date>
-      <news:title>Missing 13-Year-Old Girl in Berlin: Police Continue Search</news:title>
+      <news:title>Missing 13-Year-Old Girl from Berlin Found Dead</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ef9332ba-00d7-4a65-af96-a8ef30117200/OpenGraph</image:loc>
@@ -105,51 +105,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c10e0590-a02a-4d4d-51d6-06f8fe34fe00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-kindergeld-payments-for-children-abroad-rise-sharply</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:20:24.942Z</news:publication_date>
-      <news:title>Germany&apos;s Kindergeld Payments for Children Abroad Rise Sharply</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/53c9039f-cfad-4e1f-a8ed-b6439ae18900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/no-phones-at-football-matches-would-you-support-it</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:36:54.357Z</news:publication_date>
-      <news:title>No Phones at Football Matches? Would You Support It?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f4da72d3-dc85-492f-1e30-48acfa8f6f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/german-carmakers-hit-a-dead-end-as-china-drives-past</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:52:20.714Z</news:publication_date>
-      <news:title>German Carmakers Hit a Dead End as China Drives Past</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/41150e3c-bb83-4e66-0386-f03491122c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ilse-aigner-nominated-as-germanys-next-federal-president</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:02:34.159Z</news:publication_date>
+      <news:title>Ilse Aigner Nominated as Germany?s Next Federal President</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/859418ff-8aea-4bbe-4529-5b4b50d9e400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/palestinian-flag-raised-at-reichstag-sparks-call-for-exclusion-zone</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/syrian-refugee-arrivals-in-germany-fall-sharply-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:28:08.353Z</news:publication_date>
+      <news:title>Syrian Refugee Arrivals in Germany Fall Sharply in 2026</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f2b11729-09ac-42e6-ef96-a6eae9b7cc00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/g7-ministers-meet-to-end-ukraine-conflict-halt-new-iran-war</loc>
     <news:news>
       <news:publication>

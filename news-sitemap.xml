@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/german-flag-removed-cdu-questions-bundestag-security</loc>
+    <loc>https://www.newsworm.de/news/palestinian-flag-raised-at-reichstag-sparks-call-for-exclusion-zone</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-09T11:10:13.644Z</news:publication_date>
-      <news:title>German Flag Removed: CDU Questions Bundestag Security</news:title>
+      <news:title>Palestinian Flag Raised at Reichstag Sparks Call for Exclusion Zone</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/34f327b8-88f5-42f8-fea4-f4d4cc5e6800/OpenGraph</image:loc>

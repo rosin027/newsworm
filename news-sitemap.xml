@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/g7-ministers-meet-to-end-ukraine-conflict-halt-new-iran-war</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:09:30.002Z</news:publication_date>
+      <news:title>G7 Ministers Meet to End Ukraine Conflict, Halt New Iran War</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/527291b2-2541-48c6-b48b-bf51f2925900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-backs-ilse-aigner-for-germanys-presidency-in-2027</loc>
     <news:news>
       <news:publication>
@@ -75,51 +90,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/533e6a22-b4d5-4b8c-15d7-90af5cec2400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/best-cities-in-germany-2026-munich-tops-ranking-again</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T08:45:11.229Z</news:publication_date>
-      <news:title>Best Cities in Germany 2026: Munich Tops Ranking Again</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/482238e4-f1ac-4e87-8d4e-ad58ab952d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/ilse-aigner-tipped-to-become-germanys-first-female-president</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T08:21:24.910Z</news:publication_date>
-      <news:title>Ilse Aigner Tipped to Become Germany?s First Female President</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0b3bdb19-9b6b-4ad3-51ad-b92db6fb1900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-conscription-bundeswehr-recruitment-pistorius</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T08:19:25.306Z</news:publication_date>
-      <news:title>Germany May Avoid Conscription as Bundeswehr Recruitment Rises, Pistorius Says</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a002fc76-06fa-4793-61fb-588c73b83900/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/berlin-girl-lisa-t-killed-by-suspected-22-year-old-paedophile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T18:04:12.099Z</news:publication_date>
+      <news:title>Berlin Girl Lisa T. Killed by Suspected 22-Year-Old Paedophile</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5483e700-d479-4e94-ced2-f22d206a7c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/ilse-aigner-nominated-as-germanys-next-federal-president</loc>
     <news:news>
       <news:publication>

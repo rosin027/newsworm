@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-wants-to-limit-concert-and-sports-ticket-resale-prices</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T08:30:42.593Z</news:publication_date>
+      <news:title>Germany Wants to Limit Concert and Sports Ticket Resale Prices</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9b0e9b22-980d-4fd6-5d9d-a30b25bb3f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/berlin-girl-lisa-t-killed-by-suspected-22-year-old-paedophile</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ef9332ba-00d7-4a65-af96-a8ef30117200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/could-germanys-data-centre-boom-trigger-water-shortages</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T08:18:23.337Z</news:publication_date>
-      <news:title>Could Germany?s Data Centre Boom Trigger Water Shortages?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6ba36415-8405-4ad3-16b5-6570b2bc3700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-justice-minister-calls-for-review-of-possible-afd-ban</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T08:03:36.358Z</news:publication_date>
-      <news:title>Germany&apos;s Justice Minister Calls for Review of Possible AfD Ban</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/533e6a22-b4d5-4b8c-15d7-90af5cec2400/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,14 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
-    <loc>https://www.newsworm.de/news/lisa-t-murder-suspect-had-a-previous-criminal-offence</loc>
+    <loc>https://www.newsworm.de/news/lisa-t-case-suspect-previous-conviction</loc>
     <news:news>
       <news:publication>
         <news:name>Newsworm.de</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-10T19:55:23.992Z</news:publication_date>
-      <news:title>Lisa T. Murder: Suspect Had a Previous Criminal Offence</news:title>
+      <news:title>Lisa T. Case: Suspect Had a Prior Conviction</news:title>
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/50751ce4-a2fc-4056-733d-35449aa02f00/OpenGraph</image:loc>

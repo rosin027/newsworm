@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/ukraine-support-becomes-germanys-most-divisive-issue</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:51:11.024Z</news:publication_date>
+      <news:title>Ukraine Support Becomes Germany?s Most Divisive Issue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/197a9e0e-0aae-43b7-13ea-085a8cf75c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gluhwein-prices-in-germany-what-to-expect-in-2026</loc>
     <news:news>
       <news:publication>

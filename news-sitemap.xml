@@ -183,19 +183,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/g7-ministers-meet-to-end-ukraine-conflict-halt-new-iran-war</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T09:09:30.002Z</news:publication_date>
-      <news:title>G7 Ministers Meet to End Ukraine Conflict, Halt New Iran War</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/527291b2-2541-48c6-b48b-bf51f2925900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

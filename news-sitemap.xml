@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/public-holidays-germany-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T21:09:11.380Z</news:publication_date>
+      <news:title>Public Holidays in Germany 2027: Full List, Dates &amp; Bridge Days</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/9e216b7d-d2a6-4941-33da-56dfacc61100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lisa-t-case-suspect-previous-conviction</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/527291b2-2541-48c6-b48b-bf51f2925900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/merz-backs-ilse-aigner-for-germanys-presidency-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T21:39:46.310Z</news:publication_date>
-      <news:title>Merz Backs Ilse Aigner for Germany&apos;s Presidency in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/35c0a1f1-cd62-4dee-9f15-654218624700/OpenGraph</image:loc>
     </image:image>
   </url>
 

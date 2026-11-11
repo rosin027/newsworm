@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/cologne-dusseldorf-and-mainz-kick-off-the-2026-carnival-season</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:34:25.134Z</news:publication_date>
+      <news:title>Cologne, D?sseldorf and Mainz Kick Off the 2026 Carnival Season</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/546c1b13-e017-45a6-6a95-6e192ca51600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-bundeswehr-ban-chinese-drones-security-concerns</loc>
     <news:news>
       <news:publication>

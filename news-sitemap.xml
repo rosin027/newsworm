@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/sexual-harassment-german-armed-forces-bundeswehr-study</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:47:29.482Z</news:publication_date>
+      <news:title>Sexual Harassment Widespread in German Armed Forces</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/93f88554-dd39-4e5f-3b5d-8521d3229f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-immigrant-integration-report</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germans-struggling-with-debt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T09:31:30.180Z</news:publication_date>
+      <news:title>More Germans Are Struggling With Excessive Debt</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c84c6ada-80b3-4743-9535-1724c1e88b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-2027-budget-no-electricity-tax-cut-for-households</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/398256cd-f60e-4440-0ef5-90fc5ff4ec00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-wants-to-limit-concert-and-sports-ticket-resale-prices</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:30:42.593Z</news:publication_date>
-      <news:title>Germany Wants to Limit Concert and Sports Ticket Resale Prices</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9b0e9b22-980d-4fd6-5d9d-a30b25bb3f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

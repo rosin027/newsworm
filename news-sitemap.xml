@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/developed-countries-immigration-decline-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:13:18.401Z</news:publication_date>
+      <news:title>Migration to Developed Countries Declines for Second Year</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6d72508a-cff7-48d0-47db-d490e3754200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/dax-breaks-27000-points-record-high-germany</loc>
     <news:news>
       <news:publication>

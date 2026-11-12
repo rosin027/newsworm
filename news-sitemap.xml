@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-child-language-development-tests</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:03:11.508Z</news:publication_date>
+      <news:title>Bundestag Approves Early Language and Development Tests for Kids</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/432c30d3-e497-4399-7867-922a0161ba00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/verdi-announces-nationwide-strikes-at-private-banks</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/197a9e0e-0aae-43b7-13ea-085a8cf75c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gluhwein-prices-in-germany-what-to-expect-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:42:24.795Z</news:publication_date>
-      <news:title>Gl?hwein Prices in Germany: What to Expect in 2026</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/398256cd-f60e-4440-0ef5-90fc5ff4ec00/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/mercedes-benz-halts-investment-in-germany-weighs-plant-closures</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T19:00:06.490Z</news:publication_date>
+      <news:title>Mercedes-Benz Halts Investment in Germany, Weighs Plant Closures</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0feda200-e568-4182-f569-29e2017b0900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/developed-countries-immigration-decline-2025</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/microsoft-outlook-teams-copilot-global-outage</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T08:46:12.424Z</news:publication_date>
+      <news:title>Microsoft Outlook Outage Disrupts Services Across 74 Countries</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1bba5110-227b-463e-fe27-191d03b27400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-2027-federal-budget-spending-new-debt</loc>
     <news:news>
       <news:publication>

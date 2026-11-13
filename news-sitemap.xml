@@ -198,34 +198,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/public-holidays-germany-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T21:09:11.380Z</news:publication_date>
-      <news:title>Public Holidays in Germany 2027: Full List, Dates &amp; Bridge Days</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9e216b7d-d2a6-4941-33da-56dfacc61100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/lisa-t-case-suspect-previous-conviction</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T19:55:23.992Z</news:publication_date>
-      <news:title>Lisa T. Case: Suspect Had a Prior Conviction</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/50751ce4-a2fc-4056-733d-35449aa02f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

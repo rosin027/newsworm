@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-immigration-decline-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:38:12.856Z</news:publication_date>
+      <news:title>Immigration to Germany Declines by 6% in 2025</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/da2608e3-c54f-4300-a811-ec75fdb89600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-200-million-winter-aid-ukraine</loc>
     <news:news>
       <news:publication>
@@ -165,51 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/93f88554-dd39-4e5f-3b5d-8521d3229f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-immigrant-integration-report</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T13:02:45.718Z</news:publication_date>
-      <news:title>How Well Are Immigrants Integrating in Germany?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/093bd188-6fa2-4ef2-a4b8-e88ad33b5200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-carnival-season-2026-cologne-dusseldorf-mainz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T12:34:25.134Z</news:publication_date>
-      <news:title>Cologne, D?sseldorf and Mainz Kick Off the 2026 Carnival Season</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/546c1b13-e017-45a6-6a95-6e192ca51600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-bundeswehr-ban-chinese-drones-security-concerns</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T11:16:12.957Z</news:publication_date>
-      <news:title>Bundeswehr Bans Chinese Drones Over Security Fears</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/d1265196-c54f-4a39-2278-2443ee87e100/OpenGraph</image:loc>
     </image:image>
   </url>
 

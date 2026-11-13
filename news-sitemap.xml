@@ -213,19 +213,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/suspect-in-murder-of-13-year-old-lisa-t-dies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T10:40:19.148Z</news:publication_date>
-      <news:title>Suspect in Murder of 13-Year-Old Lisa T. Dies</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5081b401-ad9e-48fa-0ec9-613e3a45fc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

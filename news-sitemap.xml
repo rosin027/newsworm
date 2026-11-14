@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-cabinet-approves-elterngeld-reform</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T09:10:57.350Z</news:publication_date>
+      <news:title>German Cabinet Approves Elterngeld Reform</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5afdfb0c-d971-4f7f-ba61-8c7e10d11500/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-flights-grounded-air-traffic-control-outage</loc>
     <news:news>
       <news:publication>

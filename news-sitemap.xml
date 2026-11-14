@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-left-party-greens-coalition-mecklenburg-western-pomerania</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T15:12:32.619Z</news:publication_date>
+      <news:title>Mecklenburg-Western Pomerania Set for Red-Red-Green Coalition</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cae94313-c6f6-414d-d5e7-e2467a584600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/get-rid-of-silverfish-germany</loc>
     <news:news>
       <news:publication>
@@ -180,21 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6d72508a-cff7-48d0-47db-d490e3754200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/dax-breaks-27000-points-record-high-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:52:34.204Z</news:publication_date>
-      <news:title>DAX Tops 27,000 Points for the First Time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/4082ca7a-5c22-4c71-0797-5cad30dfa600/OpenGraph</image:loc>
     </image:image>
   </url>
 

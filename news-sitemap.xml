@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/get-rid-of-silverfish-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T10:15:06.363Z</news:publication_date>
+      <news:title>Silverfish in Germany: How to Get Rid of Them for Good</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b272db31-58df-4a4d-daa6-3b39c59c2c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/europe-cant-afford-to-fall-behind-in-ai-race-warns-eu-chief</loc>
     <news:news>
       <news:publication>
@@ -180,36 +195,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/4082ca7a-5c22-4c71-0797-5cad30dfa600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-child-language-development-tests</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T11:03:11.508Z</news:publication_date>
-      <news:title>Bundestag Approves Early Language and Development Tests for Kids</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/432c30d3-e497-4399-7867-922a0161ba00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/verdi-announces-nationwide-strikes-at-private-banks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T10:36:08.156Z</news:publication_date>
-      <news:title>Verdi Announces Nationwide Strikes at Private Banks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/178107f5-3ec2-4012-ef02-38117da3e100/OpenGraph</image:loc>
     </image:image>
   </url>
 

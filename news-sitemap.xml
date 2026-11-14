@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/europe-cant-afford-to-fall-behind-in-ai-race-warns-eu-chief</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T10:00:33.393Z</news:publication_date>
+      <news:title>Europe Can&apos;t Afford to Fall Behind in AI Race, Warns EU Chief</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/de52fe6a-73c4-4a81-1e65-56471501dd00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-cabinet-approves-elterngeld-reform</loc>
     <news:news>
       <news:publication>
@@ -195,21 +210,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/178107f5-3ec2-4012-ef02-38117da3e100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germans-struggling-with-debt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T09:31:30.180Z</news:publication_date>
-      <news:title>More Germans Are Struggling With Excessive Debt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c84c6ada-80b3-4743-9535-1724c1e88b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

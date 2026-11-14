@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/spd-groups-oppose-lars-klingbeils-re-election-as-leader</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T08:40:53.893Z</news:publication_date>
+      <news:title>SPD Groups Oppose Lars Klingbeil?s Re-Election as Leader</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/eb41003a-8e1f-4f71-e468-7fc29138eb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-intelligence-reform-bnd-new-powers</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/doctors-warn-more-patients-may-pay-out-of-pocket-in-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T09:30:29.836Z</news:publication_date>
+      <news:title>Doctors Warn More Patients May Pay Out of Pocket in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f1b0b66e-1319-40e2-7d9d-bf3cf0141c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/spd-left-party-greens-coalition-mecklenburg-western-pomerania</loc>
     <news:news>
       <news:publication>
@@ -120,81 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/da2608e3-c54f-4300-a811-ec75fdb89600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-200-million-winter-aid-ukraine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T09:29:35.249Z</news:publication_date>
-      <news:title>Germany Provides Additional ?200 Million in Winter Aid to Ukraine</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ae9f17bc-bc75-4689-66b8-9949d2f0e200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/microsoft-outlook-teams-copilot-global-outage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T08:46:12.424Z</news:publication_date>
-      <news:title>Microsoft Outlook Outage Disrupts Services Across 74 Countries</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/1bba5110-227b-463e-fe27-191d03b27400/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-2027-federal-budget-spending-new-debt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T08:33:53.865Z</news:publication_date>
-      <news:title>Germany&apos;s 2027 Budget: Higher Spending and Rising Debt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9dbe71d1-73dc-49bc-7bc8-69fb08e97e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/mercedes-benz-halts-investment-in-germany-weighs-plant-closures</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T19:00:06.490Z</news:publication_date>
-      <news:title>Mercedes-Benz Halts Investment in Germany, Weighs Plant Closures</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0feda200-e568-4182-f569-29e2017b0900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/developed-countries-immigration-decline-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T16:13:18.401Z</news:publication_date>
-      <news:title>Migration to Developed Countries Declines for Second Year</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6d72508a-cff7-48d0-47db-d490e3754200/OpenGraph</image:loc>
     </image:image>
   </url>
 

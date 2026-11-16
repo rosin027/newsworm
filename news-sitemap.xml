@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-industry-revenue-growth-job-losses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T07:42:04.683Z</news:publication_date>
+      <news:title>German Industry Recovers, but Job Losses Continue</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e8bc8027-9849-415c-614e-1f0b3994e300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/mecklenburg-western-pomerania-coalition-agreement</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/eb41003a-8e1f-4f71-e468-7fc29138eb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-intelligence-reform-bnd-new-powers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T14:32:46.227Z</news:publication_date>
-      <news:title>Germany Expands Powers of BND and Domestic Intelligence Agency</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7de8b3f7-40a3-42c9-ecb3-f8c241b9c200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-immigration-decline-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:38:12.856Z</news:publication_date>
-      <news:title>Immigration to Germany Declines by 6% in 2025</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/da2608e3-c54f-4300-a811-ec75fdb89600/OpenGraph</image:loc>
     </image:image>
   </url>
 

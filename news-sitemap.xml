@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/mecklenburg-vorpommern-re-elects-manuela-schwesig</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T13:23:34.040Z</news:publication_date>
+      <news:title>Mecklenburg-Vorpommern Re-Elects Manuela Schwesig</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/b8d703d6-a053-4e96-7c51-2969690e7900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unicredit-commerzbank-takeover-approved</loc>
     <news:news>
       <news:publication>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/eu-rwanda-migrant-deportation-centre</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T10:11:06.827Z</news:publication_date>
+      <news:title>Germany and Four EU Nations Plan Rwanda Migrant Return Hub</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/cf367a72-7a32-4901-73bc-2cdb78095100/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-industry-revenue-growth-job-losses</loc>
     <news:news>
       <news:publication>
@@ -75,66 +90,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/b272db31-58df-4a4d-daa6-3b39c59c2c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/europe-cant-afford-to-fall-behind-in-ai-race-warns-eu-chief</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T10:00:33.393Z</news:publication_date>
-      <news:title>Europe Can&apos;t Afford to Fall Behind in AI Race, Warns EU Chief</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/de52fe6a-73c4-4a81-1e65-56471501dd00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-cabinet-approves-elterngeld-reform</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T09:10:57.350Z</news:publication_date>
-      <news:title>German Cabinet Approves Elterngeld Reform</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/7f0b2bd9-fd68-411c-aca6-a2407e7b1d00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-flights-grounded-air-traffic-control-outage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T09:00:56.593Z</news:publication_date>
-      <news:title>US Air Traffic Outage Grounds Thousands of Flights</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b49f61f8-e257-44c7-1ce6-d0ae47644c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/spd-groups-oppose-lars-klingbeils-re-election-as-leader</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T08:40:53.893Z</news:publication_date>
-      <news:title>SPD Groups Oppose Lars Klingbeil?s Re-Election as Leader</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/eb41003a-8e1f-4f71-e468-7fc29138eb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

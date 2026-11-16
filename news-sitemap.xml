@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/merz-renews-push-for-germany-electricity-tax-cut</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T10:23:35.182Z</news:publication_date>
+      <news:title>Merz Renews Push for Germany Electricity Tax Cut</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/81141fa8-8339-49d6-e0b8-3222a07d6a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/eu-rwanda-migrant-deportation-centre</loc>
     <news:news>
       <news:publication>
@@ -75,21 +90,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/cae94313-c6f6-414d-d5e7-e2467a584600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/get-rid-of-silverfish-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T10:15:06.363Z</news:publication_date>
-      <news:title>Silverfish in Germany: How to Get Rid of Them for Good</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b272db31-58df-4a4d-daa6-3b39c59c2c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

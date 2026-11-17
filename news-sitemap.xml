@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/deutsche-bank-shares-plunge-leaked-documents-emerge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T10:27:21.909Z</news:publication_date>
+      <news:title>Deutsche Bank Shares Plunge as Leaked Documents Emerge</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0cd23e7f-7ba8-47dc-49a4-5f9021ad9200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/merz-under-pressure-to-cut-electricity-tax-for-households</loc>
     <news:news>
       <news:publication>

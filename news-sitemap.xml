@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/db-info-app-deutsche-bahn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:49:51.141Z</news:publication_date>
+      <news:title>Deutsche Bahn Launches DB Info App</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/1d3403ec-49a9-48f2-1958-c741e5aca400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bundeswehr-record-recruitment-october-2026</loc>
     <news:news>
       <news:publication>

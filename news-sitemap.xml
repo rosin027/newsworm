@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bavaria-germany-happiest-state</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:21:51.919Z</news:publication_date>
+      <news:title>Bavaria Is the Happiest State in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/42d7e62b-7346-4220-8349-bcda4ec21600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tesla-3-billion-gruenheide-factory-expansion</loc>
     <news:news>
       <news:publication>

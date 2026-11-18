@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-plans-longer-fixed-term-contracts-and-easier-dismissals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T12:31:23.748Z</news:publication_date>
+      <news:title>Germany Plans Longer Fixed-Term Contracts and Easier Dismissals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/85149b3b-9d7b-42ad-8967-447d77b14c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-financial-education-strategy</loc>
     <news:news>
       <news:publication>

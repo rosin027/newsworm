@@ -138,34 +138,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-electricity-tax-cut-private-households</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T10:23:35.182Z</news:publication_date>
-      <news:title>Merz Renews Push for Germany Electricity Tax Cut</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/81141fa8-8339-49d6-e0b8-3222a07d6a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/eu-rwanda-migrant-deportation-centre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T10:11:06.827Z</news:publication_date>
-      <news:title>Germany and Four Other EU Nations Plan Rwanda Migrant Return Hub</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/cf367a72-7a32-4901-73bc-2cdb78095100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

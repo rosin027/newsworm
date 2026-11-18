@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/gta-6-release-reviews-metacritic-score</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T20:52:15.079Z</news:publication_date>
+      <news:title>GTA 6 Release: Critics Hail Grand Theft Auto VI With a 99 Metacritic Score</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5567c78e-d692-4f80-e5e8-cad30bc3f000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-plans-longer-fixed-term-contracts-and-easier-dismissals</loc>
     <news:news>
       <news:publication>
@@ -135,51 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/42d7e62b-7346-4220-8349-bcda4ec21600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tesla-3-billion-gruenheide-factory-expansion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:18:10.307Z</news:publication_date>
-      <news:title>Tesla to Invest ?3 Billion in Gr?nheide Factory Expansion</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ff4e4c38-a1ea-45e9-397d-50f0a4d7e800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/manuela-schwesig-reelected-mecklenburg-western-pomerania</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T13:23:34.040Z</news:publication_date>
-      <news:title>Mecklenburg-Western Pomerania Re-Elects Manuela Schwesig</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b8d703d6-a053-4e96-7c51-2969690e7900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/unicredit-commerzbank-takeover-approved</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T13:01:52.913Z</news:publication_date>
-      <news:title>EU clears UniCredit takeover of Germany&apos;s Commerzbank</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/ec1501bb-906a-448a-6e7f-f81bd2ccb000/OpenGraph</image:loc>
     </image:image>
   </url>
 

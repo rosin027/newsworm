@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/coalition-agrees-on-electricity-tax-and-fuel-price-cap---merz-relieved</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T08:46:08.839Z</news:publication_date>
+      <news:title>Coalition Agrees on Electricity Tax and Fuel Price Cap - Merz Relieved</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/4cfeaca1-26d6-47b4-4de0-ee3b0db82e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/db-info-app-deutsche-bahn</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/cf367a72-7a32-4901-73bc-2cdb78095100/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-industry-revenue-growth-job-losses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T07:42:04.683Z</news:publication_date>
-      <news:title>German Industry Recovers, but Job Losses Continue</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e8bc8027-9849-415c-614e-1f0b3994e300/OpenGraph</image:loc>
     </image:image>
   </url>
 

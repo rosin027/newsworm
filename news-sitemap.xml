@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-household-energy-prices-rise-nearly-50-percent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T14:44:46.790Z</news:publication_date>
+      <news:title>Household Energy Prices in Germany Rise Nearly 50% in Five Years</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/7a189018-af56-45b5-9279-b7d65aa5b800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-arrests-three-syrians-migrant-smuggling-ring</loc>
     <news:news>
       <news:publication>

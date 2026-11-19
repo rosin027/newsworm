@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-arrests-three-syrians-migrant-smuggling-ring</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T12:24:49.627Z</news:publication_date>
+      <news:title>Germany Arrests Three Syrians Over Smuggling of 600+ Migrants</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/2758375a-ab8e-40f5-67b7-2c1aae5a6900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-supports-swift-unicredit-commerzbank-takeover-talks</loc>
     <news:news>
       <news:publication>

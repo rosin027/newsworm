@@ -153,19 +153,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/bundeswehr-record-recruitment-october-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T14:28:38.454Z</news:publication_date>
-      <news:title>Bundeswehr Recruitment Hits Record High in October</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/198173a4-fcf9-487f-b145-c15188655700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-digital-wallet-set-to-launch-in-january-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T12:26:08.310Z</news:publication_date>
+      <news:title>Germany&apos;s Digital Wallet Set to Launch in January 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/c3f05400-8085-4bb8-ca25-8968df2a9300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-driving-licence-reform-cheaper-2027</loc>
     <news:news>
       <news:publication>

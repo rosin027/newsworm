@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-bundesrat-blocks-daycare-quality-law</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T11:24:35.238Z</news:publication_date>
+      <news:title>Bundesrat Blocks New Law on Daycare Quality</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f4f05b60-ec22-461b-b48e-ce9f766f3f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/lufthansa-plans-1000-job-cuts-germany</loc>
     <news:news>
       <news:publication>
@@ -210,21 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/c288d77a-fe38-4ff6-686c-9636418fbb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-storm-rain-dwd-weather-warning</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T10:54:46.546Z</news:publication_date>
-      <news:title>Germany Weather: Strong Gusts and Rain Sweep the Country</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6f355aed-1ff8-40c2-b621-894f9ce8b200/OpenGraph</image:loc>
     </image:image>
   </url>
 

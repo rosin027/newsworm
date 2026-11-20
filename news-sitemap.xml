@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-youth-protests-november-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T08:59:36.966Z</news:publication_date>
+      <news:title>Youth Protests in Germany: Who Is Marching and Why</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/06740a37-77f6-4a3c-db51-b1738cc59c00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/afd-minister-president-vote-saxony-anhalt-december-8</loc>
     <news:news>
       <news:publication>

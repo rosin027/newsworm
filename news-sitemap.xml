@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/electricity-tax-cut-german-households-still-face-higher-bills</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T10:54:58.180Z</news:publication_date>
+      <news:title>Electricity Tax Cut: German Households Still Face Higher Bills</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/a8a5d198-3d22-4180-8962-2921bc4aa400/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/qatar-15-billion-investment-germany</loc>
     <news:news>
       <news:publication>
@@ -210,36 +225,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/2758375a-ab8e-40f5-67b7-2c1aae5a6900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-supports-swift-unicredit-commerzbank-takeover-talks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T10:39:09.385Z</news:publication_date>
-      <news:title>Germany Supports Swift UniCredit-Commerzbank Takeover Talks</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/b0149d85-bbfa-406d-4a71-51bb27dc2200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gen-z-protests-in-frankfurt-99-suspects-linked-to-riots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T08:57:59.549Z</news:publication_date>
-      <news:title>Gen-Z Protests in Frankfurt: 99 Suspects Linked to Riots</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6dcf6d2e-45cd-47f8-3807-64ca33a74c00/OpenGraph</image:loc>
     </image:image>
   </url>
 

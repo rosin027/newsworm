@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/tk-plans-stable-additional-health-insurance-contribution-in-january</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T11:16:59.944Z</news:publication_date>
+      <news:title>TK Plans Stable Additional Health Insurance Contribution in January</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/654a2ad3-e5b5-4fd0-fc25-661366c57b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/electricity-tax-cut-german-households-still-face-higher-bills</loc>
     <news:news>
       <news:publication>

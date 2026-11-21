@@ -228,34 +228,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/germany-ukraine-allies-berlin-summit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T07:48:09.990Z</news:publication_date>
-      <news:title>Ukraine Allies Meet in Berlin to Discuss Support for Kyiv</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/9be9ab01-dd3d-48be-c961-446666d5e700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/gta-6-release-reviews-metacritic-score</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T20:52:15.079Z</news:publication_date>
-      <news:title>GTA 6 Release: Critics Hail Grand Theft Auto VI With a 99 Metacritic Score</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5567c78e-d692-4f80-e5e8-cad30bc3f000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

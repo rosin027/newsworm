@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/qatar-15-billion-investment-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T08:28:01.716Z</news:publication_date>
+      <news:title>Qatar Announces ?15 Billion Investment in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/8c460fb9-a204-4890-5d8f-24eebbb18a00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-youth-protests-see-lower-turnout-than-in-october</loc>
     <news:news>
       <news:publication>

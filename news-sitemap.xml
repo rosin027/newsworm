@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/bavaria-chapel-carbon-monoxide-leak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T16:13:51.207Z</news:publication_date>
+      <news:title>Carbon Monoxide Leak at Bavaria Chapel: 16 Hospitalised</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/bcf35f17-e8d8-46ef-2e3f-743c55670e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/what-would-friedrich-merz-do-differently-as-chancellor</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/488c0117-d99c-436b-93c2-7caf7654f800/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-emergency-care-reform-bundesrat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T16:00:23.463Z</news:publication_date>
-      <news:title> Germany Approves Emergency Care Reform to Ease Pressure on Hospitals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/dcce97ad-d545-42ea-45f3-ee95d0b05900/OpenGraph</image:loc>
     </image:image>
   </url>
 

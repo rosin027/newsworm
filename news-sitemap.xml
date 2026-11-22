@@ -153,19 +153,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/lufthansa-plans-1000-job-cuts-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T10:21:13.834Z</news:publication_date>
-      <news:title>Lufthansa Plans to Cut 1,000 Jobs in Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/006c2c25-3021-4a44-4b5e-df05c708fa00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

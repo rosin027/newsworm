@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/icy-roads-cause-multiple-accidents-across-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T10:19:03.112Z</news:publication_date>
+      <news:title>Icy Roads Cause Multiple Accidents Across Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/6af4a465-f446-48c2-3242-bcd44722f600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/soeder-calls-for-bracket-creep-compensation</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/006c2c25-3021-4a44-4b5e-df05c708fa00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-approves-fruhstartrente-for-children</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T10:15:06.093Z</news:publication_date>
-      <news:title>Germany Approves Fr?hstartrente for Children</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/fd4c8e84-4b84-49d7-203a-1044e965eb00/OpenGraph</image:loc>
     </image:image>
   </url>
 

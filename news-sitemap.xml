@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/what-would-friedrich-merz-do-differently-as-chancellor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T13:00:58.060Z</news:publication_date>
+      <news:title>What Would Friedrich Merz Do Differently as Chancellor?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5dc965c8-2894-4bd3-6cdd-63ea316cfc00?/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/icy-roads-cause-multiple-accidents-across-germany</loc>
     <news:news>
       <news:publication>
@@ -105,51 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/dcce97ad-d545-42ea-45f3-ee95d0b05900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-digital-wallet-set-to-launch-in-january-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:26:08.310Z</news:publication_date>
-      <news:title>Germany&apos;s Digital Wallet Set to Launch in January 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/c3f05400-8085-4bb8-ca25-8968df2a9300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-driving-licence-reform-cheaper-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:19:19.487Z</news:publication_date>
-      <news:title> Driving Licence Costs Set to Fall as Germany Approves Major Reform</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/76c1e0f6-56f9-4f4d-26f4-cd3fa9613c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-bundesrat-blocks-daycare-quality-law</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T11:24:35.238Z</news:publication_date>
-      <news:title>Bundesrat Blocks New Law on Daycare Quality</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f4f05b60-ec22-461b-b48e-ce9f766f3f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

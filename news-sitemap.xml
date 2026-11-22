@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/soeder-calls-for-bracket-creep-compensation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T09:10:08.917Z</news:publication_date>
+      <news:title>S?der Demands Compensation for Bracket Creep in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0f68cc21-918a-4e14-019c-1d3d2fd7d700/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/tk-plans-stable-additional-health-insurance-contribution-in-january</loc>
     <news:news>
       <news:publication>
@@ -150,36 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/fd4c8e84-4b84-49d7-203a-1044e965eb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-youth-protests-november-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T08:59:36.966Z</news:publication_date>
-      <news:title>Youth Protests in Germany: Who Is Marching and Why</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/06740a37-77f6-4a3c-db51-b1738cc59c00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/afd-minister-president-vote-saxony-anhalt-december-8</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T08:21:15.778Z</news:publication_date>
-      <news:title>AfD Seeks Earlier Minister-President Vote in Saxony-Anhalt</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a35257ef-eb24-46e5-4fe8-30018df16700/OpenGraph</image:loc>
     </image:image>
   </url>
 

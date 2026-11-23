@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/buying-apartment-cheaper-than-renting-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T08:21:22.936Z</news:publication_date>
+      <news:title>Buying vs Renting in Germany: Which Is Cheaper?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/97f74628-33ca-4874-604a-0b2f32f2a600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/bavaria-chapel-carbon-monoxide-leak</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/8c460fb9-a204-4890-5d8f-24eebbb18a00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-youth-protests-see-lower-turnout-than-in-october</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T18:58:02.480Z</news:publication_date>
-      <news:title>Germany&apos;s Youth Protests See Lower Turnout Than in October</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/488c0117-d99c-436b-93c2-7caf7654f800/OpenGraph</image:loc>
     </image:image>
   </url>
 

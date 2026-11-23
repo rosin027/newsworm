@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-school-bomb-threat-emails-iv1ov</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T12:09:53.154Z</news:publication_date>
+      <news:title>Bomb Threats at Hundreds of Schools Across Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/29eed689-034a-4c2b-76b8-a3a14bd4ea00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/russia-plans-to-launch-nuclear-armed-satellite-into-space</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/0f68cc21-918a-4e14-019c-1d3d2fd7d700/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/tk-plans-stable-additional-health-insurance-contribution-in-january</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T11:16:59.944Z</news:publication_date>
-      <news:title>TK Plans Stable Additional Health Insurance Contribution in January</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/654a2ad3-e5b5-4fd0-fc25-661366c57b00/OpenGraph</image:loc>
     </image:image>
   </url>
 

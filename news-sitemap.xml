@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/russia-plans-to-launch-nuclear-armed-satellite-into-space</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:55:34.396Z</news:publication_date>
+      <news:title>Russia Plans to Launch Nuclear-Armed Satellite into Space</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e1468881-124a-4312-a98e-2115bbd5e900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-groundwater-levels-2026</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/654a2ad3-e5b5-4fd0-fc25-661366c57b00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/electricity-tax-cut-german-households-still-face-higher-bills</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T10:54:58.180Z</news:publication_date>
-      <news:title>Electricity Tax Cut: German Households Still Face Higher Bills</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/a8a5d198-3d22-4180-8962-2921bc4aa400/OpenGraph</image:loc>
     </image:image>
   </url>
 

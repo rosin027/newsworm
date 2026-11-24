@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-winter-forecast-mild-season</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T13:30:01.736Z</news:publication_date>
+      <news:title>Mild Winter Ahead in Germany, Forecast Points to at Least 2?C</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f409355c-f259-41a6-6f9e-4ddee1267600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-car-thefts-drop-berlin-highest-risk</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/bcf35f17-e8d8-46ef-2e3f-743c55670e00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/what-would-friedrich-merz-do-differently-as-chancellor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:00:58.060Z</news:publication_date>
-      <news:title>What Would Friedrich Merz Do Differently as Chancellor?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5dc965c8-2894-4bd3-6cdd-63ea316cfc00/OpenGraph</image:loc>
     </image:image>
   </url>
 

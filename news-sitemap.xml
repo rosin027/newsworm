@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-changes-december-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T08:49:55.623Z</news:publication_date>
+      <news:title>What Is Changing in Germany in December 2026?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/d1dfc9fc-e290-4227-567e-18b693d1cb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/supermoon-in-germany-when-and-how-to-see-the-beaver-moon</loc>
     <news:news>
       <news:publication>

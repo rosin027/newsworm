@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/one-in-three-german-companies-plans-to-cut-jobs-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T09:18:59.600Z</news:publication_date>
+      <news:title>One in Three German Companies Plans to Cut Jobs in 2027</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/367b9202-cb7c-4d46-4a6d-1404196c0f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-changes-december-2026</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/6af4a465-f446-48c2-3242-bcd44722f600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/soeder-calls-for-bracket-creep-compensation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T09:10:08.917Z</news:publication_date>
-      <news:title>S?der Demands Immediate Relief From Bracket Creep</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/0f68cc21-918a-4e14-019c-1d3d2fd7d700/OpenGraph</image:loc>
     </image:image>
   </url>
 

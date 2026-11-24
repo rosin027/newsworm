@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/domestic-violence-germany-record-high-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T10:28:18.556Z</news:publication_date>
+      <news:title>Domestic Violence in Germany Hit Record High in 2025</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/ab0d696a-2a05-488c-d01c-0aed698dcb00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/one-in-three-german-companies-plans-to-cut-jobs-in-2027</loc>
     <news:news>
       <news:publication>
@@ -150,21 +165,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5dc965c8-2894-4bd3-6cdd-63ea316cfc00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/icy-roads-cause-multiple-accidents-across-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T10:19:03.112Z</news:publication_date>
-      <news:title>Icy Roads Cause Multiple Accidents Across Germany</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/6af4a465-f446-48c2-3242-bcd44722f600/OpenGraph</image:loc>
     </image:image>
   </url>
 

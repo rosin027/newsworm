@@ -168,34 +168,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/russia-plans-to-launch-nuclear-armed-satellite-into-space</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:55:34.396Z</news:publication_date>
-      <news:title>Russia Plans to Launch Nuclear-Armed Satellite into Space</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e1468881-124a-4312-a98e-2115bbd5e900/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-groundwater-levels-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:32:06.879Z</news:publication_date>
-      <news:title>Groundwater in Germany Nearly as Low as in 2018 Drought</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/64dc3756-04c3-4efa-2a3e-f99ac398cf00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

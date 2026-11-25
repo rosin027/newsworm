@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/heating-meter-deadline-2026-when-tenants-in-germany-pay-3-less</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T07:57:07.886Z</news:publication_date>
+      <news:title>Heating Meter Deadline 2026: When Tenants in Germany Pay 3% Less </news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/59b45a5d-6c1d-4704-a71a-7de84b410600/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-winter-forecast-mild-season</loc>
     <news:news>
       <news:publication>
@@ -165,21 +180,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/97f74628-33ca-4874-604a-0b2f32f2a600/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/bavaria-chapel-carbon-monoxide-leak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T16:13:51.207Z</news:publication_date>
-      <news:title>Carbon Monoxide Leak at Bavarian Chapel: 16 Hospitalised</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/bcf35f17-e8d8-46ef-2e3f-743c55670e00/OpenGraph</image:loc>
     </image:image>
   </url>
 

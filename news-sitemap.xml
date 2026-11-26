@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/us-tariff-proposals-14-economies-china-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T01:31:32.619Z</news:publication_date>
+      <news:title>US Targets China, EU and 12 Others With New Tariff Proposals</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/5a17cdd8-0e45-4ebe-db2e-c29542125f00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/cards-overtake-cash-eurozone-shops</loc>
     <news:news>
       <news:publication>

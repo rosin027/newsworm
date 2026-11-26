@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/immigration-background-poverty-germany</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:19:55.410Z</news:publication_date>
+      <news:title>Migrants in Germany More Than Twice as Likely to Live in Poverty (</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/e3404e30-5c24-486a-36b3-ce409554f000/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/us-tariff-proposals-14-economies-china-eu</loc>
     <news:news>
       <news:publication>
@@ -135,21 +150,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/ab0d696a-2a05-488c-d01c-0aed698dcb00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/one-in-three-german-companies-plans-to-cut-jobs-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T09:18:59.600Z</news:publication_date>
-      <news:title>One in Three German Companies Plans to Cut Jobs in 2027</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/367b9202-cb7c-4d46-4a6d-1404196c0f00/OpenGraph</image:loc>
     </image:image>
   </url>
 

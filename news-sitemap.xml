@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-arrests-2-iraqis-over-alleged-iran-linked-attack-plans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T11:04:41.647Z</news:publication_date>
+      <news:title>Germany Arrests 2 Iraqis Over Alleged Iran-Linked Attack Plans</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/f94a12c3-7ec7-46dd-16bf-31d1cfde4200/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/immigration-background-poverty-germany</loc>
     <news:news>
       <news:publication>

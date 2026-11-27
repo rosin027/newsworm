@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/temu-to-make-returns-and-refunds-easier-for-eu-shoppers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T08:23:01.251Z</news:publication_date>
+      <news:title>Temu to Make Returns and Refunds Easier for EU Shoppers</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fd2cecef-9315-499b-8c4f-7354a88a1300/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-pension-reform-spd-cdu-deadlock</loc>
     <news:news>
       <news:publication>
@@ -105,36 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/09a301a6-2242-4c2a-6182-8f68b879b000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/flixtrain-tickets-deutsche-bahn-booking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T08:01:04.239Z</news:publication_date>
-      <news:title>FlixTrain Tickets Available Through Deutsche Bahn from Dec 7</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/2ee92092-b105-462d-df1b-299883cf2200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/heating-meter-deadline-2026-when-tenants-in-germany-pay-3-less</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T07:57:07.886Z</news:publication_date>
-      <news:title>Heating Meter Deadline 2026: When Tenants in Germany Pay 3% Less </news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/59b45a5d-6c1d-4704-a71a-7de84b410600/OpenGraph</image:loc>
     </image:image>
   </url>
 

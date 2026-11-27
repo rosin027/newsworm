@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germanys-digital-driving-licence-is-coming-who-can-use-it</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T11:05:32.405Z</news:publication_date>
+      <news:title>Germany&apos;s Digital Driving Licence Is Coming: Who Can Use It?</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/0527ad29-2e37-4059-ddde-dbc7c7af3b00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/unemployment-germany-november-2026</loc>
     <news:news>
       <news:publication>

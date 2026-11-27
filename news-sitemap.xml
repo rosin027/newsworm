@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/germany-2027-budget-borrowing-defence-spending</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T17:38:13.607Z</news:publication_date>
+      <news:title> Germany Approves ?556 Billion 2027 Budget as Borrowing Surges to ?210 Billion</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/24db0cff-8f20-4abb-dd8a-d0667008ab00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germanys-digital-driving-licence-is-coming-who-can-use-it</loc>
     <news:news>
       <news:publication>
@@ -120,36 +135,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/5a17cdd8-0e45-4ebe-db2e-c29542125f00/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/cards-overtake-cash-eurozone-shops</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T13:40:48.987Z</news:publication_date>
-      <news:title>Card Payments Overtake Cash in Eurozone Shops for First Time</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/97ad35b9-3ff0-4b95-36e0-05af97fc4200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germanys-economy-nearly-stalled-in-the-third-quarter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:34:06.183Z</news:publication_date>
-      <news:title>Germany?s Economy Nearly Stalled in the Third Quarter</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/8be07c0b-ed27-40ae-d3e4-9d884172f000/OpenGraph</image:loc>
     </image:image>
   </url>
 

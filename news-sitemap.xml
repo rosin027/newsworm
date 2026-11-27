@@ -123,19 +123,4 @@
     </image:image>
   </url>
 
-  <url>
-    <loc>https://www.newsworm.de/news/merz-defends-2027-budget-and-ukraine-support</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T09:26:06.763Z</news:publication_date>
-      <news:title>Merz: ?We No Longer Have the Money for Everything?</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/09a301a6-2242-4c2a-6182-8f68b879b000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
 </urlset>

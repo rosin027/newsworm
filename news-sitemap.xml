@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/wagenknecht-defends-bsw-afd-cooperation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T14:52:31.202Z</news:publication_date>
+      <news:title>BSW Founder: &quot;Nobody Wants to Cosy Up to the AfD&quot;</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/3571e43b-6562-402d-c2cf-8e14a98bc900/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/gta-vi-soundtrack-record-german-charts</loc>
     <news:news>
       <news:publication>
@@ -105,21 +120,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/fd2cecef-9315-499b-8c4f-7354a88a1300/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-pension-reform-spd-cdu-deadlock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T13:51:41.585Z</news:publication_date>
-      <news:title>Pension Reform in Germany: New Proposals, Still No Deal in Sight</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/42f2b762-485a-4f1b-8005-f18823d3e500/OpenGraph</image:loc>
     </image:image>
   </url>
 

@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/gta-vi-soundtrack-record-german-charts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T12:22:27.376Z</news:publication_date>
+      <news:title>GTA VI Album Makes Record-Breaking Debut in Germany</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fea14999-ad19-4917-efdd-741dc954a800/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/alice-weidel-ukraine-war-russian-propaganda-criticism</loc>
     <news:news>
       <news:publication>

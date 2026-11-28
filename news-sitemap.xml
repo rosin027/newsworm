@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.newsworm.de/news/alice-weidel-ukraine-war-russian-propaganda-criticism</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Newsworm.de</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:57:24.020Z</news:publication_date>
+      <news:title>Alice Weidel Accused of Spreading Russian Propaganda</news:title>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.newsworm.de/fab4220c-e4ec-4a05-1060-b9a809af3e00/OpenGraph</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.newsworm.de/news/germany-2027-budget-borrowing-defence-spending</loc>
     <news:news>
       <news:publication>
@@ -90,51 +105,6 @@
     </news:news>
     <image:image>
       <image:loc>https://images.newsworm.de/42f2b762-485a-4f1b-8005-f18823d3e500/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/germany-iraqi-men-arrested-synagogue-attack-plans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T11:04:41.647Z</news:publication_date>
-      <news:title>Germany Arrests 2 Iraqis Over Alleged Iran-Linked Attack Plans</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/f94a12c3-7ec7-46dd-16bf-31d1cfde4200/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/immigration-background-poverty-germany</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:19:55.410Z</news:publication_date>
-      <news:title>Migrants in Germany More Than Twice as Likely to Be Poor</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/e3404e30-5c24-486a-36b3-ce409554f000/OpenGraph</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.newsworm.de/news/us-tariff-proposals-14-economies-china-eu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Newsworm.de</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T01:31:32.619Z</news:publication_date>
-      <news:title>US Targets China, EU and 12 Others With New Tariff Proposals</news:title>
-    </news:news>
-    <image:image>
-      <image:loc>https://images.newsworm.de/5a17cdd8-0e45-4ebe-db2e-c29542125f00/OpenGraph</image:loc>
     </image:image>
   </url>
 
